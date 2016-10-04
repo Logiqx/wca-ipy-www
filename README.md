@@ -30,6 +30,7 @@ Notes:
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01">Grzegorz Pacewicz</a></td><td>Poland</td><td>h2f</td><td>41</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01">Guus Razoux Schultz</a></td><td>Netherlands</td><td>guusrs</td><td>50</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PLOW01">Guy Plowman</a></td><td>United Kingdom</td><td>?</td><td>?</td></tr>
+<tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01">Hideaki Tomoyori (????)</a></td><td>Japan</td><td>?</td><td>82</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PEPP01">Ian Pepper</a></td><td>United Kingdom</td><td>SenorJuan</td><td>?</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02">Jason Green</a></td><td>USA</td><td>Jason Green</td><td>41</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01">Jochen Spies</a></td><td>Germany</td><td>JoSpies</td><td>52</td></tr>
@@ -40,6 +41,7 @@ Notes:
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANTI01">Marco Antinori</a></td><td>Italy</td><td>marant69</td><td>46</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03">Mark Adams</a></td><td>United Kingdom</td><td>newtonbase</td><td>43</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05">Mark Rivers</a></td><td>United Kingdom</td><td>mark49152</td><td>48</td></tr>
+<tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01">Martin Berger</a></td><td>United Kingdom</td><td>?</td><td>86</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003AKIM01">Masayuki Akimoto (????)</a></td><td>Japan</td><td>?</td><td>?</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04">Mats Bergsten</a></td><td>Sweden</td><td>MatsBergsten</td><td>65</td></tr>
 <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01">Michael Erskine</a></td><td>United Kingdom</td><td>MichaelErskine</td><td>?</td></tr>
@@ -108,7 +110,9 @@ Notes:
 <tr><td>40</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">Carl Brannen</a></td><td>CarlBrannen</td><td>USA</td><td>39.76</td><td>2013</td><td>54</td></tr>
 <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a></td><td>Rune</td><td>Sweden</td><td>41.14</td><td>2012</td><td>81</td></tr>
 <tr><td>42</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">Steve Joiner</a></td><td>?</td><td>USA</td><td>43.01</td><td>2016</td><td>?</td></tr>
-<tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a></td><td>?</td><td>United Kingdom</td><td>1:15.87</td><td>2014</td><td>?</td></tr>
+<tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (????)</a></td><td>?</td><td>Japan</td><td>46.83</td><td>2016</td><td>82</td></tr>
+<tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a></td><td>?</td><td>United Kingdom</td><td>1:15.87</td><td>2014</td><td>?</td></tr>
+<tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a></td><td>?</td><td>United Kingdom</td><td>2:35.10</td><td>2008</td><td>78</td></tr>
 </table>
 </details>
 <details><summary>4x4 Cube</summary>
@@ -407,8 +411,10 @@ Notes:
 <tr><td>40</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333">Robert D. Johnson</a></td><td>rjohnson_8ball</td><td>USA</td><td>30.58</td><td>2010</td><td>54</td></tr>
 <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a></td><td>Rune</td><td>Sweden</td><td>33.34</td><td>2010</td><td>79</td></tr>
 <tr><td>42</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">Steve Joiner</a></td><td>?</td><td>USA</td><td>35.72</td><td>2016</td><td>?</td></tr>
-<tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a></td><td>?</td><td>United Kingdom</td><td>54.37</td><td>2014</td><td>?</td></tr>
-<tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">Phil Lewis</a></td><td>pglewis</td><td>USA</td><td>1:10.82</td><td>2016</td><td>47</td></tr>
+<tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (????)</a></td><td>?</td><td>Japan</td><td>43.28</td><td>2016</td><td>82</td></tr>
+<tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a></td><td>?</td><td>United Kingdom</td><td>54.37</td><td>2014</td><td>?</td></tr>
+<tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">Phil Lewis</a></td><td>pglewis</td><td>USA</td><td>1:10.82</td><td>2016</td><td>47</td></tr>
+<tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a></td><td>?</td><td>United Kingdom</td><td>2:14.56</td><td>2008</td><td>78</td></tr>
 </table>
 </details>
 <details><summary>4x4 Cube</summary>
@@ -527,6 +533,7 @@ Notes:
 <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#333bf">Ton Dennenbroek</a></td><td>Ton</td><td>Netherlands</td><td>4:47.58</td><td>2009</td><td>?</td></tr>
 <tr><td>14</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333bf">Robert D. Johnson</a></td><td>rjohnson_8ball</td><td>USA</td><td>7:39.80</td><td>2012</td><td>56</td></tr>
 <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333bf">Bill McGaugh</a></td><td>Bill</td><td>USA</td><td>8:43.22</td><td>2006</td><td>56</td></tr>
+<tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333bf">Hideaki Tomoyori (????)</a></td><td>?</td><td>Japan</td><td>13:55.00</td><td>2015</td><td>81</td></tr>
 </table>
 </details>
 <details><summary>Rubik's Cube: One-handed</summary>
