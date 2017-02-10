@@ -41,6 +41,7 @@ Notes:
 <tr><td>Jason Green</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02">2016GREE02</a></td><td>USA</td><td>Jason Green</td><td>1974</td></tr>
 <tr><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01">2007SANC01</a></td><td>Spain</td><td>Cabezuelo</td><td>?</td></tr>
 <tr><td>Javier Tirado Ortiz</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01">2009TIRA01</a></td><td>Spain</td><td>superti</td><td>1971</td></tr>
+<tr><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01">2017FREG01</a></td><td>Canada</td><td>megagoune</td><td>1975</td></tr>
 <tr><td>Jesús Masanet García</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01">2004MASA01</a></td><td>Spain</td><td>noiusli</td><td>?</td></tr>
 <tr><td>Jochen Spies</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01">2010SPIE01</a></td><td>Germany</td><td>JoSpies</td><td>1963</td></tr>
 <tr><td>Lars Petrus</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982PETR01">1982PETR01</a></td><td>Sweden</td><td>Lars Petrus</td><td>1960</td></tr>
@@ -109,30 +110,31 @@ Notes:
 <tr><td>28</td><td>Mike DeCock</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01#333">2014DECO01</a></td><td>EvilGnome6 </td><td>USA</td><td>22.02</td><td>2016</td><td>42</td></tr>
 <tr><td>29</td><td>Ben Coppin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333">2013COPP01</a></td><td>bubbagrub</td><td>United Kingdom</td><td>23.20</td><td>2016</td><td>42</td></tr>
 <tr><td>30</td><td>Marco Antinori</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANTI01#333">2013ANTI01</a></td><td>marant69</td><td>Italy</td><td>23.38</td><td>2016</td><td>46</td></tr>
-<tr><td>31</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#333">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>25.97</td><td>2014</td><td>?</td></tr>
-<tr><td>32</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#333">2015REYE08</a></td><td>?</td><td>USA</td><td>27.36</td><td>2016</td><td>45</td></tr>
-<tr><td>33</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#333">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>27.80</td><td>2016</td><td>46</td></tr>
-<tr><td>34</td><td>Jochen Spies</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">2010SPIE01</a></td><td>JoSpies</td><td>Germany</td><td>27.96</td><td>2013</td><td>49</td></tr>
-<tr><td>35</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>29.16</td><td>2016</td><td>43</td></tr>
-<tr><td>36</td><td>Mitja Popovski</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#333">2016POPO02</a></td><td>mitja</td><td>Slovenia</td><td>30.51</td><td>2016</td><td>48</td></tr>
-<tr><td>37</td><td>Bill McGaugh</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">2004MCGA01</a></td><td>Bill</td><td>USA</td><td>32.03</td><td>2004</td><td>54</td></tr>
-<tr><td>38</td><td>Richard Leiser</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LEIS01#333">2013LEIS01</a></td><td>RicardoRix</td><td>United Kingdom</td><td>32.81</td><td>2015</td><td>41</td></tr>
-<tr><td>39</td><td>Mats Bergsten</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">2008BERG04</a></td><td>MatsBergsten</td><td>Sweden</td><td>33.10</td><td>2015</td><td>64</td></tr>
-<tr><td>40</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">2015GOSL01</a></td><td>?</td><td>USA</td><td>33.69</td><td>2017</td><td>48</td></tr>
-<tr><td>41</td><td>Guy Plowman</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PLOW01#333">2015PLOW01</a></td><td>?</td><td>United Kingdom</td><td>34.51</td><td>2016</td><td>?</td></tr>
-<tr><td>42</td><td>Lee Dearn</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013DEAR01#333">2013DEAR01</a></td><td>ellwd</td><td>United Kingdom</td><td>35.56</td><td>2013</td><td>?</td></tr>
-<tr><td>43</td><td>Jesús Masanet García</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">2004MASA01</a></td><td>noiusli</td><td>Spain</td><td>35.73</td><td>2014</td><td>?</td></tr>
-<tr><td>44</td><td>Robert D. Johnson</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333">2009JOHN07</a></td><td>rjohnson_8ball</td><td>USA</td><td>36.86</td><td>2010</td><td>54</td></tr>
-<tr><td>45</td><td>Carl Brannen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">2013BRAN01</a></td><td>CarlBrannen</td><td>USA</td><td>39.76</td><td>2013</td><td>54</td></tr>
-<tr><td>46</td><td>Rune Wesström</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">2003WESS01</a></td><td>Rune</td><td>Sweden</td><td>41.14</td><td>2012</td><td>81</td></tr>
-<tr><td>47</td><td>Steve Joiner</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">2015JOIN02</a></td><td>?</td><td>USA</td><td>43.01</td><td>2016</td><td>?</td></tr>
-<tr><td>48</td><td>Hideaki Tomoyori (????)</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">2005TOMO01</a></td><td>?</td><td>Japan</td><td>46.83</td><td>2016</td><td>82</td></tr>
-<tr><td>49</td><td>Phil Lewis</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">2016LEWI07</a></td><td>pglewis</td><td>USA</td><td>48.36</td><td>2017</td><td>48</td></tr>
-<tr><td>50</td><td>Harry Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">2016GOSL01</a></td><td>?</td><td>USA</td><td>53.19</td><td>2016</td><td>47</td></tr>
-<tr><td>51</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>58.21</td><td>2009</td><td>?</td></tr>
-<tr><td>52</td><td>Leslie Paul Collard</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">2013COLL02</a></td><td>?</td><td>United Kingdom</td><td>1:15.87</td><td>2014</td><td>?</td></tr>
-<tr><td>53</td><td>David Zemdegs</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">2016ZEMD01</a></td><td>David Zemdegs</td><td>Australia</td><td>2:08.38</td><td>2016</td><td>?</td></tr>
-<tr><td>54</td><td>Martin Berger</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">2006BERG01</a></td><td>?</td><td>United Kingdom</td><td>2:35.10</td><td>2008</td><td>78</td></tr>
+<tr><td>31</td><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#333">2017FREG01</a></td><td>megagoune</td><td>Canada</td><td>24.31</td><td>2017</td><td>41</td></tr>
+<tr><td>32</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#333">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>25.97</td><td>2014</td><td>?</td></tr>
+<tr><td>33</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#333">2015REYE08</a></td><td>?</td><td>USA</td><td>27.36</td><td>2016</td><td>45</td></tr>
+<tr><td>34</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#333">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>27.80</td><td>2016</td><td>46</td></tr>
+<tr><td>35</td><td>Jochen Spies</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">2010SPIE01</a></td><td>JoSpies</td><td>Germany</td><td>27.96</td><td>2013</td><td>49</td></tr>
+<tr><td>36</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>29.16</td><td>2016</td><td>43</td></tr>
+<tr><td>37</td><td>Mitja Popovski</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#333">2016POPO02</a></td><td>mitja</td><td>Slovenia</td><td>30.51</td><td>2016</td><td>48</td></tr>
+<tr><td>38</td><td>Bill McGaugh</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">2004MCGA01</a></td><td>Bill</td><td>USA</td><td>32.03</td><td>2004</td><td>54</td></tr>
+<tr><td>39</td><td>Richard Leiser</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LEIS01#333">2013LEIS01</a></td><td>RicardoRix</td><td>United Kingdom</td><td>32.81</td><td>2015</td><td>41</td></tr>
+<tr><td>40</td><td>Mats Bergsten</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">2008BERG04</a></td><td>MatsBergsten</td><td>Sweden</td><td>33.10</td><td>2015</td><td>64</td></tr>
+<tr><td>41</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">2015GOSL01</a></td><td>?</td><td>USA</td><td>33.69</td><td>2017</td><td>48</td></tr>
+<tr><td>42</td><td>Guy Plowman</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PLOW01#333">2015PLOW01</a></td><td>?</td><td>United Kingdom</td><td>34.51</td><td>2016</td><td>?</td></tr>
+<tr><td>43</td><td>Lee Dearn</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013DEAR01#333">2013DEAR01</a></td><td>ellwd</td><td>United Kingdom</td><td>35.56</td><td>2013</td><td>?</td></tr>
+<tr><td>44</td><td>Jesús Masanet García</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">2004MASA01</a></td><td>noiusli</td><td>Spain</td><td>35.73</td><td>2014</td><td>?</td></tr>
+<tr><td>45</td><td>Robert D. Johnson</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333">2009JOHN07</a></td><td>rjohnson_8ball</td><td>USA</td><td>36.86</td><td>2010</td><td>54</td></tr>
+<tr><td>46</td><td>Carl Brannen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">2013BRAN01</a></td><td>CarlBrannen</td><td>USA</td><td>39.76</td><td>2013</td><td>54</td></tr>
+<tr><td>47</td><td>Rune Wesström</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">2003WESS01</a></td><td>Rune</td><td>Sweden</td><td>41.14</td><td>2012</td><td>81</td></tr>
+<tr><td>48</td><td>Steve Joiner</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">2015JOIN02</a></td><td>?</td><td>USA</td><td>43.01</td><td>2016</td><td>?</td></tr>
+<tr><td>49</td><td>Hideaki Tomoyori (????)</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">2005TOMO01</a></td><td>?</td><td>Japan</td><td>46.83</td><td>2016</td><td>82</td></tr>
+<tr><td>50</td><td>Phil Lewis</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">2016LEWI07</a></td><td>pglewis</td><td>USA</td><td>48.36</td><td>2017</td><td>48</td></tr>
+<tr><td>51</td><td>Harry Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">2016GOSL01</a></td><td>?</td><td>USA</td><td>53.19</td><td>2016</td><td>47</td></tr>
+<tr><td>52</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>58.21</td><td>2009</td><td>?</td></tr>
+<tr><td>53</td><td>Leslie Paul Collard</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">2013COLL02</a></td><td>?</td><td>United Kingdom</td><td>1:15.87</td><td>2014</td><td>?</td></tr>
+<tr><td>54</td><td>David Zemdegs</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">2016ZEMD01</a></td><td>David Zemdegs</td><td>Australia</td><td>2:08.38</td><td>2016</td><td>?</td></tr>
+<tr><td>55</td><td>Martin Berger</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">2006BERG01</a></td><td>?</td><td>United Kingdom</td><td>2:35.10</td><td>2008</td><td>78</td></tr>
 </table>
 </details>
 <details><summary>2x2x2 Cube</summary>
@@ -337,20 +339,21 @@ Notes:
 <tr><td>10</td><td>Ben Coppin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#pyram">2013COPP01</a></td><td>bubbagrub</td><td>United Kingdom</td><td>12.01</td><td>2015</td><td>41</td></tr>
 <tr><td>11</td><td>Mike Hughey</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#pyram">2007HUGH01</a></td><td>Mike Hughey</td><td>USA</td><td>12.10</td><td>2010</td><td>47</td></tr>
 <tr><td>12</td><td>Chad Harris</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#pyram">2015HARR03</a></td><td>chtiger</td><td>USA</td><td>12.55</td><td>2017</td><td>43</td></tr>
-<tr><td>13</td><td>Gianluca Placenti</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#pyram">2012PLAC01</a></td><td>commodore128</td><td>Italy</td><td>14.23</td><td>2016</td><td>45</td></tr>
-<tr><td>14</td><td>Brent Boswell</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#pyram">2015BOSW01</a></td><td>JohnnyReggae</td><td>South Africa</td><td>14.73</td><td>2016</td><td>45</td></tr>
-<tr><td>15</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#pyram">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>15.13</td><td>2012</td><td>?</td></tr>
-<tr><td>16</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#pyram">2015GOSL01</a></td><td>?</td><td>USA</td><td>15.94</td><td>2016</td><td>47</td></tr>
-<tr><td>17</td><td>Piotr Janecki</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014JANE01#pyram">2014JANE01</a></td><td>?</td><td>Poland</td><td>15.97</td><td>2015</td><td>?</td></tr>
-<tr><td>18</td><td>Marcel Poots</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012POOT01#pyram">2012POOT01</a></td><td>MarcelP</td><td>Netherlands</td><td>16.35</td><td>2016</td><td>46</td></tr>
-<tr><td>19</td><td>Raúl Morales Hidalgo</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#pyram">2013MORA02</a></td><td>moralsh</td><td>Spain</td><td>16.36</td><td>2017</td><td>43</td></tr>
-<tr><td>20</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#pyram">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>16.70</td><td>2016</td><td>46</td></tr>
-<tr><td>21</td><td>Chris Wright</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#pyram">2011WRIG01</a></td><td>Selkie</td><td>United Kingdom</td><td>16.76</td><td>2016</td><td>46</td></tr>
-<tr><td>22</td><td>Søren Schmidt</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#pyram">2012SCHM07</a></td><td>Schmidt</td><td>Denmark</td><td>17.40</td><td>2014</td><td>42</td></tr>
-<tr><td>23</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#pyram">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>18.12</td><td>2017</td><td>44</td></tr>
-<tr><td>24</td><td>Mark Rivers</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#pyram">2015RIVE05</a></td><td>mark49152</td><td>United Kingdom</td><td>18.95</td><td>2016</td><td>48</td></tr>
-<tr><td>25</td><td>Jason Green</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#pyram">2016GREE02</a></td><td>Jason Green</td><td>USA</td><td>20.17</td><td>2016</td><td>41</td></tr>
-<tr><td>26</td><td>Ton Dennenbroek</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#pyram">2003DENN01</a></td><td>Ton</td><td>Netherlands</td><td>30.92</td><td>2007</td><td>?</td></tr>
+<tr><td>13</td><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#pyram">2017FREG01</a></td><td>megagoune</td><td>Canada</td><td>13.91</td><td>2017</td><td>41</td></tr>
+<tr><td>14</td><td>Gianluca Placenti</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#pyram">2012PLAC01</a></td><td>commodore128</td><td>Italy</td><td>14.23</td><td>2016</td><td>45</td></tr>
+<tr><td>15</td><td>Brent Boswell</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#pyram">2015BOSW01</a></td><td>JohnnyReggae</td><td>South Africa</td><td>14.73</td><td>2016</td><td>45</td></tr>
+<tr><td>16</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#pyram">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>15.13</td><td>2012</td><td>?</td></tr>
+<tr><td>17</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#pyram">2015GOSL01</a></td><td>?</td><td>USA</td><td>15.94</td><td>2016</td><td>47</td></tr>
+<tr><td>18</td><td>Piotr Janecki</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014JANE01#pyram">2014JANE01</a></td><td>?</td><td>Poland</td><td>15.97</td><td>2015</td><td>?</td></tr>
+<tr><td>19</td><td>Marcel Poots</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012POOT01#pyram">2012POOT01</a></td><td>MarcelP</td><td>Netherlands</td><td>16.35</td><td>2016</td><td>46</td></tr>
+<tr><td>20</td><td>Raúl Morales Hidalgo</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#pyram">2013MORA02</a></td><td>moralsh</td><td>Spain</td><td>16.36</td><td>2017</td><td>43</td></tr>
+<tr><td>21</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#pyram">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>16.70</td><td>2016</td><td>46</td></tr>
+<tr><td>22</td><td>Chris Wright</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#pyram">2011WRIG01</a></td><td>Selkie</td><td>United Kingdom</td><td>16.76</td><td>2016</td><td>46</td></tr>
+<tr><td>23</td><td>Søren Schmidt</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#pyram">2012SCHM07</a></td><td>Schmidt</td><td>Denmark</td><td>17.40</td><td>2014</td><td>42</td></tr>
+<tr><td>24</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#pyram">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>18.12</td><td>2017</td><td>44</td></tr>
+<tr><td>25</td><td>Mark Rivers</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#pyram">2015RIVE05</a></td><td>mark49152</td><td>United Kingdom</td><td>18.95</td><td>2016</td><td>48</td></tr>
+<tr><td>26</td><td>Jason Green</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#pyram">2016GREE02</a></td><td>Jason Green</td><td>USA</td><td>20.17</td><td>2016</td><td>41</td></tr>
+<tr><td>27</td><td>Ton Dennenbroek</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#pyram">2003DENN01</a></td><td>Ton</td><td>Netherlands</td><td>30.92</td><td>2007</td><td>?</td></tr>
 </table>
 </details>
 <details><summary>Rubik's Clock</summary>
@@ -466,31 +469,32 @@ Notes:
 <tr><td>28</td><td>Ben Coppin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333">2013COPP01</a></td><td>bubbagrub</td><td>United Kingdom</td><td>18.06</td><td>2016</td><td>42</td></tr>
 <tr><td>29</td><td>Chad Harris</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#333">2015HARR03</a></td><td>chtiger</td><td>USA</td><td>18.60</td><td>2017</td><td>43</td></tr>
 <tr><td>30</td><td>Søren Schmidt</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#333">2012SCHM07</a></td><td>Schmidt</td><td>Denmark</td><td>20.62</td><td>2014</td><td>42</td></tr>
-<tr><td>31</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#333">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>22.25</td><td>2016</td><td>46</td></tr>
-<tr><td>32</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#333">2015REYE08</a></td><td>?</td><td>USA</td><td>22.89</td><td>2016</td><td>45</td></tr>
-<tr><td>33</td><td>Bill McGaugh</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">2004MCGA01</a></td><td>Bill</td><td>USA</td><td>23.75</td><td>2004</td><td>54</td></tr>
-<tr><td>34</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#333">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>23.95</td><td>2014</td><td>?</td></tr>
-<tr><td>35</td><td>Jochen Spies</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">2010SPIE01</a></td><td>JoSpies</td><td>Germany</td><td>24.19</td><td>2013</td><td>49</td></tr>
-<tr><td>36</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>25.32</td><td>2016</td><td>43</td></tr>
-<tr><td>37</td><td>Jesús Masanet García</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">2004MASA01</a></td><td>noiusli</td><td>Spain</td><td>25.77</td><td>2014</td><td>?</td></tr>
-<tr><td>38</td><td>Mitja Popovski</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#333">2016POPO02</a></td><td>mitja</td><td>Slovenia</td><td>26.35</td><td>2016</td><td>48</td></tr>
-<tr><td>39</td><td>Mats Bergsten</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">2008BERG04</a></td><td>MatsBergsten</td><td>Sweden</td><td>26.62</td><td>2015</td><td>64</td></tr>
-<tr><td>40</td><td>Guy Plowman</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PLOW01#333">2015PLOW01</a></td><td>?</td><td>United Kingdom</td><td>27.19</td><td>2016</td><td>?</td></tr>
-<tr><td>41</td><td>Richard Leiser</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LEIS01#333">2013LEIS01</a></td><td>RicardoRix</td><td>United Kingdom</td><td>27.34</td><td>2015</td><td>41</td></tr>
-<tr><td>42</td><td>Lee Dearn</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013DEAR01#333">2013DEAR01</a></td><td>ellwd</td><td>United Kingdom</td><td>27.59</td><td>2013</td><td>?</td></tr>
-<tr><td>43</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">2015GOSL01</a></td><td>?</td><td>USA</td><td>28.93</td><td>2016</td><td>47</td></tr>
-<tr><td>44</td><td>Carl Brannen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">2013BRAN01</a></td><td>CarlBrannen</td><td>USA</td><td>29.14</td><td>2013</td><td>54</td></tr>
-<tr><td>45</td><td>Robert D. Johnson</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333">2009JOHN07</a></td><td>rjohnson_8ball</td><td>USA</td><td>30.58</td><td>2010</td><td>54</td></tr>
-<tr><td>46</td><td>Rune Wesström</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">2003WESS01</a></td><td>Rune</td><td>Sweden</td><td>33.34</td><td>2010</td><td>79</td></tr>
-<tr><td>47</td><td>Steve Joiner</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">2015JOIN02</a></td><td>?</td><td>USA</td><td>35.72</td><td>2016</td><td>?</td></tr>
-<tr><td>48</td><td>Harry Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">2016GOSL01</a></td><td>?</td><td>USA</td><td>39.32</td><td>2016</td><td>47</td></tr>
-<tr><td>49</td><td>Hideaki Tomoyori (????)</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">2005TOMO01</a></td><td>?</td><td>Japan</td><td>43.11</td><td>2016</td><td>82</td></tr>
-<tr><td>50</td><td>Phil Lewis</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">2016LEWI07</a></td><td>pglewis</td><td>USA</td><td>44.90</td><td>2017</td><td>48</td></tr>
-<tr><td>51</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>47.18</td><td>2010</td><td>?</td></tr>
-<tr><td>52</td><td>Leslie Paul Collard</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">2013COLL02</a></td><td>?</td><td>United Kingdom</td><td>54.37</td><td>2014</td><td>?</td></tr>
-<tr><td>53</td><td>David Zemdegs</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">2016ZEMD01</a></td><td>David Zemdegs</td><td>Australia</td><td>1:42.34</td><td>2016</td><td>?</td></tr>
-<tr><td>54</td><td>Martin Berger</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">2006BERG01</a></td><td>?</td><td>United Kingdom</td><td>2:14.56</td><td>2008</td><td>78</td></tr>
-<tr><td>55</td><td>Egon Micheelsen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">2011MICH01</a></td><td>?</td><td>Denmark</td><td>5:52.16</td><td>2011</td><td>90</td></tr>
+<tr><td>31</td><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#333">2017FREG01</a></td><td>megagoune</td><td>Canada</td><td>21.17</td><td>2017</td><td>41</td></tr>
+<tr><td>32</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#333">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>22.25</td><td>2016</td><td>46</td></tr>
+<tr><td>33</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#333">2015REYE08</a></td><td>?</td><td>USA</td><td>22.89</td><td>2016</td><td>45</td></tr>
+<tr><td>34</td><td>Bill McGaugh</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">2004MCGA01</a></td><td>Bill</td><td>USA</td><td>23.75</td><td>2004</td><td>54</td></tr>
+<tr><td>35</td><td>Michael Erskine</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#333">2008ERSK01</a></td><td>MichaelErskine</td><td>United Kingdom</td><td>23.95</td><td>2014</td><td>?</td></tr>
+<tr><td>36</td><td>Jochen Spies</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">2010SPIE01</a></td><td>JoSpies</td><td>Germany</td><td>24.19</td><td>2013</td><td>49</td></tr>
+<tr><td>37</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>25.32</td><td>2016</td><td>43</td></tr>
+<tr><td>38</td><td>Jesús Masanet García</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">2004MASA01</a></td><td>noiusli</td><td>Spain</td><td>25.77</td><td>2014</td><td>?</td></tr>
+<tr><td>39</td><td>Mitja Popovski</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#333">2016POPO02</a></td><td>mitja</td><td>Slovenia</td><td>26.35</td><td>2016</td><td>48</td></tr>
+<tr><td>40</td><td>Mats Bergsten</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">2008BERG04</a></td><td>MatsBergsten</td><td>Sweden</td><td>26.62</td><td>2015</td><td>64</td></tr>
+<tr><td>41</td><td>Guy Plowman</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PLOW01#333">2015PLOW01</a></td><td>?</td><td>United Kingdom</td><td>27.19</td><td>2016</td><td>?</td></tr>
+<tr><td>42</td><td>Richard Leiser</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LEIS01#333">2013LEIS01</a></td><td>RicardoRix</td><td>United Kingdom</td><td>27.34</td><td>2015</td><td>41</td></tr>
+<tr><td>43</td><td>Lee Dearn</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013DEAR01#333">2013DEAR01</a></td><td>ellwd</td><td>United Kingdom</td><td>27.59</td><td>2013</td><td>?</td></tr>
+<tr><td>44</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">2015GOSL01</a></td><td>?</td><td>USA</td><td>28.93</td><td>2016</td><td>47</td></tr>
+<tr><td>45</td><td>Carl Brannen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">2013BRAN01</a></td><td>CarlBrannen</td><td>USA</td><td>29.14</td><td>2013</td><td>54</td></tr>
+<tr><td>46</td><td>Robert D. Johnson</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#333">2009JOHN07</a></td><td>rjohnson_8ball</td><td>USA</td><td>30.58</td><td>2010</td><td>54</td></tr>
+<tr><td>47</td><td>Rune Wesström</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">2003WESS01</a></td><td>Rune</td><td>Sweden</td><td>33.34</td><td>2010</td><td>79</td></tr>
+<tr><td>48</td><td>Steve Joiner</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">2015JOIN02</a></td><td>?</td><td>USA</td><td>35.72</td><td>2016</td><td>?</td></tr>
+<tr><td>49</td><td>Harry Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">2016GOSL01</a></td><td>?</td><td>USA</td><td>39.32</td><td>2016</td><td>47</td></tr>
+<tr><td>50</td><td>Hideaki Tomoyori (????)</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">2005TOMO01</a></td><td>?</td><td>Japan</td><td>43.11</td><td>2016</td><td>82</td></tr>
+<tr><td>51</td><td>Phil Lewis</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#333">2016LEWI07</a></td><td>pglewis</td><td>USA</td><td>44.90</td><td>2017</td><td>48</td></tr>
+<tr><td>52</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>47.18</td><td>2010</td><td>?</td></tr>
+<tr><td>53</td><td>Leslie Paul Collard</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">2013COLL02</a></td><td>?</td><td>United Kingdom</td><td>54.37</td><td>2014</td><td>?</td></tr>
+<tr><td>54</td><td>David Zemdegs</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">2016ZEMD01</a></td><td>David Zemdegs</td><td>Australia</td><td>1:42.34</td><td>2016</td><td>?</td></tr>
+<tr><td>55</td><td>Martin Berger</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">2006BERG01</a></td><td>?</td><td>United Kingdom</td><td>2:14.56</td><td>2008</td><td>78</td></tr>
+<tr><td>56</td><td>Egon Micheelsen</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">2011MICH01</a></td><td>?</td><td>Denmark</td><td>5:52.16</td><td>2011</td><td>90</td></tr>
 </table>
 </details>
 <details><summary>2x2x2 Cube</summary>
@@ -568,9 +572,10 @@ Notes:
 <tr><td>29</td><td>Bill McGaugh</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">2004MCGA01</a></td><td>Bill</td><td>USA</td><td>2:19.77</td><td>2004</td><td>54</td></tr>
 <tr><td>30</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#444">2015REYE08</a></td><td>?</td><td>USA</td><td>2:50.39</td><td>2015</td><td>44</td></tr>
 <tr><td>31</td><td>Robert D. Johnson</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#444">2009JOHN07</a></td><td>rjohnson_8ball</td><td>USA</td><td>2:57.41</td><td>2010</td><td>54</td></tr>
-<tr><td>32</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#444">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>3:19.52</td><td>2016</td><td>46</td></tr>
-<tr><td>33</td><td>Ernesto Fernández Regueira</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FERN01#444">2004FERN01</a></td><td>ernesto</td><td>Spain</td><td>3:41.64</td><td>2005</td><td>?</td></tr>
-<tr><td>34</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#444">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>5:28.16</td><td>2007</td><td>?</td></tr>
+<tr><td>32</td><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#444">2017FREG01</a></td><td>megagoune</td><td>Canada</td><td>3:11.27</td><td>2017</td><td>41</td></tr>
+<tr><td>33</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#444">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>3:19.52</td><td>2016</td><td>46</td></tr>
+<tr><td>34</td><td>Ernesto Fernández Regueira</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FERN01#444">2004FERN01</a></td><td>ernesto</td><td>Spain</td><td>3:41.64</td><td>2005</td><td>?</td></tr>
+<tr><td>35</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#444">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>5:28.16</td><td>2007</td><td>?</td></tr>
 </table>
 </details>
 <details><summary>5x5x5 Cube</summary>
@@ -757,15 +762,16 @@ Notes:
 <tr><td>18</td><td>Piotr Janecki</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014JANE01#pyram">2014JANE01</a></td><td>?</td><td>Poland</td><td>11.47</td><td>2015</td><td>?</td></tr>
 <tr><td>19</td><td>Cari Goslow</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#pyram">2015GOSL01</a></td><td>?</td><td>USA</td><td>12.04</td><td>2017</td><td>48</td></tr>
 <tr><td>20</td><td>Brent Boswell</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#pyram">2015BOSW01</a></td><td>JohnnyReggae</td><td>South Africa</td><td>12.62</td><td>2016</td><td>45</td></tr>
-<tr><td>21</td><td>Jason Green</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#pyram">2016GREE02</a></td><td>Jason Green</td><td>USA</td><td>13.43</td><td>2016</td><td>41</td></tr>
-<tr><td>22</td><td>Grzegorz Pacewicz</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01#pyram">2014PACE01</a></td><td>h2f</td><td>Poland</td><td>13.45</td><td>2017</td><td>42</td></tr>
-<tr><td>23</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#pyram">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>13.60</td><td>2016</td><td>43</td></tr>
-<tr><td>24</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#pyram">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>13.71</td><td>2016</td><td>46</td></tr>
-<tr><td>25</td><td>Mark Rivers</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#pyram">2015RIVE05</a></td><td>mark49152</td><td>United Kingdom</td><td>14.24</td><td>2016</td><td>48</td></tr>
-<tr><td>26</td><td>Søren Schmidt</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#pyram">2012SCHM07</a></td><td>Schmidt</td><td>Denmark</td><td>14.96</td><td>2014</td><td>42</td></tr>
-<tr><td>27</td><td>Ton Dennenbroek</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#pyram">2003DENN01</a></td><td>Ton</td><td>Netherlands</td><td>20.07</td><td>2007</td><td>?</td></tr>
-<tr><td>28</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#pyram">2015REYE08</a></td><td>?</td><td>USA</td><td>30.56</td><td>2016</td><td>45</td></tr>
-<tr><td>29</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#pyram">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>33.34</td><td>2008</td><td>?</td></tr>
+<tr><td>21</td><td>Jérôme Fréguin</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#pyram">2017FREG01</a></td><td>megagoune</td><td>Canada</td><td>12.72</td><td>2017</td><td>41</td></tr>
+<tr><td>22</td><td>Jason Green</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#pyram">2016GREE02</a></td><td>Jason Green</td><td>USA</td><td>13.43</td><td>2016</td><td>41</td></tr>
+<tr><td>23</td><td>Grzegorz Pacewicz</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01#pyram">2014PACE01</a></td><td>h2f</td><td>Poland</td><td>13.45</td><td>2017</td><td>42</td></tr>
+<tr><td>24</td><td>Mark Adams</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#pyram">2015ADAM03</a></td><td>newtonbase</td><td>United Kingdom</td><td>13.60</td><td>2016</td><td>43</td></tr>
+<tr><td>25</td><td>Eugenio Spadafora</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#pyram">2015SPAD01</a></td><td>cubesp</td><td>Italy</td><td>13.71</td><td>2016</td><td>46</td></tr>
+<tr><td>26</td><td>Mark Rivers</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#pyram">2015RIVE05</a></td><td>mark49152</td><td>United Kingdom</td><td>14.24</td><td>2016</td><td>48</td></tr>
+<tr><td>27</td><td>Søren Schmidt</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#pyram">2012SCHM07</a></td><td>Schmidt</td><td>Denmark</td><td>14.96</td><td>2014</td><td>42</td></tr>
+<tr><td>28</td><td>Ton Dennenbroek</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#pyram">2003DENN01</a></td><td>Ton</td><td>Netherlands</td><td>20.07</td><td>2007</td><td>?</td></tr>
+<tr><td>29</td><td>Rafael Reyes</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#pyram">2015REYE08</a></td><td>?</td><td>USA</td><td>30.56</td><td>2016</td><td>45</td></tr>
+<tr><td>30</td><td>Javier Cabezuelo Sánchez</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#pyram">2007SANC01</a></td><td>Cabezuelo</td><td>Spain</td><td>33.34</td><td>2008</td><td>?</td></tr>
 </table>
 </details>
 <details><summary>Rubik's Clock</summary>
