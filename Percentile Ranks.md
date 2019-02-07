@@ -1,6 +1,6 @@
 <h1>Background</h1>
 <p>This project started on the <a href="https://www.speedsolving.com/forum/threads/how-fast-are-the-over-40s-in-competitions.54128/">SpeedSolving.com</a> forum and was last updated 2019-02-01.</p>
-<p>The statistics below have been calculated using <a href="sql/senior_aggregates.sql">aggregated data</a> from the WCA database, without compromising any ages or dates of birth.</p>
+<p>The statistics below have been calculated using <a href="sql/senior_aggregates.sql">aggregated data</a> from the WCA database.</p>
 Notes:
 <ul><li>"WCA" columns relate to all competitors, regardless of age.</li>
 <li>"Senior" columns relate to all of the Over-40's, based on their age at the start of the competition.</li>
