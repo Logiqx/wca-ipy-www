@@ -4,7 +4,7 @@
 Notes:
 <ul><li>"WCA" columns relate to all competitors, regardless of age.</li>
 <li>"Senior" columns relate to all of the Over-40's, based on their age at the start of the competition.</li>
-<li>"Known" columns relate to all of the people in the <a href="Over%2040s.md">Over 40's Rankings</a>.</li>
+<li>"Known" columns relate to all of the people in the <a href="Over%2040s%20Rankings.md">Over 40's Rankings</a>.</li>
 </ul>
 
 <h1>Official Averages</h1>
