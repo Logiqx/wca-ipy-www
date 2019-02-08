@@ -32,7 +32,7 @@
 <tr><td>2</td><td>Unknown</td><td>50.xx</td></tr>
 <tr><td>3</td><td>Fumiki Koseki (????), Japan - <a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#444">2005KOSE01</a></td><td>53.69</td></tr>
 <tr><td>4</td><td>Chris Wright, United Kingdom - <a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#444">2011WRIG01</a></td><td>58.84</td></tr>
-<tr><td>5</td><td>Unknown</td><td>60.xx</td></tr>
+<tr><td>5</td><td>Unknown</td><td>1:00.xx</td></tr>
 <tr><td>6</td><td>Unknown</td><td>1:01.xx</td></tr>
 <tr><td>7</td><td>Arnaud van Galen, Netherlands - <a href="https://www.worldcubeassociation.org/results/p.php?i=2006GALE01#444">2006GALE01</a></td><td>1:02.45</td></tr>
 <tr><td>8</td><td>Javier Tirado Ortiz, Spain - <a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#444">2009TIRA01</a></td><td>1:03.14</td></tr>
