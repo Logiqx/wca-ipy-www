@@ -54,7 +54,6 @@
 <tr><td>8</td><td>Mark Rivers, United Kingdom - <a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555">2015RIVE05</a></td><td>2:00.55</td></tr>
 <tr><td>9</td><td>Andy Nicholls, United Kingdom - <a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#555">2015NICH04</a></td><td>2:00.67</td></tr>
 <tr><td>10</td><td>Stefan Lidström, Sweden - <a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#555">2008LIDS01</a></td><td>2:07.92</td></tr>
-<tr><td>11</td><td>Helmut Heilig, Germany - <a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#555">2010HEIL02</a></td><td>2:07.99</td></tr>
 </table>
 </details>
 
