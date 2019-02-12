@@ -15,7 +15,7 @@ Notes:
 <details>
   <summary>Over 40s</summary>
   <table>
-    <tr><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="160" height="1"><br/>Speedsolving.com</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td><td><b>Citizen of</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02">Aaron Jody Cumes</a></td><td>?</td><td>United Kingdom</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005JOKS01">Adam Joks</a></td><td>?</td><td>Poland</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007DIAZ01">Agustín Díaz Morón</a></td><td>?</td><td>Spain</td></tr>
@@ -142,7 +142,7 @@ Notes:
 <details>
   <summary>3x3x3 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#333">Ron van Bruchem</a></td><td>11.91</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ROUX01#333">Gilles Roux</a></td><td>13.03</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#333">Dave Campbell</a></td><td>13.93</td><td>Canada</td></tr>
@@ -260,7 +260,7 @@ Notes:
 <details>
   <summary>2x2x2 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMI01#222">Junya Tomita (富田純也)</a></td><td>3.26</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#222">François Courtès</a></td><td>4.47</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#222">Javier Tirado Ortiz</a></td><td>4.59</td><td>Spain</td></tr>
@@ -343,7 +343,7 @@ Notes:
 <details>
   <summary>4x4x4 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#444">Ron van Bruchem</a></td><td>46.99</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#444">Fumiki Koseki (古関章記)</a></td><td>53.69</td><td>Japan</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#444">Chris Wright</a></td><td>58.84</td><td>United Kingdom</td></tr>
@@ -413,7 +413,7 @@ Notes:
 <details>
   <summary>5x5x5 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#555">Ron van Bruchem</a></td><td>1:35.60</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#555">Fumiki Koseki (古関章記)</a></td><td>1:44.05</td><td>Japan</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#555">Chris Wright</a></td><td>1:47.29</td><td>United Kingdom</td></tr>
@@ -461,7 +461,7 @@ Notes:
 <details>
   <summary>6x6x6 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#666">Fumiki Koseki (古関章記)</a></td><td>3:17.75</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#666">Chris Wright</a></td><td>3:30.62</td><td>United Kingdom</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006GALE01#666">Arnaud van Galen</a></td><td>3:31.60</td><td>Netherlands</td></tr>
@@ -486,7 +486,7 @@ Notes:
 <details>
   <summary>7x7x7 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01#777">Mike DeCock</a></td><td>5:10.87</td><td>United States</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#777">Fumiki Koseki (古関章記)</a></td><td>5:16.31</td><td>Japan</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#777">Chris Wright</a></td><td>5:16.34</td><td>United Kingdom</td></tr>
@@ -509,7 +509,7 @@ Notes:
 <details>
   <summary>3x3x3 Blindfolded</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333bf">István Kocza</a></td><td>53.90</td><td>Hungary</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#333bf">François Courtès</a></td><td>1:00.58</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#333bf">Mark Rivers</a></td><td>1:05.21</td><td>United Kingdom</td></tr>
@@ -531,7 +531,7 @@ Notes:
 <details>
   <summary>3x3x3 Fewest Moves</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333fm">Javier Cabezuelo Sánchez</a></td><td>27.00</td><td>Spain</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#333fm">Guus Razoux Schultz</a></td><td>28.67</td><td>Netherlands</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#333fm">Mike Hughey</a></td><td>29.00</td><td>United States</td></tr>
@@ -556,7 +556,7 @@ Notes:
 <details>
   <summary>3x3x3 One-Handed</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#333oh">Dave Campbell</a></td><td>22.61</td><td>Canada</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GEOR02#333oh">Michael George</a></td><td>25.45</td><td>United Kingdom</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#333oh">Stefan Lidström</a></td><td>27.12</td><td>Sweden</td></tr>
@@ -611,7 +611,7 @@ Notes:
 <details>
   <summary>3x3x3 With Feet</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333ft">Ben Coppin</a></td><td>1:02.62</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#333ft">Mike Hughey</a></td><td>1:57.11</td><td>United States</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333ft">Harry Goslow</a></td><td>2:02.44</td><td>United States</td></tr>
@@ -627,7 +627,7 @@ Notes:
 <details>
   <summary>Clock</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#clock">Javier Tirado Ortiz</a></td><td>7.35</td><td>Spain</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FERN01#clock">Ernesto Fernández Regueira</a></td><td>8.18</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#clock">Chad Harris</a></td><td>8.72</td><td>United States</td></tr>
@@ -663,7 +663,7 @@ Notes:
 <details>
   <summary>Megaminx</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#minx">Stefan Lidström</a></td><td>1:56.82</td><td>Sweden</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#minx">Ciro Vignotto</a></td><td>1:58.41</td><td>Italy</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#minx">Chris Wright</a></td><td>1:59.13</td><td>United Kingdom</td></tr>
@@ -688,7 +688,7 @@ Notes:
 <details>
   <summary>Pyraminx</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#pyram">Luis J. Iáñez</a></td><td>5.17</td><td>Spain</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#pyram">Javier Tirado Ortiz</a></td><td>5.58</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GEOR02#pyram">Michael George</a></td><td>6.67</td><td>United Kingdom</td></tr>
@@ -745,7 +745,7 @@ Notes:
 <details>
   <summary>Skewb</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#skewb">Ben Coppin</a></td><td>7.04</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#skewb">François Courtès</a></td><td>7.53</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANTI01#skewb">Marco Antinori</a></td><td>8.33</td><td>Italy</td></tr>
@@ -788,7 +788,7 @@ Notes:
 <details>
   <summary>Square-1</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a></td><td>15.23</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#sq1">François Courtès</a></td><td>19.86</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#sq1">Stefan Lidström</a></td><td>20.45</td><td>Sweden</td></tr>
@@ -817,7 +817,7 @@ Notes:
 <details>
   <summary>3x3x3 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#333">Ron van Bruchem</a></td><td>8.71</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#333">Dave Campbell</a></td><td>10.01</td><td>Canada</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ROUX01#333">Gilles Roux</a></td><td>10.55</td><td>France</td></tr>
@@ -936,7 +936,7 @@ Notes:
 <details>
   <summary>2x2x2 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#222">Stefan Lidström</a></td><td>1.53</td><td>Sweden</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005PARI01#222">Javier París</a></td><td>1.63</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#222">François Courtès</a></td><td>1.91</td><td>France</td></tr>
@@ -1020,7 +1020,7 @@ Notes:
 <details>
   <summary>4x4x4 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#444">Ron van Bruchem</a></td><td>42.03</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#444">Fumiki Koseki (古関章記)</a></td><td>46.29</td><td>Japan</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#444">Chris Wright</a></td><td>51.46</td><td>United Kingdom</td></tr>
@@ -1100,7 +1100,7 @@ Notes:
 <details>
   <summary>5x5x5 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#555">Ron van Bruchem</a></td><td>1:28.17</td><td>Netherlands</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#555">Fumiki Koseki (古関章記)</a></td><td>1:33.02</td><td>Japan</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#555">Dave Campbell</a></td><td>1:37.13</td><td>Canada</td></tr>
@@ -1165,7 +1165,7 @@ Notes:
 <details>
   <summary>6x6x6 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#666">Fumiki Koseki (古関章記)</a></td><td>3:12.40</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#666">Chris Wright</a></td><td>3:19.95</td><td>United Kingdom</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#666">Ron van Bruchem</a></td><td>3:24.14</td><td>Netherlands</td></tr>
@@ -1204,7 +1204,7 @@ Notes:
 <details>
   <summary>7x7x7 Cube</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#777">Fumiki Koseki (古関章記)</a></td><td>4:52.99</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01#777">Mike DeCock</a></td><td>5:04.83</td><td>United States</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#777">Chris Wright</a></td><td>5:07.40</td><td>United Kingdom</td></tr>
@@ -1243,7 +1243,7 @@ Notes:
 <details>
   <summary>3x3x3 Blindfolded</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333bf">István Kocza</a></td><td>44.81</td><td>Hungary</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#333bf">François Courtès</a></td><td>47.86</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#333bf">Mark Rivers</a></td><td>50.14</td><td>United Kingdom</td></tr>
@@ -1288,7 +1288,7 @@ Notes:
 <details>
   <summary>3x3x3 Fewest Moves</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333fm">Ben Coppin</a></td><td>20</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SANC01#333fm">Javier Cabezuelo Sánchez</a></td><td>22</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#333fm">Guus Razoux Schultz</a></td><td>25</td><td>Netherlands</td></tr>
@@ -1336,7 +1336,7 @@ Notes:
 <details>
   <summary>3x3x3 One-Handed</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#333oh">Dave Campbell</a></td><td>16.45</td><td>Canada</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#333oh">Raúl Morales Hidalgo</a></td><td>19.18</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#333oh">Ron van Bruchem</a></td><td>20.69</td><td>Netherlands</td></tr>
@@ -1401,7 +1401,7 @@ Notes:
 <details>
   <summary>3x3x3 With Feet</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333ft">Ben Coppin</a></td><td>55.04</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333ft">Harry Goslow</a></td><td>1:43.66</td><td>United States</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#333ft">Mike Hughey</a></td><td>1:44.56</td><td>United States</td></tr>
@@ -1419,7 +1419,7 @@ Notes:
 <details>
   <summary>Clock</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#clock">Javier Tirado Ortiz</a></td><td>6.28</td><td>Spain</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FERN01#clock">Ernesto Fernández Regueira</a></td><td>6.36</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#clock">Chad Harris</a></td><td>6.96</td><td>United States</td></tr>
@@ -1461,7 +1461,7 @@ Notes:
 <details>
   <summary>Megaminx</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#minx">Ciro Vignotto</a></td><td>1:33.00</td><td>Italy</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#minx">Stefan Lidström</a></td><td>1:41.19</td><td>Sweden</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#minx">Chris Wright</a></td><td>1:42.35</td><td>United Kingdom</td></tr>
@@ -1494,7 +1494,7 @@ Notes:
 <details>
   <summary>Pyraminx</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#pyram">Luis J. Iáñez</a></td><td>3.31</td><td>Spain</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#pyram">François Courtès</a></td><td>3.77</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#pyram">Ron van Bruchem</a></td><td>3.83</td><td>Netherlands</td></tr>
@@ -1552,7 +1552,7 @@ Notes:
 <details>
   <summary>Skewb</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GEOR02#skewb">Michael George</a></td><td>4.75</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#skewb">Javier Tirado Ortiz</a></td><td>5.03</td><td>Spain</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#skewb">Ben Coppin</a></td><td>5.10</td><td>United Kingdom</td></tr>
@@ -1599,7 +1599,7 @@ Notes:
 <details>
   <summary>Square-1</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a></td><td>11.40</td><td>Japan</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#sq1">François Courtès</a></td><td>14.75</td><td>France</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#sq1">Stefan Lidström</a></td><td>18.15</td><td>Sweden</td></tr>
@@ -1631,7 +1631,7 @@ Notes:
 <details>
   <summary>4x4x4 Blindfolded</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#444bf">Mark Rivers</a></td><td>4:47.53</td><td>United Kingdom</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#444bf">István Kocza</a></td><td>5:15.92</td><td>Hungary</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444bf">Mats Bergsten</a></td><td>5:45.88</td><td>Sweden</td></tr>
@@ -1651,7 +1651,7 @@ Notes:
 <details>
   <summary>5x5x5 Blindfolded</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#555bf">István Kocza</a></td><td>10:55.00</td><td>Hungary</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#555bf">Mike Hughey</a></td><td>11:35.00</td><td>United States</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555bf">Mark Rivers</a></td><td>13:25.00</td><td>United Kingdom</td></tr>
@@ -1668,7 +1668,7 @@ Notes:
 <details>
   <summary>3x3x3 Multi-Blind</summary>
   <table>
-    <tr><td><b><img width="80" height="1"><br/>Rank</b></td><td><b><img width="240" height="1"><br/>Person</b></td><td><b><img width="80" height="1"><br/>Result</b></td><td><b><img width="120" height="1"><br/>Citizen of</b></td></tr>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td><td><b>Citizen of</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333mbf">István Kocza</a></td><td>17/17 in 59:20</td><td>Hungary</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#333mbf">Mark Rivers</a></td><td>16/17 in 57:17</td><td>United Kingdom</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#333mbf">Mike Hughey</a></td><td>12/12 in 58:34</td><td>United States</td></tr>
