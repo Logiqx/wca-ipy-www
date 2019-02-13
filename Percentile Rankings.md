@@ -1039,15 +1039,9 @@ Notes:
     <tr><td>7:40</td><td>13</td><td>4398</td><td>98.787</td><td>2</td><td>30</td><td>90.909</td><td>1</td><td>17</td><td>94.444</td></tr>
     <tr><td>7:50</td><td>9</td><td>4407</td><td>98.989</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>8:00</td><td>1</td><td>4408</td><td>99.012</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>8:10</td><td>4</td><td>4412</td><td>99.102</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>8:20</td><td>5</td><td>4417</td><td>99.214</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>8:30</td><td>2</td><td>4419</td><td>99.259</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>8:40</td><td>3</td><td>4422</td><td>99.326</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>8:50</td><td>4</td><td>4426</td><td>99.416</td><td>1</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:00</td><td>6</td><td>4432</td><td>99.551</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
+    <tr><td>9:00</td><td>24</td><td>4432</td><td>99.551</td><td>1</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>10:00</td><td>10</td><td>4442</td><td>99.775</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>11:00</td><td>7</td><td>4449</td><td>99.933</td><td>1</td><td>32</td><td>96.970</td><td>1</td><td>18</td><td>100.000</td></tr>
-    <tr><td>...</td><td>3</td><td>4452</td><td>100.000</td><td>1</td><td>33</td><td>100.000</td><td>0</td><td>18</td><td>100.000</td></tr>
+    <tr><td>...</td><td>10</td><td>4452</td><td>100.000</td><td>2</td><td>33</td><td>100.000</td><td>1</td><td>18</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -1502,12 +1496,7 @@ Notes:
     <tr><td>11:40</td><td>0</td><td>3492</td><td>99.317</td><td>0</td><td>22</td><td>84.615</td><td>0</td><td>14</td><td>87.500</td></tr>
     <tr><td>11:50</td><td>0</td><td>3492</td><td>99.317</td><td>0</td><td>22</td><td>84.615</td><td>0</td><td>14</td><td>87.500</td></tr>
     <tr><td>12:00</td><td>2</td><td>3494</td><td>99.374</td><td>0</td><td>22</td><td>84.615</td><td>0</td><td>14</td><td>87.500</td></tr>
-    <tr><td>12:10</td><td>3</td><td>3497</td><td>99.460</td><td>1</td><td>23</td><td>88.462</td><td>1</td><td>15</td><td>93.750</td></tr>
-    <tr><td>12:20</td><td>3</td><td>3500</td><td>99.545</td><td>1</td><td>24</td><td>92.308</td><td>0</td><td>15</td><td>93.750</td></tr>
-    <tr><td>12:30</td><td>1</td><td>3501</td><td>99.573</td><td>0</td><td>24</td><td>92.308</td><td>0</td><td>15</td><td>93.750</td></tr>
-    <tr><td>12:40</td><td>1</td><td>3502</td><td>99.602</td><td>0</td><td>24</td><td>92.308</td><td>0</td><td>15</td><td>93.750</td></tr>
-    <tr><td>12:50</td><td>1</td><td>3503</td><td>99.630</td><td>0</td><td>24</td><td>92.308</td><td>0</td><td>15</td><td>93.750</td></tr>
-    <tr><td>13:00</td><td>0</td><td>3503</td><td>99.630</td><td>0</td><td>24</td><td>92.308</td><td>0</td><td>15</td><td>93.750</td></tr>
+    <tr><td>13:00</td><td>9</td><td>3503</td><td>99.630</td><td>2</td><td>24</td><td>92.308</td><td>1</td><td>15</td><td>93.750</td></tr>
     <tr><td>14:00</td><td>6</td><td>3509</td><td>99.801</td><td>1</td><td>25</td><td>96.154</td><td>0</td><td>15</td><td>93.750</td></tr>
     <tr><td>15:00</td><td>3</td><td>3512</td><td>99.886</td><td>0</td><td>25</td><td>96.154</td><td>0</td><td>15</td><td>93.750</td></tr>
     <tr><td>...</td><td>4</td><td>3516</td><td>100.000</td><td>1</td><td>26</td><td>100.000</td><td>1</td><td>16</td><td>100.000</td></tr>
@@ -2209,66 +2198,12 @@ Notes:
     <tr><td>2:58</td><td>6</td><td>1433</td><td>74.869</td><td>1</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
     <tr><td>2:59</td><td>6</td><td>1439</td><td>75.183</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
     <tr><td>3:00</td><td>3</td><td>1442</td><td>75.340</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:01</td><td>7</td><td>1449</td><td>75.705</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:02</td><td>6</td><td>1455</td><td>76.019</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:03</td><td>6</td><td>1461</td><td>76.332</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:04</td><td>3</td><td>1464</td><td>76.489</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:05</td><td>5</td><td>1469</td><td>76.750</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:06</td><td>3</td><td>1472</td><td>76.907</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:07</td><td>7</td><td>1479</td><td>77.273</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:08</td><td>8</td><td>1487</td><td>77.691</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:09</td><td>3</td><td>1490</td><td>77.847</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:10</td><td>5</td><td>1495</td><td>78.109</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:11</td><td>6</td><td>1501</td><td>78.422</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:12</td><td>6</td><td>1507</td><td>78.736</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:13</td><td>6</td><td>1513</td><td>79.049</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:14</td><td>2</td><td>1515</td><td>79.154</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:15</td><td>3</td><td>1518</td><td>79.310</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:16</td><td>3</td><td>1521</td><td>79.467</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:17</td><td>6</td><td>1527</td><td>79.781</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:18</td><td>5</td><td>1532</td><td>80.042</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:19</td><td>4</td><td>1536</td><td>80.251</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:20</td><td>11</td><td>1547</td><td>80.825</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:21</td><td>5</td><td>1552</td><td>81.087</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:22</td><td>8</td><td>1560</td><td>81.505</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:23</td><td>0</td><td>1560</td><td>81.505</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:24</td><td>5</td><td>1565</td><td>81.766</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:25</td><td>7</td><td>1572</td><td>82.132</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:26</td><td>3</td><td>1575</td><td>82.288</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:27</td><td>10</td><td>1585</td><td>82.811</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:28</td><td>6</td><td>1591</td><td>83.124</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:29</td><td>1</td><td>1592</td><td>83.177</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:30</td><td>6</td><td>1598</td><td>83.490</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:31</td><td>4</td><td>1602</td><td>83.699</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:32</td><td>9</td><td>1611</td><td>84.169</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:33</td><td>2</td><td>1613</td><td>84.274</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:34</td><td>4</td><td>1617</td><td>84.483</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:35</td><td>5</td><td>1622</td><td>84.744</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:36</td><td>1</td><td>1623</td><td>84.796</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:37</td><td>8</td><td>1631</td><td>85.214</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:38</td><td>1</td><td>1632</td><td>85.266</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:39</td><td>3</td><td>1635</td><td>85.423</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:40</td><td>4</td><td>1639</td><td>85.632</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:41</td><td>11</td><td>1650</td><td>86.207</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:42</td><td>2</td><td>1652</td><td>86.311</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:43</td><td>3</td><td>1655</td><td>86.468</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:44</td><td>2</td><td>1657</td><td>86.573</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:45</td><td>1</td><td>1658</td><td>86.625</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:46</td><td>2</td><td>1660</td><td>86.729</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:47</td><td>1</td><td>1661</td><td>86.782</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:48</td><td>2</td><td>1663</td><td>86.886</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:49</td><td>4</td><td>1667</td><td>87.095</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:50</td><td>5</td><td>1672</td><td>87.356</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:51</td><td>4</td><td>1676</td><td>87.565</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:52</td><td>6</td><td>1682</td><td>87.879</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:53</td><td>3</td><td>1685</td><td>88.036</td><td>1</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:54</td><td>3</td><td>1688</td><td>88.192</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:55</td><td>2</td><td>1690</td><td>88.297</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:56</td><td>3</td><td>1693</td><td>88.454</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:57</td><td>2</td><td>1695</td><td>88.558</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:58</td><td>4</td><td>1699</td><td>88.767</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>3:59</td><td>3</td><td>1702</td><td>88.924</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
-    <tr><td>4:00</td><td>2</td><td>1704</td><td>89.028</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>3:10</td><td>53</td><td>1495</td><td>78.109</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>3:20</td><td>52</td><td>1547</td><td>80.825</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>3:30</td><td>51</td><td>1598</td><td>83.490</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>3:40</td><td>41</td><td>1639</td><td>85.632</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>3:50</td><td>33</td><td>1672</td><td>87.356</td><td>0</td><td>13</td><td>72.222</td><td>0</td><td>7</td><td>77.778</td></tr>
+    <tr><td>4:00</td><td>32</td><td>1704</td><td>89.028</td><td>1</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
     <tr><td>4:10</td><td>31</td><td>1735</td><td>90.648</td><td>0</td><td>14</td><td>77.778</td><td>0</td><td>7</td><td>77.778</td></tr>
     <tr><td>4:20</td><td>24</td><td>1759</td><td>91.902</td><td>2</td><td>16</td><td>88.889</td><td>2</td><td>9</td><td>100.000</td></tr>
     <tr><td>4:30</td><td>24</td><td>1783</td><td>93.156</td><td>0</td><td>16</td><td>88.889</td><td>0</td><td>9</td><td>100.000</td></tr>
