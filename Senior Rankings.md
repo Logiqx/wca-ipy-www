@@ -311,7 +311,7 @@
     <tr><td>1525-1526</td><td>2 unknowns</td><td>5:2x.xx</td></tr>
     <tr><td>1527</td><td>1 unknown</td><td>5:3x.xx</td></tr>
     <tr><td>1528</td><td>1 unknown</td><td>5:5x.xx</td></tr>
-    <tr><td>1529-1531</td><td>3 unknowns</td><td>6:00.00+</td></tr>
+    <tr><td>1529-1531</td><td>3 unknowns</td><td>6:xx.xx</td></tr>
   </table>
 </details>
 
@@ -502,7 +502,7 @@
     <tr><td>183</td><td>1 unknown</td><td>4:5x.xx</td></tr>
     <tr><td>184</td><td>1 unknown</td><td>5:0x.xx</td></tr>
     <tr><td>185</td><td>1 unknown</td><td>5:1x.xx</td></tr>
-    <tr><td>186</td><td>1 unknown</td><td>6:00.00+</td></tr>
+    <tr><td>186</td><td>1 unknown</td><td>6:xx.xx</td></tr>
   </table>
 </details>
 
@@ -581,7 +581,8 @@
     <tr><td>83</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland</td><td>6:43.47</td></tr>
     <tr><td>84-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:57.42<br/>6:5x.xx</td></tr>
     <tr><td>86-87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 1 unknown</td><td>7:07.85<br/>7:0x.xx</td></tr>
-    <tr><td>88-89</td><td>2 unknowns</td><td>8:00.00+</td></tr>
+    <tr><td>88</td><td>1 unknown</td><td>9:xx.xx</td></tr>
+    <tr><td>89</td><td>1 unknown</td><td>10:00.00+</td></tr>
   </table>
 </details>
 
@@ -619,7 +620,8 @@
     <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01#666">David Barr</a>, United States</td><td>6:42.49</td></tr>
     <tr><td>29-30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#666">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>7:36.57<br/>7:3x.xx</td></tr>
     <tr><td>31</td><td>1 unknown</td><td>8:4x.xx</td></tr>
-    <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#666">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>10:26.00<br/>10:00.00+</td></tr>
+    <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#666">Tommy Gustavsson</a>, Sweden</td><td>10:26.00</td></tr>
+    <tr><td>33</td><td>1 unknown</td><td>12:00.00+</td></tr>
   </table>
 </details>
 
