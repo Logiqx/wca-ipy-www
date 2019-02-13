@@ -788,16 +788,13 @@
     <tr><td>128</td><td>1 unknown</td><td>1:38.xx</td></tr>
     <tr><td>129</td><td>1 unknown</td><td>1:43.xx</td></tr>
     <tr><td>130</td><td>1 unknown</td><td>1:50.xx</td></tr>
-    <tr><td>131</td><td>1 unknown</td><td>2:04.xx</td></tr>
-    <tr><td>132</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands</td><td>2:06.90</td></tr>
-    <tr><td>133</td><td>1 unknown</td><td>2:18.xx</td></tr>
-    <tr><td>134</td><td>1 unknown</td><td>2:21.xx</td></tr>
-    <tr><td>135</td><td>1 unknown</td><td>2:31.xx</td></tr>
+    <tr><td>131-132</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands<br/>+ 1 unknown</td><td>2:06.90<br/>2:0x.xx</td></tr>
+    <tr><td>133</td><td>1 unknown</td><td>2:1x.xx</td></tr>
+    <tr><td>134</td><td>1 unknown</td><td>2:2x.xx</td></tr>
+    <tr><td>135</td><td>1 unknown</td><td>2:3x.xx</td></tr>
     <tr><td>136</td><td>1 unknown</td><td>3:5x.xx</td></tr>
-    <tr><td>137</td><td>1 unknown</td><td>4:0x.xx</td></tr>
-    <tr><td>138</td><td>1 unknown</td><td>4:3x.xx</td></tr>
-    <tr><td>139</td><td>1 unknown</td><td>4:5x.xx</td></tr>
-    <tr><td>140</td><td>1 unknown</td><td>6:00.00+</td></tr>
+    <tr><td>137-139</td><td>3 unknowns</td><td>4:xx.xx</td></tr>
+    <tr><td>140</td><td>1 unknown</td><td>5:00.00+</td></tr>
   </table>
 </details>
 
