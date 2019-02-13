@@ -912,7 +912,7 @@
     <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#minx">Raúl Morales Hidalgo</a>, Spain</td><td>3:14.52</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#minx">Cari Goslow</a>, United States</td><td>3:43.16</td></tr>
     <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#minx">Javier Tirado Ortiz</a>, Spain</td><td>3:44.31</td></tr>
-    <tr><td>28</td><td>1 unknown</td><td>4:0x.xx</td></tr>
+    <tr><td>28</td><td>1 unknown</td><td>4:08.xx</td></tr>
     <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#minx">Brent Boswell</a>, South Africa</td><td>4:52.37</td></tr>
     <tr><td>30-29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#minx">Michael Erskine</a>, United Kingdom</td><td>5:01.82</td></tr>
     <tr><td>30</td><td>1 unknown</td><td>5:4x.xx</td></tr>
