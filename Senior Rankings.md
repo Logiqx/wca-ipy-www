@@ -792,9 +792,8 @@
     <tr><td>133</td><td>1 unknown</td><td>2:1x.xx</td></tr>
     <tr><td>134</td><td>1 unknown</td><td>2:2x.xx</td></tr>
     <tr><td>135</td><td>1 unknown</td><td>2:3x.xx</td></tr>
-    <tr><td>136</td><td>1 unknown</td><td>3:5x.xx</td></tr>
-    <tr><td>137-139</td><td>3 unknowns</td><td>4:xx.xx</td></tr>
-    <tr><td>140</td><td>1 unknown</td><td>5:00.00+</td></tr>
+    <tr><td>136</td><td>1 unknown</td><td>3:xx.xx</td></tr>
+    <tr><td>137-140</td><td>4 unknowns</td><td>4:00.00+</td></tr>
   </table>
 </details>
 
