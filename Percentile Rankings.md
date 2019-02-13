@@ -1874,7 +1874,9 @@ Notes:
     <tr><td>58</td><td>15</td><td>1960</td><td>96.314</td><td>0</td><td>33</td><td>89.189</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>59</td><td>15</td><td>1975</td><td>97.052</td><td>1</td><td>34</td><td>91.892</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>60</td><td>12</td><td>1987</td><td>97.641</td><td>0</td><td>34</td><td>91.892</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>...</td><td>48</td><td>2035</td><td>100.000</td><td>3</td><td>37</td><td>100.000</td><td>1</td><td>18</td><td>100.000</td></tr>
+    <tr><td>70</td><td>45</td><td>2032</td><td>99.853</td><td>2</td><td>36</td><td>97.297</td><td>1</td><td>18</td><td>100.000</td></tr>
+    <tr><td>80</td><td>2</td><td>2034</td><td>99.951</td><td>1</td><td>37</td><td>100.000</td><td>0</td><td>18</td><td>100.000</td></tr>
+    <tr><td>...</td><td>1</td><td>2035</td><td>100.000</td><td>0</td><td>37</td><td>100.000</td><td>0</td><td>18</td><td>100.000</td></tr>
   </table>
 </details>
 
