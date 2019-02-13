@@ -1012,12 +1012,7 @@ Notes:
     <tr><td>8:40</td><td>3</td><td>4378</td><td>99.319</td><td>0</td><td>30</td><td>90.909</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>8:50</td><td>4</td><td>4382</td><td>99.410</td><td>1</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>9:00</td><td>6</td><td>4388</td><td>99.546</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:10</td><td>2</td><td>4390</td><td>99.592</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:20</td><td>0</td><td>4390</td><td>99.592</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:30</td><td>2</td><td>4392</td><td>99.637</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:40</td><td>3</td><td>4395</td><td>99.705</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>9:50</td><td>3</td><td>4398</td><td>99.773</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
-    <tr><td>10:00</td><td>0</td><td>4398</td><td>99.773</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
+    <tr><td>10:00</td><td>10</td><td>4398</td><td>99.773</td><td>0</td><td>31</td><td>93.939</td><td>0</td><td>17</td><td>94.444</td></tr>
     <tr><td>11:00</td><td>7</td><td>4405</td><td>99.932</td><td>1</td><td>32</td><td>96.970</td><td>1</td><td>18</td><td>100.000</td></tr>
     <tr><td>12:00</td><td>1</td><td>4406</td><td>99.955</td><td>0</td><td>32</td><td>96.970</td><td>0</td><td>18</td><td>100.000</td></tr>
     <tr><td>...</td><td>2</td><td>4408</td><td>100.000</td><td>1</td><td>33</td><td>100.000</td><td>0</td><td>18</td><td>100.000</td></tr>
