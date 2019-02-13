@@ -306,11 +306,7 @@
     <tr><td>1518-1519</td><td>2 unknowns</td><td>4:1x.xx</td></tr>
     <tr><td>1520</td><td>1 unknown</td><td>4:3x.xx</td></tr>
     <tr><td>1521-1522</td><td>2 unknowns</td><td>4:5x.xx</td></tr>
-    <tr><td>1523</td><td>1 unknown</td><td>5:0x.xx</td></tr>
-    <tr><td>1524</td><td>1 unknown</td><td>5:1x.xx</td></tr>
-    <tr><td>1525-1526</td><td>2 unknowns</td><td>5:2x.xx</td></tr>
-    <tr><td>1527</td><td>1 unknown</td><td>5:3x.xx</td></tr>
-    <tr><td>1528</td><td>1 unknown</td><td>5:5x.xx</td></tr>
+    <tr><td>1523-1528</td><td>6 unknowns</td><td>5:xx.xx</td></tr>
     <tr><td>1529-1531</td><td>3 unknowns</td><td>6:xx.xx</td></tr>
   </table>
 </details>
@@ -383,8 +379,7 @@
     <tr><td>613-614</td><td>2 unknowns</td><td>1:3x.xx</td></tr>
     <tr><td>615</td><td>1 unknown</td><td>1:4x.xx</td></tr>
     <tr><td>616-617</td><td>2 unknowns</td><td>1:5x.xx</td></tr>
-    <tr><td>618-619</td><td>2 unknowns</td><td>2:xx.xx</td></tr>
-    <tr><td>620-621</td><td>2 unknowns</td><td>3:00.00+</td></tr>
+    <tr><td>618-621</td><td>4 unknowns</td><td>2:00.00+</td></tr>
   </table>
 </details>
 
@@ -920,8 +915,9 @@
     <tr><td>28</td><td>1 unknown</td><td>4:08.xx</td></tr>
     <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#minx">Brent Boswell</a>, South Africa</td><td>4:52.37</td></tr>
     <tr><td>30-29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#minx">Michael Erskine</a>, United Kingdom</td><td>5:01.82</td></tr>
-    <tr><td>30</td><td>1 unknown</td><td>5:4x.xx</td></tr>
-    <tr><td>31-32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#minx">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>5:54.34<br/>5:5x.xx</td></tr>
+    <tr><td>30</td><td>1 unknown</td><td>5:42.xx</td></tr>
+    <tr><td>31</td><td>1 unknown</td><td>5:51.xx</td></tr>
+    <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#minx">Tommy Gustavsson</a>, Sweden</td><td>5:54.34</td></tr>
     <tr><td>33</td><td>1 unknown</td><td>6:0x.xx</td></tr>
     <tr><td>34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#minx">Ton Dennenbroek</a>, Netherlands</td><td>6:21.39</td></tr>
   </table>
