@@ -643,13 +643,15 @@
     <tr><td>12</td><td>1 unknown</td><td>7:06.xx</td></tr>
     <tr><td>13</td><td>1 unknown</td><td>7:36.xx</td></tr>
     <tr><td>14-15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#777">Raúl Morales Hidalgo</a>, Spain<br/>+ 1 unknown</td><td>7:56.30<br/>7:56.xx</td></tr>
-    <tr><td>16</td><td>1 unknown</td><td>8:0x.xx</td></tr>
+    <tr><td>16</td><td>1 unknown</td><td>8:02.xx</td></tr>
     <tr><td>17</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#777">Helmut Heilig</a>, Germany</td><td>8:16.11</td></tr>
-    <tr><td>18-19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#777">Ron van Bruchem</a>, Netherlands<br/>+ 1 unknown</td><td>8:25.95<br/>8:2x.xx</td></tr>
+    <tr><td>18</td><td>1 unknown</td><td>8:23.xx</td></tr>
+    <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#777">Ron van Bruchem</a>, Netherlands</td><td>8:25.95</td></tr>
     <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#777">Javier Tirado Ortiz</a>, Spain</td><td>8:48.27</td></tr>
     <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#777">Carl Brannen</a>, United States</td><td>9:06.07</td></tr>
-    <tr><td>22</td><td>1 unknown</td><td>10:xx.xx</td></tr>
-    <tr><td>23-24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>12:02.00<br/>12:xx.xx</td></tr>
+    <tr><td>22</td><td>1 unknown</td><td>10:2x.xx</td></tr>
+    <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands</td><td>12:02.00</td></tr>
+    <tr><td>24</td><td>1 unknown</td><td>12:1x.xx</td></tr>
     <tr><td>25</td><td>1 unknown</td><td>13:xx.xx</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#777">Tommy Gustavsson</a>, Sweden</td><td>17:11.00</td></tr>
   </table>
@@ -798,12 +800,15 @@
     <tr><td>128</td><td>1 unknown</td><td>1:38.xx</td></tr>
     <tr><td>129</td><td>1 unknown</td><td>1:43.xx</td></tr>
     <tr><td>130</td><td>1 unknown</td><td>1:50.xx</td></tr>
-    <tr><td>131-132</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands<br/>+ 1 unknown</td><td>2:06.90<br/>2:0x.xx</td></tr>
-    <tr><td>133</td><td>1 unknown</td><td>2:1x.xx</td></tr>
-    <tr><td>134</td><td>1 unknown</td><td>2:2x.xx</td></tr>
-    <tr><td>135</td><td>1 unknown</td><td>2:3x.xx</td></tr>
+    <tr><td>131</td><td>1 unknown</td><td>2:04.xx</td></tr>
+    <tr><td>132</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands</td><td>2:06.90</td></tr>
+    <tr><td>133</td><td>1 unknown</td><td>2:18.xx</td></tr>
+    <tr><td>134</td><td>1 unknown</td><td>2:21.xx</td></tr>
+    <tr><td>135</td><td>1 unknown</td><td>2:31.xx</td></tr>
     <tr><td>136</td><td>1 unknown</td><td>3:5x.xx</td></tr>
-    <tr><td>137-139</td><td>3 unknowns</td><td>4:xx.xx</td></tr>
+    <tr><td>137</td><td>1 unknown</td><td>4:0x.xx</td></tr>
+    <tr><td>138</td><td>1 unknown</td><td>4:3x.xx</td></tr>
+    <tr><td>139</td><td>1 unknown</td><td>4:5x.xx</td></tr>
     <tr><td>140</td><td>1 unknown</td><td>6:00.00+</td></tr>
   </table>
 </details>
