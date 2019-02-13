@@ -311,7 +311,7 @@
     <tr><td>1525-1526</td><td>2 unknowns</td><td>5:2x.xx</td></tr>
     <tr><td>1527</td><td>1 unknown</td><td>5:3x.xx</td></tr>
     <tr><td>1528</td><td>1 unknown</td><td>5:5x.xx</td></tr>
-    <tr><td>1529-1531</td><td>3 unknowns</td><td>6:00+</td></tr>
+    <tr><td>1529-1531</td><td>3 unknowns</td><td>6:00.00+</td></tr>
   </table>
 </details>
 
@@ -383,7 +383,8 @@
     <tr><td>612-613</td><td>2 unknowns</td><td>1:3x.xx</td></tr>
     <tr><td>614</td><td>1 unknown</td><td>1:4x.xx</td></tr>
     <tr><td>615-616</td><td>2 unknowns</td><td>1:5x.xx</td></tr>
-    <tr><td>617-620</td><td>4 unknowns</td><td>2:00+</td></tr>
+    <tr><td>617-618</td><td>2 unknowns</td><td>2:xx.xx</td></tr>
+    <tr><td>619-620</td><td>2 unknowns</td><td>3:00.00+</td></tr>
   </table>
 </details>
 
@@ -501,7 +502,7 @@
     <tr><td>183</td><td>1 unknown</td><td>4:5x.xx</td></tr>
     <tr><td>184</td><td>1 unknown</td><td>5:0x.xx</td></tr>
     <tr><td>185</td><td>1 unknown</td><td>5:1x.xx</td></tr>
-    <tr><td>186</td><td>1 unknown</td><td>6:00+</td></tr>
+    <tr><td>186</td><td>1 unknown</td><td>6:00.00+</td></tr>
   </table>
 </details>
 
@@ -580,7 +581,7 @@
     <tr><td>83</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland</td><td>6:43.47</td></tr>
     <tr><td>84-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:57.42<br/>6:5x.xx</td></tr>
     <tr><td>86-87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 1 unknown</td><td>7:07.85<br/>7:0x.xx</td></tr>
-    <tr><td>88-89</td><td>2 unknowns</td><td>8:00+</td></tr>
+    <tr><td>88-89</td><td>2 unknowns</td><td>8:00.00+</td></tr>
   </table>
 </details>
 
@@ -618,7 +619,7 @@
     <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01#666">David Barr</a>, United States</td><td>6:42.49</td></tr>
     <tr><td>29-30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#666">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>7:36.57<br/>7:3x.xx</td></tr>
     <tr><td>31</td><td>1 unknown</td><td>8:4x.xx</td></tr>
-    <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#666">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>10:26.00<br/>10:00+</td></tr>
+    <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#666">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>10:26.00<br/>10:00.00+</td></tr>
   </table>
 </details>
 
@@ -646,7 +647,10 @@
     <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#777">Ron van Bruchem</a>, Netherlands</td><td>8:25.95</td></tr>
     <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#777">Javier Tirado Ortiz</a>, Spain</td><td>8:48.27</td></tr>
     <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#777">Carl Brannen</a>, United States</td><td>9:06.07</td></tr>
-    <tr><td>22-26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#777">Tommy Gustavsson</a>, Sweden<br/>+ 3 unknowns</td><td>12:02.00<br/>17:11.00<br/>10:00+</td></tr>
+    <tr><td>22</td><td>1 unknown</td><td>10:xx.xx</td></tr>
+    <tr><td>23-24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>12:02.00<br/>12:xx.xx</td></tr>
+    <tr><td>25</td><td>1 unknown</td><td>13:xx.xx</td></tr>
+    <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#777">Tommy Gustavsson</a>, Sweden</td><td>17:11.00</td></tr>
   </table>
 </details>
 
@@ -720,7 +724,7 @@
     <tr><td>30-31</td><td>2 unknowns</td><td>52.xx</td></tr>
     <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016DUEH02#333fm">Jeremy Duehring</a>, United States<br/>+ 1 unknown</td><td>56.33<br/>56.xx</td></tr>
     <tr><td>34</td><td>1 unknown</td><td>58.xx</td></tr>
-    <tr><td>35-37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/>+ 2 unknowns</td><td>60.00<br/>60+</td></tr>
+    <tr><td>35-37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/>+ 2 unknowns</td><td>60.00<br/>60.00+</td></tr>
   </table>
 </details>
 
@@ -798,7 +802,8 @@
     <tr><td>134</td><td>1 unknown</td><td>2:2x.xx</td></tr>
     <tr><td>135</td><td>1 unknown</td><td>2:3x.xx</td></tr>
     <tr><td>136</td><td>1 unknown</td><td>3:5x.xx</td></tr>
-    <tr><td>137-140</td><td>4 unknowns</td><td>4:00+</td></tr>
+    <tr><td>137-139</td><td>3 unknowns</td><td>4:xx.xx</td></tr>
+    <tr><td>140</td><td>1 unknown</td><td>6:00.00+</td></tr>
   </table>
 </details>
 
@@ -823,7 +828,7 @@
     <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td>4:11.12</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td>4:14.21</td></tr>
     <tr><td>17</td><td>1 unknown</td><td>5:2x.xx</td></tr>
-    <tr><td>18</td><td>1 unknown</td><td>6:00+</td></tr>
+    <tr><td>18</td><td>1 unknown</td><td>8:00.00+</td></tr>
   </table>
 </details>
 
@@ -969,7 +974,7 @@
     <tr><td>324</td><td>1 unknown</td><td>1:2x.xx</td></tr>
     <tr><td>325</td><td>1 unknown</td><td>1:3x.xx</td></tr>
     <tr><td>326</td><td>1 unknown</td><td>1:5x.xx</td></tr>
-    <tr><td>327</td><td>1 unknown</td><td>2:00+</td></tr>
+    <tr><td>327</td><td>1 unknown</td><td>2:xx.xx</td></tr>
   </table>
 </details>
 

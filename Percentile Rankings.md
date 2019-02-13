@@ -281,7 +281,8 @@ Notes:
     <tr><td>1:40</td><td>12</td><td>67565</td><td>99.941</td><td>2</td><td>613</td><td>98.871</td><td>0</td><td>76</td><td>100.000</td></tr>
     <tr><td>1:50</td><td>12</td><td>67577</td><td>99.959</td><td>1</td><td>614</td><td>99.032</td><td>0</td><td>76</td><td>100.000</td></tr>
     <tr><td>2:00</td><td>9</td><td>67586</td><td>99.972</td><td>2</td><td>616</td><td>99.355</td><td>0</td><td>76</td><td>100.000</td></tr>
-    <tr><td>...</td><td>19</td><td>67605</td><td>100.000</td><td>4</td><td>620</td><td>100.000</td><td>0</td><td>76</td><td>100.000</td></tr>
+    <tr><td>3:00</td><td>15</td><td>67601</td><td>99.994</td><td>2</td><td>618</td><td>99.677</td><td>0</td><td>76</td><td>100.000</td></tr>
+    <tr><td>...</td><td>4</td><td>67605</td><td>100.000</td><td>2</td><td>620</td><td>100.000</td><td>0</td><td>76</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -1454,7 +1455,12 @@ Notes:
     <tr><td>9:40</td><td>10</td><td>3423</td><td>98.447</td><td>0</td><td>21</td><td>80.769</td><td>0</td><td>14</td><td>87.500</td></tr>
     <tr><td>9:50</td><td>4</td><td>3427</td><td>98.562</td><td>0</td><td>21</td><td>80.769</td><td>0</td><td>14</td><td>87.500</td></tr>
     <tr><td>10:00</td><td>8</td><td>3435</td><td>98.792</td><td>0</td><td>21</td><td>80.769</td><td>0</td><td>14</td><td>87.500</td></tr>
-    <tr><td>...</td><td>42</td><td>3477</td><td>100.000</td><td>5</td><td>26</td><td>100.000</td><td>2</td><td>16</td><td>100.000</td></tr>
+    <tr><td>11:00</td><td>14</td><td>3449</td><td>99.195</td><td>1</td><td>22</td><td>84.615</td><td>0</td><td>14</td><td>87.500</td></tr>
+    <tr><td>12:00</td><td>6</td><td>3455</td><td>99.367</td><td>0</td><td>22</td><td>84.615</td><td>0</td><td>14</td><td>87.500</td></tr>
+    <tr><td>13:00</td><td>9</td><td>3464</td><td>99.626</td><td>2</td><td>24</td><td>92.308</td><td>1</td><td>15</td><td>93.750</td></tr>
+    <tr><td>14:00</td><td>6</td><td>3470</td><td>99.799</td><td>1</td><td>25</td><td>96.154</td><td>0</td><td>15</td><td>93.750</td></tr>
+    <tr><td>15:00</td><td>3</td><td>3473</td><td>99.885</td><td>0</td><td>25</td><td>96.154</td><td>0</td><td>15</td><td>93.750</td></tr>
+    <tr><td>...</td><td>4</td><td>3477</td><td>100.000</td><td>1</td><td>26</td><td>100.000</td><td>1</td><td>16</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -1706,7 +1712,9 @@ Notes:
     <tr><td>7:40</td><td>0</td><td>1455</td><td>98.912</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
     <tr><td>7:50</td><td>2</td><td>1457</td><td>99.048</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
     <tr><td>8:00</td><td>3</td><td>1460</td><td>99.252</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
-    <tr><td>...</td><td>11</td><td>1471</td><td>100.000</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
+    <tr><td>9:00</td><td>5</td><td>1465</td><td>99.592</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
+    <tr><td>10:00</td><td>4</td><td>1469</td><td>99.864</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
+    <tr><td>...</td><td>2</td><td>1471</td><td>100.000</td><td>0</td><td>41</td><td>100.000</td><td>0</td><td>15</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -1881,7 +1889,9 @@ Notes:
     <tr><td>3:40</td><td>13</td><td>24950</td><td>99.780</td><td>0</td><td>135</td><td>96.429</td><td>0</td><td>48</td><td>100.000</td></tr>
     <tr><td>3:50</td><td>7</td><td>24957</td><td>99.808</td><td>0</td><td>135</td><td>96.429</td><td>0</td><td>48</td><td>100.000</td></tr>
     <tr><td>4:00</td><td>7</td><td>24964</td><td>99.836</td><td>1</td><td>136</td><td>97.143</td><td>0</td><td>48</td><td>100.000</td></tr>
-    <tr><td>...</td><td>41</td><td>25005</td><td>100.000</td><td>4</td><td>140</td><td>100.000</td><td>0</td><td>48</td><td>100.000</td></tr>
+    <tr><td>5:00</td><td>26</td><td>24990</td><td>99.940</td><td>3</td><td>139</td><td>99.286</td><td>0</td><td>48</td><td>100.000</td></tr>
+    <tr><td>6:00</td><td>9</td><td>24999</td><td>99.976</td><td>0</td><td>139</td><td>99.286</td><td>0</td><td>48</td><td>100.000</td></tr>
+    <tr><td>...</td><td>6</td><td>25005</td><td>100.000</td><td>1</td><td>140</td><td>100.000</td><td>0</td><td>48</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -2119,7 +2129,9 @@ Notes:
     <tr><td>5:40</td><td>11</td><td>1866</td><td>97.850</td><td>0</td><td>17</td><td>94.444</td><td>0</td><td>9</td><td>100.000</td></tr>
     <tr><td>5:50</td><td>6</td><td>1872</td><td>98.165</td><td>0</td><td>17</td><td>94.444</td><td>0</td><td>9</td><td>100.000</td></tr>
     <tr><td>6:00</td><td>5</td><td>1877</td><td>98.427</td><td>0</td><td>17</td><td>94.444</td><td>0</td><td>9</td><td>100.000</td></tr>
-    <tr><td>...</td><td>30</td><td>1907</td><td>100.000</td><td>1</td><td>18</td><td>100.000</td><td>0</td><td>9</td><td>100.000</td></tr>
+    <tr><td>7:00</td><td>19</td><td>1896</td><td>99.423</td><td>0</td><td>17</td><td>94.444</td><td>0</td><td>9</td><td>100.000</td></tr>
+    <tr><td>8:00</td><td>6</td><td>1902</td><td>99.738</td><td>0</td><td>17</td><td>94.444</td><td>0</td><td>9</td><td>100.000</td></tr>
+    <tr><td>...</td><td>5</td><td>1907</td><td>100.000</td><td>1</td><td>18</td><td>100.000</td><td>0</td><td>9</td><td>100.000</td></tr>
   </table>
 </details>
 
@@ -2502,7 +2514,8 @@ Notes:
     <tr><td>1:40</td><td>9</td><td>42572</td><td>99.918</td><td>1</td><td>325</td><td>99.388</td><td>0</td><td>50</td><td>100.000</td></tr>
     <tr><td>1:50</td><td>6</td><td>42578</td><td>99.932</td><td>0</td><td>325</td><td>99.388</td><td>0</td><td>50</td><td>100.000</td></tr>
     <tr><td>2:00</td><td>5</td><td>42583</td><td>99.944</td><td>1</td><td>326</td><td>99.694</td><td>0</td><td>50</td><td>100.000</td></tr>
-    <tr><td>...</td><td>24</td><td>42607</td><td>100.000</td><td>1</td><td>327</td><td>100.000</td><td>0</td><td>50</td><td>100.000</td></tr>
+    <tr><td>3:00</td><td>10</td><td>42593</td><td>99.967</td><td>1</td><td>327</td><td>100.000</td><td>0</td><td>50</td><td>100.000</td></tr>
+    <tr><td>...</td><td>14</td><td>42607</td><td>100.000</td><td>0</td><td>327</td><td>100.000</td><td>0</td><td>50</td><td>100.000</td></tr>
   </table>
 </details>
 
