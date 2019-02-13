@@ -576,9 +576,8 @@
     <tr><td>80-82</td><td>3 unknowns</td><td>5:4x.xx</td></tr>
     <tr><td>83</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland</td><td>6:43.47</td></tr>
     <tr><td>84-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:57.42<br/>6:5x.xx</td></tr>
-    <tr><td>86-87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 1 unknown</td><td>7:07.85<br/>7:0x.xx</td></tr>
-    <tr><td>88</td><td>1 unknown</td><td>9:xx.xx</td></tr>
-    <tr><td>89</td><td>1 unknown</td><td>10:00.00+</td></tr>
+    <tr><td>86-87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 1 unknown</td><td>7:07.85<br/>7:xx.xx</td></tr>
+    <tr><td>88-89</td><td>2 unknowns</td><td>8:00.00+</td></tr>
   </table>
 </details>
 
@@ -830,8 +829,8 @@
     <tr><td>14</td><td>1 unknown</td><td>3:52.xx</td></tr>
     <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td>4:11.12</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td>4:14.21</td></tr>
-    <tr><td>17</td><td>1 unknown</td><td>5:2x.xx</td></tr>
-    <tr><td>18</td><td>1 unknown</td><td>8:00.00+</td></tr>
+    <tr><td>17</td><td>1 unknown</td><td>5:xx.xx</td></tr>
+    <tr><td>18</td><td>1 unknown</td><td>6:00.00+</td></tr>
   </table>
 </details>
 
@@ -914,12 +913,10 @@
     <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#minx">Raúl Morales Hidalgo</a>, Spain</td><td>3:14.52</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#minx">Cari Goslow</a>, United States</td><td>3:43.16</td></tr>
     <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#minx">Javier Tirado Ortiz</a>, Spain</td><td>3:44.31</td></tr>
-    <tr><td>28</td><td>1 unknown</td><td>4:08.xx</td></tr>
+    <tr><td>28</td><td>1 unknown</td><td>4:0x.xx</td></tr>
     <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015BOSW01#minx">Brent Boswell</a>, South Africa</td><td>4:52.37</td></tr>
-    <tr><td>30-29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#minx">Michael Erskine</a>, United Kingdom</td><td>5:01.82</td></tr>
-    <tr><td>30</td><td>1 unknown</td><td>5:4x.xx</td></tr>
-    <tr><td>31-32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#minx">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>5:54.34<br/>5:5x.xx</td></tr>
-    <tr><td>33-34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#minx">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>6:21.39<br/>6:xx.xx</td></tr>
+    <tr><td>30-32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#minx">Michael Erskine</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#minx">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>5:01.82<br/>5:54.34<br/>5:xx.xx</td></tr>
+    <tr><td>33-34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#minx">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>6:21.39<br/>6:00.00+</td></tr>
   </table>
 </details>
 
