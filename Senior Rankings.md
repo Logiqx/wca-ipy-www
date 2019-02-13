@@ -692,10 +692,10 @@
     <tr><td>33</td><td>1 unknown</td><td>4:04.xx</td></tr>
     <tr><td>34</td><td>1 unknown</td><td>4:28.xx</td></tr>
     <tr><td>35</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#333bf">Luis J. Iáñez</a>, Spain</td><td>5:03.91</td></tr>
-    <tr><td>36</td><td>1 unknown</td><td>5:1x.xx</td></tr>
+    <tr><td>36</td><td>1 unknown</td><td>5:18.xx</td></tr>
     <tr><td>37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#333bf">Diego Millán Otón</a>, Spain</td><td>5:28.14</td></tr>
-    <tr><td>38</td><td>1 unknown</td><td>5:3x.xx</td></tr>
-    <tr><td>39</td><td>1 unknown</td><td>5:5x.xx</td></tr>
+    <tr><td>38</td><td>1 unknown</td><td>5:31.xx</td></tr>
+    <tr><td>39</td><td>1 unknown</td><td>5:57.xx</td></tr>
     <tr><td>40</td><td>1 unknown</td><td>6:2x.xx</td></tr>
     <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333bf">Bruce Norskog</a>, United States</td><td>7:13.18</td></tr>
   </table>
