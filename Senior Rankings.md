@@ -696,7 +696,7 @@
     <tr><td>37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#333bf">Diego Millán Otón</a>, Spain</td><td>5:28.14</td></tr>
     <tr><td>38</td><td>1 unknown</td><td>5:3x.xx</td></tr>
     <tr><td>39</td><td>1 unknown</td><td>5:5x.xx</td></tr>
-    <tr><td>40</td><td>1 unknown</td><td>6:2x.xx</td></tr>
+    <tr><td>40</td><td>1 unknown</td><td>6:xx.xx</td></tr>
     <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333bf">Bruce Norskog</a>, United States</td><td>7:13.18</td></tr>
   </table>
 </details>
