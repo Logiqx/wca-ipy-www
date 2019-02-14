@@ -441,8 +441,7 @@
     <tr><td>80-82</td><td>3 unknowns</td><td>5:4x.xx</td></tr>
     <tr><td>83</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland</td><td>6:43.47</td></tr>
     <tr><td>84-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:57.42<br/>6:5x.xx</td></tr>
-    <tr><td>86-87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 1 unknown</td><td>7:07.85<br/>7:xx.xx</td></tr>
-    <tr><td>88-89</td><td>2 unknowns</td><td>8:00.00+</td></tr>
+    <tr><td>86-89</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 3 unknowns</td><td>7:07.85<br/>7:00.00+</td></tr>
   </table>
 </details>
 
@@ -762,7 +761,7 @@
     <tr><td>30-29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#minx">Michael Erskine</a>, United Kingdom</td><td>5:01.82</td></tr>
     <tr><td>30</td><td>1 unknown</td><td>5:4x.xx</td></tr>
     <tr><td>31-32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#minx">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td>5:54.34<br/>5:5x.xx</td></tr>
-    <tr><td>33-34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#minx">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>6:21.39<br/>6:xx.xx</td></tr>
+    <tr><td>33-34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#minx">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>6:21.39<br/>6:00.00+</td></tr>
   </table>
 </details>
 
