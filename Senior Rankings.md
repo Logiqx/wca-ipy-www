@@ -629,8 +629,7 @@
     <tr><td>14</td><td>1 unknown</td><td>3:52.xx</td></tr>
     <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td>4:11.12</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td>4:14.21</td></tr>
-    <tr><td>17</td><td>1 unknown</td><td>5:2x.xx</td></tr>
-    <tr><td>18</td><td>1 unknown</td><td>6:00.00+</td></tr>
+    <tr><td>17-18</td><td>2 unknowns</td><td>5:00.00+</td></tr>
   </table>
 </details>
 
