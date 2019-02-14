@@ -585,8 +585,7 @@
     <tr><td>30-31</td><td>2 unknowns</td><td>52.xx</td></tr>
     <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016DUEH02#333fm">Jeremy Duehring</a>, United States<br/>+ 1 unknown</td><td>56.33<br/>56.xx</td></tr>
     <tr><td>34</td><td>1 unknown</td><td>58.xx</td></tr>
-    <tr><td>35-36</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/>+ 1 unknown</td><td>60.00<br/>6x.xx</td></tr>
-    <tr><td>37</td><td>1 unknown</td><td>7x.xx</td></tr>
+    <tr><td>35-37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/>+ 2 unknowns</td><td>60.00<br/>60.00+</td></tr>
   </table>
 </details>
 
