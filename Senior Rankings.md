@@ -729,7 +729,10 @@
     <tr><td>66</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#clock">Ton Dennenbroek</a>, Netherlands</td><td>34.75</td></tr>
     <tr><td>67</td><td>1 unknown</td><td>37.xx</td></tr>
     <tr><td>68</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#clock">Søren Schmidt</a>, Denmark</td><td>39.47</td></tr>
-    <tr><td>69-74</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#clock">Raúl Morales Hidalgo</a>, Spain<br/>+ 5 unknowns</td><td>44.93<br/>4x.xx</td></tr>
+    <tr><td>69</td><td>1 unknown</td><td>40.xx</td></tr>
+    <tr><td>70</td><td>1 unknown</td><td>43.xx</td></tr>
+    <tr><td>71-72</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#clock">Raúl Morales Hidalgo</a>, Spain<br/>+ 1 unknown</td><td>44.93<br/>44.xx</td></tr>
+    <tr><td>73-74</td><td>2 unknowns</td><td>49.xx</td></tr>
     <tr><td>75-76</td><td>2 unknowns</td><td>5x.xx</td></tr>
     <tr><td>77</td><td>1 unknown</td><td>1:0x.xx</td></tr>
     <tr><td>78</td><td>1 unknown</td><td>1:1x.xx</td></tr>
