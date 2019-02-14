@@ -317,13 +317,7 @@
     <tr><td>152-156</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#444">Guus Razoux Schultz</a>, Netherlands<br/>+ 4 unknowns</td><td>2:31.69<br/>2:3x.xx</td></tr>
     <tr><td>157-161</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#444">John Louis</a>, India<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#444">Jean-Louis Mathieu</a>, France<br/>+ 3 unknowns</td><td>2:41.50<br/>2:48.94<br/>2:4x.xx</td></tr>
     <tr><td>162-169</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">Bill McGaugh</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#444">Petri Vanhala</a>, Finland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#444">Bruce Norskog</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#444">Hans van der Zijden</a>, Netherlands<br/>+ 4 unknowns</td><td>2:51.00<br/>2:54.10<br/>2:59.37<br/>2:59.70<br/>2:5x.xx</td></tr>
-    <tr><td>170-172</td><td>3 unknowns</td><td>3:0x.xx</td></tr>
-    <tr><td>173</td><td>1 unknown</td><td>3:1x.xx</td></tr>
-    <tr><td>174-175</td><td>2 unknowns</td><td>3:2x.xx</td></tr>
-    <tr><td>176</td><td>1 unknown</td><td>3:3x.xx</td></tr>
-    <tr><td>177</td><td>1 unknown</td><td>3:4x.xx</td></tr>
-    <tr><td>178-179</td><td>2 unknowns</td><td>3:5x.xx</td></tr>
-    <tr><td>180-186</td><td>7 unknowns</td><td>4:00.00+</td></tr>
+    <tr><td>170-186</td><td>17 unknowns</td><td>3:00.00+</td></tr>
   </table>
 </details>
 
