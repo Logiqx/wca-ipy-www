@@ -312,16 +312,8 @@
     <tr><td>134</td><td>1 unknown</td><td>2:06.xx</td></tr>
     <tr><td>135</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444">Mats Bergsten</a>, Sweden</td><td>2:07.10</td></tr>
     <tr><td>136</td><td>1 unknown</td><td>2:09.xx</td></tr>
-    <tr><td>137</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004BOSS01#444">Arjan Bosse</a>, Netherlands</td><td>2:10.55</td></tr>
-    <tr><td>138</td><td>1 unknown</td><td>2:12.xx</td></tr>
-    <tr><td>139-141</td><td>3 unknowns</td><td>2:13.xx</td></tr>
-    <tr><td>142</td><td>1 unknown</td><td>2:14.xx</td></tr>
-    <tr><td>143-144</td><td>2 unknowns</td><td>2:15.xx</td></tr>
-    <tr><td>145</td><td>1 unknown</td><td>2:16.xx</td></tr>
-    <tr><td>146</td><td>1 unknown</td><td>2:17.xx</td></tr>
-    <tr><td>147-149</td><td>3 unknowns</td><td>2:20.xx</td></tr>
-    <tr><td>150</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#444">Angelo Federico</a>, France</td><td>2:22.63</td></tr>
-    <tr><td>151</td><td>1 unknown</td><td>2:26.xx</td></tr>
+    <tr><td>137-146</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004BOSS01#444">Arjan Bosse</a>, Netherlands<br/>+ 9 unknowns</td><td>2:10.55<br/>2:1x.xx</td></tr>
+    <tr><td>147-151</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#444">Angelo Federico</a>, France<br/>+ 4 unknowns</td><td>2:22.63<br/>2:2x.xx</td></tr>
     <tr><td>152-156</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#444">Guus Razoux Schultz</a>, Netherlands<br/>+ 4 unknowns</td><td>2:31.69<br/>2:3x.xx</td></tr>
     <tr><td>157-161</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#444">John Louis</a>, India<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#444">Jean-Louis Mathieu</a>, France<br/>+ 3 unknowns</td><td>2:41.50<br/>2:48.94<br/>2:4x.xx</td></tr>
     <tr><td>162-169</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">Bill McGaugh</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#444">Petri Vanhala</a>, Finland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#444">Bruce Norskog</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#444">Hans van der Zijden</a>, Netherlands<br/>+ 4 unknowns</td><td>2:51.00<br/>2:54.10<br/>2:59.37<br/>2:59.70<br/>2:5x.xx</td></tr>
