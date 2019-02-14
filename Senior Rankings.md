@@ -213,36 +213,9 @@
     <tr><td>1075-1081</td><td>7 unknowns</td><td>1:27.xx</td></tr>
     <tr><td>1082-1093</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States<br/>+ 11 unknowns</td><td>1:28.13<br/>1:28.xx</td></tr>
     <tr><td>1094-1097</td><td>4 unknowns</td><td>1:29.xx</td></tr>
-    <tr><td>1098-1106</td><td>9 unknowns</td><td>1:30.xx</td></tr>
-    <tr><td>1107-1113</td><td>7 unknowns</td><td>1:31.xx</td></tr>
-    <tr><td>1114-1119</td><td>6 unknowns</td><td>1:32.xx</td></tr>
-    <tr><td>1120-1129</td><td>10 unknowns</td><td>1:33.xx</td></tr>
-    <tr><td>1130-1138</td><td>9 unknowns</td><td>1:34.xx</td></tr>
-    <tr><td>1139-1149</td><td>11 unknowns</td><td>1:35.xx</td></tr>
-    <tr><td>1150-1160</td><td>11 unknowns</td><td>1:36.xx</td></tr>
-    <tr><td>1161-1166</td><td>6 unknowns</td><td>1:37.xx</td></tr>
-    <tr><td>1167-1170</td><td>4 unknowns</td><td>1:38.xx</td></tr>
-    <tr><td>1171-1175</td><td>5 unknowns</td><td>1:39.xx</td></tr>
-    <tr><td>1176-1184</td><td>9 unknowns</td><td>1:40.xx</td></tr>
-    <tr><td>1185-1191</td><td>7 unknowns</td><td>1:41.xx</td></tr>
-    <tr><td>1192-1202</td><td>11 unknowns</td><td>1:42.xx</td></tr>
-    <tr><td>1203-1207</td><td>5 unknowns</td><td>1:43.xx</td></tr>
-    <tr><td>1208-1215</td><td>8 unknowns</td><td>1:44.xx</td></tr>
-    <tr><td>1216-1219</td><td>4 unknowns</td><td>1:45.xx</td></tr>
-    <tr><td>1220-1226</td><td>7 unknowns</td><td>1:46.xx</td></tr>
-    <tr><td>1227-1240</td><td>14 unknowns</td><td>1:47.xx</td></tr>
-    <tr><td>1241-1243</td><td>3 unknowns</td><td>1:48.xx</td></tr>
-    <tr><td>1244-1251</td><td>8 unknowns</td><td>1:49.xx</td></tr>
-    <tr><td>1252-1259</td><td>8 unknowns</td><td>1:50.xx</td></tr>
-    <tr><td>1260-1268</td><td>9 unknowns</td><td>1:51.xx</td></tr>
-    <tr><td>1269-1275</td><td>7 unknowns</td><td>1:52.xx</td></tr>
-    <tr><td>1276-1277</td><td>2 unknowns</td><td>1:53.xx</td></tr>
-    <tr><td>1278-1282</td><td>5 unknowns</td><td>1:54.xx</td></tr>
-    <tr><td>1283-1289</td><td>7 unknowns</td><td>1:55.xx</td></tr>
-    <tr><td>1290-1293</td><td>4 unknowns</td><td>1:56.xx</td></tr>
-    <tr><td>1294-1297</td><td>4 unknowns</td><td>1:57.xx</td></tr>
-    <tr><td>1298-1299</td><td>2 unknowns</td><td>1:58.xx</td></tr>
-    <tr><td>1300-1306</td><td>7 unknowns</td><td>1:59.xx</td></tr>
+    <tr><td>1098-1175</td><td>78 unknowns</td><td>1:3x.xx</td></tr>
+    <tr><td>1176-1251</td><td>76 unknowns</td><td>1:4x.xx</td></tr>
+    <tr><td>1252-1306</td><td>55 unknowns</td><td>1:5x.xx</td></tr>
     <tr><td>1307-1349</td><td>43 unknowns</td><td>2:0x.xx</td></tr>
     <tr><td>1350-1380</td><td>31 unknowns</td><td>2:1x.xx</td></tr>
     <tr><td>1381-1418</td><td>38 unknowns</td><td>2:2x.xx</td></tr>
