@@ -2,13 +2,13 @@
 
 This project started on the [SpeedSolving.com](https://www.speedsolving.com/forum/threads/how-fast-are-the-over-40s-in-competitions.54128/) forum.
 
-The list of names is far from complete and investigations show that it only covers around 7% of the Over-40's. Most of the fastest people are included but a few are still missing.
+The list of names is incomplete and investigations show that it only covers around 7% of the Over-40's. Most of the fastest people are included but a few are still missing.
 
 If you would like your name to be added then either contact me via Speedsolving.com or [Facebook](https://www.facebook.com/michael.george.545).
 
 A <a href="https://cubing.mikeg.me.uk/oldies">dynamic page</a> listing personal records is also available but it does not factor in age at the time of the result(s).
 
-<h1>Official Competitors</h1>
+<h2>Official Competitors</h2>
 
 <details>
   <summary>Over 40s</summary>
@@ -137,7 +137,7 @@ A <a href="https://cubing.mikeg.me.uk/oldies">dynamic page</a> listing personal 
   </table>
 </details>
 
-<h1>Official Averages</h1>
+<h2>Official Averages</h2>
 
 <details>
   <summary>3x3x3 Cube</summary>
@@ -830,7 +830,7 @@ A <a href="https://cubing.mikeg.me.uk/oldies">dynamic page</a> listing personal 
   </table>
 </details>
 
-<h1>Official Singles</h1>
+<h2>Official Singles</h2>
 
 <details>
   <summary>3x3x3 Cube</summary>

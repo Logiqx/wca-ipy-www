@@ -6,7 +6,7 @@ The statistics below have been calculated using [aggregated data](sql/extract_se
 
 If you would like your name to be added then either contact me via Speedsolving.com or [Facebook](https://www.facebook.com/michael.george.545).
 
-<h1>Official Competitors</h1>
+<h2>Official Competitors</h2>
 
 <details>
   <summary>Over 40s</summary>
@@ -135,7 +135,7 @@ If you would like your name to be added then either contact me via Speedsolving.
   </table>
 </details>
 
-<h1>Official Averages</h1>
+<h2>Official Averages</h2>
 
 <details>
   <summary>3x3x3 Cube</summary>

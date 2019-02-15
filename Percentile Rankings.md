@@ -11,7 +11,7 @@ Notes:
 * "Known" columns relate to all of the people in the [Partial Over-40's Rankings](Over%2040s%20Rankings.md)
 
 
-<h1>Official Averages</h1>
+<h2>Official Averages</h2>
 
 <details>
   <summary>3x3x3 Cube</summary>
