@@ -2,9 +2,9 @@
 
 This project started on the [SpeedSolving.com](https://www.speedsolving.com/forum/threads/how-fast-are-the-over-40s-in-competitions.54128/) forum.
 
-The statistics below have been calculated using [aggregated data](sql/extract_senior_aggs.sql) from the WCA database.
+The statistics below have been calculated using [aggregated data](sql/extract_senior_aggs.sql) from the WCA database and [Partial Over-40's Rankings](Partial%20Rankings.md).
 
-If you would like your name to be added then either contact me via Speedsolving.com or [Facebook](https://www.facebook.com/michael.george.545).
+If you would like your name to be added then either contact me via [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/) or [Facebook](https://www.facebook.com/michael.george.545).
 
 <h2>Official Competitors</h2>
 
