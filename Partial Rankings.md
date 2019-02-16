@@ -8,10 +8,10 @@ If you would like your name to be added then either contact me via [Speedsolving
 
 A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is also available but it does not factor in age at the time of the result(s).
 
-<h2>Known Competitors</h2>
+<h2>Official Competitors</h2>
 
 <details>
-  <summary>Over 40s</summary>
+  <summary>Known Over-40s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>

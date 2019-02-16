@@ -6,10 +6,10 @@ The rankings below were created from the [Partial Over-40's Rankings](Partial%20
 
 If you would like your name to be added then either contact me via [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/) or [Facebook](https://www.facebook.com/michael.george.545).
 
-<h2>Known Competitors</h2>
+<h2>Official Competitors</h2>
 
 <details>
-  <summary>Over 40s</summary>
+  <summary>Known Over-40s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>
