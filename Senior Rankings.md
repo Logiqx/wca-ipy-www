@@ -636,7 +636,7 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333ft">Petri Vanhala</a>, Finland</td><td>2:32.24</td></tr>
     <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#333ft">François Courtès</a>, France</td><td>2:48.33</td></tr>
     <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#333ft">Hanns Hub</a>, Germany</td><td>2:57.01</td></tr>
-    <tr><td>14</td><td>1 unknown</td><td>3:52.xx</td></tr>
+    <tr><td>14</td><td>1 unknown</td><td>3:5x.xx</td></tr>
     <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td>4:11.12</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td>4:14.21</td></tr>
     <tr><td>17-18</td><td>2 unknowns</td><td>5:00.00+</td></tr>
