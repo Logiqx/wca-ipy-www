@@ -245,8 +245,8 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#333">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>26.83</td></tr>
     <tr><td>86</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>27.96</td></tr>
     <tr><td>87</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019CHIE01#333">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td>28.03</td></tr>
-    <tr><td>88</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States</td><td>28.82</td></tr>
-    <tr><td>89</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">Mark Adams</a>, United Kingdom</td><td>29.16</td></tr>
+    <tr><td>88</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">Mark Adams</a>, United Kingdom</td><td>28.59</td></tr>
+    <tr><td>89</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States</td><td>28.82</td></tr>
     <tr><td>90</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333">Petri Vanhala</a>, Finland</td><td>30.00</td></tr>
     <tr><td>91</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>32.03</td></tr>
     <tr><td>92</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LEIS01#333">Richard Leiser</a>, United Kingdom</td><td>32.15</td></tr>
@@ -482,8 +482,8 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006GALE01#555">Arnaud van Galen</a>, Netherlands</td><td>1:52.35</td></tr>
     <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01#555">Mike DeCock</a>, United States</td><td>1:55.31</td></tr>
     <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010STAS01#555">Vasily Stasyev</a>, Russia</td><td>1:57.48</td></tr>
-    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555">Mark Rivers</a>, United Kingdom</td><td>2:00.55</td></tr>
-    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#555">Andy Nicholls</a>, United Kingdom</td><td>2:00.67</td></tr>
+    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#555">Andy Nicholls</a>, United Kingdom</td><td>1:59.52</td></tr>
+    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555">Mark Rivers</a>, United Kingdom</td><td>2:00.55</td></tr>
     <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#555">Stefan Lidström</a>, Sweden</td><td>2:07.92</td></tr>
     <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#555">Helmut Heilig</a>, Germany</td><td>2:07.99</td></tr>
     <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#555">Raúl Morales Hidalgo</a>, Spain</td><td>2:08.71</td></tr>
@@ -963,8 +963,8 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ROUX01#333">Gilles Roux</a>, France</td><td>10.55</td></tr>
     <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005SUSE01#333">Yuji Suse (巣瀬雄史)</a>, Japan</td><td>10.63</td></tr>
     <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#333">Ton Dennenbroek</a>, Netherlands</td><td>11.21</td></tr>
-    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#333">Fumiki Koseki (古関章記)</a>, Japan</td><td>11.81</td></tr>
-    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01#333">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>11.82</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01#333">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>11.59</td></tr>
+    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#333">Fumiki Koseki (古関章記)</a>, Japan</td><td>11.81</td></tr>
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011STUA01#333">Rob Stuart</a>, United Kingdom</td><td>12.28</td></tr>
     <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#333">Helmut Heilig</a>, Germany</td><td>12.44</td></tr>
     <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#333">Chris Wright</a>, United Kingdom</td><td>12.62</td></tr>
@@ -1143,14 +1143,14 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#222">Mark Adams</a>, United Kingdom</td><td>5.72</td></tr>
     <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#222">Rafael Reyes</a>, United States</td><td>5.76</td></tr>
     <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#222">Jean-Louis Mathieu</a>, France</td><td>5.83</td></tr>
-    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006HYAK01#222">Ikuo Hyakuta (百田郁夫)</a>, Japan</td><td>5.93</td></tr>
+    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016EVAN04#222">Gavin Evans</a>, United Kingdom</td><td>5.90</td></tr>
+    <tr><td>51</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006HYAK01#222">Ikuo Hyakuta (百田郁夫)</a>, Japan</td><td>5.93</td></tr>
     <tr><td></td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#222">Bruce Norskog</a>, United States</td><td>5.93</td></tr>
-    <tr><td>52</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#222">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>5.98</td></tr>
-    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#222">Søren Schmidt</a>, Denmark</td><td>5.99</td></tr>
-    <tr><td>54</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015TAYL04#222">Richard Taylor</a>, United Kingdom</td><td>6.01</td></tr>
-    <tr><td>55</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#222">Eugenio Spadafora</a>, Italy</td><td>6.03</td></tr>
-    <tr><td>56</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#222">Angelo Federico</a>, France</td><td>6.15</td></tr>
-    <tr><td>57</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016EVAN04#222">Gavin Evans</a>, United Kingdom</td><td>6.41</td></tr>
+    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#222">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>5.98</td></tr>
+    <tr><td>54</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012SCHM07#222">Søren Schmidt</a>, Denmark</td><td>5.99</td></tr>
+    <tr><td>55</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015TAYL04#222">Richard Taylor</a>, United Kingdom</td><td>6.01</td></tr>
+    <tr><td>56</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#222">Eugenio Spadafora</a>, Italy</td><td>6.03</td></tr>
+    <tr><td>57</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#222">Angelo Federico</a>, France</td><td>6.15</td></tr>
     <tr><td>58</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#222">Guus Razoux Schultz</a>, Netherlands</td><td>6.46</td></tr>
     <tr><td>59</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#222">Petri Vanhala</a>, Finland</td><td>6.66</td></tr>
     <tr><td></td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#222">Cari Goslow</a>, United States</td><td>6.66</td></tr>
@@ -1200,11 +1200,11 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#444">Fumiki Koseki (古関章記)</a>, Japan</td><td>46.29</td></tr>
     <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007CINO01#444">Rafael Werneck de Andrade Cinoto</a>, Brazil</td><td>47.16</td></tr>
     <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012MENG02#444">Daniel Maggioni Meng</a>, Brazil</td><td>51.14</td></tr>
-    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#444">Chris Wright</a>, United Kingdom</td><td>51.46</td></tr>
-    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01#444">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>52.79</td></tr>
-    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#444">Javier Tirado Ortiz</a>, Spain</td><td>54.36</td></tr>
-    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#444">Helmut Heilig</a>, Germany</td><td>54.80</td></tr>
-    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#444">Mark Rivers</a>, United Kingdom</td><td>56.08</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#444">Mark Rivers</a>, United Kingdom</td><td>51.29</td></tr>
+    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#444">Chris Wright</a>, United Kingdom</td><td>51.46</td></tr>
+    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01#444">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>52.79</td></tr>
+    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#444">Javier Tirado Ortiz</a>, Spain</td><td>54.36</td></tr>
+    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#444">Helmut Heilig</a>, Germany</td><td>54.80</td></tr>
     <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01#444">Dave Campbell</a>, Canada</td><td>56.54</td></tr>
     <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01#444">Grzegorz Pacewicz</a>, Poland</td><td>56.55</td></tr>
     <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007DIAZ01#444">Agustín Díaz Morón</a>, Spain</td><td>56.90</td></tr>
@@ -1224,9 +1224,9 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#444">Ton Dennenbroek</a>, Netherlands</td><td>1:02.05</td></tr>
     <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011LAWR01#444">Scott Lawrence</a>, United Kingdom</td><td>1:02.81</td></tr>
     <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014JANE01#444">Piotr Janecki</a>, Poland</td><td>1:03.19</td></tr>
-    <tr><td>30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#444">Ciro Vignotto</a>, Italy</td><td>1:03.36</td></tr>
-    <tr><td>31</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#444">Mitja Popovski</a>, Slovenia</td><td>1:03.75</td></tr>
-    <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#444">Andy Nicholls</a>, United Kingdom</td><td>1:05.91</td></tr>
+    <tr><td>30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#444">Andy Nicholls</a>, United Kingdom</td><td>1:03.29</td></tr>
+    <tr><td>31</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#444">Ciro Vignotto</a>, Italy</td><td>1:03.36</td></tr>
+    <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016POPO02#444">Mitja Popovski</a>, Slovenia</td><td>1:03.75</td></tr>
     <tr><td>33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PETR01#444">Nikolai Petrov</a>, Bulgaria</td><td>1:06.12</td></tr>
     <tr><td>34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#444">Ben Coppin</a>, United Kingdom</td><td>1:06.38</td></tr>
     <tr><td>35</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003AKIM01#444">Masayuki Akimoto (秋元正行)</a>, Japan</td><td>1:10.41</td></tr>
@@ -1301,9 +1301,9 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01#555">Mike DeCock</a>, United States</td><td>1:45.06</td></tr>
     <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015NICH04#555">Andy Nicholls</a>, United Kingdom</td><td>1:49.66</td></tr>
     <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008LIDS01#555">Stefan Lidström</a>, Sweden</td><td>1:52.75</td></tr>
-    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016UMET02#555">Satoru Umetsu (梅津諭)</a>, Japan</td><td>1:57.06</td></tr>
-    <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#555">Mike Hughey</a>, United States</td><td>1:57.44</td></tr>
-    <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555">Mark Rivers</a>, United Kingdom</td><td>1:57.79</td></tr>
+    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#555">Mark Rivers</a>, United Kingdom</td><td>1:53.60</td></tr>
+    <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016UMET02#555">Satoru Umetsu (梅津諭)</a>, Japan</td><td>1:57.06</td></tr>
+    <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#555">Mike Hughey</a>, United States</td><td>1:57.44</td></tr>
     <tr><td>14</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010HEIL02#555">Helmut Heilig</a>, Germany</td><td>1:58.14</td></tr>
     <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012MENG02#555">Daniel Maggioni Meng</a>, Brazil</td><td>1:58.28</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01#555">François Courtès</a>, France</td><td>1:59.43</td></tr>
@@ -1468,7 +1468,7 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014JANE01#333bf">Piotr Janecki</a>, Poland</td><td>1:02.71</td></tr>
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011BOIS01#333bf">Thierry Boisivon</a>, France</td><td>1:03.66</td></tr>
     <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PARK24#333bf">Jae Park</a>, United States</td><td>1:18.88</td></tr>
-    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333bf">Mark Adams</a>, United Kingdom</td><td>1:33.15</td></tr>
+    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333bf">Mark Adams</a>, United Kingdom</td><td>1:23.47</td></tr>
     <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#333bf">Raúl Morales Hidalgo</a>, Spain</td><td>1:39.12</td></tr>
     <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003AKIM01#333bf">Masayuki Akimoto (秋元正行)</a>, Japan</td><td>1:44.61</td></tr>
     <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#333bf">Javier Tirado Ortiz</a>, Spain</td><td>1:44.69</td></tr>
@@ -1946,7 +1946,8 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#555bf">Raúl Morales Hidalgo</a>, Spain</td><td>28:31.00</td></tr>
     <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#555bf">Diego Millán Otón</a>, Spain</td><td>29:28.00</td></tr>
     <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#555bf">Gianluca Placenti</a>, Italy</td><td>30:46.00</td></tr>
-    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#555bf">Javier Tirado Ortiz</a>, Spain</td><td>34:57.00</td></tr>
+    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PARK24#555bf">Jae Park</a>, United States</td><td>33:42.00</td></tr>
+    <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#555bf">Javier Tirado Ortiz</a>, Spain</td><td>34:57.00</td></tr>
   </table>
 </details>
 
