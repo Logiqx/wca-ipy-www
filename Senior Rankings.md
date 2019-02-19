@@ -524,16 +524,14 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>23</td><td>1 unknown</td><td>2:55.xx</td></tr>
     <tr><td>24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333bf">Steve Clarke</a>, United Kingdom</td><td>2:57.73</td></tr>
     <tr><td>25</td><td>1 unknown</td><td>2:58.xx</td></tr>
-    <tr><td>26</td><td>1 unknown</td><td>3:0x.xx</td></tr>
-    <tr><td>27-30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333bf">Ben Coppin</a>, United Kingdom<br/>+ 3 unknowns</td><td>3:43.79<br/>3:4x.xx</td></tr>
-    <tr><td>31</td><td>1 unknown</td><td>3:5x.xx</td></tr>
+    <tr><td>26</td><td>1 unknown</td><td>3:05.xx</td></tr>
+    <tr><td>27</td><td>1 unknown</td><td>3:41.xx</td></tr>
+    <tr><td>28-29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#333bf">Ben Coppin</a>, United Kingdom<br/>+ 1 unknown</td><td>3:43.79<br/>3:43.xx</td></tr>
+    <tr><td>30</td><td>1 unknown</td><td>3:44.xx</td></tr>
+    <tr><td>31</td><td>1 unknown</td><td>3:53.xx</td></tr>
     <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007CINO01#333bf">Rafael Werneck de Andrade Cinoto</a>, Brazil<br/>+ 1 unknown</td><td>4:00.94<br/>4:0x.xx</td></tr>
     <tr><td>34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#333bf">Hanns Hub</a>, Germany</td><td>4:28.16</td></tr>
-    <tr><td>35</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#333bf">Luis J. Iáñez</a>, Spain</td><td>5:03.91</td></tr>
-    <tr><td>36</td><td>1 unknown</td><td>5:1x.xx</td></tr>
-    <tr><td>37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#333bf">Diego Millán Otón</a>, Spain</td><td>5:28.14</td></tr>
-    <tr><td>38</td><td>1 unknown</td><td>5:3x.xx</td></tr>
-    <tr><td>39</td><td>1 unknown</td><td>5:5x.xx</td></tr>
+    <tr><td>35-39</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#333bf">Luis J. Iáñez</a>, Spain<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#333bf">Diego Millán Otón</a>, Spain<br/>+ 3 unknowns</td><td>5:03.91<br/>5:28.14<br/>5:xx.xx</td></tr>
     <tr><td>40</td><td>1 unknown</td><td>6:xx.xx</td></tr>
     <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333bf">Bruce Norskog</a>, United States</td><td>7:13.18</td></tr>
   </table>
