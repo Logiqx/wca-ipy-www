@@ -333,19 +333,14 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>123-125</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#444">Maria Oey</a>, Indonesia<br/>+ 2 unknowns</td><td>1:57.10<br/>1:57.xx</td></tr>
     <tr><td>126</td><td>1 unknown</td><td>1:58.xx</td></tr>
     <tr><td>127</td><td>1 unknown</td><td>1:59.xx</td></tr>
-    <tr><td>128</td><td>1 unknown</td><td>2:00.xx</td></tr>
-    <tr><td>129</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#444">Hanns Hub</a>, Germany</td><td>2:01.97</td></tr>
-    <tr><td>130-132</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#444">Rafael Reyes</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#444">Michael Erskine</a>, United Kingdom<br/>+ 1 unknown</td><td>2:02.09<br/>2:02.56<br/>2:02.xx</td></tr>
-    <tr><td>133</td><td>1 unknown</td><td>2:05.xx</td></tr>
-    <tr><td>134</td><td>1 unknown</td><td>2:06.xx</td></tr>
-    <tr><td>135</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444">Mats Bergsten</a>, Sweden</td><td>2:07.10</td></tr>
-    <tr><td>136</td><td>1 unknown</td><td>2:09.xx</td></tr>
+    <tr><td>128-136</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#444">Hanns Hub</a>, Germany<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#444">Rafael Reyes</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#444">Michael Erskine</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444">Mats Bergsten</a>, Sweden<br/>+ 5 unknowns</td><td>2:01.97<br/>2:02.09<br/>2:02.56<br/>2:07.10<br/>2:0x.xx</td></tr>
     <tr><td>137-146</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004BOSS01#444">Arjan Bosse</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ASPE01#444">Lennart Aspelin</a>, Sweden<br/>+ 8 unknowns</td><td>2:10.55<br/>2:13.07<br/>2:1x.xx</td></tr>
     <tr><td>147-151</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#444">Angelo Federico</a>, France<br/>+ 4 unknowns</td><td>2:22.63<br/>2:2x.xx</td></tr>
     <tr><td>152-156</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#444">Guus Razoux Schultz</a>, Netherlands<br/>+ 4 unknowns</td><td>2:31.69<br/>2:3x.xx</td></tr>
     <tr><td>157-161</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#444">John Louis</a>, India<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#444">Jean-Louis Mathieu</a>, France<br/>+ 3 unknowns</td><td>2:41.50<br/>2:48.94<br/>2:4x.xx</td></tr>
     <tr><td>162-169</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">Bill McGaugh</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#444">Petri Vanhala</a>, Finland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#444">Bruce Norskog</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#444">Hans van der Zijden</a>, Netherlands<br/>+ 4 unknowns</td><td>2:51.00<br/>2:54.10<br/>2:59.37<br/>2:59.70<br/>2:5x.xx</td></tr>
-    <tr><td>170-186</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#444">Marius Rombout Ferreira van Riemsdijk</a>, Brazil<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#444">Örjan Johansson</a>, Sweden<br/>+ 15 unknowns</td><td>3:30.88<br/>4:55.17<br/>3:00.00+</td></tr>
+    <tr><td>170-179</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#444">Marius Rombout Ferreira van Riemsdijk</a>, Brazil<br/>+ 9 unknowns</td><td>3:30.88<br/>3:xx.xx</td></tr>
+    <tr><td>180-186</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#444">Örjan Johansson</a>, Sweden<br/>+ 6 unknowns</td><td>4:55.17<br/>4:00.00+</td></tr>
   </table>
 </details>
 
@@ -423,8 +418,7 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>75-78</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#555">Bill Berry</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#555">Mats Bergsten</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ASPE01#555">Lennart Aspelin</a>, Sweden<br/>+ 1 unknown</td><td>5:11.17<br/>5:13.84<br/>5:19.10<br/>5:1x.xx</td></tr>
     <tr><td>79</td><td>1 unknown</td><td>5:2x.xx</td></tr>
     <tr><td>80-82</td><td>3 unknowns</td><td>5:4x.xx</td></tr>
-    <tr><td>83</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland</td><td>6:43.47</td></tr>
-    <tr><td>84-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:57.42<br/>6:5x.xx</td></tr>
+    <tr><td>83-85</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#555">Petri Vanhala</a>, Finland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#555">John Louis</a>, India<br/>+ 1 unknown</td><td>6:43.47<br/>6:57.42<br/>6:xx.xx</td></tr>
     <tr><td>86-89</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#555">Maria Oey</a>, Indonesia<br/>+ 3 unknowns</td><td>7:07.85<br/>7:00.00+</td></tr>
   </table>
 </details>
@@ -457,7 +451,9 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>22</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#666">Hanns Hub</a>, Germany</td><td>5:35.43</td></tr>
     <tr><td>23-24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005THOM01#666">Reiner Thomsen</a>, Germany<br/>+ 1 unknown</td><td>5:40.80<br/>5:4x.xx</td></tr>
     <tr><td>25</td><td>1 unknown</td><td>5:5x.xx</td></tr>
-    <tr><td>26-28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01#666">David Barr</a>, United States<br/>+ 2 unknowns</td><td>6:42.49<br/>6:xx.xx</td></tr>
+    <tr><td>26</td><td>1 unknown</td><td>6:1x.xx</td></tr>
+    <tr><td>27</td><td>1 unknown</td><td>6:3x.xx</td></tr>
+    <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01#666">David Barr</a>, United States</td><td>6:42.49</td></tr>
     <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HOLM02#666">Tommy Holm</a>, Sweden</td><td>7:32.46</td></tr>
     <tr><td>30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#666">Ton Dennenbroek</a>, Netherlands</td><td>7:36.57</td></tr>
     <tr><td>31</td><td>1 unknown</td><td>8:xx.xx</td></tr>
@@ -488,8 +484,9 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>18-19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#777">Ron van Bruchem</a>, Netherlands<br/>+ 1 unknown</td><td>8:25.95<br/>8:2x.xx</td></tr>
     <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#777">Javier Tirado Ortiz</a>, Spain</td><td>8:48.27</td></tr>
     <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#777">Carl Brannen</a>, United States</td><td>9:06.07</td></tr>
-    <tr><td>22</td><td>1 unknown</td><td>10:xx.xx</td></tr>
-    <tr><td>23-24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td>12:02.00<br/>12:xx.xx</td></tr>
+    <tr><td>22</td><td>1 unknown</td><td>10:2x.xx</td></tr>
+    <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003DENN01#777">Ton Dennenbroek</a>, Netherlands</td><td>12:02.00</td></tr>
+    <tr><td>24</td><td>1 unknown</td><td>12:1x.xx</td></tr>
     <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HOLM02#777">Tommy Holm</a>, Sweden</td><td>13:09.00</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#777">Tommy Gustavsson</a>, Sweden</td><td>17:11.00</td></tr>
   </table>
@@ -534,7 +531,8 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#333bf">Diego Millán Otón</a>, Spain</td><td>5:28.14</td></tr>
     <tr><td>38</td><td>1 unknown</td><td>5:3x.xx</td></tr>
     <tr><td>39</td><td>1 unknown</td><td>5:5x.xx</td></tr>
-    <tr><td>40-41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333bf">Bruce Norskog</a>, United States<br/>+ 1 unknown</td><td>7:13.18<br/>6:00.00+</td></tr>
+    <tr><td>40</td><td>1 unknown</td><td>6:xx.xx</td></tr>
+    <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333bf">Bruce Norskog</a>, United States</td><td>7:13.18</td></tr>
   </table>
 </details>
 
@@ -563,7 +561,8 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>30-31</td><td>2 unknowns</td><td>52.xx</td></tr>
     <tr><td>32-33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016DUEH02#333fm">Jeremy Duehring</a>, United States<br/>+ 1 unknown</td><td>56.33<br/>56.xx</td></tr>
     <tr><td>34</td><td>1 unknown</td><td>58.xx</td></tr>
-    <tr><td>35-37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2010STAS01#333fm">Vasily Stasyev</a>, Russia<br/>+ 1 unknown</td><td>60.00<br/>72.33<br/>60.00+</td></tr>
+    <tr><td>35-36</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#333fm">Gianluca Placenti</a>, Italy<br/>+ 1 unknown</td><td>60.00<br/>6x.xx</td></tr>
+    <tr><td>37</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010STAS01#333fm">Vasily Stasyev</a>, Russia</td><td>72.33</td></tr>
   </table>
 </details>
 
@@ -636,7 +635,8 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>123-128</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#333oh">Maria Oey</a>, Indonesia<br/>+ 5 unknowns</td><td>1:33.43<br/>1:3x.xx</td></tr>
     <tr><td>129</td><td>1 unknown</td><td>1:4x.xx</td></tr>
     <tr><td>130</td><td>1 unknown</td><td>1:5x.xx</td></tr>
-    <tr><td>131-140</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#333oh">Örjan Johansson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands<br/>+ 8 unknowns</td><td>2:04.57<br/>2:06.90<br/>2:00.00+</td></tr>
+    <tr><td>131-135</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#333oh">Örjan Johansson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands<br/>+ 3 unknowns</td><td>2:04.57<br/>2:06.90<br/>2:xx.xx</td></tr>
+    <tr><td>136-140</td><td>5 unknowns</td><td>3:00.00+</td></tr>
   </table>
 </details>
 
@@ -708,8 +708,9 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>70</td><td>1 unknown</td><td>43.xx</td></tr>
     <tr><td>71-72</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#clock">Raúl Morales Hidalgo</a>, Spain<br/>+ 1 unknown</td><td>44.93<br/>44.xx</td></tr>
     <tr><td>73-74</td><td>2 unknowns</td><td>49.xx</td></tr>
-    <tr><td>75-76</td><td>2 unknowns</td><td>5x.xx</td></tr>
-    <tr><td>77-79</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PETR01#clock">Nikolai Petrov</a>, Bulgaria<br/>+ 2 unknowns</td><td>1:40.19<br/>1:00.00+</td></tr>
+    <tr><td>75</td><td>1 unknown</td><td>55.xx</td></tr>
+    <tr><td>76</td><td>1 unknown</td><td>56.xx</td></tr>
+    <tr><td>77-79</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PETR01#clock">Nikolai Petrov</a>, Bulgaria<br/>+ 2 unknowns</td><td>1:40.19<br/>1:xx.xx</td></tr>
   </table>
 </details>
 
