@@ -46,6 +46,7 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FERN01">Ernesto Fernández Regueira</a>, Spain</td><td>ernesto</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01">Eugenio Spadafora</a>, Italy</td><td>cubesp</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008CIRN01">Fabrizio Cirnigliaro</a>, Italy</td><td>Cubepark</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GALE02">Francesco Galetta</a>, Italy</td><td>Francesco Galetta</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008COUR01">François Courtès</a>, France</td><td>TMOY</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan</td><td>Fumiki</td></tr>
@@ -173,7 +174,7 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>228-246</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ASPE01#333">Lennart Aspelin</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#333">Jean-Louis Mathieu</a>, France<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#333">Michael Erskine</a>, United Kingdom<br/>+ 16 unknowns</td><td>25.41<br/>25.62<br/>25.97<br/>25.xx</td></tr>
     <tr><td>247-277</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">Cari Goslow</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02#333">Aaron Jody Cumes</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#333">Marius Rombout Ferreira van Riemsdijk</a>, Brazil<br/>+ 28 unknowns</td><td>26.42<br/>26.82<br/>26.83<br/>26.xx</td></tr>
     <tr><td>278-306</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany<br/>+ 28 unknowns</td><td>27.96<br/>27.xx</td></tr>
-    <tr><td>307-329</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019CHIE01#333">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">Mark Adams</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States<br/>+ 20 unknowns</td><td>28.03<br/>28.59<br/>28.82<br/>28.xx</td></tr>
+    <tr><td>307-329</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019CHIE01#333">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2015ADAM03#333">Mark Adams</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008CIRN01#333">Fabrizio Cirnigliaro</a>, Italy<br/>+ 19 unknowns</td><td>28.03<br/>28.59<br/>28.82<br/>28.98<br/>28.xx</td></tr>
     <tr><td>330-351</td><td>22 unknowns</td><td>29.xx</td></tr>
     <tr><td>352-375</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333">Petri Vanhala</a>, Finland<br/>+ 23 unknowns</td><td>30.00<br/>30.xx</td></tr>
     <tr><td>376-393</td><td>18 unknowns</td><td>31.xx</td></tr>
@@ -503,7 +504,7 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#333bf">Mark Rivers</a>, United Kingdom</td><td>1:05.21</td></tr>
     <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01#333bf">Grzegorz Pacewicz</a>, Poland</td><td>1:09.29</td></tr>
     <tr><td>5</td><td>1 unknown</td><td>1:15.xx</td></tr>
-    <tr><td>6</td><td>1 unknown</td><td>1:16.xx</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008CIRN01#333bf">Fabrizio Cirnigliaro</a>, Italy</td><td>1:16.21</td></tr>
     <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333bf">Mats Bergsten</a>, Sweden</td><td>1:20.39</td></tr>
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#333bf">Mike Hughey</a>, United States</td><td>1:23.01</td></tr>
     <tr><td>9</td><td>1 unknown</td><td>1:37.xx</td></tr>
