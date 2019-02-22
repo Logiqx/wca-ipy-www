@@ -2,6 +2,8 @@
 
 This project started on the [SpeedSolving.com](https://www.speedsolving.com/forum/threads/how-fast-are-the-over-40s-in-competitions.54128/) forum.
 
+This project contains a number of Jupyter Notebooks (formerly iPython / iPy) to produce reports for the senior members of the cubing community.
+
 Currently Available:
 
 * [Partial Over-40's Rankings](Partial%20Rankings.md) was only intended to be a one-off but has been maintained since 2015
