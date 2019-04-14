@@ -192,35 +192,35 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>504-520</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SALM01#333">Stuart Salmon</a>, United Kingdom<br/>+ 19 unknowns</td><td>37.05<br/>37.xx</td></tr>
     <tr><td>524-534</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017ROSA09#333">Bruno Rosa</a>, Italy<br/>+ 14 unknowns</td><td>38.52<br/>38.xx</td></tr>
     <tr><td>539-550</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#333">Bruce Norskog</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">Carl Brannen</a>, United States<br/>+ 14 unknowns</td><td>39.08<br/>39.76<br/>39.xx</td></tr>
-    <tr><td>555-563</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GEES01#333">Paul N. van de Geest</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017JANS02#333">Thomas Jansson</a>, Sweden<br/>+ 10 unknowns</td><td>40.29<br/>40.73<br/>40.xx</td></tr>
-    <tr><td>567-580</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary<br/>+ 16 unknowns</td><td>41.14<br/>41.97<br/>41.xx</td></tr>
-    <tr><td>585-595</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">Harry Goslow</a>, United States<br/>+ 14 unknowns</td><td>42.88<br/>42.xx</td></tr>
-    <tr><td>600-609</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">Steve Joiner</a>, United States<br/>+ 13 unknowns</td><td>43.01<br/>43.xx</td></tr>
-    <tr><td>614-621</td><td>12 unknowns</td><td>44.xx</td></tr>
-    <tr><td>626-636</td><td>13 unknowns</td><td>45.xx</td></tr>
-    <tr><td>639-650</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan<br/>+ 13 unknowns</td><td>46.83<br/>46.xx</td></tr>
-    <tr><td>653-662</td><td>12 unknowns</td><td>47.xx</td></tr>
-    <tr><td>665-681</td><td>19 unknowns</td><td>48.xx</td></tr>
-    <tr><td>684-690</td><td>9 unknowns</td><td>49.xx</td></tr>
-    <tr><td>693-701</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#333">Örjan Johansson</a>, Sweden<br/>+ 10 unknowns</td><td>50.66<br/>50.xx</td></tr>
-    <tr><td>704-711</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017THOR05#333">Jennifer Thorsen</a>, Sweden<br/>+ 9 unknowns</td><td>51.07<br/>51.xx</td></tr>
-    <tr><td>714-725</td><td>14 unknowns</td><td>52.xx</td></tr>
-    <tr><td>728-737</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PRAT08#333">Phillip Pratt</a>, United States<br/>+ 11 unknowns</td><td>53.62<br/>53.xx</td></tr>
-    <tr><td>740-744</td><td>7 unknowns</td><td>54.xx</td></tr>
-    <tr><td>747-756</td><td>12 unknowns</td><td>55.xx</td></tr>
-    <tr><td>759-766</td><td>10 unknowns</td><td>56.xx</td></tr>
-    <tr><td>769-776</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018LUMS01#333">Stuart Lumsden</a>, United Kingdom<br/>+ 9 unknowns</td><td>57.89<br/>57.xx</td></tr>
-    <tr><td>779-790</td><td>14 unknowns</td><td>58.xx</td></tr>
-    <tr><td>793-802</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#333">Rajinder Mahi</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2019ONOG01#333">Caner Onoglu</a>, Turkey<br/>+ 10 unknowns</td><td>59.24<br/>59.84<br/>59.xx</td></tr>
-    <tr><td>805-887</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom<br/>+ 84 unknowns</td><td>1:09.30<br/>1:0x.xx</td></tr>
-    <tr><td>890-1010</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia<br/>+ 119 unknowns</td><td>1:15.32<br/>1:15.87<br/>1:17.98<br/>1:19.32<br/>1:1x.xx</td></tr>
-    <tr><td>1013-1097</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States<br/>+ 86 unknowns</td><td>1:25.52<br/>1:28.13<br/>1:2x.xx</td></tr>
-    <tr><td>1101-1175</td><td>78 unknowns</td><td>1:3x.xx</td></tr>
-    <tr><td>1179-1251</td><td>76 unknowns</td><td>1:4x.xx</td></tr>
-    <tr><td>1255-1306</td><td>55 unknowns</td><td>1:5x.xx</td></tr>
-    <tr><td>1310-1473</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom<br/>+ 166 unknowns</td><td>2:35.10<br/>2:xx.xx</td></tr>
-    <tr><td>1477-1515</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States<br/>+ 41 unknowns</td><td>3:19.05<br/>3:xx.xx</td></tr>
-    <tr><td>1519-1531</td><td>16 unknowns</td><td>4:00.00+</td></tr>
+    <tr><td>555-562</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GEES01#333">Paul N. van de Geest</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017JANS02#333">Thomas Jansson</a>, Sweden<br/>+ 9 unknowns</td><td>40.29<br/>40.73<br/>40.xx</td></tr>
+    <tr><td>566-580</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary<br/>+ 16 unknowns</td><td>41.14<br/>41.97<br/>41.xx</td></tr>
+    <tr><td>584-595</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#333">Harry Goslow</a>, United States<br/>+ 14 unknowns</td><td>42.88<br/>42.xx</td></tr>
+    <tr><td>599-609</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015JOIN02#333">Steve Joiner</a>, United States<br/>+ 13 unknowns</td><td>43.01<br/>43.xx</td></tr>
+    <tr><td>613-621</td><td>12 unknowns</td><td>44.xx</td></tr>
+    <tr><td>625-636</td><td>13 unknowns</td><td>45.xx</td></tr>
+    <tr><td>638-650</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan<br/>+ 13 unknowns</td><td>46.83<br/>46.xx</td></tr>
+    <tr><td>652-662</td><td>12 unknowns</td><td>47.xx</td></tr>
+    <tr><td>664-681</td><td>19 unknowns</td><td>48.xx</td></tr>
+    <tr><td>683-690</td><td>9 unknowns</td><td>49.xx</td></tr>
+    <tr><td>692-701</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#333">Örjan Johansson</a>, Sweden<br/>+ 10 unknowns</td><td>50.66<br/>50.xx</td></tr>
+    <tr><td>703-711</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017THOR05#333">Jennifer Thorsen</a>, Sweden<br/>+ 9 unknowns</td><td>51.07<br/>51.xx</td></tr>
+    <tr><td>713-725</td><td>14 unknowns</td><td>52.xx</td></tr>
+    <tr><td>727-737</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PRAT08#333">Phillip Pratt</a>, United States<br/>+ 11 unknowns</td><td>53.62<br/>53.xx</td></tr>
+    <tr><td>739-744</td><td>7 unknowns</td><td>54.xx</td></tr>
+    <tr><td>746-756</td><td>12 unknowns</td><td>55.xx</td></tr>
+    <tr><td>758-766</td><td>10 unknowns</td><td>56.xx</td></tr>
+    <tr><td>768-776</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018LUMS01#333">Stuart Lumsden</a>, United Kingdom<br/>+ 9 unknowns</td><td>57.89<br/>57.xx</td></tr>
+    <tr><td>778-790</td><td>14 unknowns</td><td>58.xx</td></tr>
+    <tr><td>792-802</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#333">Rajinder Mahi</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2019ONOG01#333">Caner Onoglu</a>, Turkey<br/>+ 10 unknowns</td><td>59.24<br/>59.84<br/>59.xx</td></tr>
+    <tr><td>804-887</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom<br/>+ 84 unknowns</td><td>1:09.30<br/>1:0x.xx</td></tr>
+    <tr><td>889-1009</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia<br/>+ 118 unknowns</td><td>1:15.32<br/>1:15.87<br/>1:17.98<br/>1:19.32<br/>1:1x.xx</td></tr>
+    <tr><td>1011-1097</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States<br/>+ 86 unknowns</td><td>1:25.52<br/>1:28.13<br/>1:2x.xx</td></tr>
+    <tr><td>1099-1175</td><td>78 unknowns</td><td>1:3x.xx</td></tr>
+    <tr><td>1177-1251</td><td>76 unknowns</td><td>1:4x.xx</td></tr>
+    <tr><td>1253-1306</td><td>55 unknowns</td><td>1:5x.xx</td></tr>
+    <tr><td>1308-1473</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom<br/>+ 166 unknowns</td><td>2:35.10<br/>2:xx.xx</td></tr>
+    <tr><td>1475-1515</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States<br/>+ 41 unknowns</td><td>3:19.05<br/>3:xx.xx</td></tr>
+    <tr><td>1517-1531</td><td>16 unknowns</td><td>4:00.00+</td></tr>
   </table>
 </details>
 
@@ -246,22 +246,22 @@ If you would like your name to be added then either contact me via [Speedsolving
     <tr><td>334-341</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02#222">Aaron Jody Cumes</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018PRAT13#222">James Pratt</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01#222">David Barr</a>, United States<br/>+ 9 unknowns</td><td>15.59<br/>15.60<br/>15.87<br/>15.xx</td></tr>
     <tr><td>346-356</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016LEWI07#222">Phil Lewis</a>, United States<br/>+ 14 unknowns</td><td>16.95<br/>16.xx</td></tr>
     <tr><td>361-367</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#222">Mark Paling</a>, United Kingdom<br/>+ 10 unknowns</td><td>17.58<br/>17.xx</td></tr>
-    <tr><td>372-387</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017JANS02#222">Thomas Jansson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SMIT42#222">Daniel Smith</a>, United States<br/>+ 18 unknowns</td><td>18.69<br/>18.91<br/>18.xx</td></tr>
-    <tr><td>392-410</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#222">Örjan Johansson</a>, Sweden<br/>+ 23 unknowns</td><td>19.82<br/>19.xx</td></tr>
-    <tr><td>416-422</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ISHI01#222">Hiroshi Ishino (石野弘司)</a>, Japan<br/>+ 11 unknowns</td><td>20.64<br/>20.xx</td></tr>
-    <tr><td>428-430</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#222">Rajinder Mahi</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#222">Danie Viljoen</a>, South Africa<br/>+ 6 unknowns</td><td>21.82<br/>21.91<br/>21.xx</td></tr>
-    <tr><td>436-436</td><td>6 unknowns</td><td>22.xx</td></tr>
-    <tr><td>442-446</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#222">John Louis</a>, India<br/>+ 9 unknowns</td><td>23.01<br/>23.xx</td></tr>
-    <tr><td>452-456</td><td>10 unknowns</td><td>24.xx</td></tr>
-    <tr><td>462-464</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#222">Carl Brannen</a>, United States<br/>+ 7 unknowns</td><td>25.36<br/>25.xx</td></tr>
-    <tr><td>470-470</td><td>6 unknowns</td><td>26.xx</td></tr>
-    <tr><td>476-484</td><td>14 unknowns</td><td>27.xx</td></tr>
-    <tr><td>490-492</td><td>8 unknowns</td><td>28.xx</td></tr>
-    <tr><td>498-505</td><td>13 unknowns</td><td>29.xx</td></tr>
-    <tr><td>511-555</td><td>50 unknowns</td><td>3x.xx</td></tr>
-    <tr><td>561-575</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#222">David Zemdegs</a>, Australia<br/>+ 19 unknowns</td><td>46.18<br/>4x.xx</td></tr>
-    <tr><td>581-597</td><td>22 unknowns</td><td>5x.xx</td></tr>
-    <tr><td>603-620</td><td>23 unknowns</td><td>1:00.00+</td></tr>
+    <tr><td>372-386</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017JANS02#222">Thomas Jansson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SMIT42#222">Daniel Smith</a>, United States<br/>+ 17 unknowns</td><td>18.69<br/>18.91<br/>18.xx</td></tr>
+    <tr><td>391-410</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#222">Örjan Johansson</a>, Sweden<br/>+ 23 unknowns</td><td>19.82<br/>19.xx</td></tr>
+    <tr><td>415-422</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ISHI01#222">Hiroshi Ishino (石野弘司)</a>, Japan<br/>+ 11 unknowns</td><td>20.64<br/>20.xx</td></tr>
+    <tr><td>427-430</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#222">Rajinder Mahi</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#222">Danie Viljoen</a>, South Africa<br/>+ 6 unknowns</td><td>21.82<br/>21.91<br/>21.xx</td></tr>
+    <tr><td>435-436</td><td>6 unknowns</td><td>22.xx</td></tr>
+    <tr><td>441-446</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#222">John Louis</a>, India<br/>+ 9 unknowns</td><td>23.01<br/>23.xx</td></tr>
+    <tr><td>451-456</td><td>10 unknowns</td><td>24.xx</td></tr>
+    <tr><td>461-464</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#222">Carl Brannen</a>, United States<br/>+ 7 unknowns</td><td>25.36<br/>25.xx</td></tr>
+    <tr><td>469-470</td><td>6 unknowns</td><td>26.xx</td></tr>
+    <tr><td>475-484</td><td>14 unknowns</td><td>27.xx</td></tr>
+    <tr><td>489-492</td><td>8 unknowns</td><td>28.xx</td></tr>
+    <tr><td>497-505</td><td>13 unknowns</td><td>29.xx</td></tr>
+    <tr><td>510-555</td><td>50 unknowns</td><td>3x.xx</td></tr>
+    <tr><td>560-575</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#222">David Zemdegs</a>, Australia<br/>+ 19 unknowns</td><td>46.18<br/>4x.xx</td></tr>
+    <tr><td>580-597</td><td>22 unknowns</td><td>5x.xx</td></tr>
+    <tr><td>602-620</td><td>23 unknowns</td><td>1:00.00+</td></tr>
   </table>
 </details>
 
