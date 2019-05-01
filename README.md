@@ -6,7 +6,7 @@ It contains a number of Jupyter Notebooks (iPython / iPy) to produce reports for
 
 Currently Available:
 
-* [Partial Over-40's Rankings](Partial%20Rankings.md) was only intended to be a one-off but has been maintained since 2015
-* [Representative Over-40's Rankings](Senior%20Rankings.md) adds anonymised counts to the partial rankings, thus showing all over-40's
-* [Percentile Rankings](Percentile%20Rankings.md) shows how times are distributed for the WCA community and the over-40's
+* [Partial Over-40's Rankings](Partial_Rankings.md) was only intended to be a one-off but has been maintained since 2015
+* [Representative Over-40's Rankings](Senior_Rankings.md) adds anonymised counts to the partial rankings, thus showing all over-40's
+* [Percentile Rankings](Percentile_Rankings.md) shows how times are distributed for the WCA community and the over-40's
 
