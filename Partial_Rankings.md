@@ -1061,6 +1061,30 @@ A [dynamic page](https://cubing.mikeg.me.uk/oldies) listing personal records is 
   </table>
 </details>
 
+<details>
+  <summary>4x4x4 Blindfolded</summary>
+  <table>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
+    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#444bf">Mark Rivers</a>, United Kingdom</td><td>5:56.60</td></tr>
+    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#444bf">István Kocza</a>, Hungary</td><td>6:01.41</td></tr>
+    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#444bf">Mike Hughey</a>, United States</td><td>6:37.86</td></tr>
+    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444bf">Mats Bergsten</a>, Sweden</td><td>7:17.03</td></tr>
+    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008CIRN01#444bf">Fabrizio Cirnigliaro</a>, Italy</td><td>8:49.25</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#444bf">Hanns Hub</a>, Germany</td><td>12:24.33</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>5x5x5 Blindfolded</summary>
+  <table>
+    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
+    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOCZ01#555bf">István Kocza</a>, Hungary</td><td>12:31.33</td></tr>
+    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#555bf">Mike Hughey</a>, United States</td><td>13:02.00</td></tr>
+    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#555bf">Mats Bergsten</a>, Sweden</td><td>15:21.67</td></tr>
+    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#555bf">Hanns Hub</a>, Germany</td><td>29:55.33</td></tr>
+  </table>
+</details>
+
 <h2>Official Singles</h2>
 
 <details>
