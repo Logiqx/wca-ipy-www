@@ -363,10 +363,10 @@ Tip: Best viewed in landscape mode on mobile phones and some tablets.
     <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014PACE01#222">Grzegorz Pacewicz</a>, Poland</td><td>6.59</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#222">Jesús Masanet García</a>, Spain</td><td>6.63</td></tr>
     <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011YOSH01#222">Ryohei Yoshioka (吉岡亮平)</a>, Japan</td><td>6.65</td></tr>
-    <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#222">Mike Hughey</a>, United States</td><td>6.68</td></tr>
+    <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#222">Gianluca Placenti</a>, Italy</td><td>6.67</td></tr>
+    <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#222">Mike Hughey</a>, United States</td><td>6.68</td></tr>
     <tr><td></td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#222">Ciro Vignotto</a>, Italy</td><td>6.68</td></tr>
-    <tr><td>30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005THOM01#222">Reiner Thomsen</a>, Germany</td><td>6.69</td></tr>
-    <tr><td>31</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#222">Gianluca Placenti</a>, Italy</td><td>6.74</td></tr>
+    <tr><td>31</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005THOM01#222">Reiner Thomsen</a>, Germany</td><td>6.69</td></tr>
     <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#222">Jason Green</a>, United States</td><td>6.77</td></tr>
     <tr><td>33</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013LKHA01#222">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td>6.80</td></tr>
     <tr><td>34</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015RIVE05#222">Mark Rivers</a>, United Kingdom</td><td>6.89</td></tr>
@@ -1659,9 +1659,9 @@ Tip: Best viewed in landscape mode on mobile phones and some tablets.
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010DELI02#777">Miroslav Delinac</a>, Croatia</td><td>6:47.34</td></tr>
     <tr><td>17</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017LAWR04#777">Timothy Lawrance</a>, South Africa</td><td>6:52.10</td></tr>
     <tr><td>18</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009TIRA01#777">Javier Tirado Ortiz</a>, Spain</td><td>6:58.55</td></tr>
-    <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#777">Raúl Morales Hidalgo</a>, Spain</td><td>7:20.31</td></tr>
-    <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005THOM01#777">Reiner Thomsen</a>, Germany</td><td>7:24.56</td></tr>
-    <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#777">Gianluca Placenti</a>, Italy</td><td>7:37.21</td></tr>
+    <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#777">Gianluca Placenti</a>, Italy</td><td>7:04.77</td></tr>
+    <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013MORA02#777">Raúl Morales Hidalgo</a>, Spain</td><td>7:20.31</td></tr>
+    <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005THOM01#777">Reiner Thomsen</a>, Germany</td><td>7:24.56</td></tr>
     <tr><td>22</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016UMET02#777">Satoru Umetsu (梅津諭)</a>, Japan</td><td>7:39.71</td></tr>
     <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011YOSH01#777">Ryohei Yoshioka (吉岡亮平)</a>, Japan</td><td>7:45.53</td></tr>
     <tr><td>24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016DUEH02#777">Jeremy Duehring</a>, United States</td><td>7:45.71</td></tr>
@@ -2222,7 +2222,7 @@ Tip: Best viewed in landscape mode on mobile phones and some tablets.
     <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#444bf">Chad Harris</a>, United States</td><td>9:24.90</td></tr>
     <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012OTAN01#444bf">Diego Millán Otón</a>, Spain</td><td>9:33.00</td></tr>
     <tr><td>14</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#444bf">Hanns Hub</a>, Germany</td><td>10:18.00</td></tr>
-    <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#444bf">Gianluca Placenti</a>, Italy</td><td>10:55.00</td></tr>
+    <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012PLAC01#444bf">Gianluca Placenti</a>, Italy</td><td>10:53.00</td></tr>
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005SUSE01#444bf">Yuji Suse (巣瀬雄史)</a>, Japan</td><td>18:15.00</td></tr>
   </table>
 </details>
