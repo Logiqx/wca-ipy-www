@@ -15,6 +15,8 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
+Last refreshed: 2019-05-16 12:20:11 (UTC)
+
 <h2>Official Averages</h2>
 
 <details>
