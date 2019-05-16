@@ -14,7 +14,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-16 17:09:05 (UTC)
+Last refreshed: 2019-05-16 17:15:21 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -402,7 +402,7 @@ Last refreshed: 2019-05-16 17:09:05 (UTC)
     <tr><td>125-127</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#444">Maria Oey</a>, Indonesia<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2010WENS01#444">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>+ 1 unknown</td><td>1:57.10<br/>1:57.59<br/>1:57.xx</td></tr>
     <tr><td>128</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018PRAT13#444">James Pratt</a>, United Kingdom</td><td>1:58.59</td></tr>
     <tr><td>129</td><td>1 unknown</td><td>1:59.xx</td></tr>
-    <tr><td>130-137</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#444">Rafael Reyes</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#444">Michael Erskine</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006KASP02#444">Sander Kaspers</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444">Mats Bergsten</a>, Sweden<br/>+ 4 unknowns</td><td>2:02.09<br/>2:02.56<br/>2:03.01<br/>2:07.10<br/>2:0x.xx</td></tr>
+    <tr><td>130-137</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYE08#444">Rafael Reyes</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01#444">Michael Erskine</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#444">Mats Bergsten</a>, Sweden<br/>+ 5 unknowns</td><td>2:02.09<br/>2:02.56<br/>2:07.10<br/>2:0x.xx</td></tr>
     <tr><td>138-147</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004BOSS01#444">Arjan Bosse</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANDE01#444">Peter Andersson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ASPE01#444">Lennart Aspelin</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2012ADRI01#444">Adrian Roșu</a>, Romania<br/>+ 6 unknowns</td><td>2:10.55<br/>2:12.51<br/>2:13.07<br/>2:13.13<br/>2:1x.xx</td></tr>
     <tr><td>148-152</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004FEDE01#444">Angelo Federico</a>, France<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYN07#444">Laurent Reynaud</a>, France<br/>+ 3 unknowns</td><td>2:22.63<br/>2:26.41<br/>2:2x.xx</td></tr>
     <tr><td>153-158</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982RAZO01#444">Guus Razoux Schultz</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HERM02#444">Janis Hermanis</a>, Latvia<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2007DOUT01#444">Peter Douthwright</a>, Canada<br/>+ 3 unknowns</td><td>2:31.69<br/>2:33.12<br/>2:35.84<br/>2:3x.xx</td></tr>
