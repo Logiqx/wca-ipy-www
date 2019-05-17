@@ -1,6 +1,6 @@
-# Representative Over-40's Rankings
-
 ![alt text](img/logo.jpg "logo")
+
+# Representative Over-40's Rankings
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
@@ -14,7 +14,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-17 10:14:12 (UTC)
+Last refreshed: 2019-05-17 11:19:19 (UTC)
 
 <h2>Official Competitors</h2>
 
