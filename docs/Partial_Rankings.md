@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-18 12:20:14 (UTC)
+Last refreshed: 2019-05-18 15:19:12 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -1763,30 +1763,29 @@ Last refreshed: 2019-05-18 12:20:14 (UTC)
     <tr><td>99</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#444">Bill Berry</a>, United States</td><td>1:59.84</td></tr>
     <tr><td>100</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012ADRI01#444">Adrian Roșu</a>, Romania</td><td>2:00.13</td></tr>
     <tr><td>101</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015REYN07#444">Laurent Reynaud</a>, France</td><td>2:00.38</td></tr>
-    <tr><td>102</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016EVAN04#444">Gavin Evans</a>, United Kingdom</td><td>2:03.02</td></tr>
-    <tr><td>103</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005PARI01#444">Javier París</a>, Spain</td><td>2:08.08</td></tr>
-    <tr><td>104</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007DOUT01#444">Peter Douthwright</a>, Canada</td><td>2:12.56</td></tr>
-    <tr><td>105</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HERM02#444">Janis Hermanis</a>, Latvia</td><td>2:13.07</td></tr>
-    <tr><td>106</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017ROSS10#444">Javier Agustín Rossi</a>, Argentina</td><td>2:15.77</td></tr>
-    <tr><td>107</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SCHE08#444">Denis Scheehl</a>, France</td><td>2:17.51</td></tr>
-    <tr><td>108</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">Bill McGaugh</a>, United States</td><td>2:19.77</td></tr>
-    <tr><td>109</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#444">John Louis</a>, India</td><td>2:20.60</td></tr>
-    <tr><td>110</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#444">Jean-Louis Mathieu</a>, France</td><td>2:21.58</td></tr>
-    <tr><td>111</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003LARS01#444">Anders Larsson</a>, Sweden</td><td>2:25.87</td></tr>
-    <tr><td>112</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#444">Bruce Norskog</a>, United States</td><td>2:26.58</td></tr>
-    <tr><td>113</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#444">Eugenio Spadafora</a>, Italy</td><td>2:27.48</td></tr>
-    <tr><td>114</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#444">Petri Vanhala</a>, Finland</td><td>2:39.33</td></tr>
-    <tr><td>115</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019POLL04#444">Ruud Pollé</a>, Netherlands</td><td>2:41.58</td></tr>
-    <tr><td>116</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018BENN01#444">Hans Bennis</a>, Netherlands</td><td>2:44.12</td></tr>
-    <tr><td>117</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#444">Hans van der Zijden</a>, Netherlands</td><td>2:44.36</td></tr>
-    <tr><td>118</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#444">Robert D. Johnson</a>, United States</td><td>2:57.41</td></tr>
-    <tr><td>119</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#444">Jérôme Fréguin</a>, Canada</td><td>3:11.27</td></tr>
-    <tr><td>120</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#444">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>3:13.81</td></tr>
-    <tr><td>121</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PRAT08#444">Phillip Pratt</a>, United States</td><td>3:14.96</td></tr>
-    <tr><td>122</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#444">Harry Goslow</a>, United States</td><td>3:36.77</td></tr>
-    <tr><td>123</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008GARC05#444">Patrick Garcin</a>, France</td><td>3:39.08</td></tr>
-    <tr><td>124</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014NIET01#444">Hernán Nieto</a>, Argentina</td><td>3:45.58</td></tr>
-    <tr><td>125</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#444">Örjan Johansson</a>, Sweden</td><td>3:53.16</td></tr>
+    <tr><td>102</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005PARI01#444">Javier París</a>, Spain</td><td>2:08.08</td></tr>
+    <tr><td>103</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007DOUT01#444">Peter Douthwright</a>, Canada</td><td>2:12.56</td></tr>
+    <tr><td>104</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HERM02#444">Janis Hermanis</a>, Latvia</td><td>2:13.07</td></tr>
+    <tr><td>105</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017ROSS10#444">Javier Agustín Rossi</a>, Argentina</td><td>2:15.77</td></tr>
+    <tr><td>106</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SCHE08#444">Denis Scheehl</a>, France</td><td>2:17.51</td></tr>
+    <tr><td>107</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#444">Bill McGaugh</a>, United States</td><td>2:19.77</td></tr>
+    <tr><td>108</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#444">John Louis</a>, India</td><td>2:20.60</td></tr>
+    <tr><td>109</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#444">Jean-Louis Mathieu</a>, France</td><td>2:21.58</td></tr>
+    <tr><td>110</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003LARS01#444">Anders Larsson</a>, Sweden</td><td>2:25.87</td></tr>
+    <tr><td>111</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006NORS01#444">Bruce Norskog</a>, United States</td><td>2:26.58</td></tr>
+    <tr><td>112</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SPAD01#444">Eugenio Spadafora</a>, Italy</td><td>2:27.48</td></tr>
+    <tr><td>113</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#444">Petri Vanhala</a>, Finland</td><td>2:39.33</td></tr>
+    <tr><td>114</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019POLL04#444">Ruud Pollé</a>, Netherlands</td><td>2:41.58</td></tr>
+    <tr><td>115</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018BENN01#444">Hans Bennis</a>, Netherlands</td><td>2:44.12</td></tr>
+    <tr><td>116</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01#444">Hans van der Zijden</a>, Netherlands</td><td>2:44.36</td></tr>
+    <tr><td>117</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009JOHN07#444">Robert D. Johnson</a>, United States</td><td>2:57.41</td></tr>
+    <tr><td>118</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01#444">Jérôme Fréguin</a>, Canada</td><td>3:11.27</td></tr>
+    <tr><td>119</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#444">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>3:13.81</td></tr>
+    <tr><td>120</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PRAT08#444">Phillip Pratt</a>, United States</td><td>3:14.96</td></tr>
+    <tr><td>121</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#444">Harry Goslow</a>, United States</td><td>3:36.77</td></tr>
+    <tr><td>122</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008GARC05#444">Patrick Garcin</a>, France</td><td>3:39.08</td></tr>
+    <tr><td>123</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014NIET01#444">Hernán Nieto</a>, Argentina</td><td>3:45.58</td></tr>
+    <tr><td>124</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#444">Örjan Johansson</a>, Sweden</td><td>3:53.16</td></tr>
   </table>
 </details>
 
