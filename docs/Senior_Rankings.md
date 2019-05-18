@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-18 11:11:32 (UTC)
+Last refreshed: 2019-05-18 12:02:40 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -54,7 +54,6 @@ Last refreshed: 2019-05-18 11:11:32 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012MENG02">Daniel Maggioni Meng</a>, Brazil</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SMIT42">Daniel Smith</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005CAMP01">Dave Campbell</a>, Canada</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ALAR01">David Alejos Alarcia</a>, Spain</td><td>muchacho</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BARR01">David Barr</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01">David Zemdegs</a>, Australia</td><td>David Zemdegs</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SCHE08">Denis Scheehl</a>, France</td><td>?</td></tr>
@@ -130,7 +129,6 @@ Last refreshed: 2019-05-18 11:11:32 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018NIED02">Markus Niederöst</a>, Switzerland</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01">Martin Berger</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003AKIM01">Masayuki Akimoto (秋元正行)</a>, Japan</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017LACH01">Mathieu Lachance</a>, Canada</td><td>teacher77</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04">Mats Bergsten</a>, Sweden</td><td>MatsBergsten</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007KOLL01">Mats Kollbrink</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008ERSK01">Michael Erskine</a>, United Kingdom</td><td>MichaelErskine</td></tr>
