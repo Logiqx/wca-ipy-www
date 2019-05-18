@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-18 09:20:33 (UTC)
+Last refreshed: 2019-05-18 11:11:32 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -197,6 +197,7 @@ Last refreshed: 2019-05-18 09:20:33 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008MATS04">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012HINO01">Takeshi Hino (日野健志)</a>, Japan</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010COAT01">Teller Coates</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01">Theodora Rijks</a>, Netherlands</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011BOIS01">Thierry Boisivon</a>, France</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017JANS02">Thomas Jansson</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018GRAG01">Thorsten Gragert</a>, Netherlands</td><td>?</td></tr>
@@ -280,8 +281,8 @@ Last refreshed: 2019-05-18 09:20:33 (UTC)
     <tr><td>1177-1252</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017SOAR04#333">Jude Soares</a>, India<br/>+ 75 unknowns</td><td>1:42.91<br/>1:4x.xx</td></tr>
     <tr><td>1253-1307</td><td>55 unknowns</td><td>1:5x.xx</td></tr>
     <tr><td>1308-1474</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/>+ 165 unknowns</td><td>2:35.10<br/>2:50.60<br/>2:xx.xx</td></tr>
-    <tr><td>1475-1516</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States<br/>+ 41 unknowns</td><td>3:19.05<br/>3:xx.xx</td></tr>
-    <tr><td>1517-1532</td><td>16 unknowns</td><td>4:00.00+</td></tr>
+    <tr><td>1475-1517</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands<br/>+ 41 unknowns</td><td>3:19.05<br/>3:37.97<br/>3:xx.xx</td></tr>
+    <tr><td>1518-1533</td><td>16 unknowns</td><td>4:00.00+</td></tr>
   </table>
 </details>
 
@@ -323,7 +324,7 @@ Last refreshed: 2019-05-18 09:20:33 (UTC)
     <tr><td>510-559</td><td>50 unknowns</td><td>3x.xx</td></tr>
     <tr><td>560-579</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#222">David Zemdegs</a>, Australia<br/>+ 19 unknowns</td><td>46.18<br/>4x.xx</td></tr>
     <tr><td>580-601</td><td>22 unknowns</td><td>5x.xx</td></tr>
-    <tr><td>602-624</td><td>23 unknowns</td><td>1:00.00+</td></tr>
+    <tr><td>602-625</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#222">Theodora Rijks</a>, Netherlands<br/>+ 23 unknowns</td><td>1:07.52<br/>1:00.00+</td></tr>
   </table>
 </details>
 
