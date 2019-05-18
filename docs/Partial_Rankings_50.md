@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is incomplete although most of the fastest people are included. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050's%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,2003BRUC01,2003DENN01,2003WESS01,2004MASA01,2004MCGA01,2004ZIJD01,2005FARK01,2005GUST02,2005ISHI01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007HUGH01,2007OEYM01,2008BERG04,2008MATS04,2008TOMO01,2009JOHN07,2009PARE02,2010SPIE01,2011MICH01,2012HORV01,2013ANDE01,2013BRAN01,2013COLL02,2014VIGN02,2015CLAR13,2015GALE01,2015PEPP01,2015RIVE05,2016FRIS02,2016LEWI07,2016POPO02,2016ZEMD01,2017GRAD03,2017PALI03,2017ROSA09,2017ROSS10,2017THOR06,2018BENN01,2018DOYL02,2018KRIS27,2018SMIT42,2018VILJ02,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050's%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,2003BRUC01,2003DENN01,2003WESS01,2004MASA01,2004MCGA01,2004ZIJD01,2005FARK01,2005GUST02,2005ISHI01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007HUGH01,2007OEYM01,2008BERG04,2008MATS04,2008TOMO01,2009JOHN07,2009PARE02,2010SPIE01,2011MICH01,2012HORV01,2013ANDE01,2013BRAN01,2013COLL02,2014VIGN02,2015CLAR13,2015GALE01,2015PEPP01,2015RIVE05,2016FRIS02,2016LEWI07,2016POPO02,2016ZEMD01,2017GRAD03,2017PALI03,2017ROSA09,2017ROSS10,2017THOR06,2018BENN01,2018DOYL02,2018SMIT42,2018VILJ02,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-18 12:16:57 (UTC)
+Last refreshed: 2019-05-18 12:20:15 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -17,7 +17,6 @@ Last refreshed: 2019-05-18 12:16:57 (UTC)
   <summary>Known Over-50s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012HORV01">Attila Horváth</a>, Hungary</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01">Bill Berry</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01">Bill McGaugh</a>, United States</td><td>Bill</td></tr>
@@ -125,9 +124,8 @@ Last refreshed: 2019-05-18 12:16:57 (UTC)
     <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:25.52</td></tr>
     <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:28.13</td></tr>
     <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom</td><td>2:35.10</td></tr>
-    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia</td><td>2:50.60</td></tr>
-    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States</td><td>3:19.05</td></tr>
-    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>3:37.97</td></tr>
+    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States</td><td>3:19.05</td></tr>
+    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>3:37.97</td></tr>
   </table>
 </details>
 
@@ -428,11 +426,10 @@ Last refreshed: 2019-05-18 12:16:57 (UTC)
     <tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:06.85</td></tr>
     <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>1:08.81</td></tr>
     <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:13.07</td></tr>
-    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia</td><td>2:05.06</td></tr>
-    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom</td><td>2:14.56</td></tr>
-    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States</td><td>2:30.49</td></tr>
-    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>2:36.53</td></tr>
-    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark</td><td>5:52.16</td></tr>
+    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom</td><td>2:14.56</td></tr>
+    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States</td><td>2:30.49</td></tr>
+    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>2:36.53</td></tr>
+    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark</td><td>5:52.16</td></tr>
   </table>
 </details>
 
