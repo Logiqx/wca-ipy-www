@@ -9,12 +9,12 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-18 12:02:35 (UTC)
+Last refreshed: 2019-05-18 12:16:57 (UTC)
 
 <h2>Official Competitors</h2>
 
 <details>
-  <summary>Known Over-40s</summary>
+  <summary>Known Over-50s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia</td><td>?</td></tr>
