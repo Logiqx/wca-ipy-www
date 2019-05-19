@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-19 16:55:03 (UTC)
+Last refreshed: 2019-05-19 17:00:50 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -19,14 +19,14 @@ Last refreshed: 2019-05-19 16:55:03 (UTC)
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01">Bill McGaugh</a>, United States</td><td>Bill</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan, 70+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01">Károly Farkas</a>, Hungary</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01">Martin Berger</a>, United Kingdom, 70+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01">Martin Berger</a>, United Kingdom, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04">Mats Bergsten</a>, Sweden</td><td>MatsBergsten</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02">Petri Vanhala</a>, Finland</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01">Rune Wesström</a>, Sweden, 70+</td><td>Rune</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01">Rune Wesström</a>, Sweden, 80+</td><td>Rune</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03">Tiernan Foley</a>, Ireland, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02">Tom Doyle</a>, United States, 80+</td><td>Old Tom</td></tr>
   </table>
