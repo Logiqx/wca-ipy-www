@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-19 15:48:37 (UTC)
+Last refreshed: 2019-05-19 16:44:02 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -48,7 +48,7 @@ Last refreshed: 2019-05-19 15:48:37 (UTC)
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan</td><td>41.14</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom</td><td>2:20.88</td></tr>
     <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States</td><td>2:30.49</td></tr>
-    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark</td><td>5:52.16</td></tr>
+    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td>5:52.16</td></tr>
   </table>
 </details>
 
