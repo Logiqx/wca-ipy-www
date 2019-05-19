@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-19 07:39:00 (UTC)
+Last refreshed: 2019-05-19 15:48:42 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -137,7 +137,7 @@ Last refreshed: 2019-05-19 07:39:00 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GEOR02">Michael George</a>, United Kingdom</td><td>Logiqx</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BLON01">Michiel van der Blonk</a>, Netherlands</td><td>Michiel van der Blonk</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018GUTI13">Miguel Ángel Fernández Gutiérrez</a>, Spain</td><td>mafergut</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01">Mike DeCock</a>, United States</td><td>EvilGnome6 </td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014DECO01">Mike DeCock</a>, United States</td><td>EvilGnome6</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01">Mike Hughey</a>, United States</td><td>Mike Hughey</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003GOLJ01">Mirek Goljan</a>, Czech Republic</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010DELI02">Miroslav Delinac</a>, Croatia</td><td>?</td></tr>
