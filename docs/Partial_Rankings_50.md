@@ -3,13 +3,13 @@
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
-The list of names is incomplete although most of the fastest people are included. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
+The list of names is incomplete but most of the fastest people are thought to be included. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
 A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050's%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,2003BRUC01,2003DENN01,2003WESS01,2004MASA01,2004MCGA01,2004ZIJD01,2005FARK01,2005GUST02,2005ISHI01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007HUGH01,2007OEYM01,2008BERG04,2008HERN02,2008MATS04,2008TOMO01,2009JOHN07,2009PARE02,2010SPIE01,2011MICH01,2012HORV01,2013ANDE01,2013BRAN01,2013COLL02,2013HUBH01,2014VIGN02,2015CLAR13,2015GALE01,2015GOSL01,2015PEPP01,2015RIVE05,2016FRIS02,2016LEWI07,2016POPO02,2016ZEMD01,2017GRAD03,2017MAHI02,2017PALI03,2017ROSA09,2017ROSS10,2017THOR06,2018BENN01,2018DOYL02,2018FOLE03,2018SACH03,2018SMIT42,2018VILJ02,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 16:11:25 (UTC)
+Last refreshed: 2019-05-20 16:52:21 (UTC)
 
 <h2>Official Competitors</h2>
 
