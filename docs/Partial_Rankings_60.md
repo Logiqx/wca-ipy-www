@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is not yet complete. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060's%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2005FARK01,2005TOMO01,2005VANH02,2006BERG01,2008BERG04,2008TOMO01,2011MICH01,2013COLL02,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060's%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2005FARK01,2005TOMO01,2006BERG01,2008BERG04,2008TOMO01,2011MICH01,2013COLL02,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-19 18:25:33 (UTC)
+Last refreshed: 2019-05-20 07:40:57 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -25,7 +25,6 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01">Martin Berger</a>, United Kingdom, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04">Mats Bergsten</a>, Sweden</td><td>MatsBergsten</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02">Petri Vanhala</a>, Finland</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01">Rune Wesström</a>, Sweden, 80+</td><td>Rune</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03">Tiernan Foley</a>, Ireland, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02">Tom Doyle</a>, United States, 80+</td><td>Old Tom</td></tr>
@@ -38,17 +37,16 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333">Petri Vanhala</a>, Finland</td><td>30.78</td></tr>
-    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden</td><td>33.10</td></tr>
-    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>39.23</td></tr>
-    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden, 80+</td><td>41.14</td></tr>
-    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary</td><td>41.97</td></tr>
-    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>46.83</td></tr>
-    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>1:15.87</td></tr>
-    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>1:17.98</td></tr>
-    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>1:24.93</td></tr>
-    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:35.10</td></tr>
-    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>3:19.05</td></tr>
+    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden</td><td>33.10</td></tr>
+    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>39.23</td></tr>
+    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden, 80+</td><td>41.14</td></tr>
+    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary</td><td>41.97</td></tr>
+    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>46.83</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>1:15.87</td></tr>
+    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>1:17.98</td></tr>
+    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>1:24.93</td></tr>
+    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:35.10</td></tr>
+    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>3:19.05</td></tr>
   </table>
 </details>
 
@@ -56,8 +54,7 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <summary>2x2x2 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#222">Petri Vanhala</a>, Finland</td><td>10.94</td></tr>
-    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#222">Mats Bergsten</a>, Sweden</td><td>14.14</td></tr>
+    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#222">Mats Bergsten</a>, Sweden</td><td>14.14</td></tr>
   </table>
 </details>
 
@@ -82,14 +79,6 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333bf">Mats Bergsten</a>, Sweden</td><td>1:20.39</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary>Clock</summary>
-  <table>
-    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#clock">Petri Vanhala</a>, Finland</td><td>34.74</td></tr>
   </table>
 </details>
 
@@ -124,17 +113,16 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden</td><td>26.62</td></tr>
-    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333">Petri Vanhala</a>, Finland</td><td>27.94</td></tr>
-    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden, 70+</td><td>33.34</td></tr>
-    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>33.89</td></tr>
-    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary</td><td>34.79</td></tr>
-    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>41.14</td></tr>
-    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>54.37</td></tr>
-    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>58.36</td></tr>
-    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>1:08.81</td></tr>
-    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:14.56</td></tr>
-    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>2:30.49</td></tr>
-    <tr><td>12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td>5:52.16</td></tr>
+    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003WESS01#333">Rune Wesström</a>, Sweden, 70+</td><td>33.34</td></tr>
+    <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>33.89</td></tr>
+    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01#333">Károly Farkas</a>, Hungary</td><td>34.79</td></tr>
+    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>41.14</td></tr>
+    <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>54.37</td></tr>
+    <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>58.36</td></tr>
+    <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>1:08.81</td></tr>
+    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:14.56</td></tr>
+    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>2:30.49</td></tr>
+    <tr><td>11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td>5:52.16</td></tr>
   </table>
 </details>
 
@@ -143,7 +131,6 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#222">Mats Bergsten</a>, Sweden</td><td>8.06</td></tr>
-    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#222">Petri Vanhala</a>, Finland</td><td>10.54</td></tr>
   </table>
 </details>
 
@@ -192,24 +179,7 @@ Last refreshed: 2019-05-19 18:25:33 (UTC)
   <summary>3x3x3 Fewest Moves</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333fm">Petri Vanhala</a>, Finland</td><td>51</td></tr>
-    <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333fm">Mats Bergsten</a>, Sweden</td><td>58</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary>3x3x3 One-Handed</summary>
-  <table>
-    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333oh">Petri Vanhala</a>, Finland</td><td>56.09</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary>Clock</summary>
-  <table>
-    <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#clock">Petri Vanhala</a>, Finland</td><td>29.92</td></tr>
+    <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333fm">Mats Bergsten</a>, Sweden</td><td>58</td></tr>
   </table>
 </details>
 
