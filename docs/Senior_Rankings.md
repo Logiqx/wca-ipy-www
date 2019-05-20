@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 08:21:32 (UTC)
+Last refreshed: 2019-05-20 08:32:06 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -965,14 +965,14 @@ Last refreshed: 2019-05-20 08:21:32 (UTC)
     <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#sq1">Luis J. Iáñez</a>, Spain</td><td>28.77</td></tr>
     <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007HUGH01#sq1">Mike Hughey</a>, United States</td><td>29.58</td></tr>
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005KOSE01#sq1">Fumiki Koseki (古関章記)</a>, Japan</td><td>29.81</td></tr>
-    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#sq1">Ben Coppin</a>, United Kingdom</td><td>31.91</td></tr>
-    <tr><td>10-11</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#sq1">Chris Wright</a>, United Kingdom<br/>+ 1 unknown</td><td>33.35<br/>33.xx</td></tr>
-    <tr><td>12</td><td>1 unknown</td><td>35.xx</td></tr>
-    <tr><td>13</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#sq1">Chad Harris</a>, United States</td><td>36.12</td></tr>
-    <tr><td>14</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005PARI01#sq1">Javier París</a>, Spain</td><td>36.22</td></tr>
-    <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017LAWR04#sq1">Timothy Lawrance</a>, South Africa</td><td>37.99</td></tr>
-    <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANTI01#sq1">Marco Antinori</a>, Italy</td><td>38.58</td></tr>
-    <tr><td>17</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016AMBE02#sq1">Dieter Amberger</a>, Austria</td><td>38.83</td></tr>
+    <tr><td>9</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016AMBE02#sq1">Dieter Amberger</a>, Austria</td><td>30.60</td></tr>
+    <tr><td>10</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COPP01#sq1">Ben Coppin</a>, United Kingdom</td><td>31.91</td></tr>
+    <tr><td>11-12</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011WRIG01#sq1">Chris Wright</a>, United Kingdom<br/>+ 1 unknown</td><td>33.35<br/>33.xx</td></tr>
+    <tr><td>13</td><td>1 unknown</td><td>35.xx</td></tr>
+    <tr><td>14</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015HARR03#sq1">Chad Harris</a>, United States</td><td>36.12</td></tr>
+    <tr><td>15</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005PARI01#sq1">Javier París</a>, Spain</td><td>36.22</td></tr>
+    <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017LAWR04#sq1">Timothy Lawrance</a>, South Africa</td><td>37.99</td></tr>
+    <tr><td>17</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANTI01#sq1">Marco Antinori</a>, Italy</td><td>38.58</td></tr>
     <tr><td>18</td><td>1 unknown</td><td>41.xx</td></tr>
     <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2012HINO01#sq1">Takeshi Hino (日野健志)</a>, Japan</td><td>43.88</td></tr>
     <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007CINO01#sq1">Rafael Werneck de Andrade Cinoto</a>, Brazil</td><td>44.14</td></tr>
