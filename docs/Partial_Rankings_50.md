@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is incomplete although most of the fastest people are included. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050's%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,2003BRUC01,2003DENN01,2003WESS01,2004MASA01,2004MCGA01,2004ZIJD01,2005FARK01,2005GUST02,2005ISHI01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007HUGH01,2007OEYM01,2008BERG04,2008MATS04,2008TOMO01,2009JOHN07,2009PARE02,2010SPIE01,2011MICH01,2012HORV01,2013ANDE01,2013BRAN01,2013COLL02,2013HUBH01,2014VIGN02,2015CLAR13,2015GALE01,2015GOSL01,2015PEPP01,2015RIVE05,2016FRIS02,2016LEWI07,2016POPO02,2016ZEMD01,2017GRAD03,2017MAHI02,2017PALI03,2017ROSA09,2017ROSS10,2017THOR06,2018BENN01,2018DOYL02,2018FOLE03,2018SACH03,2018SMIT42,2018VILJ02,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050's%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,2003BRUC01,2003DENN01,2003WESS01,2004MASA01,2004MCGA01,2004ZIJD01,2005FARK01,2005GUST02,2005ISHI01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007HUGH01,2007OEYM01,2008BERG04,2008HERN02,2008MATS04,2008TOMO01,2009JOHN07,2009PARE02,2010SPIE01,2011MICH01,2012HORV01,2013ANDE01,2013BRAN01,2013COLL02,2013HUBH01,2014VIGN02,2015CLAR13,2015GALE01,2015GOSL01,2015PEPP01,2015RIVE05,2016FRIS02,2016LEWI07,2016POPO02,2016ZEMD01,2017GRAD03,2017MAHI02,2017PALI03,2017ROSA09,2017ROSS10,2017THOR06,2018BENN01,2018DOYL02,2018FOLE03,2018SACH03,2018SMIT42,2018VILJ02,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 08:16:50 (UTC)
+Last refreshed: 2019-05-20 08:21:26 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -43,6 +43,7 @@ Last refreshed: 2019-05-20 08:16:50 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01">Jesús Masanet García</a>, Spain</td><td>noiusli</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01">Jochen Spies</a>, Germany</td><td>JoSpies</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01">John Louis</a>, India</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008HERN02">José Alberto Henández Romero</a>, El Salvador</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005FARK01">Károly Farkas</a>, Hungary, 60+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982PETR01">Lars Petrus</a>, Sweden</td><td>Lars Petrus</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>?</td></tr>
@@ -125,17 +126,18 @@ Last refreshed: 2019-05-20 08:16:50 (UTC)
     <tr><td>40</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018BENN01#333">Hans Bennis</a>, Netherlands</td><td>45.01</td></tr>
     <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>46.83</td></tr>
     <tr><td>42</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#333">Rajinder Mahi</a>, United Kingdom</td><td>57.31</td></tr>
-    <tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom</td><td>1:09.30</td></tr>
-    <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom</td><td>1:15.32</td></tr>
-    <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>1:15.87</td></tr>
-    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>1:17.98</td></tr>
-    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia</td><td>1:19.32</td></tr>
-    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>1:24.93</td></tr>
-    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:25.52</td></tr>
-    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:28.13</td></tr>
-    <tr><td>51</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:35.10</td></tr>
-    <tr><td>52</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>3:19.05</td></tr>
-    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>3:37.97</td></tr>
+    <tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008HERN02#333">José Alberto Henández Romero</a>, El Salvador</td><td>1:07.71</td></tr>
+    <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom</td><td>1:09.30</td></tr>
+    <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom</td><td>1:15.32</td></tr>
+    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>1:15.87</td></tr>
+    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>1:17.98</td></tr>
+    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia</td><td>1:19.32</td></tr>
+    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>1:24.93</td></tr>
+    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:25.52</td></tr>
+    <tr><td>51</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:28.13</td></tr>
+    <tr><td>52</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:35.10</td></tr>
+    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>3:19.05</td></tr>
+    <tr><td>54</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>3:37.97</td></tr>
   </table>
 </details>
 
@@ -452,18 +454,19 @@ Last refreshed: 2019-05-20 08:16:50 (UTC)
     <tr><td>40</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018BENN01#333">Hans Bennis</a>, Netherlands</td><td>35.49</td></tr>
     <tr><td>41</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>41.14</td></tr>
     <tr><td>42</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#333">Rajinder Mahi</a>, United Kingdom</td><td>43.90</td></tr>
-    <tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>54.37</td></tr>
-    <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom</td><td>57.19</td></tr>
-    <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom</td><td>57.78</td></tr>
-    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>58.36</td></tr>
-    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia</td><td>1:02.89</td></tr>
-    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:06.85</td></tr>
-    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>1:08.81</td></tr>
-    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:13.07</td></tr>
-    <tr><td>51</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:14.56</td></tr>
-    <tr><td>52</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>2:30.49</td></tr>
-    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>2:36.53</td></tr>
-    <tr><td>54</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td>5:52.16</td></tr>
+    <tr><td>43</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008HERN02#333">José Alberto Henández Romero</a>, El Salvador</td><td>51.91</td></tr>
+    <tr><td>44</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>54.37</td></tr>
+    <tr><td>45</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom</td><td>57.19</td></tr>
+    <tr><td>46</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017PALI03#333">Mark Paling</a>, United Kingdom</td><td>57.78</td></tr>
+    <tr><td>47</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td>58.36</td></tr>
+    <tr><td>48</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia</td><td>1:02.89</td></tr>
+    <tr><td>49</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa</td><td>1:06.85</td></tr>
+    <tr><td>50</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>1:08.81</td></tr>
+    <tr><td>51</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States</td><td>1:13.07</td></tr>
+    <tr><td>52</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td>2:14.56</td></tr>
+    <tr><td>53</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td>2:30.49</td></tr>
+    <tr><td>54</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands</td><td>2:36.53</td></tr>
+    <tr><td>55</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td>5:52.16</td></tr>
   </table>
 </details>
 
