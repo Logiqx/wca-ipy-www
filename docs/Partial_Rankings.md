@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 07:40:57 (UTC)
+Last refreshed: 2019-05-20 08:16:50 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -328,7 +328,7 @@ Last refreshed: 2019-05-20 07:40:57 (UTC)
     <tr><td>108</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014RIEM01#333">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td>26.83</td></tr>
     <tr><td>109</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018GRAG01#333">Thorsten Gragert</a>, Netherlands</td><td>27.75</td></tr>
     <tr><td>110</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANDE01#333">Peter Andersson</a>, Sweden, 50+</td><td>27.95</td></tr>
-    <tr><td>111</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>27.96</td></tr>
+    <tr><td>111</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany, 50+</td><td>27.96</td></tr>
     <tr><td>112</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019CHIE01#333">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td>28.03</td></tr>
     <tr><td>113</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SOHT01#333">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td>28.06</td></tr>
     <tr><td>114</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SACH03#333">Christian Sachgau</a>, Germany, 50+</td><td>28.31</td></tr>
@@ -1453,7 +1453,7 @@ Last refreshed: 2019-05-20 07:40:57 (UTC)
     <tr><td>119</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States, 50+</td><td>23.75</td></tr>
     <tr><td>120</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010WENS01#333">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td>23.90</td></tr>
     <tr><td></td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SACH03#333">Christian Sachgau</a>, Germany, 50+</td><td>23.90</td></tr>
-    <tr><td>122</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>24.19</td></tr>
+    <tr><td>122</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany, 50+</td><td>24.19</td></tr>
     <tr><td>123</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2019CHIE01#333">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td>24.31</td></tr>
     <tr><td>124</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SOHT01#333">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td>24.66</td></tr>
     <tr><td>125</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GALE02#333">Francesco Galetta</a>, Italy</td><td>25.43</td></tr>

@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 07:40:57 (UTC)
+Last refreshed: 2019-05-20 08:16:50 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -101,11 +101,11 @@ Last refreshed: 2019-05-20 07:40:57 (UTC)
     <tr><td>16</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">Cari Goslow</a>, United States</td><td>26.42</td></tr>
     <tr><td>17</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017THOR06#333">Torbjörn Thorsén</a>, Sweden</td><td>27.23</td></tr>
     <tr><td>18</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013ANDE01#333">Peter Andersson</a>, Sweden</td><td>27.95</td></tr>
-    <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SACH03#333">Christian Sachgau</a>, Germany</td><td>28.31</td></tr>
-    <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#333">Jean-Louis Mathieu</a>, France</td><td>28.42</td></tr>
-    <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#333">Hanns Hub</a>, Germany</td><td>28.79</td></tr>
-    <tr><td>22</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States</td><td>28.82</td></tr>
-    <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>29.90</td></tr>
+    <tr><td>19</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>27.96</td></tr>
+    <tr><td>20</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SACH03#333">Christian Sachgau</a>, Germany</td><td>28.31</td></tr>
+    <tr><td>21</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006MATH01#333">Jean-Louis Mathieu</a>, France</td><td>28.42</td></tr>
+    <tr><td>22</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#333">Hanns Hub</a>, Germany</td><td>28.79</td></tr>
+    <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007BERR01#333">Bill Berry</a>, United States</td><td>28.82</td></tr>
     <tr><td>24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#333">Petri Vanhala</a>, Finland</td><td>30.00</td></tr>
     <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>32.03</td></tr>
     <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td>33.10</td></tr>
@@ -434,11 +434,11 @@ Last refreshed: 2019-05-20 07:40:57 (UTC)
     <tr><td>22</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#333">Cari Goslow</a>, United States</td><td>23.72</td></tr>
     <tr><td>23</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MCGA01#333">Bill McGaugh</a>, United States</td><td>23.75</td></tr>
     <tr><td>24</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SACH03#333">Christian Sachgau</a>, Germany</td><td>23.90</td></tr>
-    <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#333">Tommy Gustavsson</a>, Sweden</td><td>24.48</td></tr>
-    <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">Jesús Masanet García</a>, Spain</td><td>25.77</td></tr>
-    <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td>26.62</td></tr>
-    <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#333">John Louis</a>, India</td><td>27.25</td></tr>
-    <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>27.72</td></tr>
+    <tr><td>25</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#333">Jochen Spies</a>, Germany</td><td>24.19</td></tr>
+    <tr><td>26</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2005GUST02#333">Tommy Gustavsson</a>, Sweden</td><td>24.48</td></tr>
+    <tr><td>27</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#333">Jesús Masanet García</a>, Spain</td><td>25.77</td></tr>
+    <tr><td>28</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td>26.62</td></tr>
+    <tr><td>29</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#333">John Louis</a>, India</td><td>27.25</td></tr>
     <tr><td>30</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013HUBH01#333">Hanns Hub</a>, Germany</td><td>27.81</td></tr>
     <tr><td>31</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018SMIT42#333">Daniel Smith</a>, United States</td><td>28.81</td></tr>
     <tr><td>32</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#333">Carl Brannen</a>, United States</td><td>29.14</td></tr>
@@ -720,8 +720,8 @@ Last refreshed: 2019-05-20 07:40:57 (UTC)
     <tr><td>1</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01#pyram">Jesús Masanet García</a>, Spain</td><td>4.76</td></tr>
     <tr><td>2</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2009PARE02#pyram">Luis J. Iáñez</a>, Spain</td><td>4.79</td></tr>
     <tr><td>3</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2003BRUC01#pyram">Ron van Bruchem</a>, Netherlands</td><td>5.55</td></tr>
-    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#pyram">Ciro Vignotto</a>, Italy</td><td>7.35</td></tr>
-    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#pyram">Jochen Spies</a>, Germany</td><td>7.43</td></tr>
+    <tr><td>4</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01#pyram">Jochen Spies</a>, Germany</td><td>6.22</td></tr>
+    <tr><td>5</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014VIGN02#pyram">Ciro Vignotto</a>, Italy</td><td>7.35</td></tr>
     <tr><td>6</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007OEYM01#pyram">Maria Oey</a>, Indonesia</td><td>7.69</td></tr>
     <tr><td>7</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016FRIS02#pyram">Roland Frisch</a>, Germany</td><td>8.22</td></tr>
     <tr><td>8</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015GOSL01#pyram">Cari Goslow</a>, United States</td><td>8.37</td></tr>
