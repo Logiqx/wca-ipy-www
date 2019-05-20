@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 08:32:06 (UTC)
+Last refreshed: 2019-05-20 13:54:31 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -104,6 +104,7 @@ Last refreshed: 2019-05-20 08:32:06 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017FREG01">Jérôme Fréguin</a>, Canada</td><td>megagoune</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=1982FRID01">Jessica Fridrich</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2004MASA01">Jesús Masanet García</a>, Spain, 50+</td><td>noiusli</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DUBI04">Joanna Dubicka</a>, Poland</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2010SPIE01">Jochen Spies</a>, Germany, 50+</td><td>JoSpies</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2014ERNE01">Joel Ernest</a>, Australia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01">John Louis</a>, India, 50+</td><td>?</td></tr>
@@ -279,7 +280,7 @@ Last refreshed: 2019-05-20 08:32:06 (UTC)
     <tr><td>890-1011</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2007SATT01#333">Jay Satterfield</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2015CLAR13#333">Steve Clarke</a>, United Kingdom, 50+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2008HILL02#333">Paul Hille</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2016ZEMD01#333">David Zemdegs</a>, Australia, 50+<br/>+ 116 unknowns</td><td>1:14.02<br/>1:15.32<br/>1:15.87<br/>1:17.49<br/>1:17.98<br/>1:19.32<br/>1:1x.xx</td></tr>
     <tr><td>1012-1098</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#333">Danie Viljoen</a>, South Africa, 50+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GRAD03#333">Patrick Grady</a>, United States, 50+<br/>+ 84 unknowns</td><td>1:24.93<br/>1:25.52<br/>1:28.13<br/>1:2x.xx</td></tr>
     <tr><td>1099-1176</td><td>78 unknowns</td><td>1:3x.xx</td></tr>
-    <tr><td>1177-1252</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017SOAR04#333">Jude Soares</a>, India<br/>+ 75 unknowns</td><td>1:42.91<br/>1:4x.xx</td></tr>
+    <tr><td>1177-1252</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017SOAR04#333">Jude Soares</a>, India<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DUBI04#333">Joanna Dubicka</a>, Poland<br/>+ 74 unknowns</td><td>1:42.91<br/>1:44.36<br/>1:4x.xx</td></tr>
     <tr><td>1253-1307</td><td>55 unknowns</td><td>1:5x.xx</td></tr>
     <tr><td>1308-1474</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006BERG01#333">Martin Berger</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/>+ 165 unknowns</td><td>2:35.10<br/>2:50.60<br/>2:xx.xx</td></tr>
     <tr><td>1475-1517</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DOYL02#333">Tom Doyle</a>, United States, 80+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+<br/>+ 41 unknowns</td><td>3:19.05<br/>3:37.97<br/>3:xx.xx</td></tr>
@@ -314,7 +315,7 @@ Last refreshed: 2019-05-20 08:32:06 (UTC)
     <tr><td>392-415</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015SKAC02#222">Evgeny Skachkov</a>, Russia<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#222">Örjan Johansson</a>, Sweden<br/>+ 22 unknowns</td><td>19.71<br/>19.82<br/>19.xx</td></tr>
     <tr><td>416-427</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2008HILL02#222">Paul Hille</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005ISHI01#222">Hiroshi Ishino (石野弘司)</a>, Japan, 50+<br/>+ 10 unknowns</td><td>20.24<br/>20.64<br/>20.xx</td></tr>
     <tr><td>428-435</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2017MAHI02#222">Rajinder Mahi</a>, United Kingdom, 50+<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018VILJ02#222">Danie Viljoen</a>, South Africa, 50+<br/>+ 6 unknowns</td><td>21.82<br/>21.91<br/>21.xx</td></tr>
-    <tr><td>436-441</td><td>6 unknowns</td><td>22.xx</td></tr>
+    <tr><td>436-441</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DUBI04#222">Joanna Dubicka</a>, Poland<br/>+ 5 unknowns</td><td>22.93<br/>22.xx</td></tr>
     <tr><td>442-451</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006LOUI01#222">John Louis</a>, India, 50+<br/>+ 9 unknowns</td><td>23.01<br/>23.xx</td></tr>
     <tr><td>452-461</td><td>10 unknowns</td><td>24.xx</td></tr>
     <tr><td>462-469</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2013BRAN01#222">Carl Brannen</a>, United States, 50+<br/>+ 7 unknowns</td><td>25.36<br/>25.xx</td></tr>
@@ -896,7 +897,7 @@ Last refreshed: 2019-05-20 08:32:06 (UTC)
     <tr><td>179-188</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GOSL01#pyram">Harry Goslow</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2016CRUZ16#pyram">Luis Alejandro Carvajal Cruz</a>, Colombia<br/>+ 8 unknowns</td><td>19.78<br/>19.81<br/>19.xx</td></tr>
     <tr><td>189-197</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016GREE02#pyram">Jason Green</a>, United States<br/>+ 8 unknowns</td><td>20.17<br/>20.xx</td></tr>
     <tr><td>198-209</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2016DUEH02#pyram">Jeremy Duehring</a>, United States<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2017GEES01#pyram">Paul N. van de Geest</a>, United Kingdom<br/>+ 10 unknowns</td><td>21.53<br/>21.60<br/>21.xx</td></tr>
-    <tr><td>210-216</td><td>7 unknowns</td><td>22.xx</td></tr>
+    <tr><td>210-216</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018DUBI04#pyram">Joanna Dubicka</a>, Poland<br/>+ 6 unknowns</td><td>22.01<br/>22.xx</td></tr>
     <tr><td>217-230</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2006JOHA02#pyram">Örjan Johansson</a>, Sweden<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2018LUMS01#pyram">Stuart Lumsden</a>, United Kingdom<br/><a href="https://www.worldcubeassociation.org/results/p.php?i=2005VANH02#pyram">Petri Vanhala</a>, Finland, 50+<br/>+ 11 unknowns</td><td>23.20<br/>23.28<br/>23.85<br/>23.xx</td></tr>
     <tr><td>231-239</td><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2015PRAT08#pyram">Phillip Pratt</a>, United States<br/>+ 8 unknowns</td><td>24.59<br/>24.xx</td></tr>
     <tr><td>240-242</td><td>3 unknowns</td><td>25.xx</td></tr>
