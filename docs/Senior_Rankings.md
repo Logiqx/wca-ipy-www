@@ -1,9 +1,9 @@
 ![alt text](img/logo.jpg "logo")
-## Representative Over 40's Rankings
+## Representative Over 40s Rankings
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
-The rankings below were created from the [Partial Over 40's Rankings](Partial_Rankings.md) and supplementary anonymised [data](https://github.com/Logiqx/wca-ipy/blob/master/sql/extract_senior_aggs.sql) from the WCA database.
+The rankings below were created from the [Partial Over 40s Rankings](Partial_Rankings.md) and supplementary anonymised [data](https://github.com/Logiqx/wca-ipy/blob/master/sql/extract_senior_aggs.sql) from the WCA database.
 
 If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-21 07:50:39 (UTC)
+Last refreshed: 2019-05-21 08:03:05 (UTC)
 
 <h2>Official Competitors</h2>
 
