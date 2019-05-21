@@ -1,5 +1,5 @@
 ![alt text](img/logo.jpg "logo")
-## Partial Over-70's Rankings
+## Partial Over 70's Rankings
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
@@ -9,12 +9,12 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 19:09:35 (UTC)
+Last refreshed: 2019-05-21 06:28:42 (UTC)
 
 <h2>Official Competitors</h2>
 
 <details>
-  <summary>Known Over-70s</summary>
+  <summary>Known Over 70s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>

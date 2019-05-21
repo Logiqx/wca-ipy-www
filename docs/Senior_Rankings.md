@@ -1,9 +1,9 @@
 ![alt text](img/logo.jpg "logo")
-## Representative Over-40's Rankings
+## Representative Over 40's Rankings
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
-The rankings below were created from the [Partial Over-40's Rankings](Partial_Rankings.md) and supplementary anonymised [data](https://github.com/Logiqx/wca-ipy/blob/master/sql/extract_senior_aggs.sql) from the WCA database.
+The rankings below were created from the [Partial Over 40's Rankings](Partial_Rankings.md) and supplementary anonymised [data](https://github.com/Logiqx/wca-ipy/blob/master/sql/extract_senior_aggs.sql) from the WCA database.
 
 If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
@@ -13,12 +13,12 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-20 19:05:58 (UTC)
+Last refreshed: 2019-05-21 06:28:47 (UTC)
 
 <h2>Official Competitors</h2>
 
 <details>
-  <summary>Known Over-40s</summary>
+  <summary>Known Over 40s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/results/p.php?i=2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>
