@@ -18,29 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-<script>
-const openDetailsIfAnchorHidden = (evt) => {
-  const el = evt.target;
-  let details = document.querySelector(el.getAttribute("href"));
-  if ( !!details.offsetHeight || details.getClientRects().length ) return;
-  while (details != null)
-  {
-      details = details.closest("details:not(#" + details.id +
-      ")");
-      if (details == null)
-        return;
-      const summary = details.querySelector("summary");
-      details.setAttribute('open', '');
-  }
-}
-
-
-[...document.querySelectorAll("[href^='#']")].forEach(
-   el => el.addEventListener("click", openDetailsIfAnchorHidden )
-);
-</script>
-
-Last refreshed: 2019-05-22 09:21:01 (UTC)
+Last refreshed: 2019-05-22 09:31:48 (UTC)
 
 <h2>Official Competitors</h2>
 

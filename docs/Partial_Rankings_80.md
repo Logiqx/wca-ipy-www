@@ -9,11 +9,11 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-21 15:24:18 (UTC)
+Last refreshed: 2019-05-22 09:31:48 (UTC)
 
 <h2>Official Competitors</h2>
 
-<details>
+<details id="names">
   <summary>Known Over 80s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
@@ -27,7 +27,7 @@ Last refreshed: 2019-05-21 15:24:18 (UTC)
 
 <h2>Official Averages</h2>
 
-<details>
+<details id="333_avg">
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -40,7 +40,7 @@ Last refreshed: 2019-05-21 15:24:18 (UTC)
 
 <h2>Official Singles</h2>
 
-<details>
+<details id="333_best">
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -52,7 +52,7 @@ Last refreshed: 2019-05-21 15:24:18 (UTC)
   </table>
 </details>
 
-<details>
+<details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>

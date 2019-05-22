@@ -14,11 +14,11 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-21 15:24:29 (UTC)
+Last refreshed: 2019-05-22 09:31:57 (UTC)
 
 <h2>Official Averages</h2>
 
-<details>
+<details id="333_avg">
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -89,7 +89,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="222_avg">
   <summary>2x2x2 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -129,7 +129,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="444_avg">
   <summary>4x4x4 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -244,7 +244,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="555_avg">
   <summary>5x5x5 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -464,7 +464,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="666_avg">
   <summary>6x6x6 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -717,7 +717,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="777_avg">
   <summary>7x7x7 Cube</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1124,7 +1124,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="333bf_avg">
   <summary>3x3x3 Blindfolded</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1307,7 +1307,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="333fm_avg">
   <summary>3x3x3 Fewest Moves</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1354,7 +1354,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="333oh_avg">
   <summary>3x3x3 One-Handed</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1447,7 +1447,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="333ft_avg">
   <summary>3x3x3 With Feet</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1630,7 +1630,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="clock_avg">
   <summary>Clock</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1700,7 +1700,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="minx_avg">
   <summary>Megaminx</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1930,7 +1930,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="pyram_avg">
   <summary>Pyraminx</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -1970,7 +1970,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="skewb_avg">
   <summary>Skewb</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
@@ -2018,7 +2018,7 @@ Last refreshed: 2019-05-21 15:24:29 (UTC)
   </table>
 </details>
 
-<details>
+<details id="sq1_avg">
   <summary>Square-1</summary>
   <table>
     <tr><td><b>Sub-X</b></td><td><b>WCA #</b></td><td><b>WCA Total</b></td><td><b>WCA %tile</b></td><td><b>Seniors #</b></td><td><b>Seniors Total</b></td><td><b>Seniors %tile</b></td><td><b>Known #</b></td><td><b>Known Total</b></td><td><b>Known %tile</b></td><td><b>% Coverage</b></td></tr>
