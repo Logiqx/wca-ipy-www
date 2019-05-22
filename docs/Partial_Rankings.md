@@ -40,7 +40,7 @@ const openDetailsIfAnchorHidden = (evt) => {
 );
 </script>
 
-Last refreshed: 2019-05-22 09:15:10 (UTC)
+Last refreshed: 2019-05-22 09:21:01 (UTC)
 
 <h2>Official Competitors</h2>
 
@@ -250,7 +250,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
 
 <h2>Official Averages</h2>
 
-<details id="333">
+<details id="333_avg">
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -447,7 +447,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="222">
+<details id="222_avg">
   <summary>2x2x2 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -593,7 +593,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="444">
+<details id="444_avg">
   <summary>4x4x4 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -701,7 +701,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="555">
+<details id="555_avg">
   <summary>5x5x5 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -780,7 +780,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="666">
+<details id="666_avg">
   <summary>6x6x6 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -818,7 +818,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="777">
+<details id="777_avg">
   <summary>7x7x7 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -852,7 +852,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333bf">
+<details id="333bf_avg">
   <summary>3x3x3 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -891,7 +891,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333fm">
+<details id="333fm_avg">
   <summary>3x3x3 Fewest Moves</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -932,7 +932,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333oh">
+<details id="333oh_avg">
   <summary>3x3x3 One-Handed</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1017,7 +1017,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333ft">
+<details id="333ft_avg">
   <summary>3x3x3 With Feet</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1042,7 +1042,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="clock">
+<details id="clock_avg">
   <summary>Clock</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1099,7 +1099,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="minx">
+<details id="minx_avg">
   <summary>Megaminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1134,7 +1134,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="pyram">
+<details id="pyram_avg">
   <summary>Pyraminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1237,7 +1237,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="skewb">
+<details id="skewb_avg">
   <summary>Skewb</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1307,7 +1307,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="sq1">
+<details id="sq1_avg">
   <summary>Square-1</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1353,7 +1353,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="444bf">
+<details id="444bf_avg">
   <summary>4x4x4 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1366,7 +1366,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="555bf">
+<details id="555bf_avg">
   <summary>5x5x5 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1379,7 +1379,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
 
 <h2>Official Singles</h2>
 
-<details id="333">
+<details id="333_best">
   <summary>3x3x3 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1577,7 +1577,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="222">
+<details id="222_best">
   <summary>2x2x2 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1725,7 +1725,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="444">
+<details id="444_best">
   <summary>4x4x4 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1857,7 +1857,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="555">
+<details id="555_best">
   <summary>5x5x5 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -1963,7 +1963,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="666">
+<details id="666_best">
   <summary>6x6x6 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2026,7 +2026,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="777">
+<details id="777_best">
   <summary>7x7x7 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2083,7 +2083,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333bf">
+<details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2154,7 +2154,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333fm">
+<details id="333fm_best">
   <summary>3x3x3 Fewest Moves</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2226,7 +2226,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333oh">
+<details id="333oh_best">
   <summary>3x3x3 One-Handed</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2323,7 +2323,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333ft">
+<details id="333ft_best">
   <summary>3x3x3 With Feet</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2352,7 +2352,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="clock">
+<details id="clock_best">
   <summary>Clock</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2420,7 +2420,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="minx">
+<details id="minx_best">
   <summary>Megaminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2476,7 +2476,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="pyram">
+<details id="pyram_best">
   <summary>Pyraminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2581,7 +2581,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="skewb">
+<details id="skewb_best">
   <summary>Skewb</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2655,7 +2655,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="sq1">
+<details id="sq1_best">
   <summary>Square-1</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2707,7 +2707,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="444bf">
+<details id="444bf_best">
   <summary>4x4x4 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2732,7 +2732,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="555bf">
+<details id="555bf_best">
   <summary>5x5x5 Blindfolded</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
@@ -2753,7 +2753,7 @@ Last refreshed: 2019-05-22 09:15:10 (UTC)
   </table>
 </details>
 
-<details id="333mbf">
+<details id="333mbf_best">
   <summary>3x3x3 Multi-Blind</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
