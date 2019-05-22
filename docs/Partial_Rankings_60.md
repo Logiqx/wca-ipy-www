@@ -9,9 +9,9 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-22 09:31:48 (UTC)
+Last refreshed: 2019-05-22 10:19:58 (UTC)
 
-<h2>Official Competitors</h2>
+<h2 id="competitors">Official Competitors</h2>
 
 <details id="names">
   <summary>Known Over 60s</summary>
@@ -31,7 +31,7 @@ Last refreshed: 2019-05-22 09:31:48 (UTC)
   </table>
 </details>
 
-<h2>Official Averages</h2>
+<h2 id="averages">Official Averages</h2>
 
 <details id="333_avg">
   <summary>3x3x3 Cube</summary>
@@ -106,7 +106,7 @@ Last refreshed: 2019-05-22 09:31:48 (UTC)
   </table>
 </details>
 
-<h2>Official Singles</h2>
+<h2 id="singles">Official Averages</h2>
 
 <details id="333_best">
   <summary>3x3x3 Cube</summary>

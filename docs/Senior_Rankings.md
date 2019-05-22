@@ -13,9 +13,9 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-22 09:31:53 (UTC)
+Last refreshed: 2019-05-22 10:20:04 (UTC)
 
-<h2>Official Competitors</h2>
+<h2 id="competitors">Official Competitors</h2>
 
 <details id="persons">
   <summary>Known Over 40s</summary>
@@ -221,7 +221,7 @@ Last refreshed: 2019-05-22 09:31:53 (UTC)
   </table>
 </details>
 
-<h2>Official Averages</h2>
+<h2 id="averages">Official Averages</h2>
 
 <details id="333_avg">
   <summary>3x3x3 Cube</summary>

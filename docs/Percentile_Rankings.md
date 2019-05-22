@@ -14,9 +14,9 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-22 09:31:57 (UTC)
+Last refreshed: 2019-05-22 10:20:08 (UTC)
 
-<h2>Official Averages</h2>
+<h2 id="averages">Official Averages</h2>
 
 <details id="333_avg">
   <summary>3x3x3 Cube</summary>
