@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-22 10:19:58 (UTC)
+Last refreshed: 2019-05-22 10:22:33 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -414,7 +414,7 @@ Last refreshed: 2019-05-22 10:19:58 (UTC)
   </table>
 </details>
 
-<h2 id="singles">Official Averages</h2>
+<h2 id="singles">Official Singles</h2>
 
 <details id="333_best">
   <summary>3x3x3 Cube</summary>
