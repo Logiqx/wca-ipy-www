@@ -18,26 +18,35 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-22 08:56:49 (UTC)
-
 <script>
-const openDetailsIfAnchorHidden = evt => {
-  const targetDIV = document.querySelector(evt.target.getAttribute("href"));
-  if ( !! targetDIV.offsetHeight || targetDIV.getClientRects().length ) return;
-  targetDIV.closest("details").open = true;
+const openDetailsIfAnchorHidden = (evt) => {
+  const el = evt.target;
+  let details = document.querySelector(el.getAttribute("href"));
+  if ( !!details.offsetHeight || details.getClientRects().length ) return;
+  while (details != null)
+  {
+      details = details.closest("details:not(#" + details.id +
+      ")");
+      if (details == null)
+        return;
+      const summary = details.querySelector("summary");
+      details.setAttribute('open', '');
+  }
 }
 
 
 [...document.querySelectorAll("[href^='#']")].forEach(
-   el => el.addEventListener("click", openDetailsIfAnchorHidden)
+   el => el.addEventListener("click", openDetailsIfAnchorHidden )
 );
 </script>
 
+Last refreshed: 2019-05-22 09:15:10 (UTC)
+
 <h2>Official Competitors</h2>
 
-<details>
+<details id="names">
   <summary>Known Over 40s</summary>
-  <div id="names"><table>
+  <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005JOKS01">Adam Joks</a>, Poland</td><td>?</td></tr>
@@ -236,14 +245,14 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01">Yuji Suse (巣瀬雄史)</a>, Japan</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003ZBOR02">Zbigniew Zborowski</a>, Poland</td><td>?</td></tr>
-  </table></div>
+  </table>
 </details>
 
 <h2>Official Averages</h2>
 
-<details>
+<details id="333">
   <summary>3x3x3 Cube</summary>
-  <div id="333"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#333">Ron van Bruchem</a>, Netherlands, 50+</td><td style="text-align:right">11.91</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2004ROUX01#333">Gilles Roux</a>, France</td><td style="text-align:right">13.03</td></tr>
@@ -435,12 +444,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">188</td><td><a href="https://www.worldcubeassociation.org/persons/2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia</td><td style="text-align:right">2:50.60</td></tr>
     <tr><td style="text-align:center">189</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">3:19.05</td></tr>
     <tr><td style="text-align:center">190</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">3:37.97</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="222">
   <summary>2x2x2 Cube</summary>
-  <div id="222"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMI01#222">Junya Tomita (富田純也)</a>, Japan</td><td style="text-align:right">3.26</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#222">François Courtès</a>, France</td><td style="text-align:right">4.47</td></tr>
@@ -581,12 +590,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">137</td><td><a href="https://www.worldcubeassociation.org/persons/2017SOAR04#222">Jude Soares</a>, India</td><td style="text-align:right">29.68</td></tr>
     <tr><td style="text-align:center">138</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">46.18</td></tr>
     <tr><td style="text-align:center">139</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">1:07.52</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="444">
   <summary>4x4x4 Cube</summary>
-  <div id="444"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#444">Ron van Bruchem</a>, Netherlands, 50+</td><td style="text-align:right">46.99</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01#444">Yuji Suse (巣瀬雄史)</a>, Japan</td><td style="text-align:right">50.22</td></tr>
@@ -689,12 +698,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">99</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#444">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">3:30.88</td></tr>
     <tr><td style="text-align:center">100</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#444">Örjan Johansson</a>, Sweden</td><td style="text-align:right">4:55.17</td></tr>
     <tr><td style="text-align:center">101</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#444">Patrick Garcin</a>, France</td><td style="text-align:right">6:09.92</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="555">
   <summary>5x5x5 Cube</summary>
-  <div id="555"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#555">Ron van Bruchem</a>, Netherlands, 50+</td><td style="text-align:right">1:35.60</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01#555">Yuji Suse (巣瀬雄史)</a>, Japan</td><td style="text-align:right">1:38.32</td></tr>
@@ -768,12 +777,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">70</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#555">John Louis</a>, India, 50+</td><td style="text-align:right">6:57.42</td></tr>
     <tr><td style="text-align:center">71</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#555">Anders Larsson</a>, Sweden, 50+</td><td style="text-align:right">6:59.50</td></tr>
     <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2007OEYM01#555">Maria Oey</a>, Indonesia</td><td style="text-align:right">7:07.85</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="666">
   <summary>6x6x6 Cube</summary>
-  <div id="666"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01#666">Fumiki Koseki (古関章記)</a>, Japan</td><td style="text-align:right">3:17.75</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#666">Vasily Stasyev</a>, Russia</td><td style="text-align:right">3:21.07</td></tr>
@@ -806,12 +815,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#666">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">8:45.23</td></tr>
     <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#666">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">10:26.00</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#666">Patrick Garcin</a>, France</td><td style="text-align:right">12:35.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="777">
   <summary>7x7x7 Cube</summary>
-  <div id="777"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#777">Vasily Stasyev</a>, Russia</td><td style="text-align:right">4:55.71</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2014DECO01#777">Mike DeCock</a>, United States</td><td style="text-align:right">5:10.87</td></tr>
@@ -840,12 +849,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2013HERM02#777">Janis Hermanis</a>, Latvia</td><td style="text-align:right">12:18.00</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#777">Tommy Holm</a>, Sweden</td><td style="text-align:right">13:09.00</td></tr>
     <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#777">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">17:11.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333bf">
   <summary>3x3x3 Blindfolded</summary>
-  <div id="333bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#333bf">István Kocza</a>, Hungary</td><td style="text-align:right">53.90</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#333bf">François Courtès</a>, France</td><td style="text-align:right">1:00.58</td></tr>
@@ -879,12 +888,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#333bf">Luis J. Iáñez</a>, Spain</td><td style="text-align:right">5:03.91</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2012OTAN01#333bf">Diego Millán Otón</a>, Spain</td><td style="text-align:right">5:28.14</td></tr>
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#333bf">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">7:13.18</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333fm">
   <summary>3x3x3 Fewest Moves</summary>
-  <div id="333fm"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007SANC01#333fm">Javier Cabezuelo Sánchez</a>, Spain</td><td style="text-align:right">27.00</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/1982RAZO01#333fm">Guus Razoux Schultz</a>, Netherlands, 50+</td><td style="text-align:right">28.67</td></tr>
@@ -920,12 +929,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#333fm">Gianluca Placenti</a>, Italy</td><td style="text-align:right">55.00</td></tr>
     <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2016DUEH02#333fm">Jeremy Duehring</a>, United States</td><td style="text-align:right">56.33</td></tr>
     <tr><td style="text-align:center">34</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#333fm">Vasily Stasyev</a>, Russia</td><td style="text-align:right">72.33</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333oh">
   <summary>3x3x3 One-Handed</summary>
-  <div id="333oh"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005CAMP01#333oh">Dave Campbell</a>, Canada</td><td style="text-align:right">22.61</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015GEOR02#333oh">Michael George</a>, United Kingdom</td><td style="text-align:right">25.45</td></tr>
@@ -1005,12 +1014,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#333oh">Örjan Johansson</a>, Sweden</td><td style="text-align:right">2:04.57</td></tr>
     <tr><td style="text-align:center">77</td><td><a href="https://www.worldcubeassociation.org/persons/2004ZIJD01#333oh">Hans van der Zijden</a>, Netherlands</td><td style="text-align:right">2:06.90</td></tr>
     <tr><td style="text-align:center">78</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#333oh">Peter Douthwright</a>, Canada</td><td style="text-align:right">2:09.40</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333ft">
   <summary>3x3x3 With Feet</summary>
-  <div id="333ft"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007CINO01#333ft">Rafael Werneck de Andrade Cinoto</a>, Brazil</td><td style="text-align:right">40.83</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007KOLL01#333ft">Mats Kollbrink</a>, Sweden</td><td style="text-align:right">55.31</td></tr>
@@ -1030,12 +1039,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">4:14.21</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#333ft">Tommy Holm</a>, Sweden</td><td style="text-align:right">5:26.30</td></tr>
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#333ft">Örjan Johansson</a>, Sweden</td><td style="text-align:right">9:34.77</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="clock">
   <summary>Clock</summary>
-  <div id="clock"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#clock">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">6.65</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#clock">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">7.35</td></tr>
@@ -1087,12 +1096,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2013MORA02#clock">Raúl Morales Hidalgo</a>, Spain</td><td style="text-align:right">44.93</td></tr>
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#clock">Peter Douthwright</a>, Canada</td><td style="text-align:right">1:04.01</td></tr>
     <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2012PETR01#clock">Nikolai Petrov</a>, Bulgaria</td><td style="text-align:right">1:40.19</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="minx">
   <summary>Megaminx</summary>
-  <div id="minx"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#minx">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">1:44.83</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#minx">Vasily Stasyev</a>, Russia</td><td style="text-align:right">1:49.13</td></tr>
@@ -1122,12 +1131,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#minx">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">5:54.34</td></tr>
     <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#minx">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">6:00.34</td></tr>
     <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#minx">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">6:21.39</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="pyram">
   <summary>Pyraminx</summary>
-  <div id="pyram"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#pyram">Luis J. Iáñez</a>, Spain</td><td style="text-align:right">5.17</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#pyram">Vasily Stasyev</a>, Russia</td><td style="text-align:right">5.53</td></tr>
@@ -1225,12 +1234,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">94</td><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01#pyram">Lee Odegard</a>, United States</td><td style="text-align:right">38.93</td></tr>
     <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYN07#pyram">Laurent Reynaud</a>, France</td><td style="text-align:right">42.50</td></tr>
     <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#pyram">Patrick Garcin</a>, France</td><td style="text-align:right">54.43</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="skewb">
   <summary>Skewb</summary>
-  <div id="skewb"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2013COPP01#skewb">Ben Coppin</a>, United Kingdom</td><td style="text-align:right">7.04</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#skewb">François Courtès</a>, France</td><td style="text-align:right">7.53</td></tr>
@@ -1295,12 +1304,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">61</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#skewb">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">41.30</td></tr>
     <tr><td style="text-align:center">62</td><td><a href="https://www.worldcubeassociation.org/persons/2018NIED02#skewb">Markus Niederöst</a>, Switzerland</td><td style="text-align:right">44.90</td></tr>
     <tr><td style="text-align:center">63</td><td><a href="https://www.worldcubeassociation.org/persons/2008ERSK01#skewb">Michael Erskine</a>, United Kingdom</td><td style="text-align:right">51.10</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="sq1">
   <summary>Square-1</summary>
-  <div id="sq1"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a>, Japan</td><td style="text-align:right">15.23</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#sq1">François Courtès</a>, France</td><td style="text-align:right">19.86</td></tr>
@@ -1341,12 +1350,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2005ASPE01#sq1">Lennart Aspelin</a>, Sweden</td><td style="text-align:right">1:56.73</td></tr>
     <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#sq1">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">2:17.57</td></tr>
     <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">2:40.21</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="444bf">
   <summary>4x4x4 Blindfolded</summary>
-  <div id="444bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#444bf">Mark Rivers</a>, United Kingdom, 50+</td><td style="text-align:right">5:56.60</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#444bf">István Kocza</a>, Hungary</td><td style="text-align:right">6:01.41</td></tr>
@@ -1354,25 +1363,25 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">7:17.03</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2008CIRN01#444bf">Fabrizio Cirnigliaro</a>, Italy</td><td style="text-align:right">8:49.25</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#444bf">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">12:24.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="555bf">
   <summary>5x5x5 Blindfolded</summary>
-  <div id="555bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#555bf">István Kocza</a>, Hungary</td><td style="text-align:right">12:31.00</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#555bf">Mike Hughey</a>, United States, 50+</td><td style="text-align:right">13:02.00</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">15:22.00</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#555bf">Hanns Hub</a>, Germany</td><td style="text-align:right">29:55.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
 <h2>Official Singles</h2>
 
-<details>
+<details id="333">
   <summary>3x3x3 Cube</summary>
-  <div id="333"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#333">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">8.71</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005CAMP01#333">Dave Campbell</a>, Canada</td><td style="text-align:right">10.01</td></tr>
@@ -1565,12 +1574,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">189</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">2:30.49</td></tr>
     <tr><td style="text-align:center">190</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">2:36.53</td></tr>
     <tr><td style="text-align:center">191</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="222">
   <summary>2x2x2 Cube</summary>
-  <div id="222"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008LIDS01#222">Stefan Lidström</a>, Sweden</td><td style="text-align:right">1.53</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005PARI01#222">Javier París</a>, Spain</td><td style="text-align:right">1.63</td></tr>
@@ -1713,12 +1722,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">139</td><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01#222">Carl Brannen</a>, United States, 50+</td><td style="text-align:right">21.96</td></tr>
     <tr><td style="text-align:center">140</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">36.70</td></tr>
     <tr><td style="text-align:center">141</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">1:02.59</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="444">
   <summary>4x4x4 Cube</summary>
-  <div id="444"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01#444">Yuji Suse (巣瀬雄史)</a>, Japan</td><td style="text-align:right">41.90</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#444">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">42.03</td></tr>
@@ -1845,12 +1854,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">123</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#444">Patrick Garcin</a>, France</td><td style="text-align:right">3:39.08</td></tr>
     <tr><td style="text-align:center">124</td><td><a href="https://www.worldcubeassociation.org/persons/2014NIET01#444">Hernán Nieto</a>, Argentina</td><td style="text-align:right">3:45.58</td></tr>
     <tr><td style="text-align:center">125</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#444">Örjan Johansson</a>, Sweden</td><td style="text-align:right">3:53.16</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="555">
   <summary>5x5x5 Cube</summary>
-  <div id="555"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01#555">Yuji Suse (巣瀬雄史)</a>, Japan</td><td style="text-align:right">1:27.51</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#555">Ron van Bruchem</a>, Netherlands, 50+</td><td style="text-align:right">1:28.10</td></tr>
@@ -1951,12 +1960,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">97</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#555">Petri Vanhala</a>, Finland</td><td style="text-align:right">6:28.04</td></tr>
     <tr><td style="text-align:center">98</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#555">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">6:54.04</td></tr>
     <tr><td style="text-align:center">99</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#555">Örjan Johansson</a>, Sweden</td><td style="text-align:right">8:48.03</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="666">
   <summary>6x6x6 Cube</summary>
-  <div id="666"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#666">Vasily Stasyev</a>, Russia</td><td style="text-align:right">3:05.11</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01#666">Fumiki Koseki (古関章記)</a>, Japan</td><td style="text-align:right">3:12.40</td></tr>
@@ -2014,12 +2023,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#666">Bill Berry</a>, United States, 50+</td><td style="text-align:right">8:57.06</td></tr>
     <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#666">Patrick Garcin</a>, France</td><td style="text-align:right">12:32.00</td></tr>
     <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#666">Anders Larsson</a>, Sweden</td><td style="text-align:right">26:29.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="777">
   <summary>7x7x7 Cube</summary>
-  <div id="777"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#777">Vasily Stasyev</a>, Russia</td><td style="text-align:right">4:24.83</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01#777">Fumiki Koseki (古関章記)</a>, Japan</td><td style="text-align:right">4:52.99</td></tr>
@@ -2071,12 +2080,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#777">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">17:24.00</td></tr>
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#777">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">22:38.00</td></tr>
     <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#777">Anders Larsson</a>, Sweden</td><td style="text-align:right">33:44.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333bf">
   <summary>3x3x3 Blindfolded</summary>
-  <div id="333bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#333bf">István Kocza</a>, Hungary</td><td style="text-align:right">44.81</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#333bf">François Courtès</a>, France</td><td style="text-align:right">47.86</td></tr>
@@ -2142,12 +2151,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">62</td><td><a href="https://www.worldcubeassociation.org/persons/2016LEWI07#333bf">Phil Lewis</a>, United States</td><td style="text-align:right">9:45.52</td></tr>
     <tr><td style="text-align:center">63</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#333bf">Reiner Thomsen</a>, Germany</td><td style="text-align:right">13:16.00</td></tr>
     <tr><td style="text-align:center">64</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333bf">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">13:55.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333fm">
   <summary>3x3x3 Fewest Moves</summary>
-  <div id="333fm"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2013COPP01#333fm">Ben Coppin</a>, United Kingdom</td><td style="text-align:right">20</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007SANC01#333fm">Javier Cabezuelo Sánchez</a>, Spain</td><td style="text-align:right">22</td></tr>
@@ -2214,12 +2223,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">63</td><td><a href="https://www.worldcubeassociation.org/persons/2015SPAD01#333fm">Eugenio Spadafora</a>, Italy</td><td style="text-align:right">67</td></tr>
     <tr><td style="text-align:center">64</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#333fm">Bill Berry</a>, United States, 50+</td><td style="text-align:right">69</td></tr>
     <tr><td style="text-align:center">65</td><td><a href="https://www.worldcubeassociation.org/persons/2016GALE02#333fm">Francesco Galetta</a>, Italy</td><td style="text-align:right">75</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333oh">
   <summary>3x3x3 One-Handed</summary>
-  <div id="333oh"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005CAMP01#333oh">Dave Campbell</a>, Canada</td><td style="text-align:right">16.45</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2013MORA02#333oh">Raúl Morales Hidalgo</a>, Spain</td><td style="text-align:right">19.18</td></tr>
@@ -2311,12 +2320,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">88</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#333oh">Örjan Johansson</a>, Sweden</td><td style="text-align:right">1:53.03</td></tr>
     <tr><td style="text-align:center">89</td><td><a href="https://www.worldcubeassociation.org/persons/2004BOSS01#333oh">Arjan Bosse</a>, Netherlands</td><td style="text-align:right">2:10.99</td></tr>
     <tr><td style="text-align:center">90</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#333oh">John Louis</a>, India</td><td style="text-align:right">4:42.15</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333ft">
   <summary>3x3x3 With Feet</summary>
-  <div id="333ft"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007CINO01#333ft">Rafael Werneck de Andrade Cinoto</a>, Brazil</td><td style="text-align:right">35.06</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#333ft">Endre Kovács</a>, Hungary</td><td style="text-align:right">48.68</td></tr>
@@ -2340,12 +2349,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#333ft">Tommy Holm</a>, Sweden</td><td style="text-align:right">5:10.56</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#333ft">Anders Larsson</a>, Sweden</td><td style="text-align:right">5:55.40</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2006JOHA02#333ft">Örjan Johansson</a>, Sweden</td><td style="text-align:right">7:08.46</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="clock">
   <summary>Clock</summary>
-  <div id="clock"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#clock">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">5.83</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#clock">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">6.07</td></tr>
@@ -2408,12 +2417,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">59</td><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01#clock">Lee Odegard</a>, United States</td><td style="text-align:right">1:11.15</td></tr>
     <tr><td style="text-align:center">60</td><td><a href="https://www.worldcubeassociation.org/persons/2019POLL04#clock">Ruud Pollé</a>, Netherlands</td><td style="text-align:right">1:13.46</td></tr>
     <tr><td style="text-align:center">61</td><td><a href="https://www.worldcubeassociation.org/persons/2012PETR01#clock">Nikolai Petrov</a>, Bulgaria</td><td style="text-align:right">1:15.28</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="minx">
   <summary>Megaminx</summary>
-  <div id="minx"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2014VIGN02#minx">Ciro Vignotto</a>, Italy, 50+</td><td style="text-align:right">1:33.00</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#minx">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">1:33.89</td></tr>
@@ -2464,12 +2473,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#minx">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">8:55.83</td></tr>
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#minx">Petri Vanhala</a>, Finland</td><td style="text-align:right">9:40.88</td></tr>
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#minx">Anders Larsson</a>, Sweden</td><td style="text-align:right">13:21.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="pyram">
   <summary>Pyraminx</summary>
-  <div id="pyram"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#pyram">Luis J. Iáñez</a>, Spain</td><td style="text-align:right">3.31</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#pyram">Vasily Stasyev</a>, Russia</td><td style="text-align:right">3.32</td></tr>
@@ -2569,12 +2578,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#pyram">Patrick Garcin</a>, France</td><td style="text-align:right">26.75</td></tr>
     <tr><td style="text-align:center">97</td><td><a href="https://www.worldcubeassociation.org/persons/2018NIED02#pyram">Markus Niederöst</a>, Switzerland</td><td style="text-align:right">27.65</td></tr>
     <tr><td style="text-align:center">98</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#pyram">John Louis</a>, India, 50+</td><td style="text-align:right">31.21</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="skewb">
   <summary>Skewb</summary>
-  <div id="skewb"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2015HARR03#skewb">Chad Harris</a>, United States</td><td style="text-align:right">4.34</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015GEOR02#skewb">Michael George</a>, United Kingdom</td><td style="text-align:right">4.75</td></tr>
@@ -2643,12 +2652,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">65</td><td><a href="https://www.worldcubeassociation.org/persons/2018NIED02#skewb">Markus Niederöst</a>, Switzerland</td><td style="text-align:right">33.82</td></tr>
     <tr><td style="text-align:center">66</td><td><a href="https://www.worldcubeassociation.org/persons/2012POOT01#skewb">Marcel Poots</a>, Netherlands</td><td style="text-align:right">34.05</td></tr>
     <tr><td style="text-align:center">67</td><td><a href="https://www.worldcubeassociation.org/persons/2008ERSK01#skewb">Michael Erskine</a>, United Kingdom</td><td style="text-align:right">36.76</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="sq1">
   <summary>Square-1</summary>
-  <div id="sq1"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a>, Japan</td><td style="text-align:right">11.40</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#sq1">François Courtès</a>, France</td><td style="text-align:right">14.75</td></tr>
@@ -2695,12 +2704,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#sq1">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">1:21.09</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">1:43.66</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#sq1">Ton Dennenbroek</a>, Netherlands, 50+</td><td style="text-align:right">5:16.34</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="444bf">
   <summary>4x4x4 Blindfolded</summary>
-  <div id="444bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#444bf">Mark Rivers</a>, United Kingdom, 50+</td><td style="text-align:right">4:47.53</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#444bf">István Kocza</a>, Hungary</td><td style="text-align:right">5:15.92</td></tr>
@@ -2720,12 +2729,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#444bf">Gianluca Placenti</a>, Italy</td><td style="text-align:right">10:53.00</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2005SUSE01#444bf">Yuji Suse (巣瀬雄史)</a>, Japan</td><td style="text-align:right">18:15.00</td></tr>
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01#444bf">Adrian Roșu</a>, Romania</td><td style="text-align:right">25:17.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="555bf">
   <summary>5x5x5 Blindfolded</summary>
-  <div id="555bf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#555bf">István Kocza</a>, Hungary</td><td style="text-align:right">10:55.00</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#555bf">Mike Hughey</a>, United States, 50+</td><td style="text-align:right">11:35.00</td></tr>
@@ -2741,12 +2750,12 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#555bf">Gianluca Placenti</a>, Italy</td><td style="text-align:right">30:46.00</td></tr>
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2015PARK24#555bf">Jae Park</a>, United States</td><td style="text-align:right">33:42.00</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#555bf">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">34:57.00</td></tr>
-  </table></div>
+  </table>
 </details>
 
-<details>
+<details id="333mbf">
   <summary>3x3x3 Multi-Blind</summary>
-  <div id="333mbf"><table>
+  <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#333mbf">István Kocza</a>, Hungary</td><td style="text-align:right">17/17 in 59:20</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#333mbf">Mark Rivers</a>, United Kingdom, 50+</td><td style="text-align:right">16/17 in 57:17</td></tr>
@@ -2781,6 +2790,6 @@ const openDetailsIfAnchorHidden = evt => {
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01#333mbf">Fumiki Koseki (古関章記)</a>, Japan</td><td style="text-align:right">2/3 in 29:14</td></tr>
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2004ZIJD01#333mbf">Hans van der Zijden</a>, Netherlands</td><td style="text-align:right">1/2 in 20:00</td></tr>
     <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2015NICH04#333mbf">Andy Nicholls</a>, United Kingdom</td><td style="text-align:right">2/4 in 31:44</td></tr>
-  </table></div>
+  </table>
 </details>
 
