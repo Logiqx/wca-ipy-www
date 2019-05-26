@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-26 17:47:25 (UTC)
+Last refreshed: 2019-05-26 18:15:19 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 

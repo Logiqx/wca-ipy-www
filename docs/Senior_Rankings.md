@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-26 17:47:31 (UTC)
+Last refreshed: 2019-05-26 18:15:24 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -832,7 +832,7 @@ Last refreshed: 2019-05-26 17:47:31 (UTC)
     <tr><td style="text-align:center">75-76</td><td>2 unknowns</td><td style="text-align:right">49.xx</td></tr>
     <tr><td style="text-align:center">77</td><td>1 unknown</td><td style="text-align:right">55.xx</td></tr>
     <tr><td style="text-align:center">78</td><td>1 unknown</td><td style="text-align:right">56.xx</td></tr>
-    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#clock">Peter Douthwright</a>, Canada</td><td style="text-align:right">1:04.01</td></tr>
+    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#clock">Peter Douthwright</a>, Canada, 50+</td><td style="text-align:right">1:04.01</td></tr>
     <tr><td style="text-align:center">80</td><td>1 unknown</td><td style="text-align:right">1:1x.xx</td></tr>
     <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2012PETR01#clock">Nikolai Petrov</a>, Bulgaria</td><td style="text-align:right">1:40.19</td></tr>
   </table>
