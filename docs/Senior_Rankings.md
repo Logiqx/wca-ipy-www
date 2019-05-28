@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-28 15:48:58 (UTC)
+Last refreshed: 2019-05-28 20:29:20 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -40,6 +40,7 @@ Last refreshed: 2019-05-28 15:48:58 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01">Bill Berry</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01">Bill McGaugh</a>, United States, 60+</td><td>Bill</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015BOSW01">Brent Boswell</a>, South Africa</td><td>JohnnyReggae</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2019MCDO05">Brett A. McDonald</a>, Australia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01">Bruce Norskog</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ROSA09">Bruno Rosa</a>, Italy, 50+</td><td>Bruno Rosa</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019ONOG01">Caner Onoglu</a>, Turkey</td><td>?</td></tr>
@@ -286,9 +287,9 @@ Last refreshed: 2019-05-28 15:48:58 (UTC)
     <tr><td style="text-align:center">1099-1176</td><td>78 unknowns</td><td style="text-align:right">1:3x.xx</td></tr>
     <tr><td style="text-align:center">1177-1252</td><td><a href="https://www.worldcubeassociation.org/persons/2017SOAR04#333">Jude Soares</a>, India<br/><a href="https://www.worldcubeassociation.org/persons/2018DUBI04#333">Joanna Dubicka</a>, Poland<br/>+ 74 unknowns</td><td style="text-align:right">1:42.91<br/>1:44.36<br/>1:4x.xx</td></tr>
     <tr><td style="text-align:center">1253-1307</td><td>55 unknowns</td><td style="text-align:right">1:5x.xx</td></tr>
-    <tr><td style="text-align:center">1308-1474</td><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/>+ 165 unknowns</td><td style="text-align:right">2:35.10<br/>2:50.60<br/>2:xx.xx</td></tr>
-    <tr><td style="text-align:center">1475-1517</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+<br/><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+<br/>+ 41 unknowns</td><td style="text-align:right">3:19.05<br/>3:37.97<br/>3:xx.xx</td></tr>
-    <tr><td style="text-align:center">1518-1533</td><td>16 unknowns</td><td style="text-align:right">4:00.00+</td></tr>
+    <tr><td style="text-align:center">1308-1475</td><td><a href="https://www.worldcubeassociation.org/persons/2019MCDO05#333">Brett A. McDonald</a>, Australia<br/><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/>+ 165 unknowns</td><td style="text-align:right">2:03.85<br/>2:35.10<br/>2:50.60<br/>2:xx.xx</td></tr>
+    <tr><td style="text-align:center">1476-1518</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+<br/><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+<br/>+ 41 unknowns</td><td style="text-align:right">3:19.05<br/>3:37.97<br/>3:xx.xx</td></tr>
+    <tr><td style="text-align:center">1519-1534</td><td>16 unknowns</td><td style="text-align:right">4:00.00+</td></tr>
   </table>
 </details>
 
@@ -327,10 +328,10 @@ Last refreshed: 2019-05-28 15:48:58 (UTC)
     <tr><td style="text-align:center">477-490</td><td>14 unknowns</td><td style="text-align:right">27.xx</td></tr>
     <tr><td style="text-align:center">491-498</td><td>8 unknowns</td><td style="text-align:right">28.xx</td></tr>
     <tr><td style="text-align:center">499-511</td><td><a href="https://www.worldcubeassociation.org/persons/2017SOAR04#222">Jude Soares</a>, India<br/>+ 12 unknowns</td><td style="text-align:right">29.68<br/>29.xx</td></tr>
-    <tr><td style="text-align:center">512-561</td><td>50 unknowns</td><td style="text-align:right">3x.xx</td></tr>
-    <tr><td style="text-align:center">562-581</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+<br/>+ 19 unknowns</td><td style="text-align:right">46.18<br/>4x.xx</td></tr>
-    <tr><td style="text-align:center">582-603</td><td>22 unknowns</td><td style="text-align:right">5x.xx</td></tr>
-    <tr><td style="text-align:center">604-627</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+<br/>+ 23 unknowns</td><td style="text-align:right">1:07.52<br/>1:00.00+</td></tr>
+    <tr><td style="text-align:center">512-562</td><td><a href="https://www.worldcubeassociation.org/persons/2019MCDO05#222">Brett A. McDonald</a>, Australia<br/>+ 50 unknowns</td><td style="text-align:right">37.37<br/>3x.xx</td></tr>
+    <tr><td style="text-align:center">563-582</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+<br/>+ 19 unknowns</td><td style="text-align:right">46.18<br/>4x.xx</td></tr>
+    <tr><td style="text-align:center">583-604</td><td>22 unknowns</td><td style="text-align:right">5x.xx</td></tr>
+    <tr><td style="text-align:center">605-628</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+<br/>+ 23 unknowns</td><td style="text-align:right">1:07.52<br/>1:00.00+</td></tr>
   </table>
 </details>
 
