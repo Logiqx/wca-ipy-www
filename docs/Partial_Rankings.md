@@ -5,7 +5,7 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is still incomplete but most of the fastest people are included (see below). If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2040s%20-%20Official%20PRs&wcaids=1982FRID01,1982PETR01,1982RAZO01,2003AKIM01,2003BARR01,2003BLON01,2003BRUC01,2003DENN01,2003GOLJ01,2003LARS01,2003WESS01,2003ZBOR02,2004BOSS01,2004FEDE01,2004FERN01,2004FRED02,2004MASA01,2004MCGA01,2004ROUX01,2004ZIJD01,2005ASPE01,2005CAMP01,2005CHEN02,2005FARK01,2005GUST02,2005ISHI01,2005JOKS01,2005KOCZ01,2005KOSE01,2005KURO02,2005PARI01,2005PELL01,2005SUSE01,2005THOM01,2005TOMI01,2005TOMO01,2005VANH02,2006ALBA01,2006BERG01,2006GALE01,2006HYAK01,2006JOHA02,2006KASP02,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007CINO01,2007DIAZ01,2007DOUT01,2007FEKE01,2007HASH01,2007HOLM02,2007HUGH01,2007KOLL01,2007OEYM01,2007SANC01,2007SATT01,2008BERG04,2008CIRN01,2008COUR01,2008ERSK01,2008GARC05,2008GOUB01,2008HERN02,2008HILL02,2008KOVA01,2008LIDS01,2008MATS04,2008TOMO01,2009COST02,2009JOHN07,2009KOTT01,2009PARE02,2009TIRA01,2010COAT01,2010DELI02,2010HAMA03,2010HEIL02,2010SOHT01,2010SPIE01,2010STAS01,2010WENS01,2011BOIS01,2011LAWR01,2011MICH01,2011RIGG03,2011STUA01,2011WRIG01,2011YOSH01,2012ADRI01,2012HINO01,2012HORV01,2012MENG02,2012OTAN01,2012PETR01,2012PLAC01,2012POOT01,2012SCHM07,2012WATA02,2013ANDE01,2013ANTI01,2013BRAN01,2013COLL02,2013COPP01,2013DEAR01,2013HERM02,2013HUBH01,2013LEIS01,2013LKHA01,2013MORA02,2014DECO01,2014JANE01,2014MOCH01,2014NIET01,2014PACE01,2014RIEM01,2014UGGL01,2014VIGN02,2015ADAM03,2015BOSW01,2015CLAR13,2015GALE01,2015GEOR02,2015GOSL01,2015HARR03,2015JOIN02,2015NICH04,2015PARK24,2015PEPP01,2015PLOW01,2015PRAT08,2015RAZZ01,2015REYE08,2015REYN07,2015RIVE05,2015SKAC02,2015SPAD01,2015TAYL04,2016AMBE02,2016BORR02,2016CRUZ16,2016DUEH02,2016EVAN04,2016FRIS02,2016GALE02,2016GOSL01,2016GREE02,2016LECO01,2016LEWI07,2016ODEG01,2016PETE06,2016POPO02,2016UMET02,2016ZEMD01,2017BONI01,2017CART07,2017ENGE03,2017FREG01,2017GEES01,2017GRAD03,2017JANS02,2017KOST06,2017LACH01,2017LAWR04,2017MAHI02,2017MENE02,2017PALI03,2017ROSA09,2017ROSS10,2017SOAR04,2017SUGO01,2017THOR05,2017THOR06,2017VIDO02,2018BENN01,2018CUME02,2018DOYL02,2018DUBI04,2018FOLE03,2018GRAG01,2018GUTI13,2018KRIS27,2018LUMS01,2018NIED02,2018NILS03,2018PRAT13,2018SACH03,2018SALM01,2018SCHE08,2018SKAL02,2018SMIT42,2018VILJ02,2019CHIE01,2019ONOG01,2019POLL04,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2040s%20-%20Official%20PRs&wcaids=1982FRID01,1982PETR01,1982RAZO01,2003AKIM01,2003BARR01,2003BLON01,2003BRUC01,2003DENN01,2003GOLJ01,2003LARS01,2003WESS01,2003ZBOR02,2004BOSS01,2004FEDE01,2004FERN01,2004FRED02,2004MASA01,2004MCGA01,2004ROUX01,2004ZIJD01,2005ASPE01,2005CAMP01,2005CHEN02,2005FARK01,2005GUST02,2005ISHI01,2005JOKS01,2005KOCZ01,2005KOSE01,2005KURO02,2005PARI01,2005PELL01,2005SUSE01,2005THOM01,2005TOMI01,2005TOMO01,2005VANH02,2006ALBA01,2006BERG01,2006GALE01,2006HYAK01,2006JOHA02,2006KASP02,2006LOUI01,2006MATH01,2006NORS01,2007BERR01,2007CINO01,2007DIAZ01,2007DOUT01,2007FEKE01,2007HASH01,2007HOLM02,2007HUGH01,2007KOLL01,2007OEYM01,2007SANC01,2007SATT01,2008BERG04,2008CIRN01,2008COUR01,2008ERSK01,2008GARC05,2008GOUB01,2008HERN02,2008HILL02,2008KOVA01,2008LIDS01,2008MATS04,2008TOMO01,2009COST02,2009JOHN07,2009KOTT01,2009PARE02,2009TIRA01,2010COAT01,2010DELI02,2010HAMA03,2010HEIL02,2010SOHT01,2010SPIE01,2010STAS01,2010WENS01,2011BOIS01,2011LAWR01,2011MICH01,2011RIGG03,2011STUA01,2011WRIG01,2011YOSH01,2012ADRI01,2012HINO01,2012HORV01,2012MENG02,2012OTAN01,2012PETR01,2012PLAC01,2012POOT01,2012SCHM07,2012WATA02,2013ANDE01,2013ANTI01,2013BRAN01,2013COLL02,2013COPP01,2013DEAR01,2013HERM02,2013HUBH01,2013LEIS01,2013LKHA01,2013MORA02,2014DECO01,2014JANE01,2014MOCH01,2014NIET01,2014PACE01,2014RIEM01,2014UGGL01,2014VIGN02,2015ADAM03,2015BOSW01,2015CLAR13,2015GALE01,2015GEOR02,2015GOSL01,2015HARR03,2015JOIN02,2015NICH04,2015PARK24,2015PEPP01,2015PLOW01,2015PRAT08,2015RAZZ01,2015REYE08,2015REYN07,2015RIVE05,2015SKAC02,2015SPAD01,2015TAYL04,2016AMBE02,2016BORR02,2016CRUZ16,2016DUEH02,2016EVAN04,2016FRIS02,2016GALE02,2016GOSL01,2016GREE02,2016LECO01,2016LEWI07,2016ODEG01,2016PETE06,2016POPO02,2016UMET02,2016ZEMD01,2017BONI01,2017CART07,2017ENGE03,2017FREG01,2017GEES01,2017GRAD03,2017JANS02,2017KOST06,2017LACH01,2017LAWR04,2017MAHI02,2017MENE02,2017PALI03,2017ROSA09,2017ROSS10,2017SOAR04,2017SUGO01,2017THOR05,2017THOR06,2017VIDO02,2018BENN01,2018CUME02,2018DOYL02,2018DUBI04,2018FOLE03,2018GRAG01,2018GUTI13,2018KRIS27,2018LUMS01,2018NIED02,2018NILS03,2018PRAT13,2018SACH03,2018SALM01,2018SCHE08,2018SKAL02,2018SMIT42,2018VILJ02,2019CERN02,2019CHIE01,2019ONOG01,2019POLL04,2019RIJK01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 >**Percentage coverage for 3x3x3**  
 >90% of sub-15 | 50% of sub-20 | 43% of sub-25 | 34% of sub-30 | 25% of sub-45 | 21% of sub-1:00  
@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-27 08:45:27 (UTC)
+Last refreshed: 2019-05-28 15:48:52 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -74,6 +74,7 @@ Last refreshed: 2019-05-27 08:45:27 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008CIRN01">Fabrizio Cirnigliaro</a>, Italy</td><td>Cubepark</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016GALE02">Francesco Galetta</a>, Italy</td><td>Francesco Galetta</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01">François Courtès</a>, France</td><td>TMOY</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2019CERN02">Frank Cerne</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ENGE03">Fredrik Engel</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan</td><td>Fumiki</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016EVAN04">Gavin Evans</a>, United Kingdom</td><td>?</td></tr>
@@ -86,7 +87,7 @@ Last refreshed: 2019-05-27 08:45:27 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01">Hanns Hub</a>, Germany, 50+</td><td>Jacck</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004ZIJD01">Hans van der Zijden</a>, Netherlands, 50+</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016GOSL01">Harry Goslow</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016GOSL01">Harry Goslow</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014NIET01">Hernán Nieto</a>, Argentina</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>?</td></tr>
@@ -787,12 +788,13 @@ Last refreshed: 2019-05-27 08:45:27 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#666">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">5:32.89</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#666">Reiner Thomsen</a>, Germany</td><td style="text-align:right">5:40.80</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#666">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">6:19.70</td></tr>
-    <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#666">David Barr</a>, United States</td><td style="text-align:right">6:42.49</td></tr>
-    <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#666">Tommy Holm</a>, Sweden</td><td style="text-align:right">7:32.46</td></tr>
-    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#666">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">7:36.57</td></tr>
-    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#666">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">8:45.23</td></tr>
-    <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#666">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">10:26.00</td></tr>
-    <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#666">Patrick Garcin</a>, France</td><td style="text-align:right">12:35.00</td></tr>
+    <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#666">Cari Goslow</a>, United States, 50+</td><td style="text-align:right">6:29.14</td></tr>
+    <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#666">David Barr</a>, United States</td><td style="text-align:right">6:42.49</td></tr>
+    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#666">Tommy Holm</a>, Sweden</td><td style="text-align:right">7:32.46</td></tr>
+    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#666">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">7:36.57</td></tr>
+    <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#666">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">8:45.23</td></tr>
+    <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#666">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">10:26.00</td></tr>
+    <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2008GARC05#666">Patrick Garcin</a>, France</td><td style="text-align:right">12:35.00</td></tr>
   </table>
 </details>
 
@@ -1699,8 +1701,9 @@ Last refreshed: 2019-05-27 08:45:27 (UTC)
     <tr><td style="text-align:center">135</td><td><a href="https://www.worldcubeassociation.org/persons/2018DUBI04#222">Joanna Dubicka</a>, Poland</td><td style="text-align:right">17.38</td></tr>
     <tr><td style="text-align:center">136</td><td><a href="https://www.worldcubeassociation.org/persons/2004BOSS01#222">Arjan Bosse</a>, Netherlands</td><td style="text-align:right">17.48</td></tr>
     <tr><td style="text-align:center">137</td><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01#222">Carl Brannen</a>, United States, 50+</td><td style="text-align:right">21.96</td></tr>
-    <tr><td style="text-align:center">138</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">36.70</td></tr>
-    <tr><td style="text-align:center">139</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">1:02.59</td></tr>
+    <tr><td style="text-align:center">138</td><td><a href="https://www.worldcubeassociation.org/persons/2019CERN02#222">Frank Cerne</a>, United States, 50+</td><td style="text-align:right">25.04</td></tr>
+    <tr><td style="text-align:center">139</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">36.70</td></tr>
+    <tr><td style="text-align:center">140</td><td><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#222">Theodora Rijks</a>, Netherlands, 50+</td><td style="text-align:right">1:02.59</td></tr>
   </table>
 </details>
 
