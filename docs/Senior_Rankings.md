@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-29 21:07:54 (UTC)
+Last refreshed: 2019-05-30 16:00:50 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -23,6 +23,7 @@ Last refreshed: 2019-05-29 21:07:54 (UTC)
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005JOKS01">Adam Joks</a>, Poland</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01">Adrian Roșu</a>, Romania</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007DIAZ01">Agustín Díaz Morón</a>, Spain</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012WATA02">Akio Watanabe (渡辺昭夫)</a>, Canada</td><td>4EverCuber</td></tr>
@@ -291,7 +292,7 @@ Last refreshed: 2019-05-29 21:07:54 (UTC)
     <tr><td style="text-align:center">1013-1099</td><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+<br/><a href="https://www.worldcubeassociation.org/persons/2018VILJ02#333">Danie Viljoen</a>, South Africa, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2017GRAD03#333">Patrick Grady</a>, United States, 50+<br/>+ 84 unknowns</td><td style="text-align:right">1:24.93<br/>1:25.52<br/>1:28.13<br/>1:2x.xx</td></tr>
     <tr><td style="text-align:center">1100-1177</td><td>78 unknowns</td><td style="text-align:right">1:3x.xx</td></tr>
     <tr><td style="text-align:center">1178-1252</td><td><a href="https://www.worldcubeassociation.org/persons/2017SOAR04#333">Jude Soares</a>, India<br/><a href="https://www.worldcubeassociation.org/persons/2018DUBI04#333">Joanna Dubicka</a>, Poland<br/>+ 73 unknowns</td><td style="text-align:right">1:42.91<br/>1:44.36<br/>1:4x.xx</td></tr>
-    <tr><td style="text-align:center">1253-1307</td><td>55 unknowns</td><td style="text-align:right">1:5x.xx</td></tr>
+    <tr><td style="text-align:center">1253-1307</td><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02#333">Adelina Estevao</a>, Australia, 80+<br/>+ 54 unknowns</td><td style="text-align:right">1:51.70<br/>1:5x.xx</td></tr>
     <tr><td style="text-align:center">1308-1475</td><td><a href="https://www.worldcubeassociation.org/persons/2019MCDO05#333">Brett A. McDonald</a>, Australia<br/><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/>+ 165 unknowns</td><td style="text-align:right">2:03.85<br/>2:35.10<br/>2:50.60<br/>2:xx.xx</td></tr>
     <tr><td style="text-align:center">1476-1518</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+<br/><a href="https://www.worldcubeassociation.org/persons/2019RIJK01#333">Theodora Rijks</a>, Netherlands, 50+<br/>+ 41 unknowns</td><td style="text-align:right">3:19.05<br/>3:37.97<br/>3:xx.xx</td></tr>
     <tr><td style="text-align:center">1519-1534</td><td>16 unknowns</td><td style="text-align:right">4:00.00+</td></tr>
