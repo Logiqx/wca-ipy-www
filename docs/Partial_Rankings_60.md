@@ -3,7 +3,7 @@
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
-The list of names is not yet complete. If you would like your name to be added then either contact me via [Facebook](https://www.facebook.com/michael.george.545) or [Speedsolving.com](https://www.speedsolving.com/forum/members/logiqx.17180/).
+The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](README.md).
 
 A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060s%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2004SALV01,2005FARK01,2005TOMO01,2006BERG01,2008BERG04,2008TOMO01,2009ELSO01,2010ESTE02,2011MICH01,2013COLL02,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
 
