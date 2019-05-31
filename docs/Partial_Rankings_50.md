@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-30 16:48:44 (UTC)
+Last refreshed: 2019-05-31 09:29:31 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -20,7 +20,7 @@ Last refreshed: 2019-05-30 16:48:44 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01">Anders Larsson</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012HORV01">Attila Horváth</a>, Hungary</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01">Bill Berry</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01">Bill Berry</a>, United States</td><td>BillB</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01">Bill McGaugh</a>, United States, 60+</td><td>Bill</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01">Bruce Norskog</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ROSA09">Bruno Rosa</a>, Italy</td><td>Bruno Rosa</td></tr>
@@ -50,7 +50,7 @@ Last refreshed: 2019-05-30 16:48:44 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01">Jean-Louis Mathieu</a>, France</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004MASA01">Jesús Masanet García</a>, Spain</td><td>noiusli</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010SPIE01">Jochen Spies</a>, Germany</td><td>JoSpies</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01">John Louis</a>, India</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01">John Louis</a>, India</td><td>johnlouismemory</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008HERN02">José Alberto Henández Romero</a>, El Salvador</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005FARK01">Károly Farkas</a>, Hungary, 60+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/1982PETR01">Lars Petrus</a>, Sweden</td><td>Lars Petrus</td></tr>
