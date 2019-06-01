@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-01 09:03:51 (UTC)
+Last refreshed: 2019-06-01 09:10:53 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -62,7 +62,7 @@ Last refreshed: 2019-06-01 09:03:51 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018VILJ02">Danie Viljoen</a>, South Africa, 50+</td><td><a href="https://www.speedsolving.com/members/danievil.47495">danievil</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012MENG02">Daniel Maggioni Meng</a>, Brazil</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42">Daniel Smith</a>, United States, 50+</td><td><a href="https://www.speedsolving.com/members/oldmancuber.49036">OldManCuber</a></td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada</td><td><a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01">David Barr</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009NEWH02">David Newhall</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014ROCH07">David Roche</a>, Australia</td><td>?</td></tr>
