@@ -9,11 +9,11 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-05-31 18:01:46 (UTC)
+Last refreshed: 2019-06-01 09:03:52 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
-<details id="names">
+<details id="persons">
   <summary>Known Over 80s</summary>
   <table>
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
@@ -21,8 +21,8 @@ Last refreshed: 2019-05-31 18:01:46 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01">Martin Berger</a>, United Kingdom</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2003WESS01">Rune Wesström</a>, Sweden</td><td>Rune</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02">Tom Doyle</a>, United States</td><td>Old Tom</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2003WESS01">Rune Wesström</a>, Sweden</td><td><a href="https://www.speedsolving.com/members/rune.91">Rune</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02">Tom Doyle</a>, United States</td><td><a href="https://www.speedsolving.com/members/old-tom.27350">Old Tom</a></td></tr>
   </table>
 </details>
 
