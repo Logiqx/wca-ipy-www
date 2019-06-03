@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-03 09:16:21 (UTC)
+Last refreshed: 2019-06-03 09:33:55 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -101,6 +101,7 @@ Last refreshed: 2019-06-03 09:16:21 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10">Javier Agustín Rossi</a>, Argentina, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain</td><td><a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005PARI01">Javier París</a>, Spain, 50+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain</td><td><a href="https://www.speedsolving.com/members/superti.5804">superti</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007SATT01">Jay Satterfield</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01">Jean-Louis Mathieu</a>, France, 50+</td><td>?</td></tr>
@@ -272,10 +273,10 @@ Last refreshed: 2019-06-03 09:16:21 (UTC)
     <tr><td style="text-align:center">669-687</td><td>19 unknowns</td><td style="text-align:right">48.xx</td></tr>
     <tr><td style="text-align:center">688-697</td><td><a href="https://www.worldcubeassociation.org/persons/2017THOR05#333">Jennifer Thorsen</a>, Sweden<br/>+ 9 unknowns</td><td style="text-align:right">49.23<br/>49.xx</td></tr>
     <tr><td style="text-align:center">698-708</td><td>11 unknowns</td><td style="text-align:right">50.xx</td></tr>
-    <tr><td style="text-align:center">709-716</td><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01#333">Lee Odegard</a>, United States<br/>+ 7 unknowns</td><td style="text-align:right">51.16<br/>51.xx</td></tr>
-    <tr><td style="text-align:center">717-730</td><td>14 unknowns</td><td style="text-align:right">52.xx</td></tr>
-    <tr><td style="text-align:center">731-743</td><td><a href="https://www.worldcubeassociation.org/persons/2015PRAT08#333">Phillip Pratt</a>, United States<br/><a href="https://www.worldcubeassociation.org/persons/2012RONK01#333">Tomi Ronkainen</a>, Finland, 50+<br/>+ 11 unknowns</td><td style="text-align:right">53.62<br/>53.64<br/>53.xx</td></tr>
-    <tr><td style="text-align:center">744-750</td><td>7 unknowns</td><td style="text-align:right">54.xx</td></tr>
+    <tr><td style="text-align:center">709-717</td><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01#333">Lee Odegard</a>, United States<br/><a href="https://www.worldcubeassociation.org/persons/2006SANT01#333">Javier Santos</a>, Spain, 50+<br/>+ 7 unknowns</td><td style="text-align:right">51.16<br/>51.22<br/>51.xx</td></tr>
+    <tr><td style="text-align:center">718-731</td><td>14 unknowns</td><td style="text-align:right">52.xx</td></tr>
+    <tr><td style="text-align:center">732-744</td><td><a href="https://www.worldcubeassociation.org/persons/2015PRAT08#333">Phillip Pratt</a>, United States<br/><a href="https://www.worldcubeassociation.org/persons/2012RONK01#333">Tomi Ronkainen</a>, Finland, 50+<br/>+ 11 unknowns</td><td style="text-align:right">53.62<br/>53.64<br/>53.xx</td></tr>
+    <tr><td style="text-align:center">745-750</td><td>6 unknowns</td><td style="text-align:right">54.xx</td></tr>
     <tr><td style="text-align:center">751-761</td><td>11 unknowns</td><td style="text-align:right">55.xx</td></tr>
     <tr><td style="text-align:center">762-771</td><td>10 unknowns</td><td style="text-align:right">56.xx</td></tr>
     <tr><td style="text-align:center">772-782</td><td><a href="https://www.worldcubeassociation.org/persons/2017MAHI02#333">Rajinder Mahi</a>, United Kingdom, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2018LUMS01#333">Stuart Lumsden</a>, United Kingdom<br/>+ 9 unknowns</td><td style="text-align:right">57.31<br/>57.89<br/>57.xx</td></tr>
