@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-02 11:11:01 (UTC)
+Last refreshed: 2019-06-03 07:39:22 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -142,7 +142,7 @@ Last refreshed: 2019-06-02 11:11:01 (UTC)
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#333">Hanneke Rijks</a>, Netherlands</td><td style="text-align:right">42.05</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#333">David Salvia</a>, United States, 70+</td><td style="text-align:right">42.61</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2018BENN01#333">Hans Bennis</a>, Netherlands</td><td style="text-align:right">45.01</td></tr>
-    <tr><td style="text-align:center">46</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">46.83</td></tr>
+    <tr><td style="text-align:center">46</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">46.04</td></tr>
     <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2017MAHI02#333">Rajinder Mahi</a>, United Kingdom</td><td style="text-align:right">57.31</td></tr>
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2008HERN02#333">José Alberto Henández Romero</a>, El Salvador</td><td style="text-align:right">1:07.71</td></tr>
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2009NEWH02#333">David Newhall</a>, United States</td><td style="text-align:right">1:08.10</td></tr>
@@ -682,8 +682,8 @@ Last refreshed: 2019-06-02 11:11:01 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">1:01.47</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2007LUTH01#333bf">Mats Luthman</a>, Sweden</td><td style="text-align:right">1:36.28</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2015CLAR13#333bf">Steve Clarke</a>, United Kingdom</td><td style="text-align:right">1:59.25</td></tr>
-    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#333bf">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">2:52.70</td></tr>
-    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#333bf">Peter Andersson</a>, Sweden</td><td style="text-align:right">3:01.16</td></tr>
+    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#333bf">Peter Andersson</a>, Sweden</td><td style="text-align:right">2:29.88</td></tr>
+    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#333bf">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">2:52.70</td></tr>
     <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333bf">Hanns Hub</a>, Germany</td><td style="text-align:right">3:28.27</td></tr>
     <tr><td style="text-align:center">9</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10#333bf">Javier Agustín Rossi</a>, Argentina</td><td style="text-align:right">3:42.84</td></tr>
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#333bf">Cari Goslow</a>, United States</td><td style="text-align:right">5:06.88</td></tr>
