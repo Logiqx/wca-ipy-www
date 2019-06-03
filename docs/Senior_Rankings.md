@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-03 08:54:27 (UTC)
+Last refreshed: 2019-06-03 09:16:21 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -61,6 +61,7 @@ Last refreshed: 2019-06-03 08:54:27 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States, 70+</td><td><a href="https://www.speedsolving.com/members/david-j.42888">David J</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+</td><td><a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018SCHE08">Denis Scheehl</a>, France</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2012OTAN01">Diego Millán Otón</a>, Spain</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01">Endre Kovács</a>, Hungary</td><td><a href="https://www.speedsolving.com/members/kazah.1340">kazah</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013LKHA01">Erelkhegbaatar Lkhagva</a>, Mongolia</td><td><a href="https://www.speedsolving.com/members/eelee1976.24183">Eelee1976</a></td></tr>
@@ -629,7 +630,7 @@ Last refreshed: 2019-06-03 08:54:27 (UTC)
     <tr><td style="text-align:center">33</td><td>1 unknown</td><td style="text-align:right">3:5x.xx</td></tr>
     <tr><td style="text-align:center">34-36</td><td><a href="https://www.worldcubeassociation.org/persons/2018GRAG01#333bf">Thorsten Gragert</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/persons/2007CINO01#333bf">Rafael Werneck de Andrade Cinoto</a>, Brazil<br/>+ 1 unknown</td><td style="text-align:right">4:00.11<br/>4:00.94<br/>4:0x.xx</td></tr>
     <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333bf">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">4:28.16</td></tr>
-    <tr><td style="text-align:center">38-42</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#333bf">Luis J. Iáñez</a>, Spain<br/>+ 4 unknowns</td><td style="text-align:right">5:03.91<br/>5:xx.xx</td></tr>
+    <tr><td style="text-align:center">38-42</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#333bf">Luis J. Iáñez</a>, Spain<br/><a href="https://www.worldcubeassociation.org/persons/2012OTAN01#333bf">Diego Millán Otón</a>, Spain<br/>+ 3 unknowns</td><td style="text-align:right">5:03.91<br/>5:28.14<br/>5:xx.xx</td></tr>
     <tr><td style="text-align:center">43</td><td>1 unknown</td><td style="text-align:right">6:xx.xx</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#333bf">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">7:13.18</td></tr>
   </table>
