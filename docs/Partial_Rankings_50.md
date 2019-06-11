@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-11 06:36:16 (UTC)
+Last refreshed: 2019-06-11 06:54:19 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -69,7 +69,7 @@ Last refreshed: 2019-06-11 06:36:16 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016POPO02">Mitja Popovski</a>, Slovenia</td><td><a href="https://www.speedsolving.com/members/mitja.33498">mitja</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017GRAD03">Patrick Grady</a>, United States</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 60+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 60+</td><td><a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01">Peter Andersson</a>, Sweden</td><td><a href="https://www.speedsolving.com/members/peter-andersson.21285">Peter Andersson</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01">Peter Douthwright</a>, Canada</td><td>?</td></tr>

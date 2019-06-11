@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-11 06:36:16 (UTC)
+Last refreshed: 2019-06-11 06:54:19 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -186,7 +186,7 @@ Last refreshed: 2019-06-11 06:36:16 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01">Norbert Kotthoff</a>, Germany</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010FEUE02">Oliver Feuer</a>, Germany</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017GRAD03">Patrick Grady</a>, United States, 50+</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 60+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 60+</td><td><a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008HILL02">Paul Hille</a>, Netherlands</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+</td><td>?</td></tr>

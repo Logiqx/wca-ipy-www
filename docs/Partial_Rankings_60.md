@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-11 06:36:17 (UTC)
+Last refreshed: 2019-06-11 06:54:19 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -27,7 +27,7 @@ Last refreshed: 2019-06-11 06:36:17 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01">Martin Berger</a>, United Kingdom, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden</td><td><a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States</td><td><a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003WESS01">Rune Wesström</a>, Sweden, 80+</td><td><a href="https://www.speedsolving.com/members/rune.91">Rune</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016SIVA04">Thanasekaran Sivasamy</a>, India</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018FOLE03">Tiernan Foley</a>, Ireland, 70+</td><td>?</td></tr>
