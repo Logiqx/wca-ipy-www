@@ -13,7 +13,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-12 12:36:36 (UTC)
+Last refreshed: 2019-06-15 16:47:23 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -155,7 +155,7 @@ Last refreshed: 2019-06-12 12:36:36 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014NIET01">Hernán Nieto</a>, Argentina</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005ISHI01">Hiroshi Ishino (石野弘司)</a>, Japan, 50+</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02">Hong Chen</a>, Canada</td><td><a href="https://www.speedsolving.com/members/chencube.5071">chencube</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02">Hong Chen</a>, Canada, 50+</td><td><a href="https://www.speedsolving.com/members/chencube.5071">chencube</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015GERL02">Ian Gerleman</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015PEPP01">Ian Pepper</a>, United Kingdom, 50+</td><td><a href="https://www.speedsolving.com/members/senorjuan.27114">SenorJuan</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006HYAK01">Ikuo Hyakuta (百田郁夫)</a>, Japan, 50+</td><td>?</td></tr>
@@ -260,7 +260,7 @@ Last refreshed: 2019-06-12 12:36:36 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010DELI02">Miroslav Delinac</a>, Croatia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018JOHN29">Mitchell Johnson</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016POPO02">Mitja Popovski</a>, Slovenia, 50+</td><td><a href="https://www.speedsolving.com/members/mitja.33498">mitja</a></td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan, 60+</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01">Mitsuko Tomoyori (友寄光子)</a>, Japan, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007FEKE01">Nándor Fekete</a>, Serbia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011RIGG03">Natán Riggenbach</a>, Peru</td><td><a href="https://www.speedsolving.com/members/natanrig.15174">Natanrig</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ZHAN41">Nianfeng Zhang (张念峰)</a>, China</td><td>?</td></tr>
