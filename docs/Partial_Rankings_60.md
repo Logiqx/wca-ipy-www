@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-19 19:45:13 (UTC)
+Last refreshed: 2019-06-24 07:42:58 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -181,7 +181,7 @@ Last refreshed: 2019-06-19 19:45:13 (UTC)
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2009HEND01#333">Paul Hendrickson</a>, United States, 70+</td><td style="text-align:right">54.01</td></tr>
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2013COLL02#333">Leslie Paul Collard</a>, United Kingdom, 70+</td><td style="text-align:right">54.37</td></tr>
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td style="text-align:right">58.36</td></tr>
-    <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#333">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">1:03.90</td></tr>
+    <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#333">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">1:03.89</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2016SIVA04#333">Thanasekaran Sivasamy</a>, India</td><td style="text-align:right">1:05.38</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td style="text-align:right">1:08.81</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#333">Didier Limal</a>, France</td><td style="text-align:right">1:09.72</td></tr>
