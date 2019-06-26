@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](README.md).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2070s%20-%20Official%20PRs&wcaids=2003WESS01,2004SALV01,2005TOMO01,2006BERG01,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009ELSO01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2013COLL02,2017KUMI01,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2070s%20-%20Official%20PRs&wcaids=2003WESS01,2004SALV01,2005TOMO01,2006BERG01,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009ELSO01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2012SING03,2013COLL02,2017KUMI01,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-26 10:50:00 (UTC)
+Last refreshed: 2019-06-26 11:15:18 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -20,6 +20,7 @@ Last refreshed: 2019-06-26 10:50:00 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01">Alexander Kuminov</a>, Russia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States</td><td><a href="https://www.speedsolving.com/members/david-j.42888">David J</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2012SING03">David Singmaster</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01">Haruo Aoki (青木治雄)</a>, Japan, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td>?</td></tr>
@@ -101,8 +102,9 @@ Last refreshed: 2019-06-26 10:50:00 (UTC)
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom</td><td style="text-align:right">2:14.56</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2008CHEN12#333">Xiansheng Chen</a>, China</td><td style="text-align:right">2:17.61</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">2:30.49</td></tr>
-    <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2009LIXI05#333">Xinxian Li (李新贤)</a>, China, 80+</td><td style="text-align:right">4:43.52</td></tr>
-    <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
+    <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2012SING03#333">David Singmaster</a>, United States</td><td style="text-align:right">4:19.52</td></tr>
+    <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2009LIXI05#333">Xinxian Li (李新贤)</a>, China, 80+</td><td style="text-align:right">4:43.52</td></tr>
+    <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
 </details>
 

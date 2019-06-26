@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is incomplete but most of the fastest people are thought to be included. If you would like your name to be added then please contact me as described on the [front page](README.md).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050s%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,1982VALD01,2003BRUC01,2003DENN01,2003LARS01,2003WESS01,2004LUIS03,2004MASA01,2004MCGA01,2004SALV01,2004ZIJD01,2005CHEN02,2005FARK01,2005GUST02,2005ISHI01,2005PARI01,2005PERE01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2006OOMS01,2006SANT01,2006TOKU01,2007BERR01,2007DOUT01,2007HASH01,2007HUGH01,2007LUTH01,2007OEYM01,2007SANC01,2008BERG04,2008CHEN12,2008HERN02,2008JINZ01,2008MATS04,2008RIJK01,2008TOMO01,2009AOKI01,2009AZHA01,2009ELSO01,2009ESPU01,2009HEND01,2009JOHN07,2009KING01,2009LIXI05,2009MONT01,2009NEWH02,2009PARE02,2009ZHAN33,2009ZHUH01,2010ESTE02,2010SPIE01,2011CORM02,2011MICH01,2011SALA06,2012HORV01,2012RONK01,2013ANDE01,2013BRAN01,2013COLL02,2013HUBH01,2013MART16,2014RUIZ14,2014VIGN02,2015CLAR13,2015GALE01,2015GERL02,2015GOSL01,2015HAGE04,2015LIMA20,2015PEPP01,2015RIVE05,2016CARD19,2016CHOW02,2016DEXT02,2016ESCR01,2016FRIS02,2016GOSL01,2016LEWI07,2016ODEG01,2016POPO02,2016SIVA04,2016WANG11,2016ZEMD01,2017BROW09,2017CREA01,2017GRAD03,2017GUPT02,2017HOZS01,2017KUMI01,2017MAHI02,2017MEGA01,2017PALI03,2017ROSA09,2017ROSS10,2017SHEI04,2017TAKA02,2017THOR06,2017VRIE02,2017WALL07,2018BENN01,2018COOK04,2018DOYL02,2018FOLE03,2018HOOM02,2018JOHN29,2018LOVE02,2018LUCE06,2018PARI11,2018PISC02,2018SACH03,2018SANG01,2018SMIT42,2018VILJ02,2019CERN02,2019FRAT01,2019GOFF01) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2050s%20-%20Official%20PRs&wcaids=1982PETR01,1982RAZO01,1982VALD01,2003BRUC01,2003DENN01,2003LARS01,2003WESS01,2004LUIS03,2004MASA01,2004MCGA01,2004SALV01,2004ZIJD01,2005CHEN02,2005FARK01,2005GUST02,2005ISHI01,2005PARI01,2005PERE01,2005THOM01,2005TOMO01,2005VANH02,2006BERG01,2006HYAK01,2006LOUI01,2006MATH01,2006NORS01,2006OOMS01,2006SANT01,2006TOKU01,2007BERR01,2007DOUT01,2007HASH01,2007HUGH01,2007LUTH01,2007OEYM01,2007SANC01,2008BERG04,2008CHEN12,2008HERN02,2008JINZ01,2008MATS04,2008RIJK01,2008TOMO01,2009AOKI01,2009AZHA01,2009ELSO01,2009ESPU01,2009HEND01,2009JOHN07,2009KING01,2009LIXI05,2009MONT01,2009NEWH02,2009PARE02,2009ZHAN33,2009ZHUH01,2010ESTE02,2010SPIE01,2011CORM02,2011MICH01,2011SALA06,2012HORV01,2012RONK01,2012SING03,2013ANDE01,2013BRAN01,2013COLL02,2013HUBH01,2013MART16,2014RUIZ14,2014VIGN02,2015CLAR13,2015GALE01,2015GERL02,2015GOSL01,2015HAGE04,2015LIMA20,2015PEPP01,2015RIVE05,2016CARD19,2016CHOW02,2016DEXT02,2016ESCR01,2016FRIS02,2016GOSL01,2016LEWI07,2016ODEG01,2016POPO02,2016SIVA04,2016WANG11,2016ZEMD01,2017BROW09,2017CREA01,2017GRAD03,2017GUPT02,2017HOZS01,2017KUMI01,2017MAHI02,2017MEGA01,2017PALI03,2017ROSA09,2017ROSS10,2017SHEI04,2017TAKA02,2017THOR06,2017VRIE02,2017WALL07,2018BENN01,2018COOK04,2018DOYL02,2018FOLE03,2018HOOM02,2018JOHN29,2018LOVE02,2018LUCE06,2018PARI11,2018PISC02,2018SACH03,2018SANG01,2018SMIT42,2018VILJ02,2019CERN02,2019FRAT01,2019GOFF01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-26 10:50:00 (UTC)
+Last refreshed: 2019-06-26 11:15:18 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -41,6 +41,7 @@ Last refreshed: 2019-06-26 10:50:00 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09">David Brown</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009NEWH02">David Newhall</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States, 70+</td><td><a href="https://www.speedsolving.com/members/david-j.42888">David J</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2012SING03">David Singmaster</a>, United States, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia</td><td><a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20">Didier Limal</a>, France, 60+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019FRAT01">Ed Frato-Sweeney</a>, United States</td><td>?</td></tr>
@@ -734,8 +735,9 @@ Last refreshed: 2019-06-26 10:50:00 (UTC)
     <tr><td style="text-align:center">109</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">2:30.49</td></tr>
     <tr><td style="text-align:center">110</td><td><a href="https://www.worldcubeassociation.org/persons/2009AZHA01#333">Mohammad Azhari</a>, Indonesia, 60+</td><td style="text-align:right">2:38.00</td></tr>
     <tr><td style="text-align:center">111</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela</td><td style="text-align:right">3:20.87</td></tr>
-    <tr><td style="text-align:center">112</td><td><a href="https://www.worldcubeassociation.org/persons/2009LIXI05#333">Xinxian Li (李新贤)</a>, China, 80+</td><td style="text-align:right">4:43.52</td></tr>
-    <tr><td style="text-align:center">113</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
+    <tr><td style="text-align:center">112</td><td><a href="https://www.worldcubeassociation.org/persons/2012SING03#333">David Singmaster</a>, United States, 70+</td><td style="text-align:right">4:19.52</td></tr>
+    <tr><td style="text-align:center">113</td><td><a href="https://www.worldcubeassociation.org/persons/2009LIXI05#333">Xinxian Li (李新贤)</a>, China, 80+</td><td style="text-align:right">4:43.52</td></tr>
+    <tr><td style="text-align:center">114</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
 </details>
 
