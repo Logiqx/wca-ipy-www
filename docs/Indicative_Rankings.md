@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-25 11:07:01 (UTC)
+Last refreshed: 2019-06-26 10:22:08 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -106,6 +106,7 @@ Last refreshed: 2019-06-25 11:07:01 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019FRAT01">Ed Frato-Sweeney</a>, United States, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ARQU01">Eduardo Quispe Arquíñego</a>, Peru</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/1982VALD01">Eduardo Valdivia Chacon</a>, Peru, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013MESA01">Edwin Armando Gaitán Mesa</a>, Colombia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01">Endre Kovács</a>, Hungary</td><td><a href="https://www.speedsolving.com/members/kazah.1340">kazah</a></td></tr>
@@ -688,6 +689,7 @@ Last refreshed: 2019-06-25 11:07:01 (UTC)
     <tr><td style="text-align:center">1031</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#333">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">1:13.19</td></tr>
     <tr><td style="text-align:center">1043</td><td><a href="https://www.worldcubeassociation.org/persons/2018PRIK02#333">Michael Prikhodko (Михаил Приходько)</a>, Russia</td><td style="text-align:right">1:14.01</td></tr>
     <tr><td style="text-align:center">1044</td><td><a href="https://www.worldcubeassociation.org/persons/2007SATT01#333">Jay Satterfield</a>, United States</td><td style="text-align:right">1:14.02</td></tr>
+    <tr><td style="text-align:center">1049</td><td><a href="https://www.worldcubeassociation.org/persons/1982VALD01#333">Eduardo Valdivia Chacon</a>, Peru, 50+</td><td style="text-align:right">1:14.44</td></tr>
     <tr><td style="text-align:center">1052</td><td><a href="https://www.worldcubeassociation.org/persons/2018KOST14#333">Vitalii Kostiuchenko (Віталій Костюченко)</a>, Ukraine</td><td style="text-align:right">1:14.80</td></tr>
     <tr><td style="text-align:center">1055</td><td><a href="https://www.worldcubeassociation.org/persons/2015CECC02#333">Antonio Marcos Cecchini</a>, Brazil</td><td style="text-align:right">1:15.22</td></tr>
     <tr><td style="text-align:center">1057</td><td><a href="https://www.worldcubeassociation.org/persons/2015CLAR13#333">Steve Clarke</a>, United Kingdom, 50+</td><td style="text-align:right">1:15.32</td></tr>
