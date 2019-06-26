@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-06-26 10:22:08 (UTC)
+Last refreshed: 2019-06-26 10:50:05 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -163,11 +163,13 @@ Last refreshed: 2019-06-26 10:22:08 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary</td><td><a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017SHEI04">Iurii Shein</a>, Russia, 50+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012PAVL01">Ivan Pavlović</a>, Serbia</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2003SCHE01">Jaap Scherphuis</a>, Netherlands</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States</td><td><a href="https://www.speedsolving.com/members/openseas.32143">openseas</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010WOJT01">Jakub Wojturski</a>, Poland</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom</td><td><a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014HARD01">Jan Hardejewicz</a>, Poland</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014JUNH01">Jang Junho (장준호)</a>, Republic of Korea</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2003LEEJ01">Jasmine Lee</a>, Australia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017BRAD02">Jason Bradshaw</a>, Australia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States</td><td><a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a></td></tr>
@@ -527,6 +529,7 @@ Last refreshed: 2019-06-26 10:22:08 (UTC)
     <tr><td style="text-align:center">312</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#333">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">26.83</td></tr>
     <tr><td style="text-align:center">316</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST01#333">Kenneth Gustavsson</a>, Sweden</td><td style="text-align:right">27.02</td></tr>
     <tr><td style="text-align:center">317</td><td><a href="https://www.worldcubeassociation.org/persons/2017MEGA01#333">Thierry Megard</a>, France, 50+</td><td style="text-align:right">27.05</td></tr>
+    <tr><td style="text-align:center">324</td><td><a href="https://www.worldcubeassociation.org/persons/2003LEEJ01#333">Jasmine Lee</a>, Australia</td><td style="text-align:right">27.33</td></tr>
     <tr><td style="text-align:center">328</td><td><a href="https://www.worldcubeassociation.org/persons/2012DESO02#333">Christopher Desormeaux-Malm</a>, Canada</td><td style="text-align:right">27.46</td></tr>
     <tr><td style="text-align:center">333</td><td><a href="https://www.worldcubeassociation.org/persons/2018GRAG01#333">Thorsten Gragert</a>, Netherlands</td><td style="text-align:right">27.75</td></tr>
     <tr><td style="text-align:center">341</td><td><a href="https://www.worldcubeassociation.org/persons/2013MESA01#333">Edwin Armando Gaitán Mesa</a>, Colombia</td><td style="text-align:right">27.93</td></tr>
@@ -591,6 +594,7 @@ Last refreshed: 2019-06-26 10:22:08 (UTC)
     <tr><td style="text-align:center">508</td><td><a href="https://www.worldcubeassociation.org/persons/2005PERE01#333">Alfonso Perez Arnal</a>, Spain, 50+</td><td style="text-align:right">34.60</td></tr>
     <tr><td style="text-align:center">513</td><td><a href="https://www.worldcubeassociation.org/persons/2011DEWA01#333">Erry Dewanatha</a>, Indonesia</td><td style="text-align:right">34.68</td></tr>
     <tr><td style="text-align:center">518</td><td><a href="https://www.worldcubeassociation.org/persons/2015GIRO01#333">Matthew Girod</a>, United States</td><td style="text-align:right">34.84</td></tr>
+    <tr><td style="text-align:center">519</td><td><a href="https://www.worldcubeassociation.org/persons/2003SCHE01#333">Jaap Scherphuis</a>, Netherlands</td><td style="text-align:right">34.85</td></tr>
     <tr><td style="text-align:center">524</td><td><a href="https://www.worldcubeassociation.org/persons/2014JUNH01#333">Jang Junho (장준호)</a>, Republic of Korea</td><td style="text-align:right">35.10</td></tr>
     <tr><td style="text-align:center">529</td><td><a href="https://www.worldcubeassociation.org/persons/2010WOJT01#333">Jakub Wojturski</a>, Poland</td><td style="text-align:right">35.44</td></tr>
     <tr><td style="text-align:center">531</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10#333">Javier Agustín Rossi</a>, Argentina, 50+</td><td style="text-align:right">35.54</td></tr>
