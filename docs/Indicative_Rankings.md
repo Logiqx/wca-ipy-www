@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-09 07:26:00 (UTC)
+Last refreshed: 2019-07-09 07:29:51 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -20,6 +20,7 @@ Last refreshed: 2019-07-09 07:26:00 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02">Aaron Jody Cumes</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014WICK01">Abe Wickham</a>, South Africa</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005JOKS01">Adam Joks</a>, Poland</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2018NICH04">Adam Nichols</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01">Adrian Roșu</a>, Romania</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007DIAZ01">Agustín Díaz Morón</a>, Spain</td><td>?</td></tr>
@@ -710,6 +711,7 @@ Last refreshed: 2019-07-09 07:26:00 (UTC)
     <tr><td style="text-align:center">901</td><td><a href="https://www.worldcubeassociation.org/persons/2019ONOG01#333">Caner Onoglu</a>, Turkey</td><td style="text-align:right">59.84</td></tr>
     <tr><td style="text-align:center">907</td><td><a href="https://www.worldcubeassociation.org/persons/2015MELN01#333">Vyacheslav Melnikov</a>, Russia</td><td style="text-align:right">1:00.18</td></tr>
     <tr><td style="text-align:center">925</td><td><a href="https://www.worldcubeassociation.org/persons/2011YERK01#333">Stanislav Yerko (Станіслав Єрко)</a>, Ukraine</td><td style="text-align:right">1:01.79</td></tr>
+    <tr><td style="text-align:center">928</td><td><a href="https://www.worldcubeassociation.org/persons/2018NICH04#333">Adam Nichols</a>, United States</td><td style="text-align:right">1:02.00</td></tr>
     <tr><td style="text-align:center">946</td><td><a href="https://www.worldcubeassociation.org/persons/2011CORM02#333">Alain Cormier</a>, Canada, 50+</td><td style="text-align:right">1:04.80</td></tr>
     <tr><td style="text-align:center">951</td><td><a href="https://www.worldcubeassociation.org/persons/2018NILS03#333">Petter Nilsson</a>, Sweden</td><td style="text-align:right">1:05.13</td></tr>
     <tr><td style="text-align:center">958</td><td><a href="https://www.worldcubeassociation.org/persons/2018DITT03#333">Thomas Ditton</a>, Switzerland</td><td style="text-align:right">1:06.07</td></tr>
