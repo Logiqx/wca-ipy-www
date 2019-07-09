@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-09 07:29:51 (UTC)
+Last refreshed: 2019-07-09 11:09:02 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -135,6 +135,7 @@ Last refreshed: 2019-07-09 07:29:51 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018HALL06">Gary W. Hall</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016EVAN04">Gavin Evans</a>, United Kingdom</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015BEUK01">Gawie Beukman</a>, South Africa</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005UGEL01">Geir Ugelstad</a>, Norway</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015PAVI02">Gérard Pavin</a>, France</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018PINE03">German Dario Lis Piñeros</a>, Colombia</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01">Gianluca Placenti</a>, Italy</td><td><a href="https://www.speedsolving.com/members/commodore128.18054">commodore128</a></td></tr>
@@ -583,6 +584,7 @@ Last refreshed: 2019-07-09 07:29:51 (UTC)
     <tr><td style="text-align:center">379</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#333">Bill Berry</a>, United States, 50+</td><td style="text-align:right">28.82</td></tr>
     <tr><td style="text-align:center">381</td><td><a href="https://www.worldcubeassociation.org/persons/2009COST02#333">Márcio Luiz da Costa Freitas</a>, Brazil</td><td style="text-align:right">28.95</td></tr>
     <tr><td style="text-align:center">383</td><td><a href="https://www.worldcubeassociation.org/persons/2008CIRN01#333">Fabrizio Cirnigliaro</a>, Italy</td><td style="text-align:right">28.98</td></tr>
+    <tr><td style="text-align:center">391</td><td><a href="https://www.worldcubeassociation.org/persons/2005UGEL01#333">Geir Ugelstad</a>, Norway</td><td style="text-align:right">29.35</td></tr>
     <tr><td style="text-align:center">392</td><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01#333">Adrian Roșu</a>, Romania</td><td style="text-align:right">29.40</td></tr>
     <tr><td style="text-align:center">393</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#333">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">29.41</td></tr>
     <tr><td style="text-align:center">400</td><td><a href="https://www.worldcubeassociation.org/persons/2017TAKA02#333">Takashi Takaoka (高岡孝)</a>, Japan, 50+</td><td style="text-align:right">29.79</td></tr>
