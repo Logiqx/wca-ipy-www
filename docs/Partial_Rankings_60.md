@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](README.md).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060s%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2004SALV01,2005FARK01,2005TOMO01,2006BERG01,2006OOMS01,2008BERG04,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009AZHA01,2009ELSO01,2009ESPU01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2012SING03,2013COLL02,2015LIMA20,2016SIVA04,2017KUMI01,2018DOYL02,2018FOLE03,2018PARI11,2019GOFF01) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060s%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2004SALV01,2005FARK01,2005TOMO01,2006BERG01,2006OOMS01,2008BERG04,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009AZHA01,2009ELSO01,2009ESPU01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2012SING03,2013COLL02,2015LIMA20,2016KLEI01,2016SIVA04,2017KUMI01,2018DOYL02,2018FOLE03,2018PARI11,2019GOFF01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-11 20:05:28 (UTC)
+Last refreshed: 2019-07-12 08:09:10 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -20,6 +20,7 @@ Last refreshed: 2019-07-11 20:05:28 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01">Alexander Kuminov</a>, Russia, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01">Bill McGaugh</a>, United States</td><td><a href="https://www.speedsolving.com/members/bill.60">Bill</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01">David Kleiner</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States, 70+</td><td><a href="https://www.speedsolving.com/members/david-j.42888">David J</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012SING03">David Singmaster</a>, United States, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20">Didier Limal</a>, France</td><td>?</td></tr>
@@ -88,12 +89,13 @@ Last refreshed: 2019-07-11 20:05:28 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2018PARI11#222">Luis Palomar París</a>, Spain</td><td style="text-align:right">12.52</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#222">Mats Bergsten</a>, Sweden</td><td style="text-align:right">14.14</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan, 70+</td><td style="text-align:right">14.19</td></tr>
-    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States, 70+</td><td style="text-align:right">16.35</td></tr>
-    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#222">Roger L. Goff</a>, United States</td><td style="text-align:right">21.96</td></tr>
-    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">38.85</td></tr>
-    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">55.59</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States</td><td style="text-align:right">13.41</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#222">Mats Bergsten</a>, Sweden</td><td style="text-align:right">14.14</td></tr>
+    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan, 70+</td><td style="text-align:right">14.19</td></tr>
+    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States, 70+</td><td style="text-align:right">16.35</td></tr>
+    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#222">Roger L. Goff</a>, United States</td><td style="text-align:right">21.96</td></tr>
+    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">38.85</td></tr>
+    <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">55.59</td></tr>
   </table>
 </details>
 
@@ -134,8 +136,9 @@ Last refreshed: 2019-07-11 20:05:28 (UTC)
   <summary>Pyraminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">32.07</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">42.69</td></tr>
+    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#pyram">David Kleiner</a>, United States</td><td style="text-align:right">16.24</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">32.07</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">42.69</td></tr>
   </table>
 </details>
 
@@ -207,11 +210,12 @@ Last refreshed: 2019-07-11 20:05:28 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#222">Mats Bergsten</a>, Sweden</td><td style="text-align:right">8.06</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#222">Roger L. Goff</a>, United States</td><td style="text-align:right">8.16</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2018PARI11#222">Luis Palomar París</a>, Spain</td><td style="text-align:right">9.01</td></tr>
-    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan, 70+</td><td style="text-align:right">10.68</td></tr>
-    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States, 70+</td><td style="text-align:right">12.55</td></tr>
-    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">18.05</td></tr>
-    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">31.88</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States</td><td style="text-align:right">8.89</td></tr>
+    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2018PARI11#222">Luis Palomar París</a>, Spain</td><td style="text-align:right">9.01</td></tr>
+    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan, 70+</td><td style="text-align:right">10.68</td></tr>
+    <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States, 70+</td><td style="text-align:right">12.55</td></tr>
+    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">18.05</td></tr>
+    <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">31.88</td></tr>
   </table>
 </details>
 
@@ -285,9 +289,10 @@ Last refreshed: 2019-07-11 20:05:28 (UTC)
   <summary>Pyraminx</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">21.90</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">32.46</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
+    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#pyram">David Kleiner</a>, United States</td><td style="text-align:right">9.72</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">21.90</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">32.46</td></tr>
+    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
   </table>
 </details>
 
