@@ -5,11 +5,11 @@ These are unofficial rankings for the senior cubing community produced from offi
 
 The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](README.md).
 
-A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2070s%20-%20Official%20PRs&wcaids=2003WESS01,2004SALV01,2005TOMO01,2006BERG01,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009ELSO01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2012SING03,2013COLL02,2017KUMI01,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
+A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2070s%20-%20Official%20PRs&wcaids=2003WESS01,2004SALV01,2005TOMO01,2006BERG01,2008CHEN12,2008JINZ01,2008TOMO01,2009AOKI01,2009ELSO01,2009HEND01,2009LIXI05,2009ZHUH01,2010ESTE02,2011MICH01,2012SING03,2013COLL02,2016KLEI01,2017KUMI01,2018DOYL02,2018FOLE03) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-15 08:56:43 (UTC)
+Last refreshed: 2019-07-17 07:24:48 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -19,6 +19,7 @@ Last refreshed: 2019-07-15 08:56:43 (UTC)
     <tr><td><b>Person</b></td><td><b>Speedsolving.com</b></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02">Adelina Estevao</a>, Australia, 80+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01">Alexander Kuminov</a>, Russia</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01">David Kleiner</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States</td><td><a href="https://www.speedsolving.com/members/david-j.42888">David J</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012SING03">David Singmaster</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01">Egon Micheelsen</a>, Denmark, 90+</td><td>?</td></tr>
@@ -114,6 +115,7 @@ Last refreshed: 2019-07-15 08:56:43 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan</td><td style="text-align:right">10.68</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States</td><td style="text-align:right">12.55</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States</td><td style="text-align:right">14.93</td></tr>
   </table>
 </details>
 
