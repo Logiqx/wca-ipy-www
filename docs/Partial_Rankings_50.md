@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-23 07:40:07 (UTC)
+Last refreshed: 2019-07-27 20:05:33 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -24,13 +24,13 @@ Last refreshed: 2019-07-23 07:40:07 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01">Anders Larsson</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018LUCE06">Aníbal Sergio Lucero</a>, Argentina</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02">Aroldo Andres Tachon Lovera</a>, Venezuela</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2012HORV01">Attila Horváth</a>, Hungary</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2012HORV01">Attila Horváth</a>, Hungary</td><td><a href="https://www.speedsolving.com/members/attila.10652">Attila</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01">Bill Berry</a>, United States</td><td><a href="https://www.speedsolving.com/members/billb.1677">BillB</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01">Bill McGaugh</a>, United States, 60+</td><td><a href="https://www.speedsolving.com/members/bill.60">Bill</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01">Bruce Norskog</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010MIKK02">Bruno Mikkelsen</a>, Denmark</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ROSA09">Bruno Rosa</a>, Italy</td><td><a href="https://www.speedsolving.com/members/bruno-rosa.42512">Bruno Rosa</a></td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01">Cari Goslow</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01">Cari Goslow</a>, United States</td><td><a href="https://www.speedsolving.com/members/motherofsix.42245">motherofsix</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01">Carl Brannen</a>, United States</td><td><a href="https://www.speedsolving.com/members/carlbrannen.16483">CarlBrannen</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ZHAN33">Chaoxu Zhang (张朝旭)</a>, China</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016WANG11">Chong-Cheng Wang (汪忠正)</a>, Taiwan</td><td>?</td></tr>
@@ -93,7 +93,7 @@ Last refreshed: 2019-07-23 07:40:07 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005FARK01">Károly Farkas</a>, Hungary, 60+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/1982PETR01">Lars Petrus</a>, Sweden</td><td><a href="https://www.speedsolving.com/members/lars-petrus.4334">Lars Petrus</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017WALL07">Lars Wallin</a>, Sweden</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01">Lee Odegard</a>, United States</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01">Lee Odegard</a>, United States</td><td><a href="https://www.speedsolving.com/members/leeo.27228">leeo</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013COLL02">Leslie Paul Collard</a>, United Kingdom, 70+</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013CORM01">Louise Cormier</a>, Canada</td><td>?</td></tr>
@@ -150,7 +150,7 @@ Last refreshed: 2019-07-23 07:40:07 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02">Tom Doyle</a>, United States, 80+</td><td><a href="https://www.speedsolving.com/members/old-tom.27350">Old Tom</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ROKI01">Tomas Rokicki</a>, United States</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland</td><td>?</td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02">Tommy Gustavsson</a>, Sweden</td><td>?</td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02">Tommy Gustavsson</a>, Sweden</td><td><a href="https://www.speedsolving.com/members/coinman.1673">coinman</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands</td><td><a href="https://www.speedsolving.com/members/ton.630">Ton</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017THOR06">Torbjörn Thorsén</a>, Sweden</td><td>?</td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ELSO01">Valerie Elson</a>, United States, 70+</td><td>?</td></tr>
