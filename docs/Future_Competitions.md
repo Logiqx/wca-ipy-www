@@ -5,7 +5,7 @@ This page lists future competitions with registrations for people in the senior 
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-31 09:59:13 (UTC)
+Last refreshed: 2019-07-31 10:45:51 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -572,6 +572,7 @@ Last refreshed: 2019-07-31 09:59:13 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/ItalianChampionship2019">Italian Championship 2019</a> - Rovigo, Italy - Nov 1 - 3, 2019</summary>
   <p style="margin-left: 18px">
     <a href="https://www.worldcubeassociation.org/persons/2017ROSA09">Bruno Rosa</a>, Italy, 50+ - <a href="https://www.speedsolving.com/members/bruno-rosa.42512">Bruno Rosa</a> on Speedsolving.com<br/>
+    <a href="https://www.worldcubeassociation.org/persons/2014VIGN02">Ciro Vignotto</a>, Italy, 50+ - <a href="https://www.speedsolving.com/members/vigo64.23797">vigo64</a> on Speedsolving.com<br/>
     <a href="https://www.worldcubeassociation.org/persons/2012PLAC01">Gianluca Placenti</a>, Italy - <a href="https://www.speedsolving.com/members/commodore128.18054">commodore128</a> on Speedsolving.com<br/>
     <a href="https://www.worldcubeassociation.org/persons/2017BONI01">Raffaele Bonifazi</a>, Italy<br/>
     <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+<br/>
@@ -601,7 +602,7 @@ Last refreshed: 2019-07-31 09:59:13 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019">Campeonato Brasileiro 2019</a> - Criciúma, Santa Catarina, Brazil - Nov 29 - Dec 1, 2019</summary>
   <p style="margin-left: 18px">
     <a href="https://www.worldcubeassociation.org/persons/2016PINT04">Ana Lúcia Pintro</a>, Brazil<br/>
-    <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael Werneck de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com<br/>
+    <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com<br/>
   </p>
 </details>
 
