@@ -1,11 +1,13 @@
 ![alt text](img/logo.jpg "logo")
 ## Future Competitions
 
-This page lists future competitions with registrations for people in the senior rankings.
+This page lists future competitions for people in the senior rankings.
+
+It retrieves registration data from [worldcubeassociation.org](https://www.worldcubeassociation.org/), [cubingchina.com](https://cubingchina.com/), [cubing-tw.net](https://cubing-tw.net/event/), [zawody4event.pl](https://zawody4event.pl/), [speedcubing.pl](https://www.speedcubing.pl/), [speedcubing.nz](https://www.speedcubing.nz/), [canadiancubing.com](http://www.canadiancubing.com/) and [cubecomp.de](https://cubecomp.de/)
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-07-31 18:05:09 (UTC)
+Last refreshed: 2019-08-01 07:33:55 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -218,7 +220,9 @@ Last refreshed: 2019-07-31 18:05:09 (UTC)
 <details id="VancouverBigCubesOpen2019">
   <summary><a href="https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019">Vancouver Big Cubes Open 2019</a> - Vancouver, British Columbia, Canada - Aug 23 - 24, 2019</summary>
   <p style="margin-left: 18px">
-    <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
+    <a href="https://www.worldcubeassociation.org/persons/2013BRYA02">Mark Bryan</a>, Canada - <a href="https://www.speedsolving.com/members/parity-case.19867">Parity Case</a> on Speedsolving.com<br/>
+    <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States<br/>
+    <a href="https://www.worldcubeassociation.org/persons/2008YIMV01">Vincent Yim</a>, Canada - <a href="https://www.speedsolving.com/members/toquinha1977.4847">Toquinha1977</a> on Speedsolving.com
   </p>
 </details>
 
