@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-02 07:05:06 (UTC)
+Last refreshed: 2019-08-02 17:49:21 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -71,6 +71,13 @@ Last refreshed: 2019-08-02 07:05:06 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019">V ETEC Jacareí Open 2019</a> - Jacareí, São Paulo, Brazil - Aug 10, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
   </p>
 </details>
 
@@ -364,6 +371,21 @@ Last refreshed: 2019-08-02 07:05:06 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019">Cubing in Cill Chainnigh 2019</a> - Kilkenny, Ireland - Aug 31 - Sep 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SofiaAutumn2019">Sofia Autumn 2019</a> - Sofia, Bulgaria - Aug 31 - Sep 1, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiSummer2019">Kansai Summer 2019</a> - Daito, Osaka, Japan - Sep 1, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan
   </p>
 </details>
 
