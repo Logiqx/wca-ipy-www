@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-01 12:14:39 (UTC)
+Last refreshed: 2019-08-02 07:05:06 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -437,6 +437,14 @@ Last refreshed: 2019-08-01 12:14:39 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019">Mental Breakdown Germany 2019</a> - Nürnberg, Germany - Sep 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019">Merdeka Mind Games 2019</a> - Petaling Jaya, Selangor, Malaysia - Sep 16, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
   </p>
 </details>
 
