@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-01 17:24:05 (UTC)
+Last refreshed: 2019-08-02 20:37:34 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -153,6 +153,7 @@ Last refreshed: 2019-08-01 17:24:05 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016EVAN04">Gavin Evans</a>, United Kingdom</td><td><a href="https://www.speedsolving.com/members/loveyulongtime.30229">LoveYuLongTime</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015BEUK01">Gawie Beukman</a>, South Africa</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005UGEL01">Geir Ugelstad</a>, Norway</td><td><a href="https://www.speedsolving.com/members/ugelstad.10373">ugelstad</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2017HART06">Geoffrey Hartnell</a>, United Kingdom</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015PAVI02">Gérard Pavin</a>, France</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018PINE03">German Dario Lis Piñeros</a>, Colombia</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01">Gianluca Placenti</a>, Italy</td><td><a href="https://www.speedsolving.com/members/commodore128.18054">commodore128</a></td></tr>
@@ -639,6 +640,7 @@ Last refreshed: 2019-08-01 17:24:05 (UTC)
     <tr><td style="text-align:center">332</td><td><a href="https://www.worldcubeassociation.org/persons/2012DESO02#333">Christopher Desormeaux-Malm</a>, Canada</td><td style="text-align:right">27.46</td></tr>
     <tr><td style="text-align:center">339</td><td><a href="https://www.worldcubeassociation.org/persons/2018GRAG01#333">Thorsten Gragert</a>, Netherlands</td><td style="text-align:right">27.75</td></tr>
     <tr><td style="text-align:center">343</td><td><a href="https://www.worldcubeassociation.org/persons/2015HUNT01#333">Ken Hunt</a>, United States</td><td style="text-align:right">27.86</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2017HART06#333">Geoffrey Hartnell</a>, United Kingdom</td><td style="text-align:right">27.86</td></tr>
     <tr><td style="text-align:center">345</td><td><a href="https://www.worldcubeassociation.org/persons/2009DELM02#333">Roberto Delmás Serrano</a>, Spain</td><td style="text-align:right">27.88</td></tr>
     <tr><td style="text-align:center">347</td><td><a href="https://www.worldcubeassociation.org/persons/2013MESA01#333">Edwin Armando Gaitán Mesa</a>, Colombia</td><td style="text-align:right">27.93</td></tr>
     <tr><td style="text-align:center">348</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#333">Peter Andersson</a>, Sweden, 50+</td><td style="text-align:right">27.95</td></tr>
@@ -1041,6 +1043,7 @@ Last refreshed: 2019-08-01 17:24:05 (UTC)
     <tr><td style="text-align:center">195</td><td><a href="https://www.worldcubeassociation.org/persons/2012HAMA02#222">Yuichi Hamada (濵田祐一)</a>, Japan</td><td style="text-align:right">9.78</td></tr>
     <tr><td style="text-align:center">197</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#222">Peter Andersson</a>, Sweden, 50+</td><td style="text-align:right">9.80</td></tr>
     <tr><td style="text-align:center">200</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#222">Cari Goslow</a>, United States, 50+</td><td style="text-align:right">9.91</td></tr>
+    <tr><td style="text-align:center">201</td><td><a href="https://www.worldcubeassociation.org/persons/2017HART06#222">Geoffrey Hartnell</a>, United Kingdom</td><td style="text-align:right">9.93</td></tr>
     <tr><td style="text-align:center">204</td><td><a href="https://www.worldcubeassociation.org/persons/2007KOLL01#222">Mats Kollbrink</a>, Sweden</td><td style="text-align:right">10.01</td></tr>
     <tr><td style="text-align:center">205</td><td><a href="https://www.worldcubeassociation.org/persons/2013JOKI02#222">Juhana Jokinen</a>, Finland</td><td style="text-align:right">10.03</td></tr>
     <tr><td style="text-align:center">207</td><td><a href="https://www.worldcubeassociation.org/persons/2013MESA01#222">Edwin Armando Gaitán Mesa</a>, Colombia</td><td style="text-align:right">10.08</td></tr>
@@ -1797,6 +1800,7 @@ Last refreshed: 2019-08-01 17:24:05 (UTC)
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2007CINO01#minx">Rafael de Andrade Cinoto</a>, Brazil</td><td style="text-align:right">2:13.40</td></tr>
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2006KASP02#minx">Sander Kaspers</a>, Netherlands</td><td style="text-align:right">2:14.39</td></tr>
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOSE01#minx">Fumiki Koseki (古関章記)</a>, Japan</td><td style="text-align:right">2:19.87</td></tr>
+    <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2017HART06#minx">Geoffrey Hartnell</a>, United Kingdom</td><td style="text-align:right">2:23.35</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#minx">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">2:28.80</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2015NICH04#minx">Andy Nicholls</a>, United Kingdom</td><td style="text-align:right">2:33.39</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2006GALE01#minx">Arnaud van Galen</a>, Netherlands</td><td style="text-align:right">2:35.59</td></tr>
