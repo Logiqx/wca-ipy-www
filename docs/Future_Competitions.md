@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-02 17:49:21 (UTC)
+Last refreshed: 2019-08-03 06:56:42 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -471,6 +471,15 @@ Last refreshed: 2019-08-02 17:49:21 (UTC)
 </details>
 
 <h3>Sep 23, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HungarianOpen2019">Hungarian Open 2019</a> - Budapest, Hungary - Sep 20 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013MESZ01">András Mészáros</a>, Hungary<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017SZAN01">Károly Szántai</a>, Hungary<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LASC01">Péter Laschek</a>, Hungary
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BerkeleySummer2019">Berkeley Summer 2019</a> - Berkeley, California, United States - Sep 21, 2019</summary>
