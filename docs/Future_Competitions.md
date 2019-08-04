@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-03 20:39:40 (UTC)
+Last refreshed: 2019-08-04 08:07:22 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -32,13 +32,6 @@ Last refreshed: 2019-08-03 20:39:40 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019">Colégio Asther Open 2019</a> - Campinas, São Paulo, Brazil - Aug 3, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018SEMO01">Robinson Semolini</a>, Brazil
   </p>
 </details>
 
