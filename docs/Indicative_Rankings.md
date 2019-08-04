@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-04 16:21:53 (UTC)
+Last refreshed: 2019-08-04 18:35:27 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -147,6 +147,7 @@ Last refreshed: 2019-08-04 16:21:53 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011PLOM01">Eveline Plomp</a>, Netherlands</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008CIRN01">Fabrizio Cirnigliaro</a>, Italy</td><td><a href="https://www.speedsolving.com/members/cubepark.7852">Cubepark</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016FOOJ01">Foo Yim Sheung (傅艶嫦)</a>, Hong Kong</td><td></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2019MILL10">Frances Mills</a>, United Kingdom, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016GALE02">Francesco Galetta</a>, Italy</td><td><a href="https://www.speedsolving.com/members/francesco-galetta.37925">Francesco Galetta</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01">Francisco Eduardo Martins Serra Espuny</a>, Brazil, 60+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018SOUS04">Francisco Farley Vasconcelos de Sousa</a>, Brazil</td><td></td></tr>
@@ -933,6 +934,7 @@ Last refreshed: 2019-08-04 16:21:53 (UTC)
     <tr><td style="text-align:center">1444</td><td><a href="https://www.worldcubeassociation.org/persons/2007PREU01#333">Jany Preudhomme</a>, Belgium, 60+</td><td style="text-align:right">1:55.84</td></tr>
     <tr><td style="text-align:center">1448</td><td><a href="https://www.worldcubeassociation.org/persons/2009CERP01#333">Evaldo Cerpe</a>, Brazil</td><td style="text-align:right">1:56.30</td></tr>
     <tr><td style="text-align:center">1453</td><td><a href="https://www.worldcubeassociation.org/persons/2019DANT02#333">Vincent Danton</a>, France</td><td style="text-align:right">1:57.48</td></tr>
+    <tr><td style="text-align:center">1470</td><td><a href="https://www.worldcubeassociation.org/persons/2019MILL10#333">Frances Mills</a>, United Kingdom, 50+</td><td style="text-align:right">2:00.86</td></tr>
     <tr><td style="text-align:center">1472</td><td><a href="https://www.worldcubeassociation.org/persons/2017HOZS01#333">Sergio Luzardo de la Hoz</a>, Spain, 50+</td><td style="text-align:right">2:01.56</td></tr>
     <tr><td style="text-align:center">1490</td><td><a href="https://www.worldcubeassociation.org/persons/2009ELSO01#333">Valerie Elson</a>, United States, 70+</td><td style="text-align:right">2:05.26</td></tr>
     <tr><td style="text-align:center">1515</td><td><a href="https://www.worldcubeassociation.org/persons/2015MILA01#333">Maria Regina de Aguiar Milani</a>, Brazil</td><td style="text-align:right">2:10.97</td></tr>
@@ -2049,6 +2051,7 @@ Last refreshed: 2019-08-04 16:21:53 (UTC)
     <tr><td style="text-align:center">320</td><td><a href="https://www.worldcubeassociation.org/persons/2013MORA10#pyram">André Pozzobon de Morais</a>, Brazil</td><td style="text-align:right">32.06</td></tr>
     <tr><td style="text-align:center">321</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">32.07</td></tr>
     <tr><td style="text-align:center">324</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#pyram">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">32.32</td></tr>
+    <tr><td style="text-align:center">328</td><td><a href="https://www.worldcubeassociation.org/persons/2019MILL10#pyram">Frances Mills</a>, United Kingdom, 50+</td><td style="text-align:right">33.14</td></tr>
     <tr><td style="text-align:center">330</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#pyram">David Levine</a>, United States, 60+</td><td style="text-align:right">33.39</td></tr>
     <tr><td style="text-align:center">334</td><td><a href="https://www.worldcubeassociation.org/persons/2018MORE06#pyram">Álvaro García Moreau</a>, Spain</td><td style="text-align:right">34.17</td></tr>
     <tr><td style="text-align:center">340</td><td><a href="https://www.worldcubeassociation.org/persons/2012MANS04#pyram">Michel Mansutier</a>, France</td><td style="text-align:right">35.65</td></tr>
