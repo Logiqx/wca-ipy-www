@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-04 11:38:03 (UTC)
+Last refreshed: 2019-08-04 16:21:53 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -466,6 +466,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009BLOH01">Uwe Blöhm</a>, Germany</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014SANT22">Valdinei Cordeiro dos Santos</a>, Brazil</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ELSO01">Valerie Elson</a>, United States, 70+</td><td></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05">Vani Muthukrishnan</a>, India</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019DANT02">Vincent Danton</a>, France</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2008YIMV01">Vincent Yim</a>, Canada</td><td><a href="https://www.speedsolving.com/members/toquinha1977.4847">Toquinha1977</a></td></tr>
@@ -627,6 +628,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td style="text-align:center">230</td><td><a href="https://www.worldcubeassociation.org/persons/2014KIZU01#333">Yuichiro Kizu (木津勇一郎)</a>, Japan</td><td style="text-align:right">23.87</td></tr>
     <tr><td style="text-align:center">231</td><td><a href="https://www.worldcubeassociation.org/persons/2016EVAN04#333">Gavin Evans</a>, United Kingdom</td><td style="text-align:right">23.93</td></tr>
     <tr><td style="text-align:center">233</td><td><a href="https://www.worldcubeassociation.org/persons/2007KOLL01#333">Mats Kollbrink</a>, Sweden</td><td style="text-align:right">24.01</td></tr>
+    <tr><td style="text-align:center">234</td><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05#333">Vani Muthukrishnan</a>, India</td><td style="text-align:right">24.02</td></tr>
     <tr><td style="text-align:center">238</td><td><a href="https://www.worldcubeassociation.org/persons/2018HOSH02#333">Toshio Hoshino (星野利夫)</a>, Japan</td><td style="text-align:right">24.14</td></tr>
     <tr><td style="text-align:center">243</td><td><a href="https://www.worldcubeassociation.org/persons/2017KOST06#333">Roman Kostyukov</a>, Russia</td><td style="text-align:right">24.29</td></tr>
     <tr><td style="text-align:center">244</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#333">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">24.31</td></tr>
@@ -1005,6 +1007,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td style="text-align:center">65</td><td><a href="https://www.worldcubeassociation.org/persons/2011LUCI01#222">Philippe Lucien</a>, France</td><td style="text-align:right">7.06</td></tr>
     <tr><td style="text-align:center">66</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#222">Ton Dennenbroek</a>, Netherlands, 50+</td><td style="text-align:right">7.07</td></tr>
     <tr><td style="text-align:center">67</td><td><a href="https://www.worldcubeassociation.org/persons/2014JANE01#222">Piotr Janecki</a>, Poland</td><td style="text-align:right">7.09</td></tr>
+    <tr><td style="text-align:center">69</td><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05#222">Vani Muthukrishnan</a>, India</td><td style="text-align:right">7.12</td></tr>
     <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#222">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">7.17</td></tr>
     <tr><td style="text-align:center">73</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#222">Heike Zbierski</a>, Germany</td><td style="text-align:right">7.18</td></tr>
     <tr><td style="text-align:center">74</td><td><a href="https://www.worldcubeassociation.org/persons/2017REZH01#222">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine</td><td style="text-align:right">7.19</td></tr>
@@ -1909,6 +1912,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2011DUAR02#pyram">Wilson José Duarte Espitia</a>, Colombia</td><td style="text-align:right">10.04</td></tr>
     <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#pyram">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">10.08</td></tr>
     <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2015HARR03#pyram">Chad Harris</a>, United States</td><td style="text-align:right">10.26</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05#pyram">Vani Muthukrishnan</a>, India</td><td style="text-align:right">10.26</td></tr>
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2017KITA01#pyram">Akatsuki Kitamura (北村曉)</a>, Japan</td><td style="text-align:right">10.27</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2006SANG02#pyram">Park Sang-Dong</a>, Republic of Korea</td><td style="text-align:right">10.62</td></tr>
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#pyram">Heike Zbierski</a>, Germany</td><td style="text-align:right">10.92</td></tr>
@@ -2074,6 +2078,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2014NIET01#skewb">Hernán Nieto</a>, Argentina</td><td style="text-align:right">9.78</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2017LAWR04#skewb">Timothy Lawrance</a>, South Africa</td><td style="text-align:right">9.83</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2017KOST06#skewb">Roman Kostyukov</a>, Russia</td><td style="text-align:right">9.88</td></tr>
+    <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05#skewb">Vani Muthukrishnan</a>, India</td><td style="text-align:right">9.96</td></tr>
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2017BONI01#skewb">Raffaele Bonifazi</a>, Italy</td><td style="text-align:right">9.97</td></tr>
     <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2010STAS01#skewb">Vasily Stasyev</a>, Russia</td><td style="text-align:right">10.16</td></tr>
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2016DUEH02#skewb">Jeremy Duehring</a>, United States</td><td style="text-align:right">10.22</td></tr>
@@ -2196,6 +2201,7 @@ Last refreshed: 2019-08-04 11:38:03 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#sq1">Endre Kovács</a>, Hungary</td><td style="text-align:right">48.22</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2015NICH04#sq1">Andy Nicholls</a>, United Kingdom</td><td style="text-align:right">49.47</td></tr>
     <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#sq1">Yves Créange</a>, France, 50+</td><td style="text-align:right">50.32</td></tr>
+    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2016MUTH05#sq1">Vani Muthukrishnan</a>, India</td><td style="text-align:right">50.38</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2011YOSH01#sq1">Ryohei Yoshioka (吉岡亮平)</a>, Japan</td><td style="text-align:right">51.58</td></tr>
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2010FEUE02#sq1">Oliver Feuer</a>, Germany</td><td style="text-align:right">53.96</td></tr>
     <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#sq1">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">54.73</td></tr>
