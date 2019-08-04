@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-04 12:20:50 (UTC)
+Last refreshed: 2019-08-04 16:23:32 (UTC)
 
 <h3>Aug 5, 2019</h3>
 
@@ -70,7 +70,8 @@ Last refreshed: 2019-08-04 12:20:50 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019">V ETEC Jacareí Open 2019</a> - Jacareí, São Paulo, Brazil - Aug 10, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2009COST02">Márcio Luiz da Costa Freitas</a>, Brazil
   </p>
 </details>
 
@@ -349,6 +350,14 @@ Last refreshed: 2019-08-04 12:20:50 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019">Back to School DFW 2019</a> - Frisco, Texas, United States - Aug 31, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019">Please Be Quiet Merdeka 2019</a> - Johor Bahru, Malaysia - Aug 31, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
   </p>
 </details>
 
