@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-05 08:41:22 (UTC)
+Last refreshed: 2019-08-05 21:37:44 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -58,6 +58,13 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/LYNCubingDays2019">LYN Cubing Days 2019</a> - Winterthur, Switzerland - Aug 10 - 11, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018DITT03">Thomas Ditton</a>, Switzerland
   </p>
 </details>
 
@@ -222,7 +229,7 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2013COPP01">Ben Coppin</a>, United Kingdom - <a href="https://www.speedsolving.com/members/bubbagrub.22061">bubbagrub</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
@@ -261,6 +268,13 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/Shenzhen10thAnniversary2019">Shenzhen Cubing 10th Anniversary 2019</a> - Shenzhen, Guangdong, China - Aug 24 - 25, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010HAMA03">Ryuji Hamano (浜野竜二)</a>, Japan
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019">Swisscubing Cup IV 2019</a> - Neuchâtel, Switzerland - Aug 24 - 25, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018RYLA01">Peter Ryland</a>, Australia
   </p>
 </details>
 
@@ -354,6 +368,7 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiSummer2019">Kansai Summer 2019</a> - Daito, Osaka, Japan - Sep 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017TAKA02">Takashi Takaoka (高岡孝)</a>, Japan, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan
   </p>
 </details>
@@ -544,6 +559,13 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
 <h3>Oct 14, 2019</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BackiPetrovacOpen2019">Bački Petrovac Open 2019</a> - Bački Petrovac, Serbia - Oct 12 - 13, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaFall2019">Franconia Fall 2019</a> - Nürnberg, Germany - Oct 12 - 13, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
@@ -560,6 +582,14 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
 </details>
 
 <h3>Oct 21, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ParisOpen2019">Paris Open 2019</a> - Paris, France - Oct 19 - 20, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019">Road to IC - Milano 2019</a> - Milan, Italy - Oct 19 - 20, 2019</summary>
@@ -580,7 +610,7 @@ Last refreshed: 2019-08-05 08:41:22 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015ADAM03">Mark Adams</a>, United Kingdom - <a href="https://www.speedsolving.com/members/newtonbase.23375">newtonbase</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
