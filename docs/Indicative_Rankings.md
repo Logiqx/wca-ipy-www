@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-05 12:39:19 (UTC)
+Last refreshed: 2019-08-05 19:40:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -385,7 +385,7 @@ Last refreshed: 2019-08-05 12:39:19 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01">Reiner Thomsen</a>, Germany, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014FAGO01">Ricardo Cantón Fago</a>, Spain</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2013LEIS01">Richard Leiser</a>, United Kingdom</td><td><a href="https://www.speedsolving.com/members/ricardorix.21385">RicardoRix</a></td></tr>
-    <tr><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom</td><td><a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+</td><td><a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018GILL07">Richie Gill</a>, New Zealand</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016PETE06">Rob Peters</a>, United States</td><td><a href="https://www.speedsolving.com/members/rjpcal.39510">rjpcal</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011STUA01">Rob Stuart</a>, United Kingdom</td><td><a href="https://www.speedsolving.com/members/brest.10183">Brest</a></td></tr>
@@ -713,7 +713,7 @@ Last refreshed: 2019-08-05 12:39:19 (UTC)
     <tr><td style="text-align:center">447</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#333">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">31.73</td></tr>
     <tr><td style="text-align:center">450</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#333">Bill McGaugh</a>, United States, 50+</td><td style="text-align:right">32.03</td></tr>
     <tr><td style="text-align:center">456</td><td><a href="https://www.worldcubeassociation.org/persons/2013LEIS01#333">Richard Leiser</a>, United Kingdom</td><td style="text-align:right">32.15</td></tr>
-    <tr><td style="text-align:center">457</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">32.18</td></tr>
+    <tr><td style="text-align:center">457</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom, 50+</td><td style="text-align:right">32.18</td></tr>
     <tr><td style="text-align:center">459</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#333">Daniel Daoust</a>, Canada</td><td style="text-align:right">32.22</td></tr>
     <tr><td style="text-align:center">464</td><td><a href="https://www.worldcubeassociation.org/persons/2017TABA02#333">Chris Tabar</a>, United States</td><td style="text-align:right">32.48</td></tr>
     <tr><td style="text-align:center">467</td><td><a href="https://www.worldcubeassociation.org/persons/2014FRON02#333">Adrian Fronescu</a>, Romania</td><td style="text-align:right">32.62</td></tr>
@@ -1093,7 +1093,7 @@ Last refreshed: 2019-08-05 12:39:19 (UTC)
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2017SZAN01#222">Károly Szántai</a>, Hungary</td><td style="text-align:right">10.08</td></tr>
     <tr><td style="text-align:center">210</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#222">István Kocza</a>, Hungary</td><td style="text-align:right">10.09</td></tr>
     <tr><td style="text-align:center">214</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#222">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">10.20</td></tr>
-    <tr><td style="text-align:center">216</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#222">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">10.25</td></tr>
+    <tr><td style="text-align:center">216</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#222">Richard Taylor</a>, United Kingdom, 50+</td><td style="text-align:right">10.25</td></tr>
     <tr><td style="text-align:center">221</td><td><a href="https://www.worldcubeassociation.org/persons/2015LOPE29#222">José Luis Molina López</a>, Spain</td><td style="text-align:right">10.36</td></tr>
     <tr><td style="text-align:center">224</td><td><a href="https://www.worldcubeassociation.org/persons/2011VOLK01#222">Sergey Volkov</a>, Russia</td><td style="text-align:right">10.40</td></tr>
     <tr><td style="text-align:center">228</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#222">Peter Douthwright</a>, Canada, 50+</td><td style="text-align:right">10.51</td></tr>
