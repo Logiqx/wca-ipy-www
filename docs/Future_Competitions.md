@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-06 08:36:04 (UTC)
+Last refreshed: 2019-08-06 17:07:07 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -92,13 +92,6 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
 </details>
 
 <details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019">Vinnytsia Cube Cup 2019</a> - Vinnytsia, Ukraine - Aug 10 - 11, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
-  </p>
-</details>
-
-<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019">YJ Moscow Special 2019</a> - Moscow, Russia - Aug 10 - 11, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017KOST06">Roman Kostyukov</a>, Russia
@@ -147,7 +140,11 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/KoreanChampionship2019">Korean Championship 2019</a> - 서울특별시 (Seoul), Republic of Korea - Aug 16 - 18, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LEEM01">Minseok Lee</a>, Republic of Korea<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011SEOK01">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011YANG13">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
 </details>
 
@@ -344,8 +341,7 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BilbaoOpen2019">Bilbao Open 2019</a> - Bilbao, Spain - Aug 31 - Sep 1, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016ESCR01">Miguel Sánchez Escribano</a>, Spain, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
 </details>
 
@@ -442,6 +438,7 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019">Mental Breakdown Germany 2019</a> - Nürnberg, Germany - Sep 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany
   </p>
 </details>
@@ -480,6 +477,13 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019">Singapore MentalMatrix Open 2019</a> - Singapore, Singapore - Sep 21, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DutchNationals2019">Dutch Nationals 2019</a> - Veenendaal, Netherlands - Sep 21 - 22, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019GOOR01">Enrico van Goor</a>, Netherlands<br/>
@@ -491,6 +495,7 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006KASP02">Sander Kaspers</a>, Netherlands - <a href="https://www.speedsolving.com/members/scylla.3284">scylla</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018GRAG01">Thorsten Gragert</a>, Netherlands<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
   </p>
 </details>
@@ -551,7 +556,6 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014KIPR02">Peter Kiprillis</a>, Australia
   </p>
 </details>
@@ -618,7 +622,6 @@ Last refreshed: 2019-08-06 08:36:04 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019">Puzzling Pakenham 2019</a> - Melbourne, Victoria, Australia - Oct 26, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014KIPR02">Peter Kiprillis</a>, Australia
   </p>
 </details>
