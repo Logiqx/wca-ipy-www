@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-06 17:07:07 (UTC)
+Last refreshed: 2019-08-07 09:53:10 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -142,6 +142,7 @@ Last refreshed: 2019-08-06 17:07:07 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016LEEM01">Minseok Lee</a>, Republic of Korea<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011SEOK01">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011YANG13">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
