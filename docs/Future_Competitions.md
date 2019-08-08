@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-07 09:53:10 (UTC)
+Last refreshed: 2019-08-08 18:12:27 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -464,9 +464,9 @@ Last refreshed: 2019-08-07 09:53:10 (UTC)
 </details>
 
 <details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BerkeleySummer2019">Berkeley Summer 2019</a> - Berkeley, California, United States - Sep 21, 2019</summary>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DamasaoCubo2019">Damas ao Cubo 2019</a> - Fortaleza, Ceará, Brazil - Sep 21, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com
   </p>
 </details>
 
@@ -564,6 +564,14 @@ Last refreshed: 2019-08-07 09:53:10 (UTC)
 <h3>Oct 14, 2019</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SpanishChampionship2019">Spanish Championship 2019</a> - Albacete, Spain - Oct 11 - 13, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2013MORA02">Raúl Morales Hidalgo</a>, Spain - <a href="https://www.speedsolving.com/members/moralsh.16590">moralsh</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BackiPetrovacOpen2019">Bački Petrovac Open 2019</a> - Bački Petrovac, Serbia - Oct 12 - 13, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com
@@ -615,6 +623,7 @@ Last refreshed: 2019-08-07 09:53:10 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015ADAM03">Mark Adams</a>, United Kingdom - <a href="https://www.speedsolving.com/members/newtonbase.23375">newtonbase</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
