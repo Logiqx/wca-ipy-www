@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-08 18:12:27 (UTC)
+Last refreshed: 2019-08-09 08:42:56 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -355,6 +355,13 @@ Last refreshed: 2019-08-08 18:12:27 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019">III Barueri Open 2019</a> - Barueri, São Paulo, Brazil - Aug 31 - Sep 1, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SEMO01">Robinson Semolini</a>, Brazil
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SofiaAutumn2019">Sofia Autumn 2019</a> - Sofia, Bulgaria - Aug 31 - Sep 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com
@@ -567,6 +574,7 @@ Last refreshed: 2019-08-08 18:12:27 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SpanishChampionship2019">Spanish Championship 2019</a> - Albacete, Spain - Oct 11 - 13, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2013MORA02">Raúl Morales Hidalgo</a>, Spain - <a href="https://www.speedsolving.com/members/moralsh.16590">moralsh</a> on Speedsolving.com
   </p>
 </details>
