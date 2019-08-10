@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-07 09:50:46 (UTC)
+Last refreshed: 2019-08-10 08:46:41 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -651,7 +651,7 @@ Last refreshed: 2019-08-07 09:50:46 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a>, Japan</td><td style="text-align:right">15.23</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#sq1">Mike Hughey</a>, United States</td><td style="text-align:right">41.17</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#sq1">Mike Hughey</a>, United States</td><td style="text-align:right">39.99</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#sq1">Daniel Smith</a>, United States</td><td style="text-align:right">46.35</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#sq1">Yves Créange</a>, France</td><td style="text-align:right">50.32</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#sq1">Hanns Hub</a>, Germany</td><td style="text-align:right">59.10</td></tr>
@@ -1255,7 +1255,7 @@ Last refreshed: 2019-08-07 09:50:46 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HASH01#sq1">Takao Hashimoto (橋本貴夫)</a>, Japan</td><td style="text-align:right">11.60</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#sq1">Mike Hughey</a>, United States</td><td style="text-align:right">33.89</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#sq1">Mike Hughey</a>, United States</td><td style="text-align:right">29.68</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2014VIGN02#sq1">Ciro Vignotto</a>, Italy</td><td style="text-align:right">34.06</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#sq1">Daniel Smith</a>, United States</td><td style="text-align:right">37.33</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#sq1">Yves Créange</a>, France</td><td style="text-align:right">38.56</td></tr>
@@ -1297,7 +1297,7 @@ Last refreshed: 2019-08-07 09:50:46 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#333mbf">Mark Rivers</a>, United Kingdom</td><td style="text-align:right">16/17 in 57:17</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#333mbf">Mike Hughey</a>, United States</td><td style="text-align:right">12/12 in 58:34</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#333mbf">Mike Hughey</a>, United States</td><td style="text-align:right">14/16 in 56:38</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333mbf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">11/11 in 53:07</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333mbf">Hanns Hub</a>, Germany</td><td style="text-align:right">8/9 in 55:26</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#333mbf">Peter Andersson</a>, Sweden</td><td style="text-align:right">6/7 in 53:10</td></tr>

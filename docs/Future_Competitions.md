@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-09 08:42:56 (UTC)
+Last refreshed: 2019-08-10 08:47:39 (UTC)
 
 <h3>Aug 12, 2019</h3>
 
@@ -167,6 +167,13 @@ Last refreshed: 2019-08-09 08:42:56 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019">Baia Mare North Open 2019</a> - Baia Mare, Romania - Aug 17 - 18, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019">Brasília Winter 2019</a> - Brasília, Distrito Federal, Brazil - Aug 17 - 18, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
@@ -243,13 +250,6 @@ Last refreshed: 2019-08-09 08:42:56 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/EkaCubeDays2019">Eka Cube Days 2019</a> - Yekaterinburg, Russia - Aug 24 - 25, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/HungarianSummer2019">Hungarian Summer 2019</a> - Budapest, Hungary - Aug 24 - 25, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2008KOVA01">Endre Kovács</a>, Hungary - <a href="https://www.speedsolving.com/members/kazah.1340">kazah</a> on Speedsolving.com
   </p>
 </details>
 
@@ -372,6 +372,7 @@ Last refreshed: 2019-08-09 08:42:56 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiSummer2019">Kansai Summer 2019</a> - Daito, Osaka, Japan - Sep 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010HAMA03">Ryuji Hamano (浜野竜二)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017TAKA02">Takashi Takaoka (高岡孝)</a>, Japan, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan
   </p>
@@ -554,6 +555,13 @@ Last refreshed: 2019-08-09 08:42:56 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SantaFePrimavera2019">Santa Fe Primavera 2019</a> - Santa Fe, Santa Fe, Argentina - Sep 28 - 29, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017ROSS10">Javier Agustín Rossi</a>, Argentina, 50+
   </p>
 </details>
 
