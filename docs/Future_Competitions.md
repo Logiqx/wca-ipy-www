@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-13 08:40:30 (UTC)
+Last refreshed: 2019-08-15 09:37:22 (UTC)
 
 <h3>Aug 19, 2019</h3>
 
@@ -85,6 +85,7 @@ Last refreshed: 2019-08-13 08:40:30 (UTC)
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019">Vantaa Back to School 2019</a> - Vantaa, Finland - Aug 17 - 18, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017HAGN01">Stefan Hagnäs</a>, Finland<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
   </p>
 </details>
@@ -119,6 +120,13 @@ Last refreshed: 2019-08-13 08:40:30 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 70+ - <a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019">Cubing in the 6ix 2019</a> - Toronto, Ontario, Canada - Aug 24, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada - <a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a> on Speedsolving.com
   </p>
 </details>
 
@@ -286,7 +294,8 @@ Last refreshed: 2019-08-13 08:40:30 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SpokaneSummer2019">Spokane Summer 2019</a> - Spokane, Washington, United States - Sep 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States
+    - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016ODEG01">Lee Odegard</a>, United States, 50+ - <a href="https://www.speedsolving.com/members/leeo.27228">leeo</a> on Speedsolving.com
   </p>
 </details>
 
@@ -432,6 +441,13 @@ Last refreshed: 2019-08-13 08:40:30 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019">Schoolmark Open 2019</a> - São Bernardo do Campo, São Paulo, Brazil - Sep 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017ISSL02">Daniel Issler</a>, Brazil
   </p>
 </details>
 
