@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-18 09:17:19 (UTC)
+Last refreshed: 2019-08-19 09:13:53 (UTC)
 
 <h3>Aug 19, 2019</h3>
 
@@ -328,6 +328,13 @@ Last refreshed: 2019-08-18 09:17:19 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Norrkubing2019">Norrkubing 2019</a> - Skärblacka, Sweden - Sep 13 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019">Battle of Waterloo 2019</a> - Waterloo, Ontario, Canada - Sep 14, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada - <a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a> on Speedsolving.com
@@ -500,6 +507,13 @@ Last refreshed: 2019-08-18 09:17:19 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SiouxFall2019">Sioux Fall 2019</a> - Sioux Falls, South Dakota, United States - Sep 28 - 29, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/WestcoastWoodvaleWeekends2019">Westcoast Woodvale Weekends 2019</a> - Perth, Western Australia, Australia - Sep 28 - 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
@@ -650,7 +664,8 @@ Last refreshed: 2019-08-18 09:17:19 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017BROW09">David Brown</a>, United States, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
   </p>
 </details>
 

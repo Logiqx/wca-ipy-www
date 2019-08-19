@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-15 09:34:58 (UTC)
+Last refreshed: 2019-08-19 09:32:28 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -958,7 +958,7 @@ Last refreshed: 2019-08-15 09:34:58 (UTC)
   <summary>5x5x5 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#555">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">1:28.10</td></tr>
+    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#555">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">1:25.12</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#555">Mark Rivers</a>, United Kingdom</td><td style="text-align:right">1:53.60</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#555">Mike Hughey</a>, United States</td><td style="text-align:right">1:57.44</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#555">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">2:10.73</td></tr>
@@ -1013,7 +1013,7 @@ Last refreshed: 2019-08-15 09:34:58 (UTC)
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#777">Mike Hughey</a>, United States</td><td style="text-align:right">5:51.68</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#777">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">6:08.35</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#777">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">6:03.24</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2014VIGN02#777">Ciro Vignotto</a>, Italy</td><td style="text-align:right">6:17.02</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#777">Hanns Hub</a>, Germany</td><td style="text-align:right">6:24.79</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#777">Reiner Thomsen</a>, Germany</td><td style="text-align:right">8:27.68</td></tr>
