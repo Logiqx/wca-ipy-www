@@ -18,7 +18,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-20 09:21:26 (UTC)
+Last refreshed: 2019-08-20 09:48:59 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -839,8 +839,7 @@ Last refreshed: 2019-08-20 09:21:26 (UTC)
     <tr><td style="text-align:center">35</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#666">David Brown</a>, United States, 50+</td><td style="text-align:right">6:54.60</td></tr>
     <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#666">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">6:55.44</td></tr>
     <tr><td style="text-align:center">37-39</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#666">Ton Dennenbroek</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#666">Daniel Daoust</a>, Canada<br/>+ 1 unknown</td><td style="text-align:right">7:36.57<br/>7:43.11<br/>7:xx.xx</td></tr>
-    <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#666">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">8:45.23</td></tr>
-    <tr><td style="text-align:center">41-42</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#666">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td style="text-align:right">10:26.00<br/>9:00.00+</td></tr>
+    <tr><td style="text-align:center">40-42</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#666">Per Kristen Fredlund</a>, Norway<br/><a href="https://www.worldcubeassociation.org/persons/2005GUST02#666">Tommy Gustavsson</a>, Sweden<br/>+ 1 unknown</td><td style="text-align:right">8:45.23<br/>10:26.00<br/>8:00.00+</td></tr>
   </table>
 </details>
 
@@ -873,10 +872,7 @@ Last refreshed: 2019-08-20 09:21:26 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#777">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">8:48.27</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01#777">Carl Brannen</a>, United States, 50+</td><td style="text-align:right">9:06.07</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2012PETR01#777">Nikolai Petrov</a>, Bulgaria</td><td style="text-align:right">9:07.15</td></tr>
-    <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02#777">Jordi Borrell</a>, Spain</td><td style="text-align:right">10:26.00</td></tr>
-    <tr><td style="text-align:center">28-29</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/>+ 1 unknown</td><td style="text-align:right">12:02.00<br/>12:xx.xx</td></tr>
-    <tr><td style="text-align:center">30</td><td>1 unknown</td><td style="text-align:right">13:xx.xx</td></tr>
-    <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#777">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">17:11.00</td></tr>
+    <tr><td style="text-align:center">27-31</td><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02#777">Jordi Borrell</a>, Spain<br/><a href="https://www.worldcubeassociation.org/persons/2003DENN01#777">Ton Dennenbroek</a>, Netherlands<br/><a href="https://www.worldcubeassociation.org/persons/2005GUST02#777">Tommy Gustavsson</a>, Sweden<br/>+ 2 unknowns</td><td style="text-align:right">10:26.00<br/>12:02.00<br/>17:11.00<br/>10:00.00+</td></tr>
   </table>
 </details>
 
@@ -1074,8 +1070,7 @@ Last refreshed: 2019-08-20 09:21:26 (UTC)
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td style="text-align:right">4:11.12</td></tr>
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#333ft">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">4:14.21</td></tr>
     <tr><td style="text-align:center">19</td><td>1 unknown</td><td style="text-align:right">5:xx.xx</td></tr>
-    <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333ft">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">6:29.44</td></tr>
-    <tr><td style="text-align:center">21</td><td>1 unknown</td><td style="text-align:right">7:00.00+</td></tr>
+    <tr><td style="text-align:center">20-21</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333ft">Yul-Hok Sung (성열학)</a>, Republic of Korea<br/>+ 1 unknown</td><td style="text-align:right">6:29.44<br/>6:00.00+</td></tr>
   </table>
 </details>
 
