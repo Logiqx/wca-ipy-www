@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-20 09:48:54 (UTC)
+Last refreshed: 2019-08-21 08:12:06 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -190,6 +190,7 @@ Last refreshed: 2019-08-20 09:48:54 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009ZHUH01">Huimin Zhu (朱惠民)</a>, China, 70+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015PEPP01">Ian Pepper</a>, United Kingdom, 50+</td><td><a href="https://www.speedsolving.com/members/senorjuan.27114">SenorJuan</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2003WINO01">Ian Winokur</a>, United States</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006HYAK01">Ikuo Hyakuta (百田郁夫)</a>, Japan, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009NOVI01">Irina Novichkova</a>, Russia</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary</td><td><a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a></td></tr>
@@ -527,6 +528,7 @@ Last refreshed: 2019-08-20 09:48:54 (UTC)
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2011LAWR01#333">Scott Lawrence</a>, United Kingdom</td><td style="text-align:right">16.78</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2010HEIL02#333">Helmut Heilig</a>, Germany</td><td style="text-align:right">16.81</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2011STUA01#333">Rob Stuart</a>, United Kingdom</td><td style="text-align:right">16.82</td></tr>
+    <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2003WINO01#333">Ian Winokur</a>, United States</td><td style="text-align:right">16.91</td></tr>
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2006STAD01#333">Thomas Stadler</a>, Switzerland</td><td style="text-align:right">16.94</td></tr>
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2015BOSW01#333">Brent Boswell</a>, South Africa</td><td style="text-align:right">16.94</td></tr>
     <tr><td style="text-align:center">51</td><td><a href="https://www.worldcubeassociation.org/persons/2012HINO01#333">Takeshi Hino (日野健志)</a>, Japan</td><td style="text-align:right">17.12</td></tr>
@@ -1666,6 +1668,7 @@ Last refreshed: 2019-08-20 09:48:54 (UTC)
     <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2015HARR03#333oh">Chad Harris</a>, United States</td><td style="text-align:right">42.63</td></tr>
     <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#333oh">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">43.01</td></tr>
     <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2015NICH04#333oh">Andy Nicholls</a>, United Kingdom</td><td style="text-align:right">43.27</td></tr>
+    <tr><td style="text-align:center">57</td><td><a href="https://www.worldcubeassociation.org/persons/2003WINO01#333oh">Ian Winokur</a>, United States</td><td style="text-align:right">43.53</td></tr>
     <tr><td style="text-align:center">58</td><td><a href="https://www.worldcubeassociation.org/persons/2009DELM02#333oh">Roberto Delmás Serrano</a>, Spain</td><td style="text-align:right">43.61</td></tr>
     <tr><td style="text-align:center">59</td><td><a href="https://www.worldcubeassociation.org/persons/2016UMET02#333oh">Satoru Umetsu (梅津諭)</a>, Japan</td><td style="text-align:right">43.86</td></tr>
     <tr><td style="text-align:center">60</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#333oh">Endre Kovács</a>, Hungary</td><td style="text-align:right">43.91</td></tr>
