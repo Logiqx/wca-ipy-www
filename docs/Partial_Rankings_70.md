@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-21 08:31:21 (UTC)
+Last refreshed: 2019-08-27 09:14:56 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -65,7 +65,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2009ELSO01#333">Valerie Elson</a>, United States</td><td style="text-align:right">2:05.26</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom</td><td style="text-align:right">2:35.10</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">3:19.05</td></tr>
-    <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">5:11.64</td></tr>
+    <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">3:44.87</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
 </details>
@@ -77,7 +77,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009AOKI01#222">Haruo Aoki (青木治雄)</a>, Japan</td><td style="text-align:right">14.19</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States</td><td style="text-align:right">16.35</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada</td><td style="text-align:right">27.26</td></tr>
-    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">2:13.25</td></tr>
+    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">1:08.84</td></tr>
   </table>
 </details>
 
@@ -95,7 +95,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#pyram">Barry Bower</a>, Canada</td><td style="text-align:right">31.52</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia</td><td style="text-align:right">32.07</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">1:13.18</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">59.61</td></tr>
   </table>
 </details>
 
@@ -122,7 +122,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2008CHEN12#333">Xiansheng Chen</a>, China</td><td style="text-align:right">2:17.61</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH02#333">Lilian Micheelsen</a>, Denmark</td><td style="text-align:right">2:29.52</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">2:30.49</td></tr>
-    <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">3:43.81</td></tr>
+    <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">3:26.81</td></tr>
     <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2012SING03#333">David Singmaster</a>, United States</td><td style="text-align:right">4:19.52</td></tr>
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2009LIXI05#333">Xinxian Li (李新贤)</a>, China, 80+</td><td style="text-align:right">4:43.52</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
@@ -138,7 +138,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#222">David Salvia</a>, United States</td><td style="text-align:right">12.55</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States</td><td style="text-align:right">14.93</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada</td><td style="text-align:right">22.55</td></tr>
-    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">59.59</td></tr>
+    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">57.27</td></tr>
   </table>
 </details>
 
@@ -164,7 +164,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#pyram">Barry Bower</a>, Canada</td><td style="text-align:right">16.77</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia</td><td style="text-align:right">21.90</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">1:00.04</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">45.82</td></tr>
   </table>
 </details>
 

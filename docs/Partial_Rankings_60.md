@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-21 08:31:21 (UTC)
+Last refreshed: 2019-08-27 09:14:56 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -89,7 +89,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#333">Didier Limal</a>, France</td><td style="text-align:right">1:21.24</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td style="text-align:right">1:24.93</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2016SIVA04#333">Thanasekaran Sivasamy</a>, India</td><td style="text-align:right">1:30.11</td></tr>
-    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#333">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:42.81</td></tr>
+    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#333">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:33.47</td></tr>
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2006OOMS01#333">Grada Ooms</a>, Netherlands</td><td style="text-align:right">1:44.35</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZHUH01#333">Huimin Zhu (朱惠民)</a>, China, 70+</td><td style="text-align:right">1:49.78</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333">Daljit Singh</a>, United States</td><td style="text-align:right">1:50.87</td></tr>
@@ -99,7 +99,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom, 70+</td><td style="text-align:right">2:35.10</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2009AZHA01#333">Mohammad Azhari</a>, Indonesia</td><td style="text-align:right">3:03.10</td></tr>
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+</td><td style="text-align:right">3:19.05</td></tr>
-    <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">4:53.83</td></tr>
+    <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">3:44.87</td></tr>
     <tr><td style="text-align:center">34</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
 </details>
@@ -116,11 +116,11 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2009NEEL01#222">Patitpavan Neel</a>, India</td><td style="text-align:right">21.41</td></tr>
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#222">Roger L. Goff</a>, United States</td><td style="text-align:right">21.96</td></tr>
     <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#222">David Levine</a>, United States</td><td style="text-align:right">23.40</td></tr>
-    <tr><td style="text-align:center">9</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada, 70+</td><td style="text-align:right">27.26</td></tr>
-    <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">38.85</td></tr>
-    <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">55.59</td></tr>
-    <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#222">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:00.73</td></tr>
-    <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:13.25</td></tr>
+    <tr><td style="text-align:center">9</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#222">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">26.37</td></tr>
+    <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada, 70+</td><td style="text-align:right">27.26</td></tr>
+    <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2009ESPU01#222">Francisco Eduardo Martins Serra Espuny</a>, Brazil</td><td style="text-align:right">38.85</td></tr>
+    <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">55.59</td></tr>
+    <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">1:08.84</td></tr>
   </table>
 </details>
 
@@ -177,7 +177,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#pyram">David Levine</a>, United States</td><td style="text-align:right">33.39</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#pyram">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">35.38</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">42.69</td></tr>
-    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">1:13.18</td></tr>
+    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">59.61</td></tr>
   </table>
 </details>
 
@@ -241,10 +241,10 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2008TOMO01#333">Mitsuko Tomoyori (友寄光子)</a>, Japan</td><td style="text-align:right">1:08.81</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#333">Didier Limal</a>, France</td><td style="text-align:right">1:09.72</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2008JINZ01#333">Zhiwei Jin (金志伟)</a>, China, 80+</td><td style="text-align:right">1:12.11</td></tr>
-    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02#333">Adelina Estevao</a>, Australia, 80+</td><td style="text-align:right">1:23.96</td></tr>
-    <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333">Daljit Singh</a>, United States</td><td style="text-align:right">1:24.71</td></tr>
-    <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2006OOMS01#333">Grada Ooms</a>, Netherlands</td><td style="text-align:right">1:24.84</td></tr>
-    <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#333">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:25.32</td></tr>
+    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#333">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:16.23</td></tr>
+    <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2010ESTE02#333">Adelina Estevao</a>, Australia, 80+</td><td style="text-align:right">1:23.96</td></tr>
+    <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333">Daljit Singh</a>, United States</td><td style="text-align:right">1:24.71</td></tr>
+    <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2006OOMS01#333">Grada Ooms</a>, Netherlands</td><td style="text-align:right">1:24.84</td></tr>
     <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2009ELSO01#333">Valerie Elson</a>, United States, 70+</td><td style="text-align:right">1:29.81</td></tr>
     <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZHUH01#333">Huimin Zhu (朱惠民)</a>, China, 70+</td><td style="text-align:right">1:30.63</td></tr>
     <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2007PREU01#333">Jany Preudhomme</a>, Belgium</td><td style="text-align:right">1:31.55</td></tr>
@@ -277,7 +277,7 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#222">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">19.07</td></tr>
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada, 70+</td><td style="text-align:right">22.55</td></tr>
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">31.88</td></tr>
-    <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">59.59</td></tr>
+    <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States</td><td style="text-align:right">1:47.28</td></tr>
   </table>
 </details>
@@ -368,10 +368,10 @@ Last refreshed: 2019-08-21 08:31:21 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#pyram">Barry Bower</a>, Canada, 70+</td><td style="text-align:right">16.77</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">21.90</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#pyram">David Levine</a>, United States</td><td style="text-align:right">23.43</td></tr>
-    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#pyram">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">30.14</td></tr>
+    <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#pyram">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">25.02</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">32.46</td></tr>
-    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
-    <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">1:00.04</td></tr>
+    <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">45.82</td></tr>
+    <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
   </table>
 </details>
 
