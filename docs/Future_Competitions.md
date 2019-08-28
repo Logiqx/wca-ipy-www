@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-27 09:15:36 (UTC)
+Last refreshed: 2019-08-28 10:49:34 (UTC)
 
 <h3>Sep 2, 2019</h3>
 
@@ -143,7 +143,8 @@ Last refreshed: 2019-08-27 09:15:36 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019">Battle of Waterloo 2019</a> - Waterloo, Ontario, Canada - Sep 14, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada - <a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada - <a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018RYLA01">Peter Ryland</a>, Australia
   </p>
 </details>
 
@@ -288,6 +289,13 @@ Last refreshed: 2019-08-27 09:15:36 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019">Road to IC - Bologna 2019</a> - Castenaso, Bologna, Italy - Sep 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012PLAC01">Gianluca Placenti</a>, Italy - <a href="https://www.speedsolving.com/members/commodore128.18054">commodore128</a> on Speedsolving.com
   </p>
 </details>
 
