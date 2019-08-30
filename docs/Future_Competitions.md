@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-08-28 10:49:34 (UTC)
+Last refreshed: 2019-08-30 13:34:47 (UTC)
 
 <h3>Sep 2, 2019</h3>
 
@@ -361,6 +361,13 @@ Last refreshed: 2019-08-28 10:49:34 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FortitudeSydney2019">Fortitude Sydney 2019</a> - Sydney, New South Wales, Australia - Sep 28 - 29, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019">Liechtenstein Open 2019</a> - Vaduz, Liechtenstein - Sep 28 - 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
@@ -401,6 +408,13 @@ Last refreshed: 2019-08-28 10:49:34 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FacaMaispelasCriancas2019">Faça Mais pelas Crianças do Brasil 2019</a> - Multiple cities, Brazil - Oct 5, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SuperiorCubingDuluth2019">Superior Cubing - Duluth 2019</a> - Duluth, Minnesota, United States - Oct 5, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
 
