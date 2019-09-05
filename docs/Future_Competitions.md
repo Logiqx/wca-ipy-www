@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-04 08:04:48 (UTC)
+Last refreshed: 2019-09-05 07:55:31 (UTC)
 
 <h3>Sep 9, 2019</h3>
 
@@ -173,6 +173,7 @@ Last refreshed: 2019-09-04 08:04:48 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MadisonSummer2019">Madison Summer 2019</a> - Middleton, Wisconsin, United States - Sep 21, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019CERN02">Frank Cerne</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
@@ -197,7 +198,8 @@ Last refreshed: 2019-09-04 08:04:48 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/ArnoldClassicEurope2019">Arnold Classic Europe 2019</a> - L'Hospitalet de Llobregat, Barcelona, Spain - Sep 21 - 22, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain
+    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017CREA01">Yves Créange</a>, France, 50+
   </p>
 </details>
 
@@ -305,6 +307,13 @@ Last refreshed: 2019-09-04 08:04:48 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HLCCubeChallenge2019">HLC Cube Challenge 2019</a> - Chennai, Tamil Nadu, India - Sep 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018NATH03">Senthil Nathan</a>, India
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019">Santa Barbara Fall 2019</a> - Santa Barbara, California, United States - Sep 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2004SALV01">David Salvia</a>, United States, 70+ - <a href="https://www.speedsolving.com/members/david-j.42888">David J</a> on Speedsolving.com
@@ -389,6 +398,13 @@ Last refreshed: 2019-09-04 08:04:48 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MuddFall2019">Mudd Fall 2019</a> - Claremont, California, United States - Oct 5, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018TURN03">Dan Turner</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/OklahomaFall2019">Oklahoma Fall 2019</a> - Ardmore, Oklahoma, United States - Oct 5, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
