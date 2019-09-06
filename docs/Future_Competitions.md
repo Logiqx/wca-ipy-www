@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-05 07:55:31 (UTC)
+Last refreshed: 2019-09-06 09:24:10 (UTC)
 
 <h3>Sep 9, 2019</h3>
 
@@ -548,6 +548,14 @@ Last refreshed: 2019-09-05 07:55:31 (UTC)
 </details>
 
 <h3>Nov 4, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubeAnDro2019">Cube An Dro 2019</a> - Rennes, France - Nov 1 - 3, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SCHE08">Denis Scheehl</a>, France<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ItalianChampionship2019">Italian Championship 2019</a> - Rovigo, Italy - Nov 1 - 3, 2019</summary>
