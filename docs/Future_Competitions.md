@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-12 16:30:32 (UTC)
+Last refreshed: 2019-09-13 18:02:11 (UTC)
 
 <h3>Sep 16, 2019</h3>
 
@@ -102,13 +102,6 @@ Last refreshed: 2019-09-12 16:30:32 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017SZAN01">Károly Szántai</a>, Hungary<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016LASC01">Péter Laschek</a>, Hungary
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/DamasaoCubo2019">Damas ao Cubo 2019</a> - Fortaleza, Ceará, Brazil - Sep 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com
   </p>
 </details>
 
@@ -617,6 +610,13 @@ Last refreshed: 2019-09-12 16:30:32 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Cubetcha2019">Cubetcha 2019</a> - New Brighton, Minnesota, United States - Nov 2 - 3, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/EveryEventEire2019">Every Event Éire 2019</a> - Balbriggan, Ireland - Nov 2 - 3, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
@@ -642,6 +642,7 @@ Last refreshed: 2019-09-12 16:30:32 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019">Smartсube Fest Kyiv 2019</a> - Kyiv, Ukraine - Nov 2 - 3, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011YERK01">Stanislav Yerko (Станіслав Єрко)</a>, Ukraine
   </p>
 </details>
