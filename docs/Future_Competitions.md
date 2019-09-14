@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-13 18:02:11 (UTC)
+Last refreshed: 2019-09-14 07:41:03 (UTC)
 
 <h3>Sep 16, 2019</h3>
 
@@ -102,6 +102,13 @@ Last refreshed: 2019-09-13 18:02:11 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017SZAN01">Károly Szántai</a>, Hungary<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016LASC01">Péter Laschek</a>, Hungary
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DamasaoCubo2019">Damas ao Cubo 2019</a> - Fortaleza, Ceará, Brazil - Sep 21, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com
   </p>
 </details>
 
@@ -686,6 +693,13 @@ Last refreshed: 2019-09-13 18:02:11 (UTC)
 </details>
 
 <h3>Nov 18, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ThailandChampionship2019">Thailand Championship 2019</a> - Bangkok, Thailand - Nov 15 - 17, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019CHIE01">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand - <a href="https://www.speedsolving.com/members/mcmlxx.30699">MCMLXX</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BobcatBattle2019">Bobcat Battle 2019</a> - Las Vegas, Nevada, United States - Nov 16, 2019</summary>
