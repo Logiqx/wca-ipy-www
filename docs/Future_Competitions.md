@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-17 13:52:20 (UTC)
+Last refreshed: 2019-09-18 16:18:26 (UTC)
 
 <h3>Sep 23, 2019</h3>
 
@@ -269,6 +269,13 @@ Last refreshed: 2019-09-17 13:52:20 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019">Chilliwack Cubes Fall 2019</a> - Chilliwack, British Columbia, Canada - Oct 5, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FacaMaispelasCriancas2019">Faça Mais pelas Crianças do Brasil 2019</a> - Multiple cities, Brazil - Oct 5, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
@@ -336,6 +343,7 @@ Last refreshed: 2019-09-17 13:52:20 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2004MASA01">Jesús Masanet García</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/noiusli.7986">noiusli</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2013MORA02">Raúl Morales Hidalgo</a>, Spain - <a href="https://www.speedsolving.com/members/moralsh.16590">moralsh</a> on Speedsolving.com
   </p>
 </details>
@@ -417,6 +425,13 @@ Last refreshed: 2019-09-17 13:52:20 (UTC)
 </details>
 
 <h3>Oct 21, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NordicChampionship2019">Nordic Championship 2019</a> - Hvidovre, Denmark - Oct 17 - 20, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019">Oregon State Favorites 2019</a> - Corvallis, Oregon, United States - Oct 19, 2019</summary>
@@ -551,6 +566,13 @@ Last refreshed: 2019-09-17 13:52:20 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SouthSurreySideEvents2019">South Surrey Side Events 2019</a> - White Rock, British Columbia, Canada - Nov 2, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/Cubetcha2019">Cubetcha 2019</a> - New Brighton, Minnesota, United States - Nov 2 - 3, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
@@ -561,6 +583,7 @@ Last refreshed: 2019-09-17 13:52:20 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/EveryEventEire2019">Every Event Éire 2019</a> - Balbriggan, Ireland - Nov 2 - 3, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018FOLE03">Tiernan Foley</a>, Ireland, 70+
   </p>
 </details>
