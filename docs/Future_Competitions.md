@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-18 16:18:26 (UTC)
+Last refreshed: 2019-09-19 12:24:41 (UTC)
 
 <h3>Sep 23, 2019</h3>
 
@@ -101,7 +101,6 @@ Last refreshed: 2019-09-18 16:18:26 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2008RIJK01">Hanneke Rijks</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/hanneke.2143">Hanneke</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2007OEYM01">Maria Oey</a>, Indonesia, 50+ - <a href="https://www.speedsolving.com/members/crazycubemom.492">Crazycubemom</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017WILK03">Rob Wilkes</a>, Netherlands<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006KASP02">Sander Kaspers</a>, Netherlands - <a href="https://www.speedsolving.com/members/scylla.3284">scylla</a> on Speedsolving.com<br/>
