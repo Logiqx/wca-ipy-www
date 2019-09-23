@@ -11,7 +11,7 @@ Notes:
 - "Senior" columns relate to all of the over 40s, based on their age at the start of the competition.
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-23 11:18:17 (UTC)
+Last refreshed: 2019-09-23 16:14:24 (UTC)
 
 <h2 id="averages">Official Averages</h2>
 
