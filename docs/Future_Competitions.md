@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-23 11:25:41 (UTC)
+Last refreshed: 2019-09-25 08:45:00 (UTC)
 
 <h3>Sep 30, 2019</h3>
 
@@ -59,6 +59,13 @@ Last refreshed: 2019-09-23 11:25:41 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ICHBBackToSchool2019">ICHB Back To School 2019</a> - Bucuresti, Romania - Sep 28 - 29, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com
   </p>
 </details>
 
@@ -340,6 +347,13 @@ Last refreshed: 2019-09-23 11:25:41 (UTC)
 <h3>Oct 28, 2019</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/IVCUBIFMA2019">IV CUBIFMA 2019</a> - Bacabal, Maranhão, Brazil - Oct 24 - 25, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CopperCountryCubingFall2019">Copper Country Cubing Fall 2019</a> - Houghton, Michigan, United States - Oct 25 - 27, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017LAWR04">Timothy Lawrance</a>, South Africa - <a href="https://www.speedsolving.com/members/theos.37899">theos</a> on Speedsolving.com
@@ -367,6 +381,13 @@ Last refreshed: 2019-09-23 11:25:41 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019">Puzzling Pakenham 2019</a> - Melbourne, Victoria, Australia - Oct 26, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014KIPR02">Peter Kiprillis</a>, Australia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CCCQualificationTyumen2019">CCC Qualification Tyumen 2019</a> - Tyumen, Russia - Oct 26 - 27, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
   </p>
 </details>
 
@@ -517,6 +538,7 @@ Last refreshed: 2019-09-23 11:25:41 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BarbyCube2019">Barby Cube 2019</a> - Barby, France - Nov 9 - 11, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015REYN07">Laurent Reynaud</a>, France, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011LUCI01">Philippe Lucien</a>, France
   </p>
 </details>
