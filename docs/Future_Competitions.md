@@ -7,16 +7,9 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-09-30 15:09:45 (UTC)
+Last refreshed: 2019-10-03 11:07:46 (UTC)
 
 <h3>Oct 7, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/PondeOpen2019">Pönde Open 2019</a> - Kirkkonummi, Finland - Oct 4 - 6, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
-  </p>
-</details>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019">Chilliwack Cubes Fall 2019</a> - Chilliwack, British Columbia, Canada - Oct 5, 2019</summary>
@@ -90,6 +83,13 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
 <h3>Oct 14, 2019</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PolishChampionship2019">Polish Championship 2019</a> - Gdańsk, Poland - Oct 11 - 13, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014PACE01">Grzegorz Pacewicz</a>, Poland - <a href="https://www.speedsolving.com/members/h2f.22236">h2f</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SpanishChampionship2019">Spanish Championship 2019</a> - Albacete, Spain - Oct 11 - 13, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
@@ -97,6 +97,8 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2004MASA01">Jesús Masanet García</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/noiusli.7986">noiusli</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2013MORA02">Raúl Morales Hidalgo</a>, Spain - <a href="https://www.speedsolving.com/members/moralsh.16590">moralsh</a> on Speedsolving.com
   </p>
 </details>
@@ -296,6 +298,13 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/IItapeOpen2019">I Itapê Open 2019</a> - Itapetininga, São Paulo, Brazil - Oct 26, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SEMO01">Robinson Semolini</a>, Brazil
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019">Puzzling Pakenham 2019</a> - Melbourne, Victoria, Australia - Oct 26, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014KIPR02">Peter Kiprillis</a>, Australia
@@ -370,6 +379,7 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BurkeMountainFall2019">Burke Mountain Fall 2019</a> - East Burke, Vermont, United States - Nov 2, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
   </p>
 </details>
@@ -429,6 +439,25 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/JapanChampionship2019">Japan Championship 2019</a> -  Omiya, Saitama, Japan - Nov 2 - 4, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017KITA01">Akatsuki Kitamura (北村曉)</a>, Japan - <a href="https://www.speedsolving.com/members/kits_.50452">kits_</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2005YAZA01">Atsushi Yazawa (矢澤篤)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2005TOMI01">Junya Tomita (富田純也)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011YOSH01">Ryohei Yoshioka (吉岡亮平)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010HAMA03">Ryuji Hamano (浜野竜二)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016UMET02">Satoru Umetsu (梅津諭)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2005AKUZ01">Takeshi Akuzawa (阿久沢剛史)</a>, Japan, 50+ - <a href="https://www.speedsolving.com/members/takeyourmark.1407">takeyourmark</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2012HAMA02">Yuichi Hamada (濵田祐一)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2014KIZU01">Yuichiro Kizu (木津勇一郎)</a>, Japan
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CambodiaCubingChampionship2019">Cambodia Cubing Championship 2019</a> - Phnom Penh, Cambodia - Nov 3, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018TEEM01">Michael Tee</a>, Malaysia
@@ -475,6 +504,14 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
   </p>
 </details>
 
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/OddDayinSydney2019">Odd Day in Sydney 2019</a> - Sydney, New South Wales, Australia - Nov 10, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014ROCH07">David Roche</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
+  </p>
+</details>
+
 <h3>Nov 18, 2019</h3>
 
 <details>
@@ -511,6 +548,13 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
   </p>
 </details>
 
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019">Blind in the Water Tower 2019</a> - Norrköping, Sweden - Nov 17, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
+  </p>
+</details>
+
 <h3>Nov 25, 2019</h3>
 
 <details>
@@ -534,6 +578,20 @@ Last refreshed: 2019-09-30 15:09:45 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019">Weston-super-Mare Open 2019</a> - Weston-super-Mare, Somerset, United Kingdom - Nov 23 - 24, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018CUME02">Aaron Jody Cumes</a>, United Kingdom<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011WRIG01">Chris Wright</a>, United Kingdom - <a href="https://www.speedsolving.com/members/selkie.11318">Selkie</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017HART06">Geoffrey Hartnell</a>, United Kingdom<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015ADAM03">Mark Adams</a>, United Kingdom - <a href="https://www.speedsolving.com/members/newtonbase.23375">newtonbase</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
 
