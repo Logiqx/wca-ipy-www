@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-10-07 18:48:45 (UTC)
+Last refreshed: 2019-10-11 07:07:44 (UTC)
 
 <h3>Oct 14, 2019</h3>
 
@@ -148,12 +148,27 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SRMCubeOpen2019">SRM Cube Open 2019</a> - Kanchipuram, Tamil Nadu, India - Oct 19, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018NATH03">Senthil Nathan</a>, India
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TroisRivieres2019">Trois-Rivieres 2019</a> - Trois-Rivières, Quebec, Canada - Oct 19, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012CANT01">Claude Cantin</a>, Canada, 50+ - <a href="https://www.speedsolving.com/members/claudeccantin.13164">claudeccantin</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2005CAMP01">Dave Campbell</a>, Canada - <a href="https://www.speedsolving.com/members/dave-campbell.403">Dave Campbell</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FMEOpen2019">FME Open 2019</a> - Barcelona, Spain - Oct 19 - 20, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+
   </p>
 </details>
 
@@ -249,6 +264,7 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CCCQualificationTyumen2019">CCC Qualification Tyumen 2019</a> - Tyumen, Russia - Oct 26 - 27, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018PRIK02">Michael Prikhodko (Михаил Приходько)</a>, Russia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
   </p>
 </details>
@@ -390,7 +406,8 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012HAMA02">Yuichi Hamada (濵田祐一)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2014KIZU01">Yuichiro Kizu (木津勇一郎)</a>, Japan
+    - <a href="https://www.worldcubeassociation.org/persons/2014KIZU01">Yuichiro Kizu (木津勇一郎)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2005SUSE01">Yuji Suse (巣瀬雄史)</a>, Japan
   </p>
 </details>
 
@@ -413,7 +430,8 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FortWorthFallFiesta2019">Fort Worth Fall Fiesta 2019</a> - Fort Worth, Texas, United States - Nov 9, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
   </p>
 </details>
 
@@ -475,6 +493,13 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015HUNT01">Ken Hunt</a>, United States - <a href="https://www.speedsolving.com/members/atouchofgeek.27062">atouchofgeek</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019">Cubes Masters Zhytomyr 2019</a> - Zhytomyr, Ukraine - Nov 16 - 17, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
   </p>
 </details>
 
@@ -567,7 +592,8 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/LovechWinter2019">Lovech Winter 2019</a> - Lovech, Bulgaria - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015DULE03">Tihomir Dulev</a>, Bulgaria
   </p>
 </details>
 
@@ -599,6 +625,28 @@ Last refreshed: 2019-10-07 18:48:45 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2019">Swisscubing Cup Final 2019</a> - Hünenberg, Switzerland - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/RijswijkOpen2019">Rijswijk Open 2019</a> - Rijswijk, Netherlands - Dec 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2007OEYM01">Maria Oey</a>, Indonesia, 50+ - <a href="https://www.speedsolving.com/members/crazycubemom.492">Crazycubemom</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018GRAG01">Thorsten Gragert</a>, Netherlands<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
+  </p>
+</details>
+
+<h3>Dec 16, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HobartHoedown2019">Hobart Hoedown 2019</a> - Hobart, Tasmania, Australia - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019ROCH03">Anthony Rochester</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
   </p>
 </details>
 
