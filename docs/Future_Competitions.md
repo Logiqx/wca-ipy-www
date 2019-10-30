@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-10-29 11:47:54 (UTC)
+Last refreshed: 2019-10-30 09:16:57 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -550,6 +550,7 @@ Last refreshed: 2019-10-29 11:47:54 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+
   </p>
 </details>
