@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-10-30 09:16:57 (UTC)
+Last refreshed: 2019-10-31 18:19:57 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -274,6 +274,7 @@ Last refreshed: 2019-10-30 09:16:57 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MartorellOpen2019">Martorell Open 2019</a> - Martorell, Spain - Nov 16 - 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
 </details>
@@ -411,6 +412,7 @@ Last refreshed: 2019-10-30 09:16:57 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/KjellerMentalBreakdown2019">Kjeller Mental Breakdown 2019</a> - Kjeller, Norway - Nov 30 - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016AMBE02">Dieter Amberger</a>, Austria<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2013ANDE01">Peter Andersson</a>, Sweden, 50+ - <a href="https://www.speedsolving.com/members/peter-andersson.21285">Peter Andersson</a> on Speedsolving.com
   </p>
 </details>
@@ -541,6 +543,7 @@ Last refreshed: 2019-10-30 09:16:57 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaX2019">Franconia X 2019</a> - Nürnberg, Germany - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
   </p>
 </details>
