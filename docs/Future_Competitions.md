@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-02 20:01:02 (UTC)
+Last refreshed: 2019-11-02 22:01:02 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -449,6 +449,13 @@ Last refreshed: 2019-11-02 20:01:02 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CapivaraSunset2019">Capivara Sunset 2019</a> - Curitiba, Paraná, Brazil - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
   </p>
 </details>
 
