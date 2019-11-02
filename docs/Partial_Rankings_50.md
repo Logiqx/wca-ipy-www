@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-10-31 18:15:49 (UTC)
+Last refreshed: 2019-11-02 15:42:15 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -862,10 +862,10 @@ Last refreshed: 2019-10-31 18:15:49 (UTC)
   <summary>2x2x2 Cube</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2004MASA01#222">Jesús Masanet García</a>, Spain</td><td style="text-align:right">2.52</td></tr>
-    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2007OEYM01#222">Maria Oey</a>, Indonesia</td><td style="text-align:right">2.75</td></tr>
-    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#222">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">3.19</td></tr>
-    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#222">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">3.59</td></tr>
+    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#222">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">2.15</td></tr>
+    <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2004MASA01#222">Jesús Masanet García</a>, Spain</td><td style="text-align:right">2.52</td></tr>
+    <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2007OEYM01#222">Maria Oey</a>, Indonesia</td><td style="text-align:right">2.75</td></tr>
+    <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2003BRUC01#222">Ron van Bruchem</a>, Netherlands</td><td style="text-align:right">3.19</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2014VIGN02#222">Ciro Vignotto</a>, Italy</td><td style="text-align:right">3.92</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#222">Mark Rivers</a>, United Kingdom</td><td style="text-align:right">4.02</td></tr>
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#222">Mike Hughey</a>, United States</td><td style="text-align:right">4.18</td></tr>
