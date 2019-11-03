@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-03 11:14:03 (UTC)
+Last refreshed: 2019-11-03 11:15:29 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
