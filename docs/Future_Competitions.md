@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-03 12:01:04 (UTC)
+Last refreshed: 2019-11-03 12:59:03 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -418,6 +418,13 @@ Last refreshed: 2019-11-03 12:01:04 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAsia2019">FMC Asia 2019</a> - Multiple cities (see website), Multiple Countries (Asia) - Dec 7, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com
   </p>
 </details>
 
