@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-03 04:01:02 (UTC)
+Last refreshed: 2019-11-03 06:01:02 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -26,29 +26,6 @@ Last refreshed: 2019-11-03 04:01:02 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2012PLAC01">Gianluca Placenti</a>, Italy - <a href="https://www.speedsolving.com/members/commodore128.18054">commodore128</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017BONI01">Raffaele Bonifazi</a>, Italy<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/Boise2019">Boise 2019</a> - Boise, Idaho, United States - Nov 2, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017LAWR04">Timothy Lawrance</a>, South Africa - <a href="https://www.speedsolving.com/members/theos.37899">theos</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BurkeMountainFall2019">Burke Mountain Fall 2019</a> - East Burke, Vermont, United States - Nov 2, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SouthSurreySideEvents2019">South Surrey Side Events 2019</a> - White Rock, British Columbia, Canada - Nov 2, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
   </p>
 </details>
 
@@ -95,7 +72,7 @@ Last refreshed: 2019-11-03 04:01:02 (UTC)
 </details>
 
 <details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019">Smartсube Fest Kyiv 2019</a> - Kyiv, Ukraine - Nov 2 - 3, 2019</summary>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SmartcubeFestKyiv2019">Smartcube Fest Kyiv 2019</a> - Kyiv, Ukraine - Nov 2 - 3, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011YERK01">Stanislav Yerko (Станіслав Єрко)</a>, Ukraine
