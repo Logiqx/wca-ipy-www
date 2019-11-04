@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-04 12:00:08 (UTC)
+Last refreshed: 2019-11-04 18:00:12 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -162,6 +162,7 @@ Last refreshed: 2019-11-04 12:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016GILJ03">Jesús Bastida Gil</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015LOPE29">José Luis Molina López</a>, Spain<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015ARRE05">Miguel Ángel Román Arrebola</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
   </p>
 </details>
@@ -221,6 +222,13 @@ Last refreshed: 2019-11-04 12:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017KOST06">Roman Kostyukov</a>, Russia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019">Nacionales Guatemala 2019</a> - Guatemala City, Guatemala - Nov 22 - 24, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017GUER16">Américo Pineda Guerrero</a>, Guatemala
   </p>
 </details>
 
@@ -422,6 +430,13 @@ Last refreshed: 2019-11-04 12:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019ROCH03">Anthony Rochester</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SpeedcubEirbWinterOpen2019">Speedcub'Eirb Winter Open 2019</a> - Talence, France - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017MEGA01">Thierry Megard</a>, France, 50+
   </p>
 </details>
 
