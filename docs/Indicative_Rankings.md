@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-04 09:07:18 (UTC)
+Last refreshed: 2019-11-04 17:27:26 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -64,6 +64,7 @@ Last refreshed: 2019-11-04 09:07:18 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005BURT01">Bob Burton Sr.</a>, United States, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2015BOSW01">Brent Boswell</a>, South Africa, 50+</td><td><a href="https://www.speedsolving.com/members/johnnyreggae.28651">JohnnyReggae</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019MCDO05">Brett A. McDonald</a>, Australia</td><td></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2019HICK05">Brian Hickey</a>, Ireland, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01">Bruce Norskog</a>, United States, 50+</td><td><a href="https://www.speedsolving.com/members/cuberbruce.176">cuBerBruce</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017ROSA09">Bruno Rosa</a>, Italy, 50+</td><td><a href="https://www.speedsolving.com/members/bruno-rosa.42512">Bruno Rosa</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2019ONOG01">Caner Onoglu</a>, Turkey</td><td></td></tr>
