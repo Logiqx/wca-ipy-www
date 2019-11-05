@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-05 09:11:31 (UTC)
+Last refreshed: 2019-11-05 12:00:08 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -475,6 +475,13 @@ Last refreshed: 2019-11-05 09:11:31 (UTC)
 </details>
 
 <h3>Dec 30, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019">VJTI Mumbai Cube Open 2019</a> - Mumbai, Maharashtra, India - Dec 27 - 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2009NEEL01">Patitpavan Neel</a>, India, 60+
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
