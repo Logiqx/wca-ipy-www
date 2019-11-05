@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-05 06:00:08 (UTC)
+Last refreshed: 2019-11-05 09:11:31 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -334,7 +334,8 @@ Last refreshed: 2019-11-05 06:00:08 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAsia2019">FMC Asia 2019</a> - Multiple cities (see website), Multiple Countries (Asia) - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016UMET02">Satoru Umetsu (梅津諭)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
 </details>
 
