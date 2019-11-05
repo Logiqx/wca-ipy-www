@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-04 18:00:12 (UTC)
+Last refreshed: 2019-11-05 00:00:10 (UTC)
 
 <h3>Nov 4, 2019</h3>
 
@@ -243,6 +243,13 @@ Last refreshed: 2019-11-04 18:00:12 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiBigCubes2019">Kansai Big Cubes 2019</a> - Nishinomiya, Hyogo, Japan - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/MississippiCapstone2019">Mississippi Capstone 2019</a> - Southaven, Mississippi, United States - Nov 23, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016GOSL01">Harry Goslow</a>, United States, 50+
   </p>
 </details>
 
