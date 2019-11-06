@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-05 06:00:08 (UTC)
+Last refreshed: 2019-11-06 15:00:06 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -333,8 +333,10 @@ Last refreshed: 2019-11-05 06:00:08 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAsia2019">FMC Asia 2019</a> - Multiple cities (see website), Multiple Countries (Asia) - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016UMET02">Satoru Umetsu (梅津諭)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
 </details>
 
@@ -396,6 +398,14 @@ Last refreshed: 2019-11-05 06:00:08 (UTC)
 </details>
 
 <h3>Dec 16, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/OUWinter2019">OU Winter 2019</a> - Norman, Oklahoma, United States - Dec 14, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SMIT42">Daniel Smith</a>, United States, 50+ - <a href="https://www.speedsolving.com/members/oldmancuber.49036">OldManCuber</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019">Clact-On Socks Off 2019</a> - Clacton-on-Sea, Essex, United Kingdom - Dec 14 - 15, 2019</summary>
@@ -474,6 +484,13 @@ Last refreshed: 2019-11-05 06:00:08 (UTC)
 </details>
 
 <h3>Dec 30, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019">VJTI Mumbai Cube Open 2019</a> - Mumbai, Maharashtra, India - Dec 27 - 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2009NEEL01">Patitpavan Neel</a>, India, 60+
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
