@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-07 09:00:05 (UTC)
+Last refreshed: 2019-11-07 12:00:16 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -529,6 +529,13 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MoldovaOpen2020">Moldova Open 2020</a> - Chişinău, Moldova - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NorthsideCubeDays2020">Northside Cube Days 2020</a> - Brisbane, Queensland, Australia - Jan 11 - 12, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia
   </p>
 </details>
 
