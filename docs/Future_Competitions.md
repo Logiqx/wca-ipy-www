@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-07 03:00:10 (UTC)
+Last refreshed: 2019-11-07 06:00:07 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -401,6 +401,13 @@ Last refreshed: 2019-11-07 03:00:10 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018GRAG01">Thorsten Gragert</a>, Netherlands<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/UralLight2019">Ural Light 2019</a> - Chelyabinsk, Russia - Dec 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
   </p>
 </details>
 
