@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-06 18:00:09 (UTC)
+Last refreshed: 2019-11-07 09:00:05 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -121,8 +121,7 @@ Last refreshed: 2019-11-06 18:00:09 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017BROW09">David Brown</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015HUNT01">Ken Hunt</a>, United States - <a href="https://www.speedsolving.com/members/atouchofgeek.27062">atouchofgeek</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
   </p>
 </details>
 
@@ -148,7 +147,8 @@ Last refreshed: 2019-11-06 18:00:09 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+
   </p>
 </details>
 
@@ -291,6 +291,13 @@ Last refreshed: 2019-11-06 18:00:09 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BasauriOpen2019">Basauri Open 2019</a> - Basauri, Bilbao, Spain - Nov 30 - Dec 1, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BremiumWinter2019">Bremium Winter 2019</a> - Bremen, Germany - Nov 30 - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
@@ -394,6 +401,13 @@ Last refreshed: 2019-11-06 18:00:09 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018GRAG01">Thorsten Gragert</a>, Netherlands<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/UralLight2019">Ural Light 2019</a> - Chelyabinsk, Russia - Dec 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
   </p>
 </details>
 
