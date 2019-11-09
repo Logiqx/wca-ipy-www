@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-09 06:00:06 (UTC)
+Last refreshed: 2019-11-09 09:00:08 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -351,7 +351,8 @@ Last refreshed: 2019-11-09 06:00:06 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/PugetSoundNxNxN2019">Puget Sound NxNxN 2019</a> - Tacoma, Washington, United States - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
