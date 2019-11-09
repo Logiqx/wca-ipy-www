@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-09 09:00:08 (UTC)
+Last refreshed: 2019-11-09 15:00:06 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -381,6 +381,7 @@ Last refreshed: 2019-11-09 09:00:08 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019">SSL Final Stockholm 2019</a> - Stockholm, Sweden - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017WALL07">Lars Wallin</a>, Sweden, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden
   </p>
 </details>
