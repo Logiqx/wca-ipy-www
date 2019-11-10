@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-07 09:00:05 (UTC)
+Last refreshed: 2019-11-10 18:00:10 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -15,21 +15,6 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019">OSU Blind Weekend 2019</a> - Corvallis, Oregon, United States - Nov 8 - 10, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017LAWR04">Timothy Lawrance</a>, South Africa - <a href="https://www.speedsolving.com/members/theos.37899">theos</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FortWorthFallFiesta2019">Fort Worth Fall Fiesta 2019</a> - Fort Worth, Texas, United States - Nov 9, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/TJHSSTFall2019">TJHSST Fall 2019</a> - Alexandria, Virginia, United States - Nov 9, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016DUEH02">Jeremy Duehring</a>, United States - <a href="https://www.speedsolving.com/members/spartansailor.36397">SpartanSailor</a> on Speedsolving.com
   </p>
 </details>
 
@@ -148,7 +133,8 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010PLAZ01">Pedro Plaza Saavedra</a>, Spain
   </p>
 </details>
 
@@ -291,9 +277,17 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/STEMCubeOpenPenang2019">STEM Cube Open Penang 2019</a> - Bukit Mertajam, Penang, Malaysia - Nov 30, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BasauriOpen2019">Basauri Open 2019</a> - Basauri, Bilbao, Spain - Nov 30 - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
 </details>
 
@@ -351,7 +345,8 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/PugetSoundNxNxN2019">Puget Sound NxNxN 2019</a> - Tacoma, Washington, United States - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
@@ -380,7 +375,9 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019">SSL Final Stockholm 2019</a> - Stockholm, Sweden - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden
+    - <a href="https://www.worldcubeassociation.org/persons/2017WALL07">Lars Wallin</a>, Sweden, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden
   </p>
 </details>
 
@@ -529,6 +526,13 @@ Last refreshed: 2019-11-07 09:00:05 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MoldovaOpen2020">Moldova Open 2020</a> - Chişinău, Moldova - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NorthsideCubeDays2020">Northside Cube Days 2020</a> - Brisbane, Queensland, Australia - Jan 11 - 12, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia
   </p>
 </details>
 
