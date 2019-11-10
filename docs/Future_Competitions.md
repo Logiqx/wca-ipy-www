@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-10 03:00:07 (UTC)
+Last refreshed: 2019-11-10 06:00:10 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -15,21 +15,6 @@ Last refreshed: 2019-11-10 03:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019">OSU Blind Weekend 2019</a> - Corvallis, Oregon, United States - Nov 8 - 10, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017LAWR04">Timothy Lawrance</a>, South Africa - <a href="https://www.speedsolving.com/members/theos.37899">theos</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FortWorthFallFiesta2019">Fort Worth Fall Fiesta 2019</a> - Fort Worth, Texas, United States - Nov 9, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/TJHSSTFall2019">TJHSST Fall 2019</a> - Alexandria, Virginia, United States - Nov 9, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016DUEH02">Jeremy Duehring</a>, United States - <a href="https://www.speedsolving.com/members/spartansailor.36397">SpartanSailor</a> on Speedsolving.com
   </p>
 </details>
 
