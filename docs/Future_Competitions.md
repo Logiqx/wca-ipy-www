@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-10 12:00:09 (UTC)
+Last refreshed: 2019-11-10 15:00:06 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -273,6 +273,13 @@ Last refreshed: 2019-11-10 12:00:09 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MaltaOpen2019">Malta Open 2019</a> - Msida, Malta - Nov 30, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/STEMCubeOpenPenang2019">STEM Cube Open Penang 2019</a> - Bukit Mertajam, Penang, Malaysia - Nov 30, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
   </p>
 </details>
 
