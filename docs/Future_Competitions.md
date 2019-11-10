@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-10 15:00:06 (UTC)
+Last refreshed: 2019-11-10 18:00:10 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -286,7 +286,8 @@ Last refreshed: 2019-11-10 15:00:06 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BasauriOpen2019">Basauri Open 2019</a> - Basauri, Bilbao, Spain - Nov 30 - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
 </details>
 
