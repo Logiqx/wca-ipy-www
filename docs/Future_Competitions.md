@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-10 18:00:10 (UTC)
+Last refreshed: 2019-11-10 20:37:10 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -526,6 +526,13 @@ Last refreshed: 2019-11-10 18:00:10 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MoldovaOpen2020">Moldova Open 2020</a> - Chişinău, Moldova - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PotomacSpeedcubing2020">Potomac Speedcubing 2020</a> - Potomac, Maryland, United States - Jan 11, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016DUEH02">Jeremy Duehring</a>, United States - <a href="https://www.speedsolving.com/members/spartansailor.36397">SpartanSailor</a> on Speedsolving.com
   </p>
 </details>
 
