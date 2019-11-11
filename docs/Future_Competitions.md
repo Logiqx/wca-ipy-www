@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-10 21:14:03 (UTC)
+Last refreshed: 2019-11-11 03:00:08 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -277,13 +277,6 @@ Last refreshed: 2019-11-10 21:14:03 (UTC)
 </details>
 
 <details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/STEMCubeOpenPenang2019">STEM Cube Open Penang 2019</a> - Bukit Mertajam, Penang, Malaysia - Nov 30, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
-  </p>
-</details>
-
-<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BasauriOpen2019">Basauri Open 2019</a> - Basauri, Bilbao, Spain - Nov 30 - Dec 1, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+<br/>
@@ -520,6 +513,14 @@ Last refreshed: 2019-11-10 21:14:03 (UTC)
   </p>
 </details>
 
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/UBCOpen2020">UBC Open 2020</a> - Vancouver, British Columbia, Canada - Jan 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013BRYA02">Mark Bryan</a>, Canada - <a href="https://www.speedsolving.com/members/parity-case.19867">Parity Case</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
 <h3>Jan 13, 2020</h3>
 
 <details>
@@ -558,6 +559,15 @@ Last refreshed: 2019-11-10 21:14:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011BOIS01">Thierry Boisivon</a>, France
+  </p>
+</details>
+
+<h3>Feb 10, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020">Downtown Vancouver Winter 2020</a> - Vancouver, British Columbia, Canada - Feb 8, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
   </p>
 </details>
 
