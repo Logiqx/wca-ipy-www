@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-11 18:09:57 (UTC)
+Last refreshed: 2019-11-11 21:00:07 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -93,7 +93,8 @@ Last refreshed: 2019-11-11 18:09:57 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019">Blind in the Water Tower 2019</a> - Norrköping, Sweden - Nov 17, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden
   </p>
 </details>
 
@@ -452,7 +453,8 @@ Last refreshed: 2019-11-11 18:09:57 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+
   </p>
 </details>
 
