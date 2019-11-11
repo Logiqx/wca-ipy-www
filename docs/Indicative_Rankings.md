@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-11 04:13:53 (UTC)
+Last refreshed: 2019-11-11 20:26:56 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -241,6 +241,7 @@ Last refreshed: 2019-11-11 04:13:53 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010SPIE01">Jochen Spies</a>, Germany, 50+</td><td><a href="https://www.speedsolving.com/members/jospies.8658">JoSpies</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01">John Louis</a>, India, 50+</td><td><a href="https://www.speedsolving.com/members/johnlouismemory.2454">johnlouismemory</a></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017MCGU04">Jonathan McGuinness</a>, Ireland</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td></td></tr>
@@ -745,6 +746,7 @@ Last refreshed: 2019-11-11 04:13:53 (UTC)
     <tr><td style="text-align:center">523</td><td><a href="https://www.worldcubeassociation.org/persons/2014CURR01#333">Darcy Currey</a>, Australia</td><td style="text-align:right">33.46</td></tr>
     <tr><td style="text-align:center">526</td><td><a href="https://www.worldcubeassociation.org/persons/2018SANG01#333">Erik Tjong Kim Sang</a>, Netherlands, 50+</td><td style="text-align:right">33.61</td></tr>
     <tr><td style="text-align:center">529</td><td><a href="https://www.worldcubeassociation.org/persons/2008MOYE01#333">Heiko Moyé</a>, Germany</td><td style="text-align:right">33.63</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2016DEXT02#333">Jonathan Dexter</a>, Australia, 50+</td><td style="text-align:right">33.63</td></tr>
     <tr><td style="text-align:center">531</td><td><a href="https://www.worldcubeassociation.org/persons/2014SANT22#333">Valdinei Cordeiro dos Santos</a>, Brazil</td><td style="text-align:right">33.65</td></tr>
     <tr><td style="text-align:center">533</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#333">Anders Larsson</a>, Sweden, 50+</td><td style="text-align:right">33.74</td></tr>
     <tr><td style="text-align:center">535</td><td><a href="https://www.worldcubeassociation.org/persons/2017GEES01#333">Paul N. van de Geest</a>, United Kingdom</td><td style="text-align:right">33.78</td></tr>
@@ -1158,6 +1160,7 @@ Last refreshed: 2019-11-11 04:13:53 (UTC)
     <tr><td style="text-align:center">317</td><td><a href="https://www.worldcubeassociation.org/persons/2014COXN01#222">Nicky Cox</a>, United States</td><td style="text-align:right">12.27</td></tr>
     <tr><td style="text-align:center">320</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#222">Yves Créange</a>, France, 50+</td><td style="text-align:right">12.36</td></tr>
     <tr><td style="text-align:center">322</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#222">Hanneke Rijks</a>, Netherlands, 50+</td><td style="text-align:right">12.49</td></tr>
+    <tr><td style="text-align:center">324</td><td><a href="https://www.worldcubeassociation.org/persons/2016DEXT02#222">Jonathan Dexter</a>, Australia, 50+</td><td style="text-align:right">12.52</td></tr>
     <tr><td style="text-align:center">326</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#222">Dan Turner</a>, United States</td><td style="text-align:right">12.58</td></tr>
     <tr><td style="text-align:center">328</td><td><a href="https://www.worldcubeassociation.org/persons/2017GEES01#222">Paul N. van de Geest</a>, United Kingdom</td><td style="text-align:right">12.69</td></tr>
     <tr><td style="text-align:center">330</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#222">John Cook</a>, Australia, 50+</td><td style="text-align:right">12.75</td></tr>
