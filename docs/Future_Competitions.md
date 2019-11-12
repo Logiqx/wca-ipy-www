@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-12 06:00:08 (UTC)
+Last refreshed: 2019-11-12 09:00:09 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -83,7 +83,6 @@ Last refreshed: 2019-11-12 06:00:08 (UTC)
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019">Blind in the Water Tower 2019</a> - Norrköping, Sweden - Nov 17, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden
   </p>
 </details>
