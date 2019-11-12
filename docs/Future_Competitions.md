@@ -7,21 +7,11 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-12 03:00:10 (UTC)
-
-<h3>Nov 11, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BarbyCube2019">Barby Cube 2019</a> - Barby, France - Nov 9 - 11, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015REYN07">Laurent Reynaud</a>, France, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2011LUCI01">Philippe Lucien</a>, France
-  </p>
-</details>
+Last refreshed: 2019-11-12 06:00:08 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ThailandChampionship2019">Thailand Championship 2019</a> - Bangkok, Thailand - Nov 15 - 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
@@ -30,28 +20,28 @@ Last refreshed: 2019-11-12 03:00:10 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AustinFall2019">Austin Fall 2019</a> - Austin, Texas, United States - Nov 16, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BobcatBattle2019">Bobcat Battle 2019</a> - Las Vegas, Nevada, United States - Nov 16, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018TURN03">Dan Turner</a>, United States
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019">Michigan Cubing Club Delta 2019</a> - Ann Arbor, Michigan, United States - Nov 16, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KOLC04">Wally Kolcz</a>, United States
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SnoCoFall2019">SnoCo Fall 2019</a> - Everett, Washington, United States - Nov 16, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
@@ -62,14 +52,14 @@ Last refreshed: 2019-11-12 03:00:10 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019">Cubes Masters Zhytomyr 2019</a> - Zhytomyr, Ukraine - Nov 16 - 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FuengirolaCubea2019">Fuengirola Cubea 2019</a> - Fuengirola, Málaga, Spain - Nov 16 - 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016GILJ03">Jesús Bastida Gil</a>, Spain<br/>
@@ -79,7 +69,7 @@ Last refreshed: 2019-11-12 03:00:10 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MartorellOpen2019">Martorell Open 2019</a> - Martorell, Spain - Nov 16 - 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
@@ -90,7 +80,7 @@ Last refreshed: 2019-11-12 03:00:10 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019">Blind in the Water Tower 2019</a> - Norrköping, Sweden - Nov 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com<br/>
@@ -98,14 +88,14 @@ Last refreshed: 2019-11-12 03:00:10 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAmericas2019">FMC Americas 2019</a> - Multiple Cities, Multiple Countries (Americas) - Nov 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/VSVNCubeOpen2019">VSVN Cube Open 2019</a> - Virudunagar, Tamil Nadu, India - Nov 17, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018NATH03">Senthil Nathan</a>, India<br/>
