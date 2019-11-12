@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-11 21:00:07 (UTC)
+Last refreshed: 2019-11-12 00:00:09 (UTC)
 
 <h3>Nov 11, 2019</h3>
 
@@ -186,6 +186,7 @@ Last refreshed: 2019-11-11 21:00:07 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SilentSwapSaoPaulo2019">Silent Swap São Paulo 2019</a> - São Paulo, São Paulo, Brazil - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2008CARA01">Gilberto Caracciolo Morelli</a>, Brazil<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SEMO01">Robinson Semolini</a>, Brazil
   </p>
