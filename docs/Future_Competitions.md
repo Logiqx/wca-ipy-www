@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-13 15:00:07 (UTC)
+Last refreshed: 2019-11-13 18:00:22 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -140,6 +140,13 @@ Last refreshed: 2019-11-13 15:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019">Tårnby Cube Træf 2019</a> - Tårnby, Denmark - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2019">Carolina Clock 'Stravaganza 2019</a> - Monroe, North Carolina, United States - Nov 23, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
   </p>
 </details>
 
