@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-13 18:00:22 (UTC)
+Last refreshed: 2019-11-13 21:00:09 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -168,6 +168,7 @@ Last refreshed: 2019-11-13 18:00:22 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/BadenWurttembergOpen2019">Baden-Württemberg Open 2019</a> - Weingarten (Baden), Germany - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
   </p>
 </details>
