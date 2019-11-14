@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-14 15:00:08 (UTC)
+Last refreshed: 2019-11-14 18:00:12 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -520,6 +520,15 @@ Last refreshed: 2019-11-14 15:00:08 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020">Downtown Vancouver Winter 2020</a> - Vancouver, British Columbia, Canada - Feb 8, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<h3>Apr 6, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubeDayMacomb2020">Cube Day Macomb 2020</a> - Clinton Township, Michigan, United States - Apr 4, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KOLC04">Wally Kolcz</a>, United States
   </p>
 </details>
 
