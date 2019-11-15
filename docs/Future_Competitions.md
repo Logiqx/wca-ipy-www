@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-15 12:00:06 (UTC)
+Last refreshed: 2019-11-15 15:00:06 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -360,6 +360,13 @@ Last refreshed: 2019-11-15 12:00:06 (UTC)
 </details>
 
 <h3>Dec 16, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019">Taiwan Championship 2019</a> - New Taipei City, Taiwan - Dec 13 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/OUWinter2019">OU Winter 2019</a> - Norman, Oklahoma, United States - Dec 14, 2019</summary>
