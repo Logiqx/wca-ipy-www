@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-15 03:00:21 (UTC)
+Last refreshed: 2019-11-15 04:13:57 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -298,6 +298,13 @@ Last refreshed: 2019-11-15 03:00:21 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CapivaraSunset2019">Capivara Sunset 2019</a> - Curitiba, Paraná, Brazil - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FrankivskOpen2019">Frankivsk Open 2019</a> - Ivano-Frankivsk, Ukraine - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
   </p>
 </details>
 
