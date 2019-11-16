@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-16 18:00:03 (UTC)
+Last refreshed: 2019-11-16 21:00:03 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -160,6 +160,7 @@ Last refreshed: 2019-11-16 18:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MississippiCapstone2019">Mississippi Capstone 2019</a> - Southaven, Mississippi, United States - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016GOSL01">Harry Goslow</a>, United States, 50+
   </p>
 </details>
