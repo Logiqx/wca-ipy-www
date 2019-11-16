@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-16 00:00:08 (UTC)
+Last refreshed: 2019-11-16 03:00:07 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -452,6 +452,14 @@ Last refreshed: 2019-11-16 00:00:08 (UTC)
   </p>
 </details>
 
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DallasCubemas2019">Dallas Cubemas 2019</a> - Dallas, Texas, United States - Dec 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
+  </p>
+</details>
+
 <h3>Dec 30, 2019</h3>
 
 <details>
@@ -466,6 +474,15 @@ Last refreshed: 2019-11-16 00:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HiroshimaOpen2019">Hiroshima Open 2019</a> - Fukuyama, Hiroshima, Japan - Dec 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017KITA01">Akatsuki Kitamura (北村曉)</a>, Japan - <a href="https://www.speedsolving.com/members/kits_.50452">kits_</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011YOSH01">Ryohei Yoshioka (吉岡亮平)</a>, Japan
   </p>
 </details>
 
