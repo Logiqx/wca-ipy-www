@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-17 03:00:03 (UTC)
+Last refreshed: 2019-11-17 04:14:03 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -17,38 +17,6 @@ Last refreshed: 2019-11-17 03:00:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019CHIE01">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand - <a href="https://www.speedsolving.com/members/mcmlxx.30699">MCMLXX</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014KIZU01">Yuichiro Kizu (木津勇一郎)</a>, Japan
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/AustinFall2019">Austin Fall 2019</a> - Austin, Texas, United States - Nov 16, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BobcatBattle2019">Bobcat Battle 2019</a> - Las Vegas, Nevada, United States - Nov 16, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018TURN03">Dan Turner</a>, United States
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/MichiganCubingClubDelta2019">Michigan Cubing Club Delta 2019</a> - Ann Arbor, Michigan, United States - Nov 16, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019KOLC04">Wally Kolcz</a>, United States
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SnoCoFall2019">SnoCo Fall 2019</a> - Everett, Washington, United States - Nov 16, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017BROW09">David Brown</a>, United States, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States
   </p>
 </details>
 
