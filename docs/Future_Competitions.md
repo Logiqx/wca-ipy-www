@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-17 00:00:03 (UTC)
+Last refreshed: 2019-11-17 03:00:03 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -454,6 +454,13 @@ Last refreshed: 2019-11-17 00:00:03 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019">Cebu Speedcubing Year End 2019</a> - Cebu City, Philippines - Dec 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DallasCubemas2019">Dallas Cubemas 2019</a> - Dallas, Texas, United States - Dec 21 - 22, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
@@ -511,6 +518,7 @@ Last refreshed: 2019-11-17 00:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/UBCOpen2020">UBC Open 2020</a> - Vancouver, British Columbia, Canada - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2013BRYA02">Mark Bryan</a>, Canada - <a href="https://www.speedsolving.com/members/parity-case.19867">Parity Case</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
   </p>
 </details>
