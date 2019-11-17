@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-16 21:00:03 (UTC)
+Last refreshed: 2019-11-17 00:00:03 (UTC)
 
 <h3>Nov 18, 2019</h3>
 
@@ -553,6 +553,15 @@ Last refreshed: 2019-11-16 21:00:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011BOIS01">Thierry Boisivon</a>, France
+  </p>
+</details>
+
+<h3>Jan 27, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020">Washington Championship 2020</a> - Tacoma, Washington, United States - Jan 24 - 26, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
