@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-18 18:00:02 (UTC)
+Last refreshed: 2019-11-18 21:00:02 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -433,6 +433,13 @@ Last refreshed: 2019-11-18 18:00:02 (UTC)
 <h3>Jan 13, 2020</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/AdelaideSummer2020">Adelaide Summer 2020</a> - Adelaide, South Australia, Australia - Jan 11, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MoldovaOpen2020">Moldova Open 2020</a> - Chişinău, Moldova - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
@@ -468,6 +475,13 @@ Last refreshed: 2019-11-18 18:00:02 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011BOIS01">Thierry Boisivon</a>, France
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020">North Star Cubing Challenge 2020</a> - New Brighton, Minnesota, United States - Jan 18 - 19, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
 
