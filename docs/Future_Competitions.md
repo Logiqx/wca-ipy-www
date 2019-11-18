@@ -7,80 +7,18 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-18 03:00:03 (UTC)
-
-<h3>Nov 18, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/ThailandChampionship2019">Thailand Championship 2019</a> - Bangkok, Thailand - Nov 15 - 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019CHIE01">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand - <a href="https://www.speedsolving.com/members/mcmlxx.30699">MCMLXX</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2014KIZU01">Yuichiro Kizu (木津勇一郎)</a>, Japan
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CubesMastersZhytomyr2019">Cubes Masters Zhytomyr 2019</a> - Zhytomyr, Ukraine - Nov 16 - 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FuengirolaCubea2019">Fuengirola Cubea 2019</a> - Fuengirola, Málaga, Spain - Nov 16 - 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016GILJ03">Jesús Bastida Gil</a>, Spain<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015LOPE29">José Luis Molina López</a>, Spain<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015ARRE05">Miguel Ángel Román Arrebola</a>, Spain<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/MartorellOpen2019">Martorell Open 2019</a> - Martorell, Spain - Nov 16 - 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2010PLAZ01">Pedro Plaza Saavedra</a>, Spain
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BlindintheWaterTower2019">Blind in the Water Tower 2019</a> - Norrköping, Sweden - Nov 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAmericas2019">FMC Americas 2019</a> - Multiple Cities, Multiple Countries (Americas) - Nov 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/VSVNCubeOpen2019">VSVN Cube Open 2019</a> - Virudunagar, Tamil Nadu, India - Nov 17, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018NATH03">Senthil Nathan</a>, India<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017MARI16">Uma Marieswaran</a>, India<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016MUTH05">Vani Muthukrishnan</a>, India
-  </p>
-</details>
+Last refreshed: 2019-11-18 04:13:51 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FinnishChampionship2019">Finnish Championship 2019</a> - Vantaa, Finland - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2019">Malaysia Cube Championship 2019</a> - Petaling Jaya, Selangor, Malaysia - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
@@ -89,7 +27,7 @@ Last refreshed: 2019-11-18 03:00:03 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MPEIOpen2019">MPEI Open 2019</a> - Moscow, Russia - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017KOST06">Roman Kostyukov</a>, Russia<br/>
@@ -97,35 +35,35 @@ Last refreshed: 2019-11-18 03:00:03 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019">Nacionales Guatemala 2019</a> - Guatemala City, Guatemala - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017GUER16">Américo Pineda Guerrero</a>, Guatemala
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019">Tårnby Cube Træf 2019</a> - Tårnby, Denmark - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2019">Carolina Clock 'Stravaganza 2019</a> - Monroe, North Carolina, United States - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiBigCubes2019">Kansai Big Cubes 2019</a> - Nishinomiya, Hyogo, Japan - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MississippiCapstone2019">Mississippi Capstone 2019</a> - Southaven, Mississippi, United States - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
@@ -133,7 +71,7 @@ Last refreshed: 2019-11-18 03:00:03 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BadenWurttembergOpen2019">Baden-Württemberg Open 2019</a> - Weingarten (Baden), Germany - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
@@ -142,14 +80,14 @@ Last refreshed: 2019-11-18 03:00:03 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FargoFall2019">Fargo Fall 2019</a> - Fargo, North Dakota, United States - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SilentSwapSaoPaulo2019">Silent Swap São Paulo 2019</a> - São Paulo, São Paulo, Brazil - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2008CARA01">Gilberto Caracciolo Morelli</a>, Brazil<br/>
@@ -158,7 +96,7 @@ Last refreshed: 2019-11-18 03:00:03 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019">Weston-super-Mare Open 2019</a> - Weston-super-Mare, Somerset, United Kingdom - Nov 23 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018CUME02">Aaron Jody Cumes</a>, United Kingdom<br/>
