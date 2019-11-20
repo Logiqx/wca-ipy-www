@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-20 00:00:03 (UTC)
+Last refreshed: 2019-11-20 03:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -53,13 +53,6 @@ Last refreshed: 2019-11-20 00:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2019">Carolina Clock 'Stravaganza 2019</a> - Monroe, North Carolina, United States - Nov 23, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/KansaiBigCubes2019">Kansai Big Cubes 2019</a> - Nishinomiya, Hyogo, Japan - Nov 23, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com
   </p>
 </details>
 
@@ -280,6 +273,13 @@ Last refreshed: 2019-11-20 00:00:03 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018SMIT42">Daniel Smith</a>, United States, 50+ - <a href="https://www.speedsolving.com/members/oldmancuber.49036">OldManCuber</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019">Bernô Feet Friendship 2019</a> - São Bernardo do Campo, São Paulo, Brazil - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
   </p>
 </details>
 
