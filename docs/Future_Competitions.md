@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-20 15:00:03 (UTC)
+Last refreshed: 2019-11-21 12:00:02 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -295,9 +295,18 @@ Last refreshed: 2019-11-20 15:00:03 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubingZacatecas2019">Cubing Zacatecas 2019</a> - Zacatecas, Mexico - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2011SALA06">José Adrian Jaquez Salazar</a>, Mexico, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FMEOpen2019">FME Open 2019</a> - Barcelona, Spain - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010PLAZ01">Pedro Plaza Saavedra</a>, Spain
   </p>
 </details>
 
