@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-21 18:00:03 (UTC)
+Last refreshed: 2019-11-21 21:00:02 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -116,7 +116,8 @@ Last refreshed: 2019-11-21 18:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/Andorra2019">Andorra 2019</a> - Andorra la Vella, Andorra - Nov 30, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain
   </p>
 </details>
 
