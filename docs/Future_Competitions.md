@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-22 18:00:03 (UTC)
+Last refreshed: 2019-11-22 21:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -340,6 +340,13 @@ Last refreshed: 2019-11-22 18:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019">Tapiola Winter Open 2019</a> - Espoo, Finland - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/TCGSpring2019">TCG Spring 2019</a> - Arequipa, Peru - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015REGE02">Cesar Rodriguez Regente</a>, Peru
   </p>
 </details>
 
