@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-22 06:00:03 (UTC)
+Last refreshed: 2019-11-22 09:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -509,6 +509,13 @@ Last refreshed: 2019-11-22 06:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020">Washington Championship 2020</a> - Tacoma, Washington, United States - Jan 24 - 26, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/MelbourneSummer2020">Melbourne Summer 2020</a> - Melbourne, Victoria, Australia - Jan 25 - 27, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+
   </p>
 </details>
 
