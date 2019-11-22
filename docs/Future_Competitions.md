@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-22 09:00:03 (UTC)
+Last refreshed: 2019-11-22 12:00:02 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -525,6 +525,15 @@ Last refreshed: 2019-11-22 09:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020">Downtown Vancouver Winter 2020</a> - Vancouver, British Columbia, Canada - Feb 8, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<h3>Feb 17, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ChellesOpen2020">Chelles Open 2020</a> - Chelles, France - Feb 15 - 16, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France
   </p>
 </details>
 
