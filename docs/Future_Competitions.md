@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-23 12:00:03 (UTC)
+Last refreshed: 2019-11-23 15:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -548,7 +548,8 @@ Last refreshed: 2019-11-23 12:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ChellesOpen2020">Chelles Open 2020</a> - Chelles, France - Feb 15 - 16, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France
+    - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France
   </p>
 </details>
 
