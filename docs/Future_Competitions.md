@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-24 18:00:03 (UTC)
+Last refreshed: 2019-11-24 21:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -501,7 +501,8 @@ Last refreshed: 2019-11-24 18:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020">North Star Cubing Challenge 2020</a> - New Brighton, Minnesota, United States - Jan 18 - 19, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 70+ - <a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a> on Speedsolving.com
   </p>
 </details>
 
