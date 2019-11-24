@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-24 03:00:03 (UTC)
+Last refreshed: 2019-11-24 04:13:31 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -46,21 +46,6 @@ Last refreshed: 2019-11-24 03:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019">Tårnby Cube Træf 2019</a> - Tårnby, Denmark - Nov 22 - 24, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2019">Carolina Clock 'Stravaganza 2019</a> - Monroe, North Carolina, United States - Nov 23, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/MississippiCapstone2019">Mississippi Capstone 2019</a> - Southaven, Mississippi, United States - Nov 23, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016GOSL01">Harry Goslow</a>, United States, 50+
   </p>
 </details>
 
