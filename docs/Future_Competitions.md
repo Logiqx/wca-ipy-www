@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-25 09:00:03 (UTC)
+Last refreshed: 2019-11-25 12:00:03 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -411,7 +411,8 @@ Last refreshed: 2019-11-25 09:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/NorthsideCubeDays2020">Northside Cube Days 2020</a> - Brisbane, Queensland, Australia - Jan 11 - 12, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia
+    - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
   </p>
 </details>
 
