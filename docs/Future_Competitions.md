@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-25 12:00:03 (UTC)
+Last refreshed: 2019-11-25 15:00:04 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -136,7 +136,8 @@ Last refreshed: 2019-11-25 12:00:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017WALL07">Lars Wallin</a>, Sweden, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018NILS03">Petter Nilsson</a>, Sweden<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden
+    - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017THOR06">Torbjörn Thorsén</a>, Sweden, 50+
   </p>
 </details>
 
