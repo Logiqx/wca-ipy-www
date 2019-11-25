@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-24 21:00:03 (UTC)
+Last refreshed: 2019-11-25 00:00:03 (UTC)
 
 <h3>Nov 25, 2019</h3>
 
@@ -345,6 +345,13 @@ Last refreshed: 2019-11-24 21:00:03 (UTC)
 </details>
 
 <h3>Dec 23, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/AlicanteOpen2019">Alicante Open 2019</a> - Alicante, Spain - Dec 21, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AZCubingWinter2019">AZCubing Winter 2019</a> - Phoenix, Arizona, United States - Dec 21, 2019</summary>
