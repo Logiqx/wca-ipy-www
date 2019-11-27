@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-26 19:55:17 (UTC)
+Last refreshed: 2019-11-27 15:00:13 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -131,8 +131,16 @@ Last refreshed: 2019-11-26 19:55:17 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PittsburghFall2019">Pittsburgh Fall 2019</a> - Pittsburgh, Pennsylvania, United States - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010COAT01">Teller Coates</a>, United States - <a href="https://www.speedsolving.com/members/teller.3053">teller</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019">SSL Final Stockholm 2019</a> - Stockholm, Sweden - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017THOR05">Jennifer Thorsen</a>, Sweden<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017WALL07">Lars Wallin</a>, Sweden, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018NILS03">Petter Nilsson</a>, Sweden<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014UGGL01">Pontus Uggla</a>, Sweden<br/>
@@ -271,6 +279,7 @@ Last refreshed: 2019-11-26 19:55:17 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AlicanteOpen2019">Alicante Open 2019</a> - Alicante, Spain - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com
   </p>
 </details>
@@ -347,6 +356,13 @@ Last refreshed: 2019-11-26 19:55:17 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubingKorea2019">Cubing Korea 2019</a> - 서울특별시 (Seoul), Republic of Korea - Dec 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HiroshimaOpen2019">Hiroshima Open 2019</a> - Fukuyama, Hiroshima, Japan - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017KITA01">Akatsuki Kitamura (北村曉)</a>, Japan - <a href="https://www.speedsolving.com/members/kits_.50452">kits_</a> on Speedsolving.com<br/>
@@ -369,6 +385,13 @@ Last refreshed: 2019-11-26 19:55:17 (UTC)
 </details>
 
 <h3>Jan 6, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020">Södertälje New Year 2020</a> - Södertälje, Sweden - Jan 4, 2020</summary>
@@ -443,7 +466,8 @@ Last refreshed: 2019-11-26 19:55:17 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
 
