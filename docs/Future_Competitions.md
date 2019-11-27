@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-27 00:00:05 (UTC)
+Last refreshed: 2019-11-27 03:00:12 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -378,6 +378,13 @@ Last refreshed: 2019-11-27 00:00:05 (UTC)
 </details>
 
 <h3>Jan 6, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020">Södertälje New Year 2020</a> - Södertälje, Sweden - Jan 4, 2020</summary>
