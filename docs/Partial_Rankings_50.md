@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-27 04:14:08 (UTC)
+Last refreshed: 2019-11-27 21:08:26 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -904,14 +904,14 @@ Last refreshed: 2019-11-27 04:14:08 (UTC)
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2017THOR06#222">Torbjörn Thorsén</a>, Sweden</td><td style="text-align:right">5.78</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#222">Peter Andersson</a>, Sweden</td><td style="text-align:right">5.81</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#222">Reiner Thomsen</a>, Germany</td><td style="text-align:right">5.83</td></tr>
-    <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2006HYAK01#222">Ikuo Hyakuta (百田郁夫)</a>, Japan</td><td style="text-align:right">5.93</td></tr>
-    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#222">Bruce Norskog</a>, United States</td><td style="text-align:right">5.93</td></tr>
+    <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#222">Bruce Norskog</a>, United States</td><td style="text-align:right">5.93</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2006HYAK01#222">Ikuo Hyakuta (百田郁夫)</a>, Japan</td><td style="text-align:right">5.93</td></tr>
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#222">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">5.93</td></tr>
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#222">Peter Douthwright</a>, Canada</td><td style="text-align:right">6.03</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#222">Anders Larsson</a>, Sweden</td><td style="text-align:right">6.58</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2018PARI11#222">Luis Palomar París</a>, Spain, 60+</td><td style="text-align:right">6.63</td></tr>
-    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#222">Petri Vanhala</a>, Finland</td><td style="text-align:right">6.66</td></tr>
-    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#222">Cari Goslow</a>, United States</td><td style="text-align:right">6.66</td></tr>
+    <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#222">Cari Goslow</a>, United States</td><td style="text-align:right">6.66</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#222">Petri Vanhala</a>, Finland</td><td style="text-align:right">6.66</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2017TAKA02#222">Takashi Takaoka (高岡孝)</a>, Japan</td><td style="text-align:right">6.70</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#222">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">6.77</td></tr>
     <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#222">Hanneke Rijks</a>, Netherlands</td><td style="text-align:right">6.80</td></tr>
@@ -1132,8 +1132,8 @@ Last refreshed: 2019-11-27 04:14:08 (UTC)
   <summary>3x3x3 Fewest Moves</summary>
   <table>
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
-    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007SANC01#333fm">Javier Cabezuelo Sánchez</a>, Spain</td><td style="text-align:right">24</td></tr>
-    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333fm">Hanns Hub</a>, Germany</td><td style="text-align:right">24</td></tr>
+    <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333fm">Hanns Hub</a>, Germany</td><td style="text-align:right">24</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2007SANC01#333fm">Javier Cabezuelo Sánchez</a>, Spain</td><td style="text-align:right">24</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2012HORV01#333fm">Attila Horváth</a>, Hungary</td><td style="text-align:right">25</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/1982RAZO01#333fm">Guus Razoux Schultz</a>, Netherlands</td><td style="text-align:right">26</td></tr>
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#333fm">Mike Hughey</a>, United States</td><td style="text-align:right">26</td></tr>
