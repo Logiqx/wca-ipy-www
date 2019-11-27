@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-27 09:00:15 (UTC)
+Last refreshed: 2019-11-27 12:00:13 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -352,6 +352,13 @@ Last refreshed: 2019-11-27 09:00:15 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubingKorea2019">Cubing Korea 2019</a> - 서울특별시 (Seoul), Republic of Korea - Dec 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea
   </p>
 </details>
 
