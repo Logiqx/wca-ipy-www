@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-26 21:00:03 (UTC)
+Last refreshed: 2019-11-27 00:00:05 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -127,6 +127,13 @@ Last refreshed: 2019-11-26 21:00:03 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PittsburghFall2019">Pittsburgh Fall 2019</a> - Pittsburgh, Pennsylvania, United States - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010COAT01">Teller Coates</a>, United States - <a href="https://www.speedsolving.com/members/teller.3053">teller</a> on Speedsolving.com
   </p>
 </details>
 
@@ -272,6 +279,7 @@ Last refreshed: 2019-11-26 21:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AlicanteOpen2019">Alicante Open 2019</a> - Alicante, Spain - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com
   </p>
 </details>
