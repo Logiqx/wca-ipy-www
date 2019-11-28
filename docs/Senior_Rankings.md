@@ -18,7 +18,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 09:16:46 (UTC)
+Last refreshed: 2019-11-28 10:41:03 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
