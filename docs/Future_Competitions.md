@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 00:00:14 (UTC)
+Last refreshed: 2019-11-28 03:00:12 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -371,6 +371,7 @@ Last refreshed: 2019-11-28 00:00:14 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011YOSH01">Ryohei Yoshioka (吉岡亮平)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010HAMA03">Ryuji Hamano (浜野竜二)</a>, Japan<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017TAKA02">Takashi Takaoka (高岡孝)</a>, Japan, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012HAMA02">Yuichi Hamada (濵田祐一)</a>, Japan
   </p>
