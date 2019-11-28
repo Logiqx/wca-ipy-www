@@ -2,7 +2,7 @@
 ## Representative Over 40s Rankings
 
 ### IMPORTANT
-**This page has been superseded by the [Indicative Over 40s Rankings](Indicative_Rankings.md)**
+**This page has been superseded by the [Indicative Over 40s Rankings](Indicative_Rankings_40.md)**
 
 **Please view the "Indicate Rankings" using the link above.**
 
@@ -18,7 +18,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 10:41:03 (UTC)
+Last refreshed: 2019-11-28 16:55:30 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
