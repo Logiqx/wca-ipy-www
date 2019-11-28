@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 06:00:13 (UTC)
+Last refreshed: 2019-11-28 09:00:08 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -358,6 +358,7 @@ Last refreshed: 2019-11-28 06:00:13 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CubingKorea2019">Cubing Korea 2019</a> - 서울특별시 (Seoul), Republic of Korea - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
