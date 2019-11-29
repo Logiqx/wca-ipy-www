@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 21:00:15 (UTC)
+Last refreshed: 2019-11-29 00:00:13 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -24,6 +24,13 @@ Last refreshed: 2019-11-28 21:00:15 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CuscoSpeedcubingIII2019">Cusco Speedcubing III 2019</a> - Cusco, Peru - Nov 30, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016CORD01">Alejandro Cuadros Cordero</a>, Peru
   </p>
 </details>
 
