@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-28 15:00:12 (UTC)
+Last refreshed: 2019-11-30 12:00:12 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -24,6 +24,13 @@ Last refreshed: 2019-11-28 15:00:12 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BORR02">Jordi Borrell</a>, Spain
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CuscoSpeedcubingIII2019">Cusco Speedcubing III 2019</a> - Cusco, Peru - Nov 30, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016CORD01">Alejandro Cuadros Cordero</a>, Peru
   </p>
 </details>
 
@@ -73,6 +80,13 @@ Last refreshed: 2019-11-28 15:00:12 (UTC)
 </details>
 
 <h3>Dec 9, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019">Santa Claus Cube Race Poland 2019</a> - Będzin, Poland - Dec 6 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014JANE01">Piotr Janecki</a>, Poland
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DarwinOpen2019">Darwin Open 2019</a> - Darwin, Northern Territory, Australia - Dec 7, 2019</summary>
@@ -400,6 +414,13 @@ Last refreshed: 2019-11-28 15:00:12 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020">Södertälje New Year 2020</a> - Södertälje, Sweden - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020">Swisscubing Cup I 2020</a> - Sonvico, Switzerland - Jan 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
   </p>
 </details>
 
