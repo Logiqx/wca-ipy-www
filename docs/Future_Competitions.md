@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-30 00:00:07 (UTC)
+Last refreshed: 2019-11-30 03:00:09 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -80,6 +80,13 @@ Last refreshed: 2019-11-30 00:00:07 (UTC)
 </details>
 
 <h3>Dec 9, 2019</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019">Santa Claus Cube Race Poland 2019</a> - Będzin, Poland - Dec 6 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014JANE01">Piotr Janecki</a>, Poland
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DarwinOpen2019">Darwin Open 2019</a> - Darwin, Northern Territory, Australia - Dec 7, 2019</summary>
