@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-11-30 10:52:38",
+"refreshed": "2019-11-30 10:58:04",
 "events": [
 {
 "id": "333",
@@ -77,6 +77,11 @@ rankings =
 "rank": 20,
 "id": "2005KOSE01",
 "best": "15.60"
+},
+{
+"rank": 21,
+"id": "2014GOME07",
+"best": "15.63"
 },
 {
 "rank": 24,
@@ -2598,6 +2603,11 @@ rankings =
 "best": "6.53"
 },
 {
+"rank": 44,
+"id": "2014GOME07",
+"best": "6.54"
+},
+{
 "rank": 45,
 "id": "2014PACE01",
 "best": "6.59"
@@ -4048,6 +4058,11 @@ rankings =
 "best": "58.92"
 },
 {
+"rank": 8,
+"id": "2014GOME07",
+"best": "1:00.10"
+},
+{
 "rank": 9,
 "id": "2013LKHA01",
 "best": "1:00.69"
@@ -4811,6 +4826,11 @@ rankings =
 "rank": 10,
 "id": "2010STAS01",
 "best": "1:55.69"
+},
+{
+"rank": 11,
+"id": "2014GOME07",
+"best": "1:59.24"
 },
 {
 "rank": 12,
@@ -6819,6 +6839,11 @@ rankings =
 "age": 50
 },
 {
+"rank": 26,
+"id": "2014GOME07",
+"best": "15.89"
+},
+{
 "rank": 28,
 "id": "2017KITA01",
 "best": "17.44"
@@ -7187,6 +7212,11 @@ rankings =
 "best": "2:28.80"
 },
 {
+"rank": 16,
+"id": "2014GOME07",
+"best": "2:29.44"
+},
+{
 "rank": 17,
 "id": "2015NICH04",
 "best": "2:33.39"
@@ -7483,6 +7513,11 @@ rankings =
 "rank": 46,
 "id": "2017KITA01",
 "best": "10.27"
+},
+{
+"rank": 48,
+"id": "2014GOME07",
+"best": "10.43"
 },
 {
 "rank": 49,
@@ -8323,6 +8358,11 @@ rankings =
 "best": "9.06"
 },
 {
+"rank": 9,
+"id": "2014GOME07",
+"best": "9.13"
+},
+{
 "rank": 10,
 "id": "2005PARI01",
 "best": "9.15"
@@ -8888,6 +8928,11 @@ rankings =
 "rank": 3,
 "id": "2008LIDS01",
 "best": "20.45"
+},
+{
+"rank": 4,
+"id": "2014GOME07",
+"best": "22.95"
 },
 {
 "rank": 5,
@@ -12121,6 +12166,25 @@ rankings =
 "events": [
 "333",
 "pyram"
+]
+},
+{
+"id": "2014GOME07",
+"name": "António Gomes",
+"country": "PT",
+"username": "cubizh",
+"usernum": 14201,
+"age": 40,
+"events": [
+"333",
+"222",
+"444",
+"555",
+"clock",
+"minx",
+"pyram",
+"skewb",
+"sq1"
 ]
 },
 {
@@ -15645,6 +15709,7 @@ rankings =
 "name": "Portugal",
 "continent": "Europe",
 "persons": [
+"2014GOME07",
 "2017MENE02"
 ]
 },
