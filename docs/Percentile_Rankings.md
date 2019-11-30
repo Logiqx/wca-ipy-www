@@ -11,7 +11,7 @@ Notes:
 - "Senior" columns relate to all of the over 40s, based on their age at the start of the competition.
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-11-29 04:13:56 (UTC)
+Last refreshed: 2019-11-30 04:14:04 (UTC)
 
 <h2 id="averages">Official Averages</h2>
 
@@ -1544,9 +1544,9 @@ Last refreshed: 2019-11-29 04:13:56 (UTC)
     <tr><td style="text-align:right">5</td><td style="text-align:right">3</td><td style="text-align:right">3</td><td style="text-align:right">0.055</td><td style="text-align:right">0</td><td style="text-align:right">0</td><td style="text-align:right">0.000</td></tr>
     <tr><td style="text-align:right">6</td><td style="text-align:right">23</td><td style="text-align:right">26</td><td style="text-align:right">0.478</td><td style="text-align:right">0</td><td style="text-align:right">0</td><td style="text-align:right">0.000</td></tr>
     <tr><td style="text-align:right">7</td><td style="text-align:right">51</td><td style="text-align:right">77</td><td style="text-align:right">1.415</td><td style="text-align:right">1</td><td style="text-align:right">1</td><td style="text-align:right">1.031</td></tr>
-    <tr><td style="text-align:right">8</td><td style="text-align:right">121</td><td style="text-align:right">198</td><td style="text-align:right">3.638</td><td style="text-align:right">1</td><td style="text-align:right">2</td><td style="text-align:right">2.062</td></tr>
-    <tr><td style="text-align:right">9</td><td style="text-align:right">134</td><td style="text-align:right">332</td><td style="text-align:right">6.100</td><td style="text-align:right">3</td><td style="text-align:right">5</td><td style="text-align:right">5.155</td></tr>
-    <tr><td style="text-align:right">10</td><td style="text-align:right">201</td><td style="text-align:right">533</td><td style="text-align:right">9.792</td><td style="text-align:right">2</td><td style="text-align:right">7</td><td style="text-align:right">7.216</td></tr>
+    <tr><td style="text-align:right">8</td><td style="text-align:right">120</td><td style="text-align:right">197</td><td style="text-align:right">3.619</td><td style="text-align:right">1</td><td style="text-align:right">2</td><td style="text-align:right">2.062</td></tr>
+    <tr><td style="text-align:right">9</td><td style="text-align:right">134</td><td style="text-align:right">331</td><td style="text-align:right">6.081</td><td style="text-align:right">3</td><td style="text-align:right">5</td><td style="text-align:right">5.155</td></tr>
+    <tr><td style="text-align:right">10</td><td style="text-align:right">202</td><td style="text-align:right">533</td><td style="text-align:right">9.792</td><td style="text-align:right">2</td><td style="text-align:right">7</td><td style="text-align:right">7.216</td></tr>
     <tr><td style="text-align:right">11</td><td style="text-align:right">222</td><td style="text-align:right">755</td><td style="text-align:right">13.871</td><td style="text-align:right">3</td><td style="text-align:right">10</td><td style="text-align:right">10.309</td></tr>
     <tr><td style="text-align:right">12</td><td style="text-align:right">235</td><td style="text-align:right">990</td><td style="text-align:right">18.188</td><td style="text-align:right">1</td><td style="text-align:right">11</td><td style="text-align:right">11.340</td></tr>
     <tr><td style="text-align:right">13</td><td style="text-align:right">255</td><td style="text-align:right">1245</td><td style="text-align:right">22.873</td><td style="text-align:right">4</td><td style="text-align:right">15</td><td style="text-align:right">15.464</td></tr>
