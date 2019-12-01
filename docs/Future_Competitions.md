@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-01 12:00:12 (UTC)
+Last refreshed: 2019-12-01 15:00:07 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -320,6 +320,13 @@ Last refreshed: 2019-12-01 12:00:12 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/2FeetofSnowinMontreal2019">2 Feet of Snow in Montreal 2019</a> - Montréal, Quebec, Canada - Dec 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada
   </p>
 </details>
 
