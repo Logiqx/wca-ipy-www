@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-01 00:00:09 (UTC)
+Last refreshed: 2019-12-01 03:00:12 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -404,9 +404,23 @@ Last refreshed: 2019-12-01 00:00:09 (UTC)
 <h3>Jan 6, 2020</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Oklahoma2020">Oklahoma 2020</a> - Ardmore, Oklahoma, United States - Dec 31, 2019 - Jan 1, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020">DFW NxN Winter 2020</a> - Cleburne, Texas, United States - Jan 4, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
@@ -461,6 +475,13 @@ Last refreshed: 2019-12-01 00:00:09 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PleaseBeQuietFrisco2020">Please Be Quiet Frisco 2020</a> - Frisco, Texas, United States - Jan 11 - 12, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
@@ -538,6 +559,15 @@ Last refreshed: 2019-12-01 00:00:09 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017PHIL09">Guillaume Philippot</a>, France<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France
+  </p>
+</details>
+
+<h3>Feb 24, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/TrinityValleySpring2020">Trinity Valley Spring 2020</a> - Fort Worth, Texas, United States - Feb 22, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
