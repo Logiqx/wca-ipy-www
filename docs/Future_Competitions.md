@@ -7,66 +7,18 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-02 03:00:28 (UTC)
-
-<h3>Dec 2, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019">Campeonato Brasileiro 2019</a> - Criciúma, Santa Catarina, Brazil - Nov 29 - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016PINT04">Ana Lúcia Pintro</a>, Brazil<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BasauriOpen2019">Basauri Open 2019</a> - Basauri, Bilbao, Spain - Nov 30 - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2006SANT01">Javier Santos</a>, Spain, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BremiumWinter2019">Bremium Winter 2019</a> - Bremen, Germany - Nov 30 - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/KjellerMentalBreakdown2019">Kjeller Mental Breakdown 2019</a> - Kjeller, Norway - Nov 30 - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016AMBE02">Dieter Amberger</a>, Austria<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2013ANDE01">Peter Andersson</a>, Sweden, 50+ - <a href="https://www.speedsolving.com/members/peter-andersson.21285">Peter Andersson</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2019">Melbourne Cube Days 2019</a> - Melbourne, Victoria, Australia - Nov 30 - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/LovechWinter2019">Lovech Winter 2019</a> - Lovech, Bulgaria - Dec 1, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2012PETR01">Nikolai Petrov</a>, Bulgaria - <a href="https://www.speedsolving.com/members/niki_petrov.1819">Niki_Petrov</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015DULE03">Tihomir Dulev</a>, Bulgaria
-  </p>
-</details>
+Last refreshed: 2019-12-02 04:13:50 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019">Santa Claus Cube Race Poland 2019</a> - Będzin, Poland - Dec 6 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014JANE01">Piotr Janecki</a>, Poland
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DarwinOpen2019">Darwin Open 2019</a> - Darwin, Northern Territory, Australia - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia<br/>
@@ -74,7 +26,7 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAsia2019">FMC Asia 2019</a> - Multiple cities (see website), Multiple Countries (Asia) - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com<br/>
@@ -84,7 +36,7 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PugetSoundNxNxN2019">Puget Sound NxNxN 2019</a> - Tacoma, Washington, United States - Dec 7, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
@@ -93,28 +45,28 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CapivaraSunset2019">Capivara Sunset 2019</a> - Curitiba, Paraná, Brazil - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FrankivskOpen2019">Frankivsk Open 2019</a> - Ivano-Frankivsk, Ukraine - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019">Nacionales Argentinas 2019</a> - Villa Carlos Paz, Córdoba, Argentina - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017ROSS10">Javier Agustín Rossi</a>, Argentina, 50+
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PahangCubeOpen2019">Pahang Cube Open 2019</a> - Kuantan, Pahang, Malaysia - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
@@ -122,14 +74,14 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PittsburghFall2019">Pittsburgh Fall 2019</a> - Pittsburgh, Pennsylvania, United States - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010COAT01">Teller Coates</a>, United States - <a href="https://www.speedsolving.com/members/teller.3053">teller</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SSLFinalStockholm2019">SSL Final Stockholm 2019</a> - Stockholm, Sweden - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017THOR05">Jennifer Thorsen</a>, Sweden<br/>
@@ -141,7 +93,7 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupFinal2019">Swisscubing Cup Final 2019</a> - Hünenberg, Switzerland - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
@@ -149,7 +101,7 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/RijswijkOpen2019">Rijswijk Open 2019</a> - Rijswijk, Netherlands - Dec 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
@@ -161,7 +113,7 @@ Last refreshed: 2019-12-02 03:00:28 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/UralLight2019">Ural Light 2019</a> - Chelyabinsk, Russia - Dec 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
