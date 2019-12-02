@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-02 18:00:13 (UTC)
+Last refreshed: 2019-12-02 21:00:16 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -98,6 +98,13 @@ Last refreshed: 2019-12-02 18:00:13 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018DITT03">Thomas Ditton</a>, Switzerland
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/UgineJeuetJouet2019">Ugine Jeu et Jouet 2019</a> - Ugine, France - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015LIMA20">Didier Limal</a>, France, 60+
   </p>
 </details>
 
@@ -492,6 +499,16 @@ Last refreshed: 2019-12-02 18:00:13 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020">Downtown Vancouver Winter 2020</a> - Vancouver, British Columbia, Canada - Feb 8, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FontwellOpen2020">Fontwell Open 2020</a> - Fontwell, West Sussex, United Kingdom - Feb 8 - 9, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
 
