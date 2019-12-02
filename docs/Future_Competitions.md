@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-02 00:00:12 (UTC)
+Last refreshed: 2019-12-02 03:00:28 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -104,6 +104,13 @@ Last refreshed: 2019-12-02 00:00:12 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FrankivskOpen2019">Frankivsk Open 2019</a> - Ivano-Frankivsk, Ukraine - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019">Nacionales Argentinas 2019</a> - Villa Carlos Paz, Córdoba, Argentina - Dec 7 - 8, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017ROSS10">Javier Agustín Rossi</a>, Argentina, 50+
   </p>
 </details>
 
