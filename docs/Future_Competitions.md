@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-01 18:00:09 (UTC)
+Last refreshed: 2019-12-02 00:00:12 (UTC)
 
 <h3>Dec 2, 2019</h3>
 
@@ -104,13 +104,6 @@ Last refreshed: 2019-12-01 18:00:09 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FrankivskOpen2019">Frankivsk Open 2019</a> - Ivano-Frankivsk, Ukraine - Dec 7 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/NacionalesArgentinas2019">Nacionales Argentinas 2019</a> - Villa Carlos Paz, Córdoba, Argentina - Dec 7 - 8, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017ROSS10">Javier Agustín Rossi</a>, Argentina, 50+
   </p>
 </details>
 
@@ -559,7 +552,8 @@ Last refreshed: 2019-12-01 18:00:09 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TrinityValleySpring2020">Trinity Valley Spring 2020</a> - Fort Worth, Texas, United States - Feb 22, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
   </p>
 </details>
 
@@ -569,6 +563,13 @@ Last refreshed: 2019-12-01 18:00:09 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CubeDayMacomb2020">Cube Day Macomb 2020</a> - Clinton Township, Michigan, United States - Apr 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KOLC04">Wally Kolcz</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ChanqueteOpen2020">Chanquete Open 2020</a> - Nerja, Málaga, Spain - Apr 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
   </p>
 </details>
 
