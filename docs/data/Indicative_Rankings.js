@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-02 04:13:50",
+"refreshed": "2019-12-03 04:14:12",
 "events": [
 {
 "id": "333",
@@ -566,81 +566,81 @@ rankings =
 "best": "22.07"
 },
 {
-"rank": 207,
+"rank": 204,
+"id": "2016BORR02",
+"best": "22.19"
+},
+{
+"rank": 208,
 "id": "2014HARD01",
 "best": "22.37"
 },
 {
-"rank": 208,
+"rank": 209,
 "id": "2017KITA01",
 "best": "22.39"
 },
 {
-"rank": 208,
+"rank": 209,
 "id": "2016LECO01",
 "best": "22.39"
 },
 {
-"rank": 211,
+"rank": 212,
 "id": "2006ALBA01",
 "best": "22.46"
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2009ZHAN33",
 "best": "22.47",
 "age": 50
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2014NIET01",
 "best": "22.48"
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "2017WILK03",
 "best": "22.49"
 },
 {
-"rank": 215,
+"rank": 216,
 "id": "2004ZIJD01",
 "best": "22.50",
 "age": 50
 },
 {
-"rank": 216,
+"rank": 217,
 "id": "2011LUCI01",
 "best": "22.51"
 },
 {
-"rank": 217,
+"rank": 218,
 "id": "2003GOLJ01",
 "best": "22.52"
 },
 {
-"rank": 219,
+"rank": 220,
 "id": "2015PARK24",
 "best": "22.57"
 },
 {
-"rank": 219,
+"rank": 220,
 "id": "2008MATS04",
 "best": "22.57"
 },
 {
-"rank": 221,
+"rank": 222,
 "id": "2016MUTH05",
 "best": "22.63"
 },
 {
-"rank": 223,
+"rank": 224,
 "id": "1982FRID01",
 "best": "22.66"
-},
-{
-"rank": 224,
-"id": "2016BORR02",
-"best": "22.70"
 },
 {
 "rank": 233,
@@ -968,74 +968,74 @@ rankings =
 "age": 50
 },
 {
-"rank": 387,
+"rank": 388,
 "id": "2010WENS01",
 "best": "28.09"
 },
 {
-"rank": 390,
+"rank": 391,
 "id": "2017ARQU01",
 "best": "28.23"
 },
 {
-"rank": 391,
+"rank": 392,
 "id": "2016YEUN02",
 "best": "28.24"
 },
 {
-"rank": 394,
+"rank": 395,
 "id": "2018KRZY01",
 "best": "28.37"
 },
 {
-"rank": 396,
+"rank": 397,
 "id": "2018PRAT13",
 "best": "28.42"
 },
 {
-"rank": 397,
+"rank": 398,
 "id": "2004CONN01",
 "best": "28.44"
 },
 {
-"rank": 402,
+"rank": 403,
 "id": "2015ADAM03",
 "best": "28.59"
 },
 {
-"rank": 405,
+"rank": 406,
 "id": "2009ZBIE01",
 "best": "28.66"
 },
 {
-"rank": 409,
+"rank": 410,
 "id": "2013HUBH01",
 "best": "28.79",
 "age": 50
 },
 {
-"rank": 411,
+"rank": 412,
 "id": "2017ISSL02",
 "best": "28.81"
 },
 {
-"rank": 412,
+"rank": 413,
 "id": "2007BERR01",
 "best": "28.82",
 "age": 50
 },
 {
-"rank": 415,
+"rank": 416,
 "id": "2009COST02",
 "best": "28.95"
 },
 {
-"rank": 417,
+"rank": 418,
 "id": "2008CIRN01",
 "best": "28.98"
 },
 {
-"rank": 418,
+"rank": 419,
 "id": "2013MESZ01",
 "best": "28.99"
 },
