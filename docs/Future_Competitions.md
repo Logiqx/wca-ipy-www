@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-03 12:00:13 (UTC)
+Last refreshed: 2019-12-04 15:00:14 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -464,6 +464,13 @@ Last refreshed: 2019-12-03 12:00:13 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015TAYL04">Richard Taylor</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/r-c-a-d.32674">r c a d</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/MinxCOpenhagen2020">Minx C-Open-hagen 2020</a> - Kastrup, Denmark - Jan 18 - 19, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
   </p>
 </details>
 

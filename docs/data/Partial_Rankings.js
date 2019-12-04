@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-03 04:14:13",
+"refreshed": "2019-12-04 04:14:11",
 "events": [
 {
 "id": "333",
@@ -7673,44 +7673,44 @@ rankings =
 },
 {
 "rank": 92,
+"id": "2012PETR01",
+"best": "8.67"
+},
+{
+"rank": 93,
 "id": "2011DUAR02",
 "best": "8.70"
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2010WENS01",
 "best": "8.71"
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2009KOTT01",
 "best": "8.73"
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2014RIEM01",
 "best": "8.76"
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2007FEKE01",
 "best": "8.76"
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2012DESO02",
 "best": "8.78"
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2018SACH03",
 "best": "8.79",
 "age": 50
-},
-{
-"rank": 99,
-"id": "2012PETR01",
-"best": "8.81"
 },
 {
 "rank": 100,
@@ -8440,23 +8440,23 @@ rankings =
 },
 {
 "rank": 239,
+"id": "2015DULE03",
+"best": "17.89"
+},
+{
+"rank": 240,
 "id": "2017MENE02",
 "best": "18.02"
 },
 {
-"rank": 240,
+"rank": 241,
 "id": "2014CURR01",
 "best": "18.09"
 },
 {
-"rank": 241,
+"rank": 242,
 "id": "2016BALA16",
 "best": "18.10"
-},
-{
-"rank": 242,
-"id": "2015DULE03",
-"best": "18.48"
 },
 {
 "rank": 243,
@@ -20392,20 +20392,20 @@ rankings =
 },
 {
 "rank": 67,
+"id": "2012PETR01",
+"best": "48.66"
+},
+{
+"rank": 68,
 "id": "2017CREA01",
 "best": "49.85",
 "age": 50
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2007DOUT01",
 "best": "1:04.01",
 "age": 50
-},
-{
-"rank": 69,
-"id": "2012PETR01",
-"best": "1:06.06"
 },
 {
 "rank": 70,
@@ -20834,62 +20834,62 @@ rankings =
 },
 {
 "rank": 77,
+"id": "2012PETR01",
+"best": "41.01"
+},
+{
+"rank": 78,
 "id": "2017CREA01",
 "best": "42.12",
 "age": 50
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2013MORA02",
 "best": "42.52"
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2017TABA02",
 "best": "45.12"
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2005KOCZ01",
 "best": "47.08"
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2010HEIL02",
 "best": "48.69"
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2018GRAG01",
 "best": "49.62"
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2007DOUT01",
 "best": "50.00",
 "age": 50
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2019KUCA01",
 "best": "51.91",
 "age": 50
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2018COOK04",
 "best": "54.98",
 "age": 50
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2016LASC01",
 "best": "55.03"
-},
-{
-"rank": 87,
-"id": "2012PETR01",
-"best": "1:00.38"
 },
 {
 "rank": 88,
@@ -22975,103 +22975,103 @@ rankings =
 },
 {
 "rank": 18,
+"id": "2016CORD01",
+"best": "5.39"
+},
+{
+"rank": 19,
 "id": "2010HAMA03",
 "best": "5.47"
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2017KITA01",
 "best": "5.60"
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2005KOSE01",
 "best": "5.89"
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2006GALE01",
 "best": "6.01"
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2005KURO02",
 "best": "6.06"
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2015RETT02",
 "best": "6.15"
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2010SOHT01",
 "best": "6.20"
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2008LIDS01",
 "best": "6.40"
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2011YOSH01",
 "best": "6.41"
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2014COXN01",
 "best": "6.44"
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2014MOCH01",
 "best": "6.46"
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2009ZBIE01",
 "best": "6.55"
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2018BART01",
 "best": "6.72"
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2017FREG01",
 "best": "6.85"
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2012PLAC01",
 "best": "6.87"
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2014FRON02",
 "best": "6.98"
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2015HARR03",
 "best": "7.03"
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2008MATS04",
 "best": "7.05"
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2010FEUE02",
 "best": "7.08"
-},
-{
-"rank": 37,
-"id": "2016CORD01",
-"best": "7.22"
 },
 {
 "rank": 38,
@@ -25425,13 +25425,13 @@ rankings =
 },
 {
 "rank": 64,
-"id": "2015LOPE29",
-"best": "12.40"
+"id": "2015DULE03",
+"best": "12.39"
 },
 {
 "rank": 65,
-"id": "2015DULE03",
-"best": "12.42"
+"id": "2015LOPE29",
+"best": "12.40"
 },
 {
 "rank": 66,

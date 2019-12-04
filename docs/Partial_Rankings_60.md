@@ -3,13 +3,13 @@
 
 These are unofficial rankings for the senior cubing community produced from official WCA competition results.
 
-The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](README.md).
+The list of names is not yet complete. If you would like your name to be added then please contact me as described on the [front page](/wca-ipy/).
 
 A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=Over%2060s%20-%20Official%20PRs&wcaids=2003WESS01,2004MCGA01,2004SALV01,2005FARK01,2005TOMO01,2006BERG01,2006OOMS01,2007PREU01,2008BERG04,2008CHEN12,2008HOPJ01,2008JINZ01,2008TOMO01,2009AOKI01,2009AZHA01,2009ELSO01,2009ESPU01,2009HEND01,2009LIXI05,2009NEEL01,2009SING03,2009ZHUH01,2010ESTE02,2010WANG33,2011MICH01,2011MICH02,2011SEOK01,2011YANG13,2012BOWE01,2012KREI01,2012SING03,2013COLL02,2015LEVI01,2015LIMA20,2016KLEI01,2016SIVA04,2017KUMI01,2018DOYL02,2018FOLE03,2018PARI11,2019GOFF01) listing personal records is also available but it does not factor in age at the time of the result(s).
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-03 04:14:13 (UTC)
+Last refreshed: 2019-12-04 04:14:11 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
