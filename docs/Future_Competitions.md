@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-04 18:00:11 (UTC)
+Last refreshed: 2019-12-04 21:00:13 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -281,6 +281,13 @@ Last refreshed: 2019-12-04 18:00:11 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/LaSillaII2019">La Silla II 2019</a> - Santa Catarina, Mexico - Dec 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2011SALA06">José Adrian Jaquez Salazar</a>, Mexico, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019">Medan 10th Anniversary 2019</a> - Medan, North Sumatra, Indonesia - Dec 21 - 22, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
@@ -379,6 +386,17 @@ Last refreshed: 2019-12-04 18:00:11 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020">Södertälje New Year 2020</a> - Södertälje, Sweden - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HappyNewYearCubingHoorn2020">Happy New Year Cubing Hoorn 2020</a> - Hoorn, Netherlands - Jan 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
   </p>
 </details>
 
@@ -487,6 +505,7 @@ Last refreshed: 2019-12-04 18:00:11 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/WashingtonChampionship2020">Washington Championship 2020</a> - Tacoma, Washington, United States - Jan 24 - 26, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
