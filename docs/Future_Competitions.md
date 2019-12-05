@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-04 21:00:13 (UTC)
+Last refreshed: 2019-12-05 00:00:12 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -392,6 +392,7 @@ Last refreshed: 2019-12-04 21:00:13 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HappyNewYearCubingHoorn2020">Happy New Year Cubing Hoorn 2020</a> - Hoorn, Netherlands - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018BENN01">Hans Bennis</a>, Netherlands, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016FRIS02">Roland Frisch</a>, Germany, 50+ - <a href="https://www.speedsolving.com/members/freshcuber-de.48466">freshcuber.de</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
