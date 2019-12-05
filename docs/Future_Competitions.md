@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-05 06:00:13 (UTC)
+Last refreshed: 2019-12-05 09:00:14 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -213,6 +213,7 @@ Last refreshed: 2019-12-05 06:00:13 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TapiolaWinterOpen2019">Tapiola Winter Open 2019</a> - Espoo, Finland - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015HEIK01">Jari Heikkinen</a>, Finland<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
   </p>
 </details>
@@ -536,6 +537,7 @@ Last refreshed: 2019-12-05 06:00:13 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2011WRIG01">Chris Wright</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/selkie.11318">Selkie</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
   </p>
 </details>
