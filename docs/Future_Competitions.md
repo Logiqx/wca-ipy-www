@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-05 18:00:19 (UTC)
+Last refreshed: 2019-12-05 21:00:26 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -539,6 +539,13 @@ Last refreshed: 2019-12-05 18:00:19 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015GEOR02">Michael George</a>, United Kingdom - <a href="https://www.speedsolving.com/members/logiqx.17180">Logiqx</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017MAHI02">Rajinder Mahi</a>, United Kingdom, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SALM01">Stuart Salmon</a>, United Kingdom
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DSFGeneralforsamlingen2020">DSF Generalforsamlingen 2020</a> - Odense, Denmark - Feb 9, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
   </p>
 </details>
 
