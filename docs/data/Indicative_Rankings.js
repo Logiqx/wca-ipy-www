@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-05 11:53:04",
+"refreshed": "2019-12-06 04:13:54",
 "events": [
 {
 "id": "333",
@@ -1483,138 +1483,138 @@ rankings =
 "age": 50
 },
 {
-"rank": 682,
+"rank": 683,
 "id": "2019GOOR01",
 "best": "40.25"
 },
 {
-"rank": 685,
+"rank": 686,
 "id": "2004LUIS03",
 "best": "40.54",
 "age": 50
 },
 {
-"rank": 687,
+"rank": 688,
 "id": "2012KREI01",
 "best": "40.60",
 "age": 60
 },
 {
-"rank": 688,
+"rank": 689,
 "id": "2018TURN03",
 "best": "40.61"
 },
 {
-"rank": 695,
+"rank": 696,
 "id": "2003WESS01",
 "best": "41.14",
 "age": 80
 },
 {
-"rank": 706,
+"rank": 707,
 "id": "2016BALA16",
 "best": "41.71"
 },
 {
-"rank": 710,
+"rank": 711,
 "id": "2011SALA06",
 "best": "41.85",
 "age": 50
 },
 {
-"rank": 713,
+"rank": 714,
 "id": "2005FARK01",
 "best": "41.97",
 "age": 60
 },
 {
-"rank": 717,
+"rank": 718,
 "id": "2018MALA01",
 "best": "42.33"
 },
 {
-"rank": 719,
+"rank": 720,
 "id": "2014ARRE03",
 "best": "42.40"
 },
 {
-"rank": 723,
+"rank": 724,
 "id": "2004SALV01",
 "best": "42.61",
 "age": 70
 },
 {
-"rank": 726,
+"rank": 727,
 "id": "2017SZAN01",
 "best": "42.64"
 },
 {
-"rank": 729,
+"rank": 730,
 "id": "2016GOSL01",
 "best": "42.88"
 },
 {
-"rank": 731,
+"rank": 732,
 "id": "2015JOIN02",
 "best": "43.01"
 },
 {
-"rank": 732,
+"rank": 733,
 "id": "2009OKED01",
 "best": "43.04",
 "age": 50
 },
 {
-"rank": 735,
+"rank": 736,
 "id": "2018PARI11",
 "best": "43.18",
 "age": 60
 },
 {
-"rank": 738,
+"rank": 739,
 "id": "2016CARD19",
 "best": "43.24",
 "age": 50
 },
 {
-"rank": 744,
+"rank": 745,
 "id": "2012MANS04",
 "best": "43.80"
 },
 {
-"rank": 745,
+"rank": 746,
 "id": "2017SHEA01",
 "best": "43.91"
 },
 {
-"rank": 751,
+"rank": 752,
 "id": "2006MIZO01",
 "best": "44.16"
 },
 {
-"rank": 752,
+"rank": 753,
 "id": "2018SEMO01",
 "best": "44.20"
 },
 {
-"rank": 762,
+"rank": 763,
 "id": "2015BEUK01",
 "best": "45.12"
 },
 {
-"rank": 765,
+"rank": 766,
 "id": "2018COOK04",
 "best": "45.25",
 "age": 50
 },
 {
-"rank": 767,
+"rank": 768,
 "id": "2015HAGE04",
 "best": "45.45",
 "age": 50
 },
 {
-"rank": 770,
+"rank": 771,
 "id": "2015RETT02",
 "best": "45.63"
 },
