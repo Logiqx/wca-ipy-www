@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-05 21:00:26 (UTC)
+Last refreshed: 2019-12-06 00:00:13 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -221,7 +221,8 @@ Last refreshed: 2019-12-05 21:00:26 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TCGSpring2019">TCG Spring 2019</a> - Arequipa, Peru - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015REGE02">Cesar Rodriguez Regente</a>, Peru
+    - <a href="https://www.worldcubeassociation.org/persons/2015REGE02">Cesar Rodriguez Regente</a>, Peru<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2011RIGG03">Natán Riggenbach</a>, Peru - <a href="https://www.speedsolving.com/members/natanrig.15174">Natanrig</a> on Speedsolving.com
   </p>
 </details>
 
