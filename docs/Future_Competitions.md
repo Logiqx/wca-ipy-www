@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-07 13:29:21 (UTC)
+Last refreshed: 2019-12-07 13:35:49 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -32,6 +32,7 @@ Last refreshed: 2019-12-07 13:29:21 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016UMET02">Satoru Umetsu (梅津諭)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2014ISHI01">Toshiaki Ishikura (石倉寿秋)</a>, Japan<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
 </details>
@@ -447,6 +448,7 @@ Last refreshed: 2019-12-07 13:29:21 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/NorthsideCubeDays2020">Northside Cube Days 2020</a> - Brisbane, Queensland, Australia - Jan 11 - 12, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017WEST02">Lucien West</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
   </p>
 </details>
