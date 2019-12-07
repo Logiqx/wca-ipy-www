@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-06 09:00:11 (UTC)
+Last refreshed: 2019-12-07 12:00:17 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -299,9 +299,17 @@ Last refreshed: 2019-12-06 09:00:11 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Wiscube2019">Wiscube 2019</a> - Madison, Wisconsin, United States - Dec 21 - 22, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/2FeetofSnowinMontreal2019">2 Feet of Snow in Montreal 2019</a> - Montréal, Quebec, Canada - Dec 22, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada
+    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
   </p>
 </details>
 
@@ -381,13 +389,6 @@ Last refreshed: 2019-12-06 09:00:11 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020">DFW NxN Winter 2020</a> - Cleburne, Texas, United States - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SodertaljeNewYear2020">Södertälje New Year 2020</a> - Södertälje, Sweden - Jan 4, 2020</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden, 60+ - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
   </p>
 </details>
 
@@ -472,6 +473,13 @@ Last refreshed: 2019-12-06 09:00:11 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2011BOIS01">Thierry Boisivon</a>, France
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/EkaCubeWinter2020">Eka Cube Winter 2020</a> - Yekaterinburg, Russia - Jan 18 - 19, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2010STAS01">Vasily Stasyev</a>, Russia
   </p>
 </details>
 
