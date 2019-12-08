@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-08 18:00:01 (UTC)
+Last refreshed: 2019-12-08 21:00:01 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -332,6 +332,13 @@ Last refreshed: 2019-12-08 18:00:01 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2019">Portland in a Pyra Tree 2019</a> - Portland, Oregon, United States - Dec 28, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
@@ -422,6 +429,13 @@ Last refreshed: 2019-12-08 18:00:01 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ElisaKulmaOpen2020">Elisa Kulma Open 2020</a> - Helsinki, Finland - Jan 11 - 12, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/NorthsideCubeDays2020">Northside Cube Days 2020</a> - Brisbane, Queensland, Australia - Jan 11 - 12, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019BOWE05">Jason Bowes</a>, Australia<br/>
@@ -498,6 +512,13 @@ Last refreshed: 2019-12-08 18:00:01 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018PRAT13">James Pratt</a>, United Kingdom - <a href="https://www.speedsolving.com/members/soyale.47560">Soyale</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HelsinkiWinterSpecial2020">Helsinki Winter Special 2020</a> - Helsinki, Finland - Jan 25, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
   </p>
 </details>
 
