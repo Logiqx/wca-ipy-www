@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-08 03:00:01 (UTC)
+Last refreshed: 2019-12-08 04:13:33 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -15,34 +15,6 @@ Last refreshed: 2019-12-08 03:00:01 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019">Santa Claus Cube Race Poland 2019</a> - Będzin, Poland - Dec 6 - 8, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2014JANE01">Piotr Janecki</a>, Poland
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/DarwinOpen2019">Darwin Open 2019</a> - Darwin, Northern Territory, Australia - Dec 7, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FMCAsia2019">FMC Asia 2019</a> - Multiple cities (see website), Multiple Countries (Asia) - Dec 7, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2005KOSE01">Fumiki Koseki (古関章記)</a>, Japan - <a href="https://www.speedsolving.com/members/fumiki.5263">Fumiki</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016UMET02">Satoru Umetsu (梅津諭)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2012HINO01">Takeshi Hino (日野健志)</a>, Japan - <a href="https://www.speedsolving.com/members/sunfield.26577">sunfield</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2014ISHI01">Toshiaki Ishikura (石倉寿秋)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/PugetSoundNxNxN2019">Puget Sound NxNxN 2019</a> - Tacoma, Washington, United States - Dec 7, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018FENI01">Ashley Feniello</a>, United States<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
@@ -176,6 +148,14 @@ Last refreshed: 2019-12-08 03:00:01 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010PLAZ01">Pedro Plaza Saavedra</a>, Spain
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HobartHoedown2019">Hobart Hoedown 2019</a> - Hobart, Tasmania, Australia - Dec 14 - 15, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019ROCH03">Anthony Rochester</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
   </p>
 </details>
 
