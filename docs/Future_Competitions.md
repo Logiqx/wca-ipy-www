@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-08 00:00:05 (UTC)
+Last refreshed: 2019-12-08 03:00:01 (UTC)
 
 <h3>Dec 9, 2019</h3>
 
@@ -176,14 +176,6 @@ Last refreshed: 2019-12-08 00:00:05 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2004LUIS03">Pedro Luis Muñoz Yañez</a>, Spain, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010PLAZ01">Pedro Plaza Saavedra</a>, Spain
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/HobartHoedown2019">Hobart Hoedown 2019</a> - Hobart, Tasmania, Australia - Dec 14 - 15, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019ROCH03">Anthony Rochester</a>, Australia<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
   </p>
 </details>
 
