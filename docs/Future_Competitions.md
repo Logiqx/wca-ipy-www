@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-09 18:00:02 (UTC)
+Last refreshed: 2019-12-09 19:31:37 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -283,6 +283,7 @@ Last refreshed: 2019-12-09 18:00:02 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/GLSGdynia2020">GLS Gdynia 2020</a> - Gdynia, Poland - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2011ZAKR01">Ernest Zakrzewski</a>, Poland<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014PACE01">Grzegorz Pacewicz</a>, Poland - <a href="https://www.speedsolving.com/members/h2f.22236">h2f</a> on Speedsolving.com
   </p>
 </details>
