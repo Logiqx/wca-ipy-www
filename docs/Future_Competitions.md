@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-10 06:00:02 (UTC)
+Last refreshed: 2019-12-10 09:00:03 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -488,6 +488,13 @@ Last refreshed: 2019-12-10 06:00:02 (UTC)
 </details>
 
 <h3>Feb 24, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CentralWashingtonWinter2020">Central Washington Winter 2020</a> - Ellensburg, Washington, United States - Feb 22, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TrinityValleySpring2020">Trinity Valley Spring 2020</a> - Fort Worth, Texas, United States - Feb 22, 2020</summary>
