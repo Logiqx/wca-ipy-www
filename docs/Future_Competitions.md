@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-10 09:00:03 (UTC)
+Last refreshed: 2019-12-10 12:00:02 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -454,6 +454,13 @@ Last refreshed: 2019-12-10 09:00:03 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DowntownVancouverWinter2020">Downtown Vancouver Winter 2020</a> - Vancouver, British Columbia, Canada - Feb 8, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016COUL01">Michael Coulter</a>, Canada - <a href="https://www.speedsolving.com/members/defhacks.35522">defhacks</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PDXCubingforCauses2020">PDX Cubing for Causes 2020</a> - Portland, Oregon, United States - Feb 8, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+
   </p>
 </details>
 
