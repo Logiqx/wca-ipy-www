@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-10 21:00:07 (UTC)
+Last refreshed: 2019-12-11 00:00:08 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -245,6 +245,13 @@ Last refreshed: 2019-12-10 21:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2019">Portland in a Pyra Tree 2019</a> - Portland, Oregon, United States - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BrasiliaClosing2019">Brasília Closing 2019</a> - Brasília, Distrito Federal, Brazil - Dec 28 - 29, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
   </p>
 </details>
 
