@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-11 09:00:07 (UTC)
+Last refreshed: 2019-12-11 12:00:03 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -111,6 +111,8 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/TirolOpen2019">Tirol Open 2019</a> - Schwaz, Austria - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015FIEC01">Elmar Fiechter-Alber</a>, Austria, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2006PIRZ01">Markus Pirzer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016LASC01">Péter Laschek</a>, Hungary
   </p>
@@ -137,7 +139,8 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019">Bay Area Speedcubin' 22 2019</a> - Daly City, California, United States - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2012LUKE01">Kenneth Lu</a>, United States - <a href="https://www.speedsolving.com/members/toastyken.17487">ToastyKen</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2012LUKE01">Kenneth Lu</a>, United States - <a href="https://www.speedsolving.com/members/toastyken.17487">ToastyKen</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019VELL03">Meel Velliste</a>, United States
   </p>
 </details>
 
@@ -145,6 +148,7 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaX2019">Franconia X 2019</a> - Nürnberg, Germany - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
   </p>
 </details>
@@ -291,7 +295,8 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/GLSGdynia2020">GLS Gdynia 2020</a> - Gdynia, Poland - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2011ZAKR01">Ernest Zakrzewski</a>, Poland<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2014PACE01">Grzegorz Pacewicz</a>, Poland - <a href="https://www.speedsolving.com/members/h2f.22236">h2f</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2014PACE01">Grzegorz Pacewicz</a>, Poland - <a href="https://www.speedsolving.com/members/h2f.22236">h2f</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOD01">Jarosław Chodyniecki</a>, Poland
   </p>
 </details>
 
@@ -343,6 +348,7 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MoldovaOpen2020">Moldova Open 2020</a> - Chişinău, Moldova - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017GALA01">Adrian Mihai Galaţanu</a>, Romania<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com
   </p>
 </details>
@@ -427,6 +433,13 @@ Last refreshed: 2019-12-11 09:00:07 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2009HEND01">Paul Hendrickson</a>, United States, 70+ - <a href="https://www.speedsolving.com/members/phndrxn.4384">phndrxn</a> on Speedsolving.com
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020">Summer Kube Boulevard Vila Velha 2020</a> - Vila Velha, Espírito Santo, Brazil - Jan 18 - 19, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019KILL01">Carlos Magno Kill</a>, Brazil
   </p>
 </details>
 
