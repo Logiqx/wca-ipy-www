@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-11 18:58:25 (UTC)
+Last refreshed: 2019-12-12 04:15:26 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -783,13 +783,13 @@ Last refreshed: 2019-12-11 18:58:25 (UTC)
     <tr><td style="text-align:center">487</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#333">Gregory Martin</a>, United States</td><td style="text-align:right">31.67</td></tr>
     <tr><td style="text-align:center">488</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#333">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">31.73</td></tr>
     <tr><td style="text-align:center">489</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#333">Daniel Smith</a>, United States, 50+</td><td style="text-align:right">31.79</td></tr>
-    <tr><td style="text-align:center">492</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#333">Bill McGaugh</a>, United States, 50+</td><td style="text-align:right">32.03</td></tr>
-    <tr><td style="text-align:center">496</td><td><a href="https://www.worldcubeassociation.org/persons/2013LEIS01#333">Richard Leiser</a>, United Kingdom</td><td style="text-align:right">32.15</td></tr>
-    <tr><td style="text-align:center">499</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom, 50+</td><td style="text-align:right">32.18</td></tr>
-    <tr><td style="text-align:center">500</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">32.19</td></tr>
-    <tr><td style="text-align:center">501</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#333">Daniel Daoust</a>, Canada</td><td style="text-align:right">32.22</td></tr>
-    <tr><td style="text-align:center">505</td><td><a href="https://www.worldcubeassociation.org/persons/2015JIJI02#333">Jingxiang Ji (吉井祥)</a>, China</td><td style="text-align:right">32.42</td></tr>
-    <tr><td style="text-align:center">507</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States, 50+</td><td style="text-align:right">32.53</td></tr>
+    <tr><td style="text-align:center">491</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States, 50+</td><td style="text-align:right">31.91</td></tr>
+    <tr><td style="text-align:center">493</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#333">Bill McGaugh</a>, United States, 50+</td><td style="text-align:right">32.03</td></tr>
+    <tr><td style="text-align:center">497</td><td><a href="https://www.worldcubeassociation.org/persons/2013LEIS01#333">Richard Leiser</a>, United Kingdom</td><td style="text-align:right">32.15</td></tr>
+    <tr><td style="text-align:center">500</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom, 50+</td><td style="text-align:right">32.18</td></tr>
+    <tr><td style="text-align:center">501</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">32.19</td></tr>
+    <tr><td style="text-align:center">502</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#333">Daniel Daoust</a>, Canada</td><td style="text-align:right">32.22</td></tr>
+    <tr><td style="text-align:center">506</td><td><a href="https://www.worldcubeassociation.org/persons/2015JIJI02#333">Jingxiang Ji (吉井祥)</a>, China</td><td style="text-align:right">32.42</td></tr>
     <tr><td style="text-align:center">509</td><td><a href="https://www.worldcubeassociation.org/persons/2017BAIR03#333">Michael Bairdsmith</a>, United States</td><td style="text-align:right">32.56</td></tr>
     <tr><td style="text-align:center">510</td><td><a href="https://www.worldcubeassociation.org/persons/2014FRON02#333">Adrian Fronescu</a>, Romania</td><td style="text-align:right">32.62</td></tr>
     <tr><td style="text-align:center">514</td><td><a href="https://www.worldcubeassociation.org/persons/2008BRUN01#333">Eric Brunson</a>, United States</td><td style="text-align:right">32.84</td></tr>

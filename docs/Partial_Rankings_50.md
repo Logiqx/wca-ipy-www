@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-11 18:58:26 (UTC)
+Last refreshed: 2019-12-12 04:15:27 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -240,9 +240,9 @@ Last refreshed: 2019-12-11 18:58:26 (UTC)
     <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#333">Yves Créange</a>, France</td><td style="text-align:right">29.94</td></tr>
     <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#333">Petri Vanhala</a>, Finland</td><td style="text-align:right">30.00</td></tr>
     <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#333">Daniel Smith</a>, United States</td><td style="text-align:right">31.79</td></tr>
-    <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#333">Bill McGaugh</a>, United States</td><td style="text-align:right">32.03</td></tr>
-    <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">32.18</td></tr>
-    <tr><td style="text-align:center">42</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States</td><td style="text-align:right">32.53</td></tr>
+    <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States</td><td style="text-align:right">31.91</td></tr>
+    <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#333">Bill McGaugh</a>, United States</td><td style="text-align:right">32.03</td></tr>
+    <tr><td style="text-align:center">42</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">32.18</td></tr>
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2018GILL07#333">Richie Gill</a>, New Zealand</td><td style="text-align:right">33.01</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">33.10</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2019IWAS01#333">Masayuki Iwasa (岩佐雅幸)</a>, Japan</td><td style="text-align:right">33.14</td></tr>
@@ -812,15 +812,15 @@ Last refreshed: 2019-12-11 18:58:26 (UTC)
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2012KREI01#333">Volodymyr Kreidunov (Володимир Крейдунов)</a>, Ukraine, 60+</td><td style="text-align:right">25.85</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#333">Anders Larsson</a>, Sweden</td><td style="text-align:right">26.35</td></tr>
     <tr><td style="text-align:center">46</td><td><a href="https://www.worldcubeassociation.org/persons/2018SANG01#333">Erik Tjong Kim Sang</a>, Netherlands</td><td style="text-align:right">26.46</td></tr>
-    <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">26.62</td></tr>
-    <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#333">John Louis</a>, India</td><td style="text-align:right">27.25</td></tr>
-    <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#333">Peter Douthwright</a>, Canada</td><td style="text-align:right">27.28</td></tr>
-    <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">27.41</td></tr>
-    <tr><td style="text-align:center">51</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#333">Daniel Smith</a>, United States</td><td style="text-align:right">27.53</td></tr>
-    <tr><td style="text-align:center">52</td><td><a href="https://www.worldcubeassociation.org/persons/2016CARD19#333">Raimundo Caliga Cardoso</a>, Brazil</td><td style="text-align:right">27.65</td></tr>
-    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333">Hanns Hub</a>, Germany</td><td style="text-align:right">27.81</td></tr>
-    <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#333">David Brown</a>, United States</td><td style="text-align:right">28.12</td></tr>
-    <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States</td><td style="text-align:right">28.89</td></tr>
+    <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#333">Jason Black</a>, United States</td><td style="text-align:right">26.49</td></tr>
+    <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">26.62</td></tr>
+    <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#333">John Louis</a>, India</td><td style="text-align:right">27.25</td></tr>
+    <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#333">Peter Douthwright</a>, Canada</td><td style="text-align:right">27.28</td></tr>
+    <tr><td style="text-align:center">51</td><td><a href="https://www.worldcubeassociation.org/persons/2015TAYL04#333">Richard Taylor</a>, United Kingdom</td><td style="text-align:right">27.41</td></tr>
+    <tr><td style="text-align:center">52</td><td><a href="https://www.worldcubeassociation.org/persons/2018SMIT42#333">Daniel Smith</a>, United States</td><td style="text-align:right">27.53</td></tr>
+    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2016CARD19#333">Raimundo Caliga Cardoso</a>, Brazil</td><td style="text-align:right">27.65</td></tr>
+    <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333">Hanns Hub</a>, Germany</td><td style="text-align:right">27.81</td></tr>
+    <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#333">David Brown</a>, United States</td><td style="text-align:right">28.12</td></tr>
     <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2004LUIS03#333">Pedro Luis Muñoz Yañez</a>, Spain</td><td style="text-align:right">29.06</td></tr>
     <tr><td style="text-align:center">57</td><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01#333">Carl Brannen</a>, United States</td><td style="text-align:right">29.14</td></tr>
     <tr><td style="text-align:center">58</td><td><a href="https://www.worldcubeassociation.org/persons/2019IWAS01#333">Masayuki Iwasa (岩佐雅幸)</a>, Japan</td><td style="text-align:right">29.47</td></tr>
@@ -1051,10 +1051,10 @@ Last refreshed: 2019-12-11 18:58:26 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2018GILL07#444">Richie Gill</a>, New Zealand</td><td style="text-align:right">1:57.97</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10#444">Javier Agustín Rossi</a>, Argentina</td><td style="text-align:right">1:58.40</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#444">Bill Berry</a>, United States</td><td style="text-align:right">1:59.84</td></tr>
-    <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2018GILD01#444">David Gilday</a>, United Kingdom</td><td style="text-align:right">2:11.67</td></tr>
-    <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#444">Peter Douthwright</a>, Canada</td><td style="text-align:right">2:12.56</td></tr>
-    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#444">José Adrian Jaquez Salazar</a>, Mexico</td><td style="text-align:right">2:13.51</td></tr>
-    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#444">Jason Black</a>, United States</td><td style="text-align:right">2:17.34</td></tr>
+    <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2019BLAC02#444">Jason Black</a>, United States</td><td style="text-align:right">2:00.92</td></tr>
+    <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2018GILD01#444">David Gilday</a>, United Kingdom</td><td style="text-align:right">2:11.67</td></tr>
+    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#444">Peter Douthwright</a>, Canada</td><td style="text-align:right">2:12.56</td></tr>
+    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#444">José Adrian Jaquez Salazar</a>, Mexico</td><td style="text-align:right">2:13.51</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2004MCGA01#444">Bill McGaugh</a>, United States</td><td style="text-align:right">2:19.77</td></tr>
     <tr><td style="text-align:center">32</td><td><a href="https://www.worldcubeassociation.org/persons/2006LOUI01#444">John Louis</a>, India</td><td style="text-align:right">2:20.60</td></tr>
     <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#444">Anders Larsson</a>, Sweden</td><td style="text-align:right">2:25.87</td></tr>
