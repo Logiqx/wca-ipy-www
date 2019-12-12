@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-12 12:00:13 (UTC)
+Last refreshed: 2019-12-12 18:00:11 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -29,7 +29,8 @@ Last refreshed: 2019-12-12 12:00:13 (UTC)
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BernoFeetFriendship2019">Bernô Feet Friendship 2019</a> - São Bernardo do Campo, São Paulo, Brazil - Dec 14 - 15, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2014RIEM01">Marius Rombout Ferreira van Riemsdijk</a>, Brazil - <a href="https://www.speedsolving.com/members/arbivara.28950">arbivara</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2013BINI01">Neusa da Silva Bini</a>, Brazil, 50+
   </p>
 </details>
 
@@ -39,8 +40,7 @@ Last refreshed: 2019-12-12 12:00:13 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2013COPP01">Ben Coppin</a>, United Kingdom - <a href="https://www.speedsolving.com/members/bubbagrub.22061">bubbagrub</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016AMBE02">Dieter Amberger</a>, Austria<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+
   </p>
 </details>
 
