@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-13 15:00:03 (UTC)
+Last refreshed: 2019-12-13 18:00:02 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -519,6 +519,7 @@ Last refreshed: 2019-12-13 15:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CentralWashingtonWinter2020">Central Washington Winter 2020</a> - Ellensburg, Washington, United States - Feb 22, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+
   </p>
 </details>
