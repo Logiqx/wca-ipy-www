@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-14 12:00:02 (UTC)
+Last refreshed: 2019-12-14 15:00:29 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -316,6 +316,13 @@ Last refreshed: 2019-12-14 12:00:02 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/PerthPuzzleParty2020">Perth Puzzle Party 2020</a> - Perth, Western Australia, Australia - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020">Salento Cubing Open 2020</a> - Lecce, Italy - Jan 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017BONI01">Raffaele Bonifazi</a>, Italy
   </p>
 </details>
 
