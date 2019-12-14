@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-13 04:15:05 (UTC)
+Last refreshed: 2019-12-14 04:14:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -4402,13 +4402,13 @@ Last refreshed: 2019-12-13 04:15:05 (UTC)
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2008ERSK01#minx">Michael Erskine</a>, United Kingdom</td><td style="text-align:right">4:01.59</td></tr>
     <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2013COPP01#minx">Ben Coppin</a>, United Kingdom</td><td style="text-align:right">4:07.71</td></tr>
     <tr><td style="text-align:center">51</td><td><a href="https://www.worldcubeassociation.org/persons/2014HARD01#minx">Jan Hardejewicz</a>, Poland</td><td style="text-align:right">4:09.83</td></tr>
-    <tr><td style="text-align:center">52</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYN07#minx">Laurent Reynaud</a>, France, 50+</td><td style="text-align:right">4:35.23</td></tr>
-    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#minx">Gregory Martin</a>, United States</td><td style="text-align:right">4:41.53</td></tr>
-    <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#minx">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">4:49.97</td></tr>
-    <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#minx">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">4:55.38</td></tr>
-    <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#minx">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">5:20.07</td></tr>
-    <tr><td style="text-align:center">57</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#minx">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">5:25.72</td></tr>
-    <tr><td style="text-align:center">58</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#minx">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">5:29.73</td></tr>
+    <tr><td style="text-align:center">52</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#minx">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">4:29.45</td></tr>
+    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYN07#minx">Laurent Reynaud</a>, France, 50+</td><td style="text-align:right">4:35.23</td></tr>
+    <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#minx">Gregory Martin</a>, United States</td><td style="text-align:right">4:41.53</td></tr>
+    <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#minx">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">4:49.97</td></tr>
+    <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#minx">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">4:55.38</td></tr>
+    <tr><td style="text-align:center">57</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#minx">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">5:20.07</td></tr>
+    <tr><td style="text-align:center">58</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#minx">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">5:25.72</td></tr>
     <tr><td style="text-align:center">59</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#minx">Peter Douthwright</a>, Canada, 50+</td><td style="text-align:right">5:31.59</td></tr>
     <tr><td style="text-align:center">60</td><td><a href="https://www.worldcubeassociation.org/persons/2009JOHN07#minx">Robert D. Johnson</a>, United States, 50+</td><td style="text-align:right">5:42.46</td></tr>
     <tr><td style="text-align:center">61</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#minx">Gianluca Placenti</a>, Italy</td><td style="text-align:right">5:54.18</td></tr>
