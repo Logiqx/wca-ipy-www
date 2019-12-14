@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-14 00:00:02 (UTC)
+Last refreshed: 2019-12-14 03:00:03 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -465,6 +465,15 @@ Last refreshed: 2019-12-14 00:00:02 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+
+  </p>
+</details>
+
+<h3>Feb 3, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FriscoLibertyCubing2020">Frisco Liberty Cubing 2020</a> - Frisco, Texas, United States - Feb 1, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
   </p>
 </details>
 
