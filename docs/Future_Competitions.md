@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-15 03:00:08 (UTC)
+Last refreshed: 2019-12-15 06:00:05 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -15,14 +15,6 @@ Last refreshed: 2019-12-15 03:00:08 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019">Taiwan Championship 2019</a> - New Taipei City, Taiwan - Dec 13 - 15, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/OUWinter2019">OU Winter 2019</a> - Norman, Oklahoma, United States - Dec 14, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018SMIT42">Daniel Smith</a>, United States, 50+ - <a href="https://www.speedsolving.com/members/oldmancuber.49036">OldManCuber</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
