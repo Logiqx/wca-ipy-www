@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-16 06:00:07 (UTC)
+Last refreshed: 2019-12-16 09:00:09 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -187,7 +187,8 @@ Last refreshed: 2019-12-16 06:00:07 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2011ZAKR01">Ernest Zakrzewski</a>, Poland<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2014PACE01">Grzegorz Pacewicz</a>, Poland - <a href="https://www.speedsolving.com/members/h2f.22236">h2f</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018CHOD01">Jarosław Chodyniecki</a>, Poland
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOD01">Jarosław Chodyniecki</a>, Poland<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019SZYM02">Marek Szymański</a>, Poland
   </p>
 </details>
 
