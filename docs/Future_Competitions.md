@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-15 21:00:07 (UTC)
+Last refreshed: 2019-12-16 00:00:02 (UTC)
 
 <h3>Dec 16, 2019</h3>
 
@@ -185,13 +185,6 @@ Last refreshed: 2019-12-15 21:00:07 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
-  </p>
-</details>
-
-<details>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FeetChallengeUkraine2019">Feet Challenge Ukraine 2019</a> - Kiyiv, Ukraine - Dec 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
   </p>
 </details>
 
