@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 18:00:05 (UTC)
+Last refreshed: 2019-12-17 21:00:08 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -430,6 +430,14 @@ Last refreshed: 2019-12-17 18:00:05 (UTC)
 </details>
 
 <h3>Feb 17, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/AnnuntiaOpen2020">Annuntia Open 2020</a> - Wijnegem, Belgium - Feb 15 - 16, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007OEYM01">Maria Oey</a>, Indonesia, 50+ - <a href="https://www.speedsolving.com/members/crazycubemom.492">Crazycubemom</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ChellesOpen2020">Chelles Open 2020</a> - Chelles, France - Feb 15 - 16, 2020</summary>
