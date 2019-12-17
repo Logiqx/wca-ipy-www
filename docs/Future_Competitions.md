@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 03:00:06 (UTC)
+Last refreshed: 2019-12-17 06:00:03 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -238,6 +238,13 @@ Last refreshed: 2019-12-17 03:00:06 (UTC)
 </details>
 
 <h3>Jan 13, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/3RegularFortaleza2020">3-Regular Fortaleza 2020</a> - Fortaleza, Ceará, Brazil - Jan 11, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2007CINO01">Rafael de Andrade Cinoto</a>, Brazil - <a href="https://www.speedsolving.com/members/rwcinoto.2921">rwcinoto</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AdelaideSummer2020">Adelaide Summer 2020</a> - Adelaide, South Australia, Australia - Jan 11, 2020</summary>
