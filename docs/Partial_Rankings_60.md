@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 12:41:31 (UTC)
+Last refreshed: 2019-12-17 12:50:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -106,7 +106,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">35</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">3:44.87</td></tr>
     <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 76</p><p>Estimated completeness of rankings &#8776; 47.4%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -126,7 +126,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#222">Didier Limal</a>, France</td><td style="text-align:right">45.20</td></tr>
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">1:08.84</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 23</p><p>Estimated completeness of rankings &#8776; 56.5%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
@@ -135,7 +135,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444">Mats Bergsten</a>, Sweden</td><td style="text-align:right">2:07.10</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#444">Didier Limal</a>, France</td><td style="text-align:right">4:12.62</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 3</p><p>Estimated completeness of rankings &#8776; 66.7%</p></details>
 
 <details id="555_avg">
   <summary>5x5x5 Cube</summary>
@@ -143,7 +143,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555">Mats Bergsten</a>, Sweden</td><td style="text-align:right">5:13.84</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333bf_avg">
   <summary>3x3x3 Blindfolded</summary>
@@ -151,7 +151,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">1:20.39</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333oh_avg">
   <summary>3x3x3 One-Handed</summary>
@@ -159,7 +159,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333oh">Daljit Singh</a>, United States</td><td style="text-align:right">7:22.35</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="clock_avg">
   <summary>Clock</summary>
@@ -169,7 +169,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:19.28</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:54.12</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 3</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_avg">
   <summary>Pyraminx</summary>
@@ -183,7 +183,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOFF01#pyram">Roger L. Goff</a>, United States</td><td style="text-align:right">42.69</td></tr>
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">59.61</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 8</p><p>Estimated completeness of rankings &#8776; 87.5%</p></details>
 
 <details id="skewb_avg">
   <summary>Skewb</summary>
@@ -191,7 +191,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#skewb">David Levine</a>, United States</td><td style="text-align:right">45.01</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="sq1_avg">
   <summary>Square-1</summary>
@@ -199,7 +199,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden</td><td style="text-align:right">2:40.21</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="444bf_avg">
   <summary>4x4x4 Blindfolded</summary>
@@ -207,7 +207,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">7:17.03</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="555bf_avg">
   <summary>5x5x5 Blindfolded</summary>
@@ -215,7 +215,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">15:22.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <h2 id="singles">Official Singles</h2>
 
@@ -265,7 +265,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 87</p><p>Estimated completeness of rankings &#8776; 47.1%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
@@ -286,7 +286,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States</td><td style="text-align:right">1:47.28</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 25</p><p>Estimated completeness of rankings &#8776; 56.0%</p></details>
 
 <details id="444_best">
   <summary>4x4x4 Cube</summary>
@@ -295,7 +295,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444">Mats Bergsten</a>, Sweden</td><td style="text-align:right">1:49.11</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#444">Didier Limal</a>, France</td><td style="text-align:right">3:59.55</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 50.0%</p></details>
 
 <details id="555_best">
   <summary>5x5x5 Cube</summary>
@@ -303,7 +303,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555">Mats Bergsten</a>, Sweden</td><td style="text-align:right">3:45.69</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 2</p><p>Estimated completeness of rankings &#8776; 50.0%</p></details>
 
 <details id="666_best">
   <summary>6x6x6 Cube</summary>
@@ -311,7 +311,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#666">Mats Bergsten</a>, Sweden</td><td style="text-align:right">7:33.36</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="777_best">
   <summary>7x7x7 Cube</summary>
@@ -319,7 +319,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#777">Mats Bergsten</a>, Sweden</td><td style="text-align:right">22:38.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
@@ -328,7 +328,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">1:01.47</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333bf">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">13:55.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 2</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333fm_best">
   <summary>3x3x3 Fewest Moves</summary>
@@ -336,7 +336,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333fm">Mats Bergsten</a>, Sweden</td><td style="text-align:right">58</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333oh_best">
   <summary>3x3x3 One-Handed</summary>
@@ -346,7 +346,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#333oh">David Levine</a>, United States</td><td style="text-align:right">5:40.05</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333oh">Daljit Singh</a>, United States</td><td style="text-align:right">5:43.13</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 75.0%</p></details>
 
 <details id="clock_best">
   <summary>Clock</summary>
@@ -356,7 +356,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea</td><td style="text-align:right">1:12.02</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:04.91</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 3</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="minx_best">
   <summary>Megaminx</summary>
@@ -364,7 +364,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#minx">Mats Bergsten</a>, Sweden</td><td style="text-align:right">6:53.11</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_best">
   <summary>Pyraminx</summary>
@@ -379,7 +379,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">45.82</td></tr>
     <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 10</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="skewb_best">
   <summary>Skewb</summary>
@@ -388,7 +388,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#skewb">Mats Bergsten</a>, Sweden</td><td style="text-align:right">16.47</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#skewb">David Levine</a>, United States</td><td style="text-align:right">25.75</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 3</p><p>Estimated completeness of rankings &#8776; 66.7%</p></details>
 
 <details id="sq1_best">
   <summary>Square-1</summary>
@@ -396,7 +396,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden</td><td style="text-align:right">1:43.66</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="444bf_best">
   <summary>4x4x4 Blindfolded</summary>
@@ -404,7 +404,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">5:45.88</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="555bf_best">
   <summary>5x5x5 Blindfolded</summary>
@@ -412,7 +412,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555bf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">13:28.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333mbf_best">
   <summary>3x3x3 Multi-Blind</summary>
@@ -420,5 +420,5 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333mbf">Mats Bergsten</a>, Sweden</td><td style="text-align:right">11/11 in 53:07</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 

@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 12:41:31 (UTC)
+Last refreshed: 2019-12-17 12:50:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -68,7 +68,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">3:44.87</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 24</p><p>Estimated completeness of rankings &#8776; 70.8%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -79,7 +79,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada</td><td style="text-align:right">27.26</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">1:08.84</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 5</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="clock_avg">
   <summary>Clock</summary>
@@ -87,7 +87,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">2:54.12</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_avg">
   <summary>Pyraminx</summary>
@@ -97,7 +97,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia</td><td style="text-align:right">32.07</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">59.61</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 75.0%</p></details>
 
 <h2 id="singles">Official Singles</h2>
 
@@ -128,7 +128,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 29</p><p>Estimated completeness of rankings &#8776; 75.9%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
@@ -140,7 +140,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2012BOWE01#222">Barry Bower</a>, Canada</td><td style="text-align:right">22.55</td></tr>
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">57.27</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 6</p><p>Estimated completeness of rankings &#8776; 83.3%</p></details>
 
 <details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
@@ -148,7 +148,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333bf">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">13:55.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="clock_best">
   <summary>Clock</summary>
@@ -156,7 +156,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">2:04.91</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_best">
   <summary>Pyraminx</summary>
@@ -166,5 +166,5 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#pyram">Alexander Kuminov</a>, Russia</td><td style="text-align:right">21.90</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea</td><td style="text-align:right">45.82</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 75.0%</p></details>
 

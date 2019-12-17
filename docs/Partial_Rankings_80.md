@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 12:41:31 (UTC)
+Last refreshed: 2019-12-17 12:50:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -45,7 +45,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States</td><td style="text-align:right">3:19.05</td></tr>
     <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 10</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <h2 id="singles">Official Singles</h2>
 
@@ -64,7 +64,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">9</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 12</p><p>Estimated completeness of rankings &#8776; 83.3%</p></details>
 
 <details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
@@ -72,5 +72,5 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td><b>Rank</b></td><td><b>Person</b></td><td><b>Result</b></td></tr>
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333bf">Hideaki Tomoyori (友寄英哲)</a>, Japan</td><td style="text-align:right">13:55.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 1</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 

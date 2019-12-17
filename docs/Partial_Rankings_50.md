@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 12:41:31 (UTC)
+Last refreshed: 2019-12-17 12:50:46 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -358,7 +358,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">154</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">155</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 479</p><p>Estimated completeness of rankings &#8776; 32.4%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -448,7 +448,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">82</td><td><a href="https://www.worldcubeassociation.org/persons/2015FIEC01#222">Elmar Fiechter-Alber</a>, Austria</td><td style="text-align:right">1:19.97</td></tr>
     <tr><td style="text-align:center">83</td><td><a href="https://www.worldcubeassociation.org/persons/2016LUJA01#222">Jose Gabriel Moratalla Lujan</a>, Spain</td><td style="text-align:right">1:35.33</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 189</p><p>Estimated completeness of rankings &#8776; 43.9%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
@@ -486,7 +486,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#444">Petri Vanhala</a>, Finland</td><td style="text-align:right">3:26.93</td></tr>
     <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#444">Didier Limal</a>, France, 60+</td><td style="text-align:right">4:12.62</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 40</p><p>Estimated completeness of rankings &#8776; 77.5%</p></details>
 
 <details id="555_avg">
   <summary>5x5x5 Cube</summary>
@@ -509,7 +509,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#555">Anders Larsson</a>, Sweden</td><td style="text-align:right">6:59.50</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011CORM02#555">Alain Cormier</a>, Canada</td><td style="text-align:right">9:32.99</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 20</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="666_avg">
   <summary>6x6x6 Cube</summary>
@@ -522,7 +522,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#666">Cari Goslow</a>, United States</td><td style="text-align:right">6:29.14</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#666">David Brown</a>, United States</td><td style="text-align:right">6:54.60</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 7</p><p>Estimated completeness of rankings &#8776; 85.7%</p></details>
 
 <details id="777_avg">
   <summary>7x7x7 Cube</summary>
@@ -533,7 +533,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#777">Hanns Hub</a>, Germany</td><td style="text-align:right">7:36.46</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013BRAN01#777">Carl Brannen</a>, United States</td><td style="text-align:right">9:06.07</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="333bf_avg">
   <summary>3x3x3 Blindfolded</summary>
@@ -547,7 +547,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333bf">Hanns Hub</a>, Germany</td><td style="text-align:right">4:28.16</td></tr>
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#333bf">Bruce Norskog</a>, United States</td><td style="text-align:right">7:13.18</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 10</p><p>Estimated completeness of rankings &#8776; 70.0%</p></details>
 
 <details id="333fm_avg">
   <summary>3x3x3 Fewest Moves</summary>
@@ -565,7 +565,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#333fm">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">47.33</td></tr>
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#333fm">Cari Goslow</a>, United States</td><td style="text-align:right">48.33</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 14</p><p>Estimated completeness of rankings &#8776; 78.6%</p></details>
 
 <details id="333oh_avg">
   <summary>3x3x3 One-Handed</summary>
@@ -591,7 +591,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#333oh">Peter Douthwright</a>, Canada</td><td style="text-align:right">2:09.40</td></tr>
     <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333oh">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">7:22.35</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 26</p><p>Estimated completeness of rankings &#8776; 73.1%</p></details>
 
 <details id="333ft_avg">
   <summary>3x3x3 With Feet</summary>
@@ -601,7 +601,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#333ft">Cari Goslow</a>, United States</td><td style="text-align:right">2:50.28</td></tr>
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333ft">Hanns Hub</a>, Germany</td><td style="text-align:right">2:57.01</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 3</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="clock_avg">
   <summary>Clock</summary>
@@ -629,7 +629,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+</td><td style="text-align:right">1:19.28</td></tr>
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:54.12</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 26</p><p>Estimated completeness of rankings &#8776; 80.8%</p></details>
 
 <details id="minx_avg">
   <summary>Megaminx</summary>
@@ -642,7 +642,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#minx">Hanns Hub</a>, Germany</td><td style="text-align:right">3:00.14</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#minx">Cari Goslow</a>, United States</td><td style="text-align:right">3:43.16</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 6</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_avg">
   <summary>Pyraminx</summary>
@@ -696,7 +696,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">46</td><td><a href="https://www.worldcubeassociation.org/persons/2013BINI01#pyram">Neusa da Silva Bini</a>, Brazil</td><td style="text-align:right">51.37</td></tr>
     <tr><td style="text-align:center">47</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">59.61</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 90</p><p>Estimated completeness of rankings &#8776; 52.2%</p></details>
 
 <details id="skewb_avg">
   <summary>Skewb</summary>
@@ -725,7 +725,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2017VRIE02#skewb">Nico de Vries</a>, Netherlands</td><td style="text-align:right">45.35</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#skewb">Yves Créange</a>, France</td><td style="text-align:right">48.41</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 39</p><p>Estimated completeness of rankings &#8776; 56.4%</p></details>
 
 <details id="sq1_avg">
   <summary>Square-1</summary>
@@ -742,7 +742,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">9</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#sq1">Bruce Norskog</a>, United States</td><td style="text-align:right">2:17.57</td></tr>
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">2:40.21</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 14</p><p>Estimated completeness of rankings &#8776; 71.4%</p></details>
 
 <details id="444bf_avg">
   <summary>4x4x4 Blindfolded</summary>
@@ -753,7 +753,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#444bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">7:17.03</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#444bf">Hanns Hub</a>, Germany</td><td style="text-align:right">12:24.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 4</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="555bf_avg">
   <summary>5x5x5 Blindfolded</summary>
@@ -762,7 +762,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">1</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#555bf">Mike Hughey</a>, United States</td><td style="text-align:right">13:02.00</td></tr>
     <tr><td style="text-align:center">2</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">15:22.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 2</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <h2 id="singles">Official Singles</h2>
 
@@ -933,7 +933,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">161</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">162</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 504</p><p>Estimated completeness of rankings &#8776; 32.1%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
@@ -1025,7 +1025,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">84</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">85</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">1:47.28</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 199</p><p>Estimated completeness of rankings &#8776; 42.7%</p></details>
 
 <details id="444_best">
   <summary>4x4x4 Cube</summary>
@@ -1076,7 +1076,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2016ODEG01#444">Lee Odegard</a>, United States</td><td style="text-align:right">4:58.97</td></tr>
     <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2017HOZS01#444">Sergio Luzardo de la Hoz</a>, Spain</td><td style="text-align:right">6:47.03</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 67</p><p>Estimated completeness of rankings &#8776; 65.7%</p></details>
 
 <details id="555_best">
   <summary>5x5x5 Cube</summary>
@@ -1111,7 +1111,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">27</td><td><a href="https://www.worldcubeassociation.org/persons/2003LARS01#555">Anders Larsson</a>, Sweden</td><td style="text-align:right">6:05.28</td></tr>
     <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2011CORM02#555">Alain Cormier</a>, Canada</td><td style="text-align:right">6:53.08</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 36</p><p>Estimated completeness of rankings &#8776; 77.8%</p></details>
 
 <details id="666_best">
   <summary>6x6x6 Cube</summary>
@@ -1134,7 +1134,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#666">Bill Berry</a>, United States</td><td style="text-align:right">8:57.06</td></tr>
     <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2011CORM02#666">Alain Cormier</a>, Canada</td><td style="text-align:right">16:08.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 17</p><p>Estimated completeness of rankings &#8776; 94.1%</p></details>
 
 <details id="777_best">
   <summary>7x7x7 Cube</summary>
@@ -1155,7 +1155,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011CORM02#777">Alain Cormier</a>, Canada</td><td style="text-align:right">19:41.00</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#777">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">22:38.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 15</p><p>Estimated completeness of rankings &#8776; 93.3%</p></details>
 
 <details id="333bf_best">
   <summary>3x3x3 Blindfolded</summary>
@@ -1184,7 +1184,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#333bf">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">10:46.00</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333bf">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">13:55.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 28</p><p>Estimated completeness of rankings &#8776; 78.6%</p></details>
 
 <details id="333fm_best">
   <summary>3x3x3 Fewest Moves</summary>
@@ -1211,7 +1211,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#333fm">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">58</td></tr>
     <tr><td style="text-align:center">20</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#333fm">Bill Berry</a>, United States</td><td style="text-align:right">69</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 24</p><p>Estimated completeness of rankings &#8776; 83.3%</p></details>
 
 <details id="333oh_best">
   <summary>3x3x3 One-Handed</summary>
@@ -1247,7 +1247,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">28</td><td><a href="https://www.worldcubeassociation.org/persons/2015LEVI01#333oh">David Levine</a>, United States, 60+</td><td style="text-align:right">5:40.05</td></tr>
     <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333oh">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">5:43.13</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 42</p><p>Estimated completeness of rankings &#8776; 69.0%</p></details>
 
 <details id="333ft_best">
   <summary>3x3x3 With Feet</summary>
@@ -1258,7 +1258,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#333ft">Cari Goslow</a>, United States</td><td style="text-align:right">2:15.89</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#333ft">Petri Vanhala</a>, Finland</td><td style="text-align:right">6:29.87</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 5</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="clock_best">
   <summary>Clock</summary>
@@ -1289,7 +1289,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+</td><td style="text-align:right">1:12.02</td></tr>
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:04.91</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 30</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="minx_best">
   <summary>Megaminx</summary>
@@ -1308,7 +1308,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#minx">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">6:53.11</td></tr>
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#minx">Bruce Norskog</a>, United States</td><td style="text-align:right">8:55.83</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 12</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="pyram_best">
   <summary>Pyraminx</summary>
@@ -1364,7 +1364,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">45.82</td></tr>
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France, 60+</td><td style="text-align:right">46.73</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 99</p><p>Estimated completeness of rankings &#8776; 49.5%</p></details>
 
 <details id="skewb_best">
   <summary>Skewb</summary>
@@ -1396,7 +1396,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2017VRIE02#skewb">Nico de Vries</a>, Netherlands</td><td style="text-align:right">31.70</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2015HAGE04#skewb">Mariusz Hagemejer</a>, Poland</td><td style="text-align:right">1:00.78</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 46</p><p>Estimated completeness of rankings &#8776; 54.3%</p></details>
 
 <details id="sq1_best">
   <summary>Square-1</summary>
@@ -1415,7 +1415,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">1:43.66</td></tr>
     <tr><td style="text-align:center">12</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#sq1">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">5:16.34</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 18</p><p>Estimated completeness of rankings &#8776; 66.7%</p></details>
 
 <details id="444bf_best">
   <summary>4x4x4 Blindfolded</summary>
@@ -1428,7 +1428,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">5</td><td><a href="https://www.worldcubeassociation.org/persons/2007LUTH01#444bf">Mats Luthman</a>, Sweden</td><td style="text-align:right">15:14.00</td></tr>
     <tr><td style="text-align:center">6</td><td><a href="https://www.worldcubeassociation.org/persons/2018SANG01#444bf">Erik Tjong Kim Sang</a>, Netherlands</td><td style="text-align:right">19:05.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 6</p><p>Estimated completeness of rankings &#8776; 100.0%</p></details>
 
 <details id="555bf_best">
   <summary>5x5x5 Blindfolded</summary>
@@ -1439,7 +1439,7 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">3</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#555bf">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">13:28.00</td></tr>
     <tr><td style="text-align:center">4</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#555bf">Hanns Hub</a>, Germany</td><td style="text-align:right">20:43.00</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 5</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
 
 <details id="333mbf_best">
   <summary>3x3x3 Multi-Blind</summary>
@@ -1457,5 +1457,5 @@ Last refreshed: 2019-12-17 12:41:31 (UTC)
     <tr><td style="text-align:center">10</td><td><a href="https://www.worldcubeassociation.org/persons/2005AKUZ01#333mbf">Takeshi Akuzawa (阿久沢剛史)</a>, Japan</td><td style="text-align:right">2/3 in 26:18</td></tr>
     <tr><td style="text-align:center">11</td><td><a href="https://www.worldcubeassociation.org/persons/2009MONT01#333mbf">Walter Antonio Monti</a>, Italy</td><td style="text-align:right">1/2 in 19:54</td></tr>
   </table>
-</details>
+<p>Estimated number of seniors &#8776; 14</p><p>Estimated completeness of rankings &#8776; 78.6%</p></details>
 
