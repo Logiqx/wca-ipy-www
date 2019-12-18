@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-18 04:15:10",
+"refreshed": "2019-12-18 10:34:00",
 "events": [
 {
 "id": "333",
@@ -2647,7 +2647,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1908
+"estimate": 1909
 },
 {
 "type": "single",
@@ -5348,7 +5348,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 1997
+"estimate": 1999
 },
 {
 "type": "average",
@@ -19780,7 +19780,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 162
+"estimate": 164
 },
 {
 "type": "single",
@@ -20529,7 +20529,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 219
+"estimate": 221
 },
 {
 "type": "average",
