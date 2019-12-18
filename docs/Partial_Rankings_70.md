@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-17 22:23:03 (UTC)
+Last refreshed: 2019-12-18 04:15:10 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -128,7 +128,7 @@ Last refreshed: 2019-12-17 22:23:03 (UTC)
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 29</p><p>Estimated completeness of rankings &#8776; 75.9%</p></details>
+<p>Estimated number of seniors &#8776; 30</p><p>Estimated completeness of rankings &#8776; 73.3%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
