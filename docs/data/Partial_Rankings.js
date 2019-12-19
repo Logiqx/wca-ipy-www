@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-18 22:14:27",
+"refreshed": "2019-12-19 04:14:48",
 "events": [
 {
 "id": "333",
@@ -1685,9 +1685,9 @@ rankings =
 "age": 50
 },
 {
-"rank": 323,
+"rank": 322,
 "id": "2018PARI11",
-"best": "43.18",
+"best": "43.04",
 "age": 60
 },
 {
@@ -2647,7 +2647,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1909
+"estimate": 1910
 },
 {
 "type": "single",
@@ -5348,7 +5348,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 1999
+"estimate": 2000
 },
 {
 "type": "average",
@@ -5742,9 +5742,9 @@ rankings =
 "best": "43.04"
 },
 {
-"rank": 77,
+"rank": 76,
 "id": "2018PARI11",
-"best": "43.18",
+"best": "43.04",
 "age": 60
 },
 {
@@ -6165,7 +6165,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 479
+"estimate": 480
 },
 {
 "type": "single",
@@ -7019,7 +7019,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 504
+"estimate": 505
 },
 {
 "type": "average",
@@ -7071,7 +7071,7 @@ rankings =
 {
 "rank": 9,
 "id": "2018PARI11",
-"best": "43.18"
+"best": "43.04"
 },
 {
 "rank": 10,
@@ -11147,7 +11147,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 842
+"estimate": 843
 },
 {
 "type": "average",
@@ -26638,56 +26638,56 @@ rankings =
 },
 {
 "rank": 53,
+"id": "2011SALA06",
+"best": "10.31",
+"age": 50
+},
+{
+"rank": 54,
 "id": "2007OEYM01",
 "best": "10.34",
 "age": 50
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2017KITA01",
 "best": "10.46"
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2018CUME02",
 "best": "10.47"
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2018GRAG01",
 "best": "10.86"
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2017THOR06",
 "best": "10.95",
 "age": 50
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2006GALE01",
 "best": "11.08"
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2012HINO01",
 "best": "11.39"
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2015HEIK01",
 "best": "11.46"
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2016GALE02",
 "best": "11.51"
-},
-{
-"rank": 62,
-"id": "2011SALA06",
-"best": "11.76",
-"age": 50
 },
 {
 "rank": 63,
@@ -27178,18 +27178,18 @@ rankings =
 },
 {
 "rank": 8,
+"id": "2011SALA06",
+"best": "10.31"
+},
+{
+"rank": 9,
 "id": "2007OEYM01",
 "best": "10.34"
 },
 {
-"rank": 9,
+"rank": 10,
 "id": "2017THOR06",
 "best": "10.95"
-},
-{
-"rank": 10,
-"id": "2011SALA06",
-"best": "11.76"
 },
 {
 "rank": 11,
