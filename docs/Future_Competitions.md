@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-19 12:00:11 (UTC)
+Last refreshed: 2019-12-19 15:00:14 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -380,6 +380,13 @@ Last refreshed: 2019-12-19 12:00:11 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/HelsinkiWinterSpecial2020">Helsinki Winter Special 2020</a> - Helsinki, Finland - Jan 25, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012RONK01">Tomi Ronkainen</a>, Finland, 50+
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/IzmirOpen2020">İzmir Open 2020</a> - İzmir, Turkey - Jan 25 - 26, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013AKGL01">Selçuk Soner Akgül</a>, Turkey
   </p>
 </details>
 
