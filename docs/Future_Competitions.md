@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-20 00:00:05 (UTC)
+Last refreshed: 2019-12-20 03:00:14 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -462,6 +462,13 @@ Last refreshed: 2019-12-20 00:00:05 (UTC)
 </details>
 
 <h3>Feb 24, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SingaporeCubeChampionship2020">Singapore Cube Championship 2020</a> - Singapore, Singapore - Feb 21 - 23, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CentralWashingtonWinter2020">Central Washington Winter 2020</a> - Ellensburg, Washington, United States - Feb 22, 2020</summary>
