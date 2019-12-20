@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-20 06:00:08 (UTC)
+Last refreshed: 2019-12-20 09:00:08 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -33,6 +33,13 @@ Last refreshed: 2019-12-20 06:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2012LUKE01">Kenneth Lu</a>, United States - <a href="https://www.speedsolving.com/members/toastyken.17487">ToastyKen</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019VELL03">Meel Velliste</a>, United States
+  </p>
+</details>
+
+<details open>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubersEve2019">Cubers Eve Środa Wielkopolska 2019</a> - Środa Wielkopolska, Poland - Dec 21, 2019</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOD01">Jarosław Chodyniecki</a>, Poland
   </p>
 </details>
 
