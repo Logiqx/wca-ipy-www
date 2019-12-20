@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-19 15:00:14 (UTC)
+Last refreshed: 2019-12-20 00:00:05 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -40,7 +40,6 @@ Last refreshed: 2019-12-19 15:00:14 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaX2019">Franconia X 2019</a> - Nürnberg, Germany - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
   </p>
 </details>
