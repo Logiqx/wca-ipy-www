@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-20 12:24:12",
+"refreshed": "2019-12-20 12:27:32",
 "events": [
 {
 "id": "333",
@@ -2647,7 +2647,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1910
+"estimate": 1884
 },
 {
 "type": "single",
@@ -5348,7 +5348,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 2000
+"estimate": 1972
 },
 {
 "type": "average",
@@ -6165,7 +6165,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 480
+"estimate": 496
 },
 {
 "type": "single",
@@ -7019,7 +7019,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 505
+"estimate": 520
 },
 {
 "type": "average",
@@ -7222,7 +7222,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 76
+"estimate": 78
 },
 {
 "type": "single",
@@ -7454,7 +7454,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 87
+"estimate": 90
 },
 {
 "type": "average",
@@ -7553,7 +7553,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 24
+"estimate": 25
 },
 {
 "type": "single",
@@ -7679,7 +7679,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 30
+"estimate": 31
 },
 {
 "type": "average",
@@ -9444,7 +9444,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 792
+"estimate": 780
 },
 {
 "type": "single",
@@ -11147,7 +11147,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 843
+"estimate": 831
 },
 {
 "type": "average",
@@ -11582,7 +11582,7 @@ rankings =
 "best": "1:35.33"
 }
 ],
-"estimate": 189
+"estimate": 199
 },
 {
 "type": "single",
@@ -12028,7 +12028,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 200
+"estimate": 211
 },
 {
 "type": "average",
@@ -12185,7 +12185,7 @@ rankings =
 "best": "1:47.28"
 }
 ],
-"estimate": 25
+"estimate": 26
 },
 {
 "type": "average",
@@ -13025,7 +13025,7 @@ rankings =
 "best": "5:10.05"
 }
 ],
-"estimate": 214
+"estimate": 221
 },
 {
 "type": "single",
@@ -14110,7 +14110,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 359
+"estimate": 373
 },
 {
 "type": "average",
@@ -14274,7 +14274,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 40
+"estimate": 43
 },
 {
 "type": "single",
@@ -14503,7 +14503,7 @@ rankings =
 "best": "6:47.03"
 }
 ],
-"estimate": 67
+"estimate": 73
 },
 {
 "type": "average",
@@ -15019,7 +15019,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 118
+"estimate": 115
 },
 {
 "type": "single",
@@ -15765,7 +15765,7 @@ rankings =
 "best": "9:54.68"
 }
 ],
-"estimate": 214
+"estimate": 207
 },
 {
 "type": "average",
@@ -16001,7 +16001,7 @@ rankings =
 "best": "6:53.08"
 }
 ],
-"estimate": 36
+"estimate": 40
 },
 {
 "type": "average",
@@ -16249,7 +16249,7 @@ rankings =
 "best": "10:26.00"
 }
 ],
-"estimate": 52
+"estimate": 48
 },
 {
 "type": "single",
@@ -16623,7 +16623,7 @@ rankings =
 "best": "26:29.00"
 }
 ],
-"estimate": 92
+"estimate": 87
 },
 {
 "type": "average",
@@ -16932,7 +16932,7 @@ rankings =
 "best": "17:11.00"
 }
 ],
-"estimate": 34
+"estimate": 35
 },
 {
 "type": "single",
@@ -17256,7 +17256,7 @@ rankings =
 "best": "49:41.00"
 }
 ],
-"estimate": 73
+"estimate": 74
 },
 {
 "type": "average",
@@ -17588,7 +17588,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 49
+"estimate": 50
 },
 {
 "type": "single",
@@ -18092,7 +18092,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 134
+"estimate": 143
 },
 {
 "type": "average",
@@ -18135,7 +18135,7 @@ rankings =
 "best": "7:13.18"
 }
 ],
-"estimate": 10
+"estimate": 11
 },
 {
 "type": "single",
@@ -18254,7 +18254,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 28
+"estimate": 27
 },
 {
 "type": "average",
@@ -18541,7 +18541,7 @@ rankings =
 "best": "72.33"
 }
 ],
-"estimate": 50
+"estimate": 49
 },
 {
 "type": "single",
@@ -19021,7 +19021,7 @@ rankings =
 "best": "75"
 }
 ],
-"estimate": 111
+"estimate": 110
 },
 {
 "type": "average",
@@ -19083,7 +19083,7 @@ rankings =
 "best": "48.33"
 }
 ],
-"estimate": 14
+"estimate": 13
 },
 {
 "type": "single",
@@ -19780,7 +19780,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 164
+"estimate": 161
 },
 {
 "type": "single",
@@ -20529,7 +20529,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 221
+"estimate": 223
 },
 {
 "type": "average",
@@ -20632,7 +20632,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 26
+"estimate": 28
 },
 {
 "type": "single",
@@ -20787,7 +20787,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 42
+"estimate": 45
 },
 {
 "type": "average",
@@ -20936,7 +20936,7 @@ rankings =
 "best": "5:26.30"
 }
 ],
-"estimate": 23
+"estimate": 22
 },
 {
 "type": "single",
@@ -21075,7 +21075,7 @@ rankings =
 "best": "5:55.40"
 }
 ],
-"estimate": 31
+"estimate": 30
 },
 {
 "type": "average",
@@ -21530,7 +21530,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 96
+"estimate": 98
 },
 {
 "type": "single",
@@ -22015,7 +22015,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 132
+"estimate": 134
 },
 {
 "type": "average",
@@ -22130,7 +22130,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 26
+"estimate": 25
 },
 {
 "type": "single",
@@ -22558,7 +22558,7 @@ rankings =
 "best": "6:21.39"
 }
 ],
-"estimate": 48
+"estimate": 52
 },
 {
 "type": "single",
@@ -22915,7 +22915,7 @@ rankings =
 "best": "14:18.00"
 }
 ],
-"estimate": 92
+"estimate": 89
 },
 {
 "type": "average",
@@ -23020,7 +23020,7 @@ rankings =
 "best": "8:55.83"
 }
 ],
-"estimate": 12
+"estimate": 13
 },
 {
 "type": "single",
@@ -24055,7 +24055,7 @@ rankings =
 "best": "1:54.81"
 }
 ],
-"estimate": 402
+"estimate": 412
 },
 {
 "type": "single",
@@ -25103,7 +25103,7 @@ rankings =
 "best": "55.30"
 }
 ],
-"estimate": 435
+"estimate": 447
 },
 {
 "type": "average",
@@ -25352,7 +25352,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 90
+"estimate": 96
 },
 {
 "type": "single",
@@ -25612,7 +25612,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 99
+"estimate": 107
 },
 {
 "type": "average",
@@ -25707,7 +25707,7 @@ rankings =
 "best": "46.73"
 }
 ],
-"estimate": 10
+"estimate": 13
 },
 {
 "type": "average",
@@ -25751,7 +25751,7 @@ rankings =
 "best": "45.82"
 }
 ],
-"estimate": 4
+"estimate": 5
 }
 ]
 },
@@ -26364,7 +26364,7 @@ rankings =
 "best": "51.10"
 }
 ],
-"estimate": 210
+"estimate": 209
 },
 {
 "type": "single",
@@ -27017,7 +27017,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 229
+"estimate": 225
 },
 {
 "type": "average",
@@ -27269,7 +27269,7 @@ rankings =
 "best": "1:00.78"
 }
 ],
-"estimate": 46
+"estimate": 45
 },
 {
 "type": "average",
@@ -27905,7 +27905,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 87
+"estimate": 84
 },
 {
 "type": "average",
@@ -28271,7 +28271,7 @@ rankings =
 "best": "33:56.00"
 }
 ],
-"estimate": 30
+"estimate": 32
 },
 {
 "type": "average",
@@ -28822,7 +28822,7 @@ rankings =
 "best": "1/2 in 20:00"
 }
 ],
-"estimate": 57
+"estimate": 56
 },
 {
 "type": "single",
@@ -28885,7 +28885,7 @@ rankings =
 "best": "1/2 in 19:54"
 }
 ],
-"estimate": 14
+"estimate": 13
 },
 {
 "type": "single",

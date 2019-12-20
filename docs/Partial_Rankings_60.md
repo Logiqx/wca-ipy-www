@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-20 12:24:12 (UTC)
+Last refreshed: 2019-12-20 12:27:32 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -106,7 +106,7 @@ Last refreshed: 2019-12-20 12:24:12 (UTC)
     <tr><td style="text-align:center">35</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">3:44.87</td></tr>
     <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 76</p><p>Estimated completeness of rankings &#8776; 47.4%</p></details>
+<p>Estimated number of seniors &#8776; 78</p><p>Estimated completeness of rankings &#8776; 46.2%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -265,7 +265,7 @@ Last refreshed: 2019-12-20 12:24:12 (UTC)
     <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 87</p><p>Estimated completeness of rankings &#8776; 47.1%</p></details>
+<p>Estimated number of seniors &#8776; 90</p><p>Estimated completeness of rankings &#8776; 45.6%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
@@ -286,7 +286,7 @@ Last refreshed: 2019-12-20 12:24:12 (UTC)
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States</td><td style="text-align:right">1:47.28</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 25</p><p>Estimated completeness of rankings &#8776; 56.0%</p></details>
+<p>Estimated number of seniors &#8776; 26</p><p>Estimated completeness of rankings &#8776; 53.8%</p></details>
 
 <details id="444_best">
   <summary>4x4x4 Cube</summary>
@@ -379,7 +379,7 @@ Last refreshed: 2019-12-20 12:24:12 (UTC)
     <tr><td style="text-align:center">7</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">45.82</td></tr>
     <tr><td style="text-align:center">8</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France</td><td style="text-align:right">46.73</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 10</p><p>Estimated completeness of rankings &#8776; 80.0%</p></details>
+<p>Estimated number of seniors &#8776; 13</p><p>Estimated completeness of rankings &#8776; 61.5%</p></details>
 
 <details id="skewb_best">
   <summary>Skewb</summary>
