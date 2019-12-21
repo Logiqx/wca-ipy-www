@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-21 15:00:11 (UTC)
+Last refreshed: 2019-12-21 18:00:07 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -510,6 +510,15 @@ Last refreshed: 2019-12-21 15:00:11 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/BendigoCubeBlitz2020">Bendigo Cube Blitz 2020</a> - Bendigo, Victoria, Australia - Feb 23, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com
+  </p>
+</details>
+
+<h3>Mar 30, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/BerkeleySpring2020">Berkeley Spring 2020</a> - Berkeley, California, United States - Mar 29, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
