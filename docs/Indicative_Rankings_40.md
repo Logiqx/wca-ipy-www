@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-20 12:27:31 (UTC)
+Last refreshed: 2019-12-21 04:14:48 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -1052,7 +1052,7 @@ Last refreshed: 2019-12-20 12:27:31 (UTC)
     <tr><td style="text-align:center">1855</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">1877</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1884</p><p>Estimated completeness of rankings &#8776; 26.5%</p></details>
+<p>Estimated number of seniors &#8776; 1885</p><p>Estimated completeness of rankings &#8776; 26.5%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
