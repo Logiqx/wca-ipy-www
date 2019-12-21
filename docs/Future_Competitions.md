@@ -7,14 +7,13 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-20 21:00:14 (UTC)
+Last refreshed: 2019-12-21 00:00:11 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AlicanteOpen2019">Alicante Open 2019</a> - Alicante, Spain - Dec 21, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2007SANC01">Javier Cabezuelo Sánchez</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/cabezuelo.27213">Cabezuelo</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
