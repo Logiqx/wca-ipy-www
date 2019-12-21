@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-21 12:00:09 (UTC)
+Last refreshed: 2019-12-21 15:00:11 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -228,8 +228,7 @@ Last refreshed: 2019-12-21 12:00:09 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020">Swisscubing Cup I 2020</a> - Sonvico, Switzerland - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018DITT03">Thomas Ditton</a>, Switzerland
+    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
   </p>
 </details>
 
