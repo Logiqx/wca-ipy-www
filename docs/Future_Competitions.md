@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-21 03:00:13 (UTC)
+Last refreshed: 2019-12-21 06:00:10 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -304,6 +304,13 @@ Last refreshed: 2019-12-21 03:00:13 (UTC)
 </details>
 
 <h3>Jan 20, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/Alberta5thAnniversary2020">Alberta 5th Anniversary 2020</a> - Sherwood Park, Alberta, Canada - Jan 18 - 19, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016CHOW02">Christian Chow</a>, Canada, 50+
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BerlinWinterCubing2020">Berlin Winter Cubing 2020</a> - Berlin, Germany - Jan 18 - 19, 2020</summary>
