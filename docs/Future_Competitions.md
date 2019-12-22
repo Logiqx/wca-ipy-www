@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-22 00:00:08 (UTC)
+Last refreshed: 2019-12-22 03:00:08 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -60,8 +60,7 @@ Last refreshed: 2019-12-22 00:00:08 (UTC)
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DallasCubemas2019">Dallas Cubemas 2019</a> - Dallas, Texas, United States - Dec 21 - 22, 2019</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016GREE02">Jason Green</a>, United States - <a href="https://www.speedsolving.com/members/jason-green.31284">Jason Green</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
