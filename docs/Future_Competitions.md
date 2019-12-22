@@ -7,48 +7,9 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-22 03:00:08 (UTC)
+Last refreshed: 2019-12-22 06:00:07 (UTC)
 
 <h3>Dec 23, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/AlicanteOpen2019">Alicante Open 2019</a> - Alicante, Spain - Dec 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009TIRA01">Javier Tirado Ortiz</a>, Spain - <a href="https://www.speedsolving.com/members/superti.5804">superti</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/AZCubingWinter2019">AZCubing Winter 2019</a> - Phoenix, Arizona, United States - Dec 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2014DECO01">Mike DeCock</a>, United States - <a href="https://www.speedsolving.com/members/evilgnome6.25692">EvilGnome6</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015REYE08">Rafael Reyes</a>, United States
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin222019">Bay Area Speedcubin' 22 2019</a> - Daly City, California, United States - Dec 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2012LUKE01">Kenneth Lu</a>, United States - <a href="https://www.speedsolving.com/members/toastyken.17487">ToastyKen</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019VELL03">Meel Velliste</a>, United States
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CubersEve2019">Cubers Eve Środa Wielkopolska 2019</a> - Środa Wielkopolska, Poland - Dec 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018CHOD01">Jarosław Chodyniecki</a>, Poland
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaX2019">Franconia X 2019</a> - Nürnberg, Germany - Dec 21, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
-  </p>
-</details>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019">Cebu Speedcubing Year End 2019</a> - Cebu City, Philippines - Dec 21 - 22, 2019</summary>
