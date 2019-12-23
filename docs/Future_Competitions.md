@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-22 21:00:12 (UTC)
+Last refreshed: 2019-12-23 00:00:09 (UTC)
 
 <h3>Dec 23, 2019</h3>
 
@@ -470,6 +470,15 @@ Last refreshed: 2019-12-22 21:00:12 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/BendigoCubeBlitz2020">Bendigo Cube Blitz 2020</a> - Bendigo, Victoria, Australia - Feb 23, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com
+  </p>
+</details>
+
+<h3>Mar 2, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/HamburgInternational2020">Hamburg International 2020</a> - Hamburg, Germany - Feb 29 - Mar 1, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
   </p>
 </details>
 
