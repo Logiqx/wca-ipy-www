@@ -7,70 +7,18 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-23 03:00:13 (UTC)
-
-<h3>Dec 23, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CebuSpeedcubingYearEnd2019">Cebu Speedcubing Year End 2019</a> - Cebu City, Philippines - Dec 21 - 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/DallasCubemas2019">Dallas Cubemas 2019</a> - Dallas, Texas, United States - Dec 21 - 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/LaSillaII2019">La Silla II 2019</a> - Santa Catarina, Mexico - Dec 21 - 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2011SALA06">José Adrian Jaquez Salazar</a>, Mexico, 50+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/Medan10thAnniversary2019">Medan 10th Anniversary 2019</a> - Medan, North Sumatra, Indonesia - Dec 21 - 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/Wiscube2019">Wiscube 2019</a> - Madison, Wisconsin, United States - Dec 21 - 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/2FeetofSnowinMontreal2019">2 Feet of Snow in Montreal 2019</a> - Montréal, Quebec, Canada - Dec 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017DAOU01">Daniel Daoust</a>, Canada<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017FREG01">Jérôme Fréguin</a>, Canada - <a href="https://www.speedsolving.com/members/megagoune.29210">megagoune</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/FeetChallengeUkraine2019">Feet Challenge Ukraine 2019</a> - Kiyiv, Ukraine - Dec 22, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017REZH01">Dmytro Rezhko (Дмитро Режко)</a>, Ukraine
-  </p>
-</details>
+Last refreshed: 2019-12-23 06:00:07 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019">VJTI Mumbai Cube Open 2019</a> - Mumbai, Maharashtra, India - Dec 27 - 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009NEEL01">Patitpavan Neel</a>, India, 60+
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019">Selangor Cube Open 2019</a> - Seri Kembangan, Selangor, Malaysia - Dec 27 - 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
@@ -79,7 +27,7 @@ Last refreshed: 2019-12-23 03:00:13 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CubingKorea2019">Cubing Korea 2019</a> - 서울특별시 (Seoul), Republic of Korea - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea<br/>
@@ -88,7 +36,7 @@ Last refreshed: 2019-12-23 03:00:13 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HiroshimaOpen2019">Hiroshima Open 2019</a> - Fukuyama, Hiroshima, Japan - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017KITA01">Akatsuki Kitamura (北村曉)</a>, Japan - <a href="https://www.speedsolving.com/members/kits_.50452">kits_</a> on Speedsolving.com<br/>
@@ -102,21 +50,21 @@ Last refreshed: 2019-12-23 03:00:13 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2019">Portland in a Pyra Tree 2019</a> - Portland, Oregon, United States - Dec 28, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BrasiliaClosing2019">Brasília Closing 2019</a> - Brasília, Distrito Federal, Brazil - Dec 28 - 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017NOVA05">João Luiz Melo Novaes</a>, Brazil
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SurfCoastCubing2019">Surf Coast Cubing 2019</a> - Anglesea, Victoria, Australia - Dec 29, 2019</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
