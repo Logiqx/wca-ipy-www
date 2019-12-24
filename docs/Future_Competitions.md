@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-24 06:00:07 (UTC)
+Last refreshed: 2019-12-24 09:00:12 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -218,6 +218,13 @@ Last refreshed: 2019-12-24 06:00:07 (UTC)
 </details>
 
 <h3>Jan 20, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/UCSDWinter2020">UCSD Winter 2020</a> - San Diego, California, United States - Jan 18, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019BLAC02">Jason Black</a>, United States, 50+
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/Alberta5thAnniversary2020">Alberta 5th Anniversary 2020</a> - Sherwood Park, Alberta, Canada - Jan 18 - 19, 2020</summary>
