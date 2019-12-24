@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-23 04:14:50",
+"refreshed": "2019-12-24 04:15:24",
 "events": [
 {
 "id": "333",
@@ -2652,7 +2652,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1892
+"estimate": 1895
 },
 {
 "type": "single",
@@ -5358,7 +5358,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 1980
+"estimate": 1984
 },
 {
 "type": "average",
@@ -6175,7 +6175,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 498
+"estimate": 499
 },
 {
 "type": "single",
@@ -7029,7 +7029,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 522
+"estimate": 523
 },
 {
 "type": "average",
@@ -9459,7 +9459,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 783
+"estimate": 785
 },
 {
 "type": "single",
@@ -11167,7 +11167,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 834
+"estimate": 836
 },
 {
 "type": "average",
@@ -11602,7 +11602,7 @@ rankings =
 "best": "1:35.33"
 }
 ],
-"estimate": 199
+"estimate": 200
 },
 {
 "type": "single",
@@ -12048,7 +12048,7 @@ rankings =
 "age": 60
 }
 ],
-"estimate": 211
+"estimate": 212
 },
 {
 "type": "average",
@@ -14140,7 +14140,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 374
+"estimate": 375
 },
 {
 "type": "average",
@@ -22077,7 +22077,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 134
+"estimate": 135
 },
 {
 "type": "average",
@@ -24127,7 +24127,7 @@ rankings =
 "best": "1:54.81"
 }
 ],
-"estimate": 414
+"estimate": 415
 },
 {
 "type": "single",
@@ -25175,7 +25175,7 @@ rankings =
 "best": "55.30"
 }
 ],
-"estimate": 449
+"estimate": 450
 },
 {
 "type": "average",
@@ -26436,7 +26436,7 @@ rankings =
 "best": "51.10"
 }
 ],
-"estimate": 209
+"estimate": 210
 },
 {
 "type": "single",
@@ -27089,7 +27089,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 225
+"estimate": 226
 },
 {
 "type": "average",
