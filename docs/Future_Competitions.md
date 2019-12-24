@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-24 00:00:13 (UTC)
+Last refreshed: 2019-12-24 03:00:11 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -386,6 +386,7 @@ Last refreshed: 2019-12-24 00:00:13 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SingaporeCubeChampionship2020">Singapore Cube Championship 2020</a> - Singapore, Singapore - Feb 21 - 23, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2012ANGD01">David Ang</a>, Singapore - <a href="https://www.speedsolving.com/members/cubewerkz.20466">Cubewerkz</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
