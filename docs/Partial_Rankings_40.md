@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-24 22:03:32 (UTC)
+Last refreshed: 2019-12-25 04:13:47 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -1063,7 +1063,7 @@ Last refreshed: 2019-12-24 22:03:32 (UTC)
     <tr><td style="text-align:center">499</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">500</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1895</p><p>Estimated completeness of rankings &#8776; 26.4%</p></details>
+<p>Estimated number of seniors &#8776; 1898</p><p>Estimated completeness of rankings &#8776; 26.3%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -1386,7 +1386,7 @@ Last refreshed: 2019-12-24 22:03:32 (UTC)
     <tr><td style="text-align:center">315</td><td><a href="https://www.worldcubeassociation.org/persons/2015FIEC01#222">Elmar Fiechter-Alber</a>, Austria, 50+</td><td style="text-align:right">1:19.97</td></tr>
     <tr><td style="text-align:center">316</td><td><a href="https://www.worldcubeassociation.org/persons/2016LUJA01#222">Jose Gabriel Moratalla Lujan</a>, Spain, 50+</td><td style="text-align:right">1:35.33</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 785</p><p>Estimated completeness of rankings &#8776; 40.3%</p></details>
+<p>Estimated number of seniors &#8776; 786</p><p>Estimated completeness of rankings &#8776; 40.2%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
@@ -1939,7 +1939,7 @@ Last refreshed: 2019-12-24 22:03:32 (UTC)
     <tr><td style="text-align:center">110</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#333oh">Daniel Daoust</a>, Canada</td><td style="text-align:right">2:10.15</td></tr>
     <tr><td style="text-align:center">111</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#333oh">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">7:22.35</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 161</p><p>Estimated completeness of rankings &#8776; 68.9%</p></details>
+<p>Estimated number of seniors &#8776; 162</p><p>Estimated completeness of rankings &#8776; 68.5%</p></details>
 
 <details id="333ft_avg">
   <summary>3x3x3 With Feet</summary>
@@ -3029,7 +3029,7 @@ Last refreshed: 2019-12-24 22:03:32 (UTC)
     <tr><td style="text-align:center">510</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">511</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1984</p><p>Estimated completeness of rankings &#8776; 25.8%</p></details>
+<p>Estimated number of seniors &#8776; 1987</p><p>Estimated completeness of rankings &#8776; 25.7%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>
@@ -3362,7 +3362,7 @@ Last refreshed: 2019-12-24 22:03:32 (UTC)
     <tr><td style="text-align:center">325</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">326</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">1:47.28</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 836</p><p>Estimated completeness of rankings &#8776; 39.0%</p></details>
+<p>Estimated number of seniors &#8776; 838</p><p>Estimated completeness of rankings &#8776; 38.9%</p></details>
 
 <details id="444_best">
   <summary>4x4x4 Cube</summary>
