@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-25 12:00:08 (UTC)
+Last refreshed: 2019-12-25 15:00:10 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -497,6 +497,7 @@ Last refreshed: 2019-12-25 12:00:08 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003LEEJ01">Jasmine Lee</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016DUEH02">Jeremy Duehring</a>, United States - <a href="https://www.speedsolving.com/members/spartansailor.36397">SpartanSailor</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
