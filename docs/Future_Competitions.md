@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-25 06:00:07 (UTC)
+Last refreshed: 2019-12-25 09:00:11 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -453,6 +453,15 @@ Last refreshed: 2019-12-25 06:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/HamburgInternational2020">Hamburg International 2020</a> - Hamburg, Germany - Feb 29 - Mar 1, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
+  </p>
+</details>
+
+<h3>Mar 16, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SpokanePiDay2020">Spokane Pi Day 2020</a> - Spokane, Washington, United States - Mar 14, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States
   </p>
 </details>
 
