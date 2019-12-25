@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-25 00:00:07 (UTC)
+Last refreshed: 2019-12-25 03:00:10 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -478,6 +478,16 @@ Last refreshed: 2019-12-25 00:00:07 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/ChanqueteOpen2020">Chanquete Open 2020</a> - Nerja, Málaga, Spain - Apr 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
+  </p>
+</details>
+
+<h3>Jun 29, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/NA2020">WCA North American Championship 2020</a> - Toronto, Ontario, Canada - Jun 25 - 28, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2003LEEJ01">Jasmine Lee</a>, Australia
   </p>
 </details>
 
