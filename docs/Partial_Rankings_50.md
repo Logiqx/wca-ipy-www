@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-25 04:13:47 (UTC)
+Last refreshed: 2019-12-26 04:15:15 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -280,7 +280,7 @@ Last refreshed: 2019-12-25 04:13:47 (UTC)
     <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2004SALV01#333">David Salvia</a>, United States, 70+</td><td style="text-align:right">42.61</td></tr>
     <tr><td style="text-align:center">77</td><td><a href="https://www.worldcubeassociation.org/persons/2009OKED01#333">Eiji Okeda (桶田英次)</a>, Japan</td><td style="text-align:right">43.04</td></tr>
     <tr><td style="text-align:center">78</td><td><a href="https://www.worldcubeassociation.org/persons/2016CARD19#333">Raimundo Caliga Cardoso</a>, Brazil</td><td style="text-align:right">43.24</td></tr>
-    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#333">John Cook</a>, Australia</td><td style="text-align:right">45.25</td></tr>
+    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#333">John Cook</a>, Australia</td><td style="text-align:right">43.78</td></tr>
     <tr><td style="text-align:center">80</td><td><a href="https://www.worldcubeassociation.org/persons/2015HAGE04#333">Mariusz Hagemejer</a>, Poland</td><td style="text-align:right">45.45</td></tr>
     <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2006SANT01#333">Javier Santos</a>, Spain, 60+</td><td style="text-align:right">45.47</td></tr>
     <tr><td style="text-align:center">82</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMO01#333">Hideaki Tomoyori (友寄英哲)</a>, Japan, 80+</td><td style="text-align:right">46.04</td></tr>
@@ -358,7 +358,7 @@ Last refreshed: 2019-12-25 04:13:47 (UTC)
     <tr><td style="text-align:center">154</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">155</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 499</p><p>Estimated completeness of rankings &#8776; 31.1%</p></details>
+<p>Estimated number of seniors &#8776; 500</p><p>Estimated completeness of rankings &#8776; 31.0%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -934,7 +934,7 @@ Last refreshed: 2019-12-25 04:13:47 (UTC)
     <tr><td style="text-align:center">161</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">4:59.18</td></tr>
     <tr><td style="text-align:center">162</td><td><a href="https://www.worldcubeassociation.org/persons/2011MICH01#333">Egon Micheelsen</a>, Denmark, 90+</td><td style="text-align:right">5:52.16</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 523</p><p>Estimated completeness of rankings &#8776; 31.0%</p></details>
+<p>Estimated number of seniors &#8776; 524</p><p>Estimated completeness of rankings &#8776; 30.9%</p></details>
 
 <details id="222_best">
   <summary>2x2x2 Cube</summary>

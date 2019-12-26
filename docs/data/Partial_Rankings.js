@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-25 04:13:47",
+"refreshed": "2019-12-26 04:15:15",
 "events": [
 {
 "id": "333",
@@ -1708,34 +1708,34 @@ rankings =
 },
 {
 "rank": 327,
+"id": "2018COOK04",
+"best": "43.78",
+"age": 50
+},
+{
+"rank": 328,
 "id": "2012MANS04",
 "best": "43.80"
 },
 {
-"rank": 328,
+"rank": 329,
 "id": "2017SHEA01",
 "best": "43.91"
 },
 {
-"rank": 329,
+"rank": 330,
 "id": "2006MIZO01",
 "best": "44.16"
 },
 {
-"rank": 330,
+"rank": 331,
 "id": "2018SEMO01",
 "best": "44.20"
 },
 {
-"rank": 331,
+"rank": 332,
 "id": "2015BEUK01",
 "best": "45.12"
-},
-{
-"rank": 332,
-"id": "2018COOK04",
-"best": "45.25",
-"age": 50
 },
 {
 "rank": 333,
@@ -2652,7 +2652,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1898
+"estimate": 1899
 },
 {
 "type": "single",
@@ -5765,7 +5765,7 @@ rankings =
 {
 "rank": 79,
 "id": "2018COOK04",
-"best": "45.25"
+"best": "43.78"
 },
 {
 "rank": 80,
@@ -6175,7 +6175,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 499
+"estimate": 500
 },
 {
 "type": "single",
@@ -7029,7 +7029,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 523
+"estimate": 524
 },
 {
 "type": "average",
@@ -25175,7 +25175,7 @@ rankings =
 "best": "55.30"
 }
 ],
-"estimate": 450
+"estimate": 451
 },
 {
 "type": "average",
