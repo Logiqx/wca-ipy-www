@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-27 09:00:06 (UTC)
+Last refreshed: 2019-12-27 12:00:04 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -462,6 +462,15 @@ Last refreshed: 2019-12-27 09:00:06 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SpokanePiDay2020">Spokane Pi Day 2020</a> - Spokane, Washington, United States - Mar 14, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017TABA02">Chris Tabar</a>, United States
+  </p>
+</details>
+
+<h3>Mar 23, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/DevonportBySea2020">Devonport By Sea 2020</a> - Devonport, Tasmania, Australia - Mar 22, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
   </p>
 </details>
 
