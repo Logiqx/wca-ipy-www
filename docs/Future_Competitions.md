@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-28 06:00:03 (UTC)
+Last refreshed: 2019-12-28 09:00:05 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -168,6 +168,7 @@ Last refreshed: 2019-12-28 06:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/AdelaideSummer2020">Adelaide Summer 2020</a> - Adelaide, South Australia, Australia - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019CHUN08">Adrian Chung</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
   </p>
 </details>
@@ -523,6 +524,7 @@ Last refreshed: 2019-12-28 06:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ChanqueteOpen2020">Chanquete Open 2020</a> - Nerja, Málaga, Spain - Apr 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019MEDI04">Miguel Ángel Galdeano Medina</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
   </p>
 </details>
