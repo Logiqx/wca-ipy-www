@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-27 20:15:55 (UTC)
+Last refreshed: 2019-12-28 04:15:02 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -1026,7 +1026,7 @@ Last refreshed: 2019-12-27 20:15:55 (UTC)
     <tr><td style="text-align:center">84</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#222">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">57.27</td></tr>
     <tr><td style="text-align:center">85</td><td><a href="https://www.worldcubeassociation.org/persons/2009SING03#222">Daljit Singh</a>, United States, 60+</td><td style="text-align:right">1:47.28</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 212</p><p>Estimated completeness of rankings &#8776; 40.1%</p></details>
+<p>Estimated number of seniors &#8776; 213</p><p>Estimated completeness of rankings &#8776; 39.9%</p></details>
 
 <details id="444_best">
   <summary>4x4x4 Cube</summary>
