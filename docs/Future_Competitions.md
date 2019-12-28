@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-28 00:00:03 (UTC)
+Last refreshed: 2019-12-28 03:00:06 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -474,6 +474,20 @@ Last refreshed: 2019-12-28 00:00:03 (UTC)
 <h3>Mar 23, 2020</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/MelbourneMeanMadness2020">Melbourne Mean Madness 2020</a> - Melbourne, Victoria, Australia - Mar 21, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014ROCH07">David Roche</a>, Australia, 50+
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FMSeaBassStrait2020">FMSea Bass Strait 2020</a> - Bass Strait, Tasmania, Australia - Mar 21 - 22, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014ROCH07">David Roche</a>, Australia, 50+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/KMGSpecial2020">KMG Special 2020</a> - Frederiksberg, Denmark - Mar 21 - 22, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+
@@ -483,6 +497,7 @@ Last refreshed: 2019-12-28 00:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DevonportBySea2020">Devonport By Sea 2020</a> - Devonport, Tasmania, Australia - Mar 22, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2014ROCH07">David Roche</a>, Australia, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2016BREW04">Michelle Brewster</a>, Australia
   </p>
 </details>
