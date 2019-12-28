@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-28 12:00:03 (UTC)
+Last refreshed: 2019-12-28 15:00:06 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -332,6 +332,13 @@ Last refreshed: 2019-12-28 12:00:03 (UTC)
 </details>
 
 <h3>Feb 3, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/PopularnBlindFlen2020">Popular 'n Blind Flen 2020</a> - Flen, Sweden - Jan 31 - Feb 2, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013ANDE01">Peter Andersson</a>, Sweden, 50+ - <a href="https://www.speedsolving.com/members/peter-andersson.21285">Peter Andersson</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/FriscoLibertyCubing2020">Frisco Liberty Cubing 2020</a> - Frisco, Texas, United States - Feb 1, 2020</summary>
