@@ -7,16 +7,9 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-29 03:00:05 (UTC)
+Last refreshed: 2019-12-29 06:00:03 (UTC)
 
 <h3>Dec 30, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2019">VJTI Mumbai Cube Open 2019</a> - Mumbai, Maharashtra, India - Dec 27 - 28, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009NEEL01">Patitpavan Neel</a>, India, 60+
-  </p>
-</details>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SelangorCubeOpen2019">Selangor Cube Open 2019</a> - Seri Kembangan, Selangor, Malaysia - Dec 27 - 29, 2019</summary>
@@ -24,36 +17,6 @@ Last refreshed: 2019-12-29 03:00:05 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2017PEHJ01">Joyce Peh</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010WENS01">Siew Hann Wen (蕭漢文)</a>, Malaysia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010SOHT01">Tiffany Soh (蘇明珠)</a>, Malaysia
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CubingKorea2019">Cubing Korea 2019</a> - 서울특별시 (Seoul), Republic of Korea - Dec 28, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015KIMH04">Hyunjo Kim (김현조)</a>, Republic of Korea<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/HiroshimaOpen2019">Hiroshima Open 2019</a> - Fukuyama, Hiroshima, Japan - Dec 28, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017KITA01">Akatsuki Kitamura (北村曉)</a>, Japan - <a href="https://www.speedsolving.com/members/kits_.50452">kits_</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2019WADA01">Atsushi Wada (和田篤史)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017SUDA03">Masaaki Suda (須田將昭)</a>, Japan - <a href="https://www.speedsolving.com/members/mmmasa.50453">MMMasa</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2011YOSH01">Ryohei Yoshioka (吉岡亮平)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2010HAMA03">Ryuji Hamano (浜野竜二)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2017TAKA02">Takashi Takaoka (高岡孝)</a>, Japan, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2018HOSH02">Toshio Hoshino (星野利夫)</a>, Japan<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2012HAMA02">Yuichi Hamada (濵田祐一)</a>, Japan
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/PortlandinaPyraTree2019">Portland in a Pyra Tree 2019</a> - Portland, Oregon, United States - Dec 28, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018BART01">Matt Bartlett</a>, United States
   </p>
 </details>
 
