@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-29 04:15:08",
+"refreshed": "2019-12-29 21:03:15",
 "events": [
 {
 "id": "333",
@@ -761,6 +761,11 @@ rankings =
 "best": "23.80"
 },
 {
+"rank": 266,
+"id": "2014KUDO02",
+"best": "23.83"
+},
+{
 "rank": 268,
 "id": "2004BOSS01",
 "best": "23.86"
@@ -855,6 +860,12 @@ rankings =
 "rank": 307,
 "id": "2017ROBE21",
 "best": "25.30"
+},
+{
+"rank": 309,
+"id": "2005ASPE01",
+"best": "25.41",
+"age": 50
 },
 {
 "rank": 315,
@@ -1626,6 +1637,11 @@ rankings =
 "age": 80
 },
 {
+"rank": 734,
+"id": "2015HASU01",
+"best": "41.41"
+},
+{
 "rank": 739,
 "id": "2018NILS03",
 "best": "41.58"
@@ -1673,6 +1689,11 @@ rankings =
 "id": "2004SALV01",
 "best": "42.61",
 "age": 70
+},
+{
+"rank": 760,
+"id": "2017SIGG01",
+"best": "42.61"
 },
 {
 "rank": 763,
@@ -2088,9 +2109,19 @@ rankings =
 "age": 50
 },
 {
+"rank": 1104,
+"id": "2019JARM01",
+"best": "1:08.23"
+},
+{
 "rank": 1107,
 "id": "2009BLOH01",
 "best": "1:08.33"
+},
+{
+"rank": 1108,
+"id": "2017RIBB02",
+"best": "1:08.42"
 },
 {
 "rank": 1110,
@@ -2802,6 +2833,12 @@ rankings =
 "best": "6.44"
 },
 {
+"rank": 38,
+"id": "2005ASPE01",
+"best": "6.44",
+"age": 50
+},
+{
 "rank": 41,
 "id": "2005GUST01",
 "best": "6.47"
@@ -3443,6 +3480,11 @@ rankings =
 "best": "10.23"
 },
 {
+"rank": 251,
+"id": "2014KUDO02",
+"best": "10.30"
+},
+{
 "rank": 254,
 "id": "2015LOPE29",
 "best": "10.36"
@@ -3915,6 +3957,11 @@ rankings =
 "best": "16.48"
 },
 {
+"rank": 458,
+"id": "2015HASU01",
+"best": "16.83"
+},
+{
 "rank": 459,
 "id": "2017ROSS10",
 "best": "16.91",
@@ -4096,6 +4143,11 @@ rankings =
 "id": "2015LEVI01",
 "best": "23.40",
 "age": 60
+},
+{
+"rank": 566,
+"id": "2017RIBB02",
+"best": "23.93"
 },
 {
 "rank": 569,
@@ -4973,6 +5025,12 @@ rankings =
 "age": 50
 },
 {
+"rank": 172,
+"id": "2005ASPE01",
+"best": "2:13.07",
+"age": 50
+},
+{
 "rank": 173,
 "id": "2012ADRI01",
 "best": "2:13.13"
@@ -5545,6 +5603,11 @@ rankings =
 "id": "2008BERG04",
 "best": "5:13.84",
 "age": 60
+},
+{
+"rank": 104,
+"id": "2005ASPE01",
+"best": "5:19.10"
 },
 {
 "rank": 108,
@@ -6731,6 +6794,11 @@ rankings =
 "best": "48.05"
 },
 {
+"rank": 75,
+"id": "2014KUDO02",
+"best": "48.60"
+},
+{
 "rank": 76,
 "id": "2005PARI01",
 "best": "48.66"
@@ -6810,6 +6878,12 @@ rankings =
 "rank": 98,
 "id": "2012ANGD01",
 "best": "53.97"
+},
+{
+"rank": 99,
+"id": "2005ASPE01",
+"best": "54.72",
+"age": 50
 },
 {
 "rank": 101,
@@ -7108,6 +7182,11 @@ rankings =
 "rank": 16,
 "id": "2010WENS01",
 "best": "3:48.62"
+},
+{
+"rank": 17,
+"id": "2005ASPE01",
+"best": "3:52.33"
 },
 {
 "rank": 18,
@@ -8541,6 +8620,11 @@ rankings =
 "best": "21.01"
 },
 {
+"rank": 258,
+"id": "2015HASU01",
+"best": "21.16"
+},
+{
 "rank": 260,
 "id": "2014SANT22",
 "best": "21.31"
@@ -8746,6 +8830,11 @@ rankings =
 "id": "2011SEOK01",
 "best": "35.38",
 "age": 60
+},
+{
+"rank": 368,
+"id": "2005ASPE01",
+"best": "35.39"
 },
 {
 "rank": 369,
@@ -9665,6 +9754,11 @@ rankings =
 "best": "1:56.21"
 },
 {
+"rank": 58,
+"id": "2005ASPE01",
+"best": "1:56.73"
+},
+{
 "rank": 59,
 "id": "2013MESA01",
 "best": "2:01.35"
@@ -10167,6 +10261,22 @@ rankings =
 "events": [
 "333",
 "222"
+]
+},
+{
+"id": "2005ASPE01",
+"name": "Lennart Aspelin",
+"country": "SE",
+"age": 50,
+"events": [
+"333",
+"222",
+"444",
+"555",
+"333oh",
+"333ft",
+"pyram",
+"sq1"
 ]
 },
 {
@@ -12857,6 +12967,17 @@ rankings =
 ]
 },
 {
+"id": "2014KUDO02",
+"name": "Patrik Kudo",
+"country": "SE",
+"age": 40,
+"events": [
+"333",
+"222",
+"333oh"
+]
+},
+{
 "id": "2014MELZ01",
 "name": "Amnon Melzer",
 "country": "ZA",
@@ -13241,6 +13362,17 @@ rankings =
 "pyram",
 "skewb",
 "sq1"
+]
+},
+{
+"id": "2015HASU01",
+"name": "Matthew Hasuly",
+"country": "SE",
+"age": 40,
+"events": [
+"333",
+"222",
+"pyram"
 ]
 },
 {
@@ -14678,6 +14810,16 @@ rankings =
 ]
 },
 {
+"id": "2017RIBB02",
+"name": "Anders Ribbegårdh",
+"country": "SE",
+"age": 40,
+"events": [
+"333",
+"222"
+]
+},
+{
 "id": "2017ROBE21",
 "name": "William Robertson",
 "country": "US",
@@ -14749,6 +14891,15 @@ rankings =
 "222",
 "pyram",
 "skewb"
+]
+},
+{
+"id": "2017SIGG01",
+"name": "Mats Sigge",
+"country": "SE",
+"age": 40,
+"events": [
+"333"
 ]
 },
 {
@@ -15790,6 +15941,15 @@ rankings =
 "name": "Masayuki Iwasa (岩佐雅幸)",
 "country": "JP",
 "age": 50,
+"events": [
+"333"
+]
+},
+{
+"id": "2019JARM01",
+"name": "Kerrie Jarman",
+"country": "AU",
+"age": 40,
 "events": [
 "333"
 ]
