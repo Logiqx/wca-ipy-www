@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-29 12:00:03 (UTC)
+Last refreshed: 2019-12-29 15:00:06 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -242,7 +242,8 @@ Last refreshed: 2019-12-29 12:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/MinxCOpenhagen2020">Minx C-Open-hagen 2020</a> - Kastrup, Denmark - Jan 18 - 19, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark
+    - <a href="https://www.worldcubeassociation.org/persons/2017ASMU01">Thor Muto Asmund</a>, Denmark<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017THOR06">Torbjörn Thorsén</a>, Sweden, 50+
   </p>
 </details>
 
