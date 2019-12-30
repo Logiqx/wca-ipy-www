@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-30 13:09:39 (UTC)
+Last refreshed: 2019-12-30 16:28:59 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -635,7 +635,7 @@ Last refreshed: 2019-12-30 13:09:39 (UTC)
     <tr><td style="text-align:center">21</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+</td><td style="text-align:right">1:19.28</td></tr>
     <tr><td style="text-align:center">22</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:54.12</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 25</p><p>Estimated completeness of rankings &#8776; 88.0%</p></details>
+<p>Estimated number of seniors &#8776; 26</p><p>Estimated completeness of rankings &#8776; 84.6%</p></details>
 
 <details id="minx_avg">
   <summary>Megaminx</summary>
@@ -1302,7 +1302,7 @@ Last refreshed: 2019-12-30 13:09:39 (UTC)
     <tr><td style="text-align:center">24</td><td><a href="https://www.worldcubeassociation.org/persons/2011SEOK01#clock">Se-Ok Park (박세옥)</a>, Republic of Korea, 60+</td><td style="text-align:right">1:12.02</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:04.91</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 30</p><p>Estimated completeness of rankings &#8776; 83.3%</p></details>
+<p>Estimated number of seniors &#8776; 31</p><p>Estimated completeness of rankings &#8776; 80.6%</p></details>
 
 <details id="minx_best">
   <summary>Megaminx</summary>
