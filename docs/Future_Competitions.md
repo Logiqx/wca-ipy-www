@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-29 21:00:02 (UTC)
+Last refreshed: 2019-12-30 00:00:05 (UTC)
 
 <h3>Dec 30, 2019</h3>
 
@@ -32,7 +32,8 @@ Last refreshed: 2019-12-29 21:00:02 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018COOK04">John Cook</a>, Australia, 50+<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019JARM01">Kerrie Jarman</a>, Australia
   </p>
 </details>
 
@@ -132,6 +133,7 @@ Last refreshed: 2019-12-29 21:00:02 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/AdelaideSummer2020">Adelaide Summer 2020</a> - Adelaide, South Australia, Australia - Jan 11, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019CHUN08">Adrian Chung</a>, Australia<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019JARM01">Kerrie Jarman</a>, Australia<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017GEES01">Paul N. van de Geest</a>, United Kingdom
   </p>
 </details>
@@ -298,7 +300,8 @@ Last refreshed: 2019-12-29 21:00:02 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/MelbourneSummer2020">Melbourne Summer 2020</a> - Melbourne, Victoria, Australia - Jan 25 - 27, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+
+    - <a href="https://www.worldcubeassociation.org/persons/2016DEXT02">Jonathan Dexter</a>, Australia, 50+<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019JARM01">Kerrie Jarman</a>, Australia
   </p>
 </details>
 
@@ -380,6 +383,13 @@ Last refreshed: 2019-12-29 21:00:02 (UTC)
   </p>
 </details>
 
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/GoingtoTheGong2020">Going to The Gong 2020</a> - Wollongong, New South Wales, Australia - Feb 16, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2019MCDO05">Brett A. McDonald</a>, Australia
+  </p>
+</details>
+
 <h3>Feb 24, 2020</h3>
 
 <details>
@@ -428,7 +438,8 @@ Last refreshed: 2019-12-29 21:00:02 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BendigoCubeBlitz2020">Bendigo Cube Blitz 2020</a> - Bendigo, Victoria, Australia - Feb 23, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2016ZEMD01">David Zemdegs</a>, Australia, 50+ - <a href="https://www.speedsolving.com/members/david-zemdegs.10014">David Zemdegs</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019JARM01">Kerrie Jarman</a>, Australia
   </p>
 </details>
 
