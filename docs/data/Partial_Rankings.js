@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2019-12-31 04:14:56",
+"refreshed": "2019-12-31 18:02:27",
 "events": [
 {
 "id": "333",
@@ -28013,7 +28013,7 @@ rankings =
 "best": "2:53.16"
 }
 ],
-"estimate": 65
+"estimate": 66
 },
 {
 "type": "single",

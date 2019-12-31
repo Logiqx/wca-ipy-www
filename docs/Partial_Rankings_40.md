@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-31 04:14:56 (UTC)
+Last refreshed: 2019-12-31 18:02:27 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -2521,7 +2521,7 @@ Last refreshed: 2019-12-31 04:14:56 (UTC)
     <tr><td style="text-align:center">55</td><td><a href="https://www.worldcubeassociation.org/persons/2008BERG04#sq1">Mats Bergsten</a>, Sweden, 60+</td><td style="text-align:right">2:40.21</td></tr>
     <tr><td style="text-align:center">56</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#sq1">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">2:53.16</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 65</p><p>Estimated completeness of rankings &#8776; 86.2%</p></details>
+<p>Estimated number of seniors &#8776; 66</p><p>Estimated completeness of rankings &#8776; 84.8%</p></details>
 
 <details id="444bf_avg">
   <summary>4x4x4 Blindfolded</summary>
