@@ -7,41 +7,32 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-31 03:00:07 (UTC)
-
-<h3>Dec 30, 2019</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SmallCheese2019">Small Cheese 2019</a> - Ferryville, Wisconsin, United States - Dec 30, 2019</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
-  </p>
-</details>
+Last refreshed: 2019-12-31 06:00:04 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/Oklahoma2020">Oklahoma 2020</a> - Ardmore, Oklahoma, United States - Dec 31, 2019 - Jan 1, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020">DFW NxN Winter 2020</a> - Cleburne, Texas, United States - Jan 4, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/GLSGdynia2020">GLS Gdynia 2020</a> - Gdynia, Poland - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2011ZAKR01">Ernest Zakrzewski</a>, Poland<br/>
@@ -52,7 +43,7 @@ Last refreshed: 2019-12-31 03:00:07 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HappyNewYearCubingHoorn2020">Happy New Year Cubing Hoorn 2020</a> - Hoorn, Netherlands - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018SANG01">Erik Tjong Kim Sang</a>, Netherlands, 50+<br/>
@@ -65,28 +56,28 @@ Last refreshed: 2019-12-31 03:00:07 (UTC)
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/PerthPuzzleParty2020">Perth Puzzle Party 2020</a> - Perth, Western Australia, Australia - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017CHAR16">Mark Charlesworth</a>, Australia
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020">Salento Cubing Open 2020</a> - Lecce, Italy - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017BONI01">Raffaele Bonifazi</a>, Italy
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020">Swisscubing Cup I 2020</a> - Sonvico, Switzerland - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
   </p>
 </details>
 
-<details>
+<details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/UBCOpen2020">UBC Open 2020</a> - Vancouver, British Columbia, Canada - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2013BRYA02">Mark Bryan</a>, Canada - <a href="https://www.speedsolving.com/members/parity-case.19867">Parity Case</a> on Speedsolving.com<br/>
