@@ -18,7 +18,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-30 18:29:09 (UTC)
+Last refreshed: 2019-12-31 04:14:56 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -1080,7 +1080,7 @@ Last refreshed: 2019-12-30 18:29:09 (UTC)
     <tr><td style="text-align:center">507</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">508</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1908</p><p>Estimated completeness of rankings &#8776; 26.6%</p></details>
+<p>Estimated number of seniors &#8776; 1909</p><p>Estimated completeness of rankings &#8776; 26.6%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -4137,7 +4137,7 @@ Last refreshed: 2019-12-30 18:29:09 (UTC)
     <tr><td style="text-align:center">91</td><td><a href="https://www.worldcubeassociation.org/persons/2010FEUE02#333fm">Oliver Feuer</a>, Germany</td><td style="text-align:right">71</td></tr>
     <tr><td style="text-align:center">92</td><td><a href="https://www.worldcubeassociation.org/persons/2016GALE02#333fm">Francesco Galetta</a>, Italy</td><td style="text-align:right">75</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 110</p><p>Estimated completeness of rankings &#8776; 83.6%</p></details>
+<p>Estimated number of seniors &#8776; 111</p><p>Estimated completeness of rankings &#8776; 82.9%</p></details>
 
 <details id="333oh_best">
   <summary>3x3x3 One-Handed</summary>
@@ -4430,7 +4430,7 @@ Last refreshed: 2019-12-30 18:29:09 (UTC)
     <tr><td style="text-align:center">94</td><td><a href="https://www.worldcubeassociation.org/persons/2019POLL04#clock">Ruud Pollé</a>, Netherlands</td><td style="text-align:right">1:13.46</td></tr>
     <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#clock">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">2:04.91</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 135</p><p>Estimated completeness of rankings &#8776; 70.4%</p></details>
+<p>Estimated number of seniors &#8776; 136</p><p>Estimated completeness of rankings &#8776; 69.9%</p></details>
 
 <details id="minx_best">
   <summary>Megaminx</summary>
