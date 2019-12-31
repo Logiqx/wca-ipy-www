@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2019-12-31 18:00:02 (UTC)
+Last refreshed: 2019-12-31 21:00:07 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
