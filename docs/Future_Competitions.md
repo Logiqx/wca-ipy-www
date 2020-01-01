@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-01 15:00:04 (UTC)
+Last refreshed: 2020-01-01 18:00:23 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -351,6 +351,7 @@ Last refreshed: 2020-01-01 15:00:04 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/KievSuperBlind2020">Kiev Super Blind 2020</a> - Kiev, Ukraine - Feb 15 - 16, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016AMBE02">Dieter Amberger</a>, Austria<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2005KOCZ01">István Kocza</a>, Hungary - <a href="https://www.speedsolving.com/members/pitzu.1882">Pitzu</a> on Speedsolving.com
   </p>
 </details>
