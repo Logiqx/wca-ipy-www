@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-02 09:00:04 (UTC)
+Last refreshed: 2020-01-02 12:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -389,7 +389,8 @@ Last refreshed: 2020-01-02 09:00:04 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/DoncasterOpen2020">Doncaster Open 2020</a> - Doncaster, South Yorkshire, United Kingdom - Feb 22 - 23, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com<br/>
-    - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015RIVE05">Mark Rivers</a>, United Kingdom, 50+ - <a href="https://www.speedsolving.com/members/mark49152.18179">mark49152</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017LAWR04">Timothy Lawrance</a>, South Africa - <a href="https://www.speedsolving.com/members/theos.37899">theos</a> on Speedsolving.com
   </p>
 </details>
 
