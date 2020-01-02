@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-02 15:00:04 (UTC)
+Last refreshed: 2020-01-02 18:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -251,6 +251,13 @@ Last refreshed: 2020-01-02 15:00:04 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/IzmirOpen2020">İzmir Open 2020</a> - İzmir, Turkey - Jan 25 - 26, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2013AKGL01">Selçuk Soner Akgül</a>, Turkey
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SacCubingIX2020">SacCubing IX 2020</a> - Carmichael, California, United States - Jan 25 - 26, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2009NEEL01">Patitpavan Neel</a>, India, 60+
   </p>
 </details>
 
