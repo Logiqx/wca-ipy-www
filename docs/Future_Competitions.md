@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-02 12:00:03 (UTC)
+Last refreshed: 2020-01-02 15:00:04 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -414,6 +414,13 @@ Last refreshed: 2020-01-02 12:00:03 (UTC)
 <h3>Mar 2, 2020</h3>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/FranconiaWinter2020">Franconia Winter 2020</a> - Nürnberg, Germany - Feb 29 - Mar 1, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HamburgInternational2020">Hamburg International 2020</a> - Hamburg, Germany - Feb 29 - Mar 1, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
@@ -465,7 +472,8 @@ Last refreshed: 2020-01-02 12:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/BerkeleySpring2020">Berkeley Spring 2020</a> - Berkeley, California, United States - Mar 29, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
+    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2019KUCA01">Lisa Kucala</a>, United States, 50+
   </p>
 </details>
 
