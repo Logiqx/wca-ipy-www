@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-01 18:01:44 (UTC)
+Last refreshed: 2020-01-02 04:14:57 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -726,15 +726,15 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">300</td><td><a href="https://www.worldcubeassociation.org/persons/2015HEIK01#333">Jari Heikkinen</a>, Finland</td><td style="text-align:right">25.03</td></tr>
     <tr><td style="text-align:center">302</td><td><a href="https://www.worldcubeassociation.org/persons/2016FRIS02#333">Roland Frisch</a>, Germany, 50+</td><td style="text-align:right">25.11</td></tr>
     <tr><td style="text-align:center">303</td><td><a href="https://www.worldcubeassociation.org/persons/2016VAZQ12#333">José Luis Vázquez</a>, Spain</td><td style="text-align:right">25.15</td></tr>
-    <tr><td style="text-align:center">304</td><td><a href="https://www.worldcubeassociation.org/persons/2011VOLK01#333">Sergey Volkov</a>, Russia</td><td style="text-align:right">25.16</td></tr>
-    <tr><td style="text-align:center">308</td><td><a href="https://www.worldcubeassociation.org/persons/2017ASMU01#333">Thor Muto Asmund</a>, Denmark</td><td style="text-align:right">25.23</td></tr>
-    <tr><td style="text-align:center">309</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROBE21#333">William Robertson</a>, United States</td><td style="text-align:right">25.30</td></tr>
-    <tr><td style="text-align:center">312</td><td><a href="https://www.worldcubeassociation.org/persons/2005ASPE01#333">Lennart Aspelin</a>, Sweden, 50+</td><td style="text-align:right">25.41</td></tr>
-    <tr><td style="text-align:center">317</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#333">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">25.62</td></tr>
-    <tr><td style="text-align:center">318</td><td><a href="https://www.worldcubeassociation.org/persons/2014ZELT01#333">Ramon Zeltner</a>, Switzerland</td><td style="text-align:right">25.64</td></tr>
-    <tr><td style="text-align:center">321</td><td><a href="https://www.worldcubeassociation.org/persons/2018GRAG01#333">Thorsten Gragert</a>, Netherlands</td><td style="text-align:right">25.67</td></tr>
-    <tr><td style="text-align:center">322</td><td><a href="https://www.worldcubeassociation.org/persons/2015LOPE29#333">José Luis Molina López</a>, Spain</td><td style="text-align:right">25.72</td></tr>
-    <tr><td style="text-align:center">323</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#333">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">25.74</td></tr>
+    <tr><td style="text-align:center">304</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#333">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">25.16</td></tr>
+    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2011VOLK01#333">Sergey Volkov</a>, Russia</td><td style="text-align:right">25.16</td></tr>
+    <tr><td style="text-align:center">309</td><td><a href="https://www.worldcubeassociation.org/persons/2017ASMU01#333">Thor Muto Asmund</a>, Denmark</td><td style="text-align:right">25.23</td></tr>
+    <tr><td style="text-align:center">310</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROBE21#333">William Robertson</a>, United States</td><td style="text-align:right">25.30</td></tr>
+    <tr><td style="text-align:center">313</td><td><a href="https://www.worldcubeassociation.org/persons/2005ASPE01#333">Lennart Aspelin</a>, Sweden, 50+</td><td style="text-align:right">25.41</td></tr>
+    <tr><td style="text-align:center">318</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#333">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">25.62</td></tr>
+    <tr><td style="text-align:center">319</td><td><a href="https://www.worldcubeassociation.org/persons/2014ZELT01#333">Ramon Zeltner</a>, Switzerland</td><td style="text-align:right">25.64</td></tr>
+    <tr><td style="text-align:center">322</td><td><a href="https://www.worldcubeassociation.org/persons/2018GRAG01#333">Thorsten Gragert</a>, Netherlands</td><td style="text-align:right">25.67</td></tr>
+    <tr><td style="text-align:center">323</td><td><a href="https://www.worldcubeassociation.org/persons/2015LOPE29#333">José Luis Molina López</a>, Spain</td><td style="text-align:right">25.72</td></tr>
     <tr><td style="text-align:center">326</td><td><a href="https://www.worldcubeassociation.org/persons/2010MILB01#333">Christopher Milburn</a>, United States</td><td style="text-align:right">25.89</td></tr>
     <tr><td style="text-align:center">329</td><td><a href="https://www.worldcubeassociation.org/persons/2008ERSK01#333">Michael Erskine</a>, United Kingdom</td><td style="text-align:right">25.97</td></tr>
     <tr><td style="text-align:center">330</td><td><a href="https://www.worldcubeassociation.org/persons/2006MIYA01#333">Teruki Miyazaki (宮崎輝樹)</a>, Japan</td><td style="text-align:right">25.98</td></tr>
@@ -869,16 +869,16 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">706</td><td><a href="https://www.worldcubeassociation.org/persons/2019KASU01#333">Daisuke Kasuya (粕谷大輔)</a>, Japan</td><td style="text-align:right">39.79</td></tr>
     <tr><td style="text-align:center">708</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#333">Hanneke Rijks</a>, Netherlands</td><td style="text-align:right">39.87</td></tr>
     <tr><td style="text-align:center">712</td><td><a href="https://www.worldcubeassociation.org/persons/2018BENN01#333">Hans Bennis</a>, Netherlands, 50+</td><td style="text-align:right">40.18</td></tr>
-    <tr><td style="text-align:center">715</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOOR01#333">Enrico van Goor</a>, Netherlands</td><td style="text-align:right">40.25</td></tr>
+    <tr><td style="text-align:center">716</td><td><a href="https://www.worldcubeassociation.org/persons/2019GOOR01#333">Enrico van Goor</a>, Netherlands</td><td style="text-align:right">40.25</td></tr>
     <tr><td style="text-align:center">717</td><td><a href="https://www.worldcubeassociation.org/persons/2019MARI22#333">Ezio Marini</a>, Italy, 50+</td><td style="text-align:right">40.30</td></tr>
-    <tr><td style="text-align:center">719</td><td><a href="https://www.worldcubeassociation.org/persons/2004LUIS03#333">Pedro Luis Muñoz Yañez</a>, Spain, 50+</td><td style="text-align:right">40.54</td></tr>
-    <tr><td style="text-align:center">721</td><td><a href="https://www.worldcubeassociation.org/persons/2012KREI01#333">Volodymyr Kreidunov (Володимир Крейдунов)</a>, Ukraine, 60+</td><td style="text-align:right">40.60</td></tr>
-    <tr><td style="text-align:center">722</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#333">Dan Turner</a>, United States</td><td style="text-align:right">40.61</td></tr>
+    <tr><td style="text-align:center">720</td><td><a href="https://www.worldcubeassociation.org/persons/2004LUIS03#333">Pedro Luis Muñoz Yañez</a>, Spain, 50+</td><td style="text-align:right">40.54</td></tr>
+    <tr><td style="text-align:center">722</td><td><a href="https://www.worldcubeassociation.org/persons/2012KREI01#333">Volodymyr Kreidunov (Володимир Крейдунов)</a>, Ukraine, 60+</td><td style="text-align:right">40.60</td></tr>
+    <tr><td style="text-align:center">723</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#333">Dan Turner</a>, United States</td><td style="text-align:right">40.61</td></tr>
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2019BOXD03#333">Jeremy Boxdorfer</a>, United States</td><td style="text-align:right">40.61</td></tr>
     <tr><td style="text-align:center">730</td><td><a href="https://www.worldcubeassociation.org/persons/2003WESS01#333">Rune Wesström</a>, Sweden, 80+</td><td style="text-align:right">41.14</td></tr>
     <tr><td style="text-align:center">736</td><td><a href="https://www.worldcubeassociation.org/persons/2015HASU01#333">Matthew Hasuly</a>, Sweden</td><td style="text-align:right">41.41</td></tr>
     <tr><td style="text-align:center">741</td><td><a href="https://www.worldcubeassociation.org/persons/2018NILS03#333">Petter Nilsson</a>, Sweden</td><td style="text-align:right">41.58</td></tr>
-    <tr><td style="text-align:center">743</td><td><a href="https://www.worldcubeassociation.org/persons/2016BALA16#333">Tünde Balasi</a>, Hungary</td><td style="text-align:right">41.71</td></tr>
+    <tr><td style="text-align:center">744</td><td><a href="https://www.worldcubeassociation.org/persons/2016BALA16#333">Tünde Balasi</a>, Hungary</td><td style="text-align:right">41.71</td></tr>
     <tr><td style="text-align:center">747</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#333">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td style="text-align:right">41.85</td></tr>
     <tr><td style="text-align:center">749</td><td><a href="https://www.worldcubeassociation.org/persons/2019ASHT01#333">Matt Ashton</a>, United Kingdom</td><td style="text-align:right">41.89</td></tr>
     <tr><td style="text-align:center">750</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#333">John Cook</a>, Australia, 50+</td><td style="text-align:right">41.90</td></tr>
@@ -1071,7 +1071,7 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">1863</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">1885</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1909</p><p>Estimated completeness of rankings &#8776; 26.6%</p></details>
+<p>Estimated number of seniors &#8776; 1911</p><p>Estimated completeness of rankings &#8776; 26.6%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -1261,39 +1261,39 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">309</td><td><a href="https://www.worldcubeassociation.org/persons/2018KORO08#222">Sergei Korobkin (Сергей Коробкин)</a>, Russia</td><td style="text-align:right">11.41</td></tr>
     <tr><td style="text-align:center">311</td><td><a href="https://www.worldcubeassociation.org/persons/2012ANGD01#222">David Ang</a>, Singapore</td><td style="text-align:right">11.49</td></tr>
     <tr><td style="text-align:center">313</td><td><a href="https://www.worldcubeassociation.org/persons/2009KISS01#222">Zoltán János Kiss</a>, Hungary</td><td style="text-align:right">11.57</td></tr>
-    <tr><td style="text-align:center">318</td><td><a href="https://www.worldcubeassociation.org/persons/2004CONN01#222">Sean Connolly</a>, United Kingdom</td><td style="text-align:right">11.79</td></tr>
-    <tr><td style="text-align:center">319</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#222">Bill Berry</a>, United States, 50+</td><td style="text-align:right">11.81</td></tr>
-    <tr><td style="text-align:center">320</td><td><a href="https://www.worldcubeassociation.org/persons/2018SALM01#222">Stuart Salmon</a>, United Kingdom</td><td style="text-align:right">11.83</td></tr>
-    <tr><td style="text-align:center">322</td><td><a href="https://www.worldcubeassociation.org/persons/2010FEUE02#222">Oliver Feuer</a>, Germany</td><td style="text-align:right">11.86</td></tr>
-    <tr><td style="text-align:center">323</td><td><a href="https://www.worldcubeassociation.org/persons/2019KILL01#222">Carlos Magno Kill</a>, Brazil</td><td style="text-align:right">11.89</td></tr>
-    <tr><td style="text-align:center">324</td><td><a href="https://www.worldcubeassociation.org/persons/2009COST02#222">Márcio Luiz da Costa Freitas</a>, Brazil</td><td style="text-align:right">11.94</td></tr>
-    <tr><td style="text-align:center">327</td><td><a href="https://www.worldcubeassociation.org/persons/2005ORST01#222">Lars Örström</a>, Sweden</td><td style="text-align:right">12.01</td></tr>
-    <tr><td style="text-align:center">331</td><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02#222">Aaron Jody Cumes</a>, United Kingdom</td><td style="text-align:right">12.11</td></tr>
-    <tr><td style="text-align:center">332</td><td><a href="https://www.worldcubeassociation.org/persons/2018LUMS01#222">Stuart Lumsden</a>, United Kingdom</td><td style="text-align:right">12.12</td></tr>
-    <tr><td style="text-align:center">333</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOD01#222">Jarosław Chodyniecki</a>, Poland</td><td style="text-align:right">12.13</td></tr>
-    <tr><td style="text-align:center">334</td><td><a href="https://www.worldcubeassociation.org/persons/2014FAGO01#222">Ricardo Cantón Fago</a>, Spain</td><td style="text-align:right">12.16</td></tr>
-    <tr><td style="text-align:center">335</td><td><a href="https://www.worldcubeassociation.org/persons/2016KELL07#222">David Kelley</a>, United States</td><td style="text-align:right">12.18</td></tr>
-    <tr><td style="text-align:center">336</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#222">Dieter Amberger</a>, Austria</td><td style="text-align:right">12.19</td></tr>
-    <tr><td style="text-align:center">338</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#222">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td style="text-align:right">12.21</td></tr>
-    <tr><td style="text-align:center">339</td><td><a href="https://www.worldcubeassociation.org/persons/2014COXN01#222">Nicky Cox</a>, United States</td><td style="text-align:right">12.27</td></tr>
-    <tr><td style="text-align:center">343</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#222">Yves Créange</a>, France, 50+</td><td style="text-align:right">12.36</td></tr>
-    <tr><td style="text-align:center">345</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#222">Hanneke Rijks</a>, Netherlands, 50+</td><td style="text-align:right">12.49</td></tr>
-    <tr><td style="text-align:center">347</td><td><a href="https://www.worldcubeassociation.org/persons/2016DEXT02#222">Jonathan Dexter</a>, Australia, 50+</td><td style="text-align:right">12.52</td></tr>
-    <tr><td style="text-align:center">349</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#222">Dan Turner</a>, United States</td><td style="text-align:right">12.58</td></tr>
-    <tr><td style="text-align:center">353</td><td><a href="https://www.worldcubeassociation.org/persons/2010SPIE01#222">Jochen Spies</a>, Germany</td><td style="text-align:right">12.78</td></tr>
-    <tr><td style="text-align:center">354</td><td><a href="https://www.worldcubeassociation.org/persons/2019CHIE01#222">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td style="text-align:right">12.80</td></tr>
-    <tr><td style="text-align:center">357</td><td><a href="https://www.worldcubeassociation.org/persons/2017FARN02#222">Maria Färnlöf</a>, Sweden</td><td style="text-align:right">12.87</td></tr>
-    <tr><td style="text-align:center">358</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#222">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">12.89</td></tr>
-    <tr><td style="text-align:center">359</td><td><a href="https://www.worldcubeassociation.org/persons/2018BART01#222">Matt Bartlett</a>, United States</td><td style="text-align:right">12.91</td></tr>
-    <tr><td style="text-align:center">360</td><td><a href="https://www.worldcubeassociation.org/persons/2014KIPR02#222">Peter Kiprillis</a>, Australia</td><td style="text-align:right">12.93</td></tr>
-    <tr><td style="text-align:center">363</td><td><a href="https://www.worldcubeassociation.org/persons/2015HAGE04#222">Mariusz Hagemejer</a>, Poland, 50+</td><td style="text-align:right">13.00</td></tr>
-    <tr><td style="text-align:center">364</td><td><a href="https://www.worldcubeassociation.org/persons/2019BOXD03#222">Jeremy Boxdorfer</a>, United States</td><td style="text-align:right">13.01</td></tr>
-    <tr><td style="text-align:center">368</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#222">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">13.10</td></tr>
-    <tr><td style="text-align:center">370</td><td><a href="https://www.worldcubeassociation.org/persons/2016VAZQ12#222">José Luis Vázquez</a>, Spain</td><td style="text-align:right">13.17</td></tr>
-    <tr><td style="text-align:center">371</td><td><a href="https://www.worldcubeassociation.org/persons/2017PEHJ01#222">Joyce Peh</a>, Malaysia</td><td style="text-align:right">13.21</td></tr>
-    <tr><td style="text-align:center">375</td><td><a href="https://www.worldcubeassociation.org/persons/2015BEUK01#222">Gawie Beukman</a>, South Africa</td><td style="text-align:right">13.29</td></tr>
-    <tr><td style="text-align:center">378</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States, 60+</td><td style="text-align:right">13.41</td></tr>
-    <tr><td style="text-align:center">381</td><td><a href="https://www.worldcubeassociation.org/persons/2019KUCA01#222">Lisa Kucala</a>, United States, 50+</td><td style="text-align:right">13.48</td></tr>
+    <tr><td style="text-align:center">319</td><td><a href="https://www.worldcubeassociation.org/persons/2004CONN01#222">Sean Connolly</a>, United Kingdom</td><td style="text-align:right">11.79</td></tr>
+    <tr><td style="text-align:center">320</td><td><a href="https://www.worldcubeassociation.org/persons/2007BERR01#222">Bill Berry</a>, United States, 50+</td><td style="text-align:right">11.81</td></tr>
+    <tr><td style="text-align:center">321</td><td><a href="https://www.worldcubeassociation.org/persons/2018SALM01#222">Stuart Salmon</a>, United Kingdom</td><td style="text-align:right">11.83</td></tr>
+    <tr><td style="text-align:center">323</td><td><a href="https://www.worldcubeassociation.org/persons/2010FEUE02#222">Oliver Feuer</a>, Germany</td><td style="text-align:right">11.86</td></tr>
+    <tr><td style="text-align:center">324</td><td><a href="https://www.worldcubeassociation.org/persons/2019KILL01#222">Carlos Magno Kill</a>, Brazil</td><td style="text-align:right">11.89</td></tr>
+    <tr><td style="text-align:center">325</td><td><a href="https://www.worldcubeassociation.org/persons/2009COST02#222">Márcio Luiz da Costa Freitas</a>, Brazil</td><td style="text-align:right">11.94</td></tr>
+    <tr><td style="text-align:center">328</td><td><a href="https://www.worldcubeassociation.org/persons/2005ORST01#222">Lars Örström</a>, Sweden</td><td style="text-align:right">12.01</td></tr>
+    <tr><td style="text-align:center">332</td><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02#222">Aaron Jody Cumes</a>, United Kingdom</td><td style="text-align:right">12.11</td></tr>
+    <tr><td style="text-align:center">333</td><td><a href="https://www.worldcubeassociation.org/persons/2018LUMS01#222">Stuart Lumsden</a>, United Kingdom</td><td style="text-align:right">12.12</td></tr>
+    <tr><td style="text-align:center">334</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOD01#222">Jarosław Chodyniecki</a>, Poland</td><td style="text-align:right">12.13</td></tr>
+    <tr><td style="text-align:center">335</td><td><a href="https://www.worldcubeassociation.org/persons/2014FAGO01#222">Ricardo Cantón Fago</a>, Spain</td><td style="text-align:right">12.16</td></tr>
+    <tr><td style="text-align:center">336</td><td><a href="https://www.worldcubeassociation.org/persons/2016KELL07#222">David Kelley</a>, United States</td><td style="text-align:right">12.18</td></tr>
+    <tr><td style="text-align:center">337</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#222">Dieter Amberger</a>, Austria</td><td style="text-align:right">12.19</td></tr>
+    <tr><td style="text-align:center">339</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#222">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td style="text-align:right">12.21</td></tr>
+    <tr><td style="text-align:center">340</td><td><a href="https://www.worldcubeassociation.org/persons/2014COXN01#222">Nicky Cox</a>, United States</td><td style="text-align:right">12.27</td></tr>
+    <tr><td style="text-align:center">344</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#222">Yves Créange</a>, France, 50+</td><td style="text-align:right">12.36</td></tr>
+    <tr><td style="text-align:center">346</td><td><a href="https://www.worldcubeassociation.org/persons/2008RIJK01#222">Hanneke Rijks</a>, Netherlands, 50+</td><td style="text-align:right">12.49</td></tr>
+    <tr><td style="text-align:center">348</td><td><a href="https://www.worldcubeassociation.org/persons/2016DEXT02#222">Jonathan Dexter</a>, Australia, 50+</td><td style="text-align:right">12.52</td></tr>
+    <tr><td style="text-align:center">350</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#222">Dan Turner</a>, United States</td><td style="text-align:right">12.58</td></tr>
+    <tr><td style="text-align:center">354</td><td><a href="https://www.worldcubeassociation.org/persons/2010SPIE01#222">Jochen Spies</a>, Germany</td><td style="text-align:right">12.78</td></tr>
+    <tr><td style="text-align:center">355</td><td><a href="https://www.worldcubeassociation.org/persons/2019CHIE01#222">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td style="text-align:right">12.80</td></tr>
+    <tr><td style="text-align:center">358</td><td><a href="https://www.worldcubeassociation.org/persons/2017FARN02#222">Maria Färnlöf</a>, Sweden</td><td style="text-align:right">12.87</td></tr>
+    <tr><td style="text-align:center">359</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#222">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">12.89</td></tr>
+    <tr><td style="text-align:center">360</td><td><a href="https://www.worldcubeassociation.org/persons/2018BART01#222">Matt Bartlett</a>, United States</td><td style="text-align:right">12.91</td></tr>
+    <tr><td style="text-align:center">361</td><td><a href="https://www.worldcubeassociation.org/persons/2014KIPR02#222">Peter Kiprillis</a>, Australia</td><td style="text-align:right">12.93</td></tr>
+    <tr><td style="text-align:center">364</td><td><a href="https://www.worldcubeassociation.org/persons/2015HAGE04#222">Mariusz Hagemejer</a>, Poland, 50+</td><td style="text-align:right">13.00</td></tr>
+    <tr><td style="text-align:center">365</td><td><a href="https://www.worldcubeassociation.org/persons/2019BOXD03#222">Jeremy Boxdorfer</a>, United States</td><td style="text-align:right">13.01</td></tr>
+    <tr><td style="text-align:center">369</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#222">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">13.10</td></tr>
+    <tr><td style="text-align:center">371</td><td><a href="https://www.worldcubeassociation.org/persons/2016VAZQ12#222">José Luis Vázquez</a>, Spain</td><td style="text-align:right">13.17</td></tr>
+    <tr><td style="text-align:center">372</td><td><a href="https://www.worldcubeassociation.org/persons/2017PEHJ01#222">Joyce Peh</a>, Malaysia</td><td style="text-align:right">13.21</td></tr>
+    <tr><td style="text-align:center">376</td><td><a href="https://www.worldcubeassociation.org/persons/2015BEUK01#222">Gawie Beukman</a>, South Africa</td><td style="text-align:right">13.29</td></tr>
+    <tr><td style="text-align:center">379</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#222">David Kleiner</a>, United States, 60+</td><td style="text-align:right">13.41</td></tr>
+    <tr><td style="text-align:center">382</td><td><a href="https://www.worldcubeassociation.org/persons/2019KUCA01#222">Lisa Kucala</a>, United States, 50+</td><td style="text-align:right">13.48</td></tr>
     <tr><td style="text-align:center">390</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#222">David Brown</a>, United States, 50+</td><td style="text-align:right">13.71</td></tr>
     <tr><td style="text-align:center">392</td><td><a href="https://www.worldcubeassociation.org/persons/2004FEDE01#222">Angelo Federico</a>, France</td><td style="text-align:right">13.78</td></tr>
     <tr><td style="text-align:center">394</td><td><a href="https://www.worldcubeassociation.org/persons/2016GOSL01#222">Harry Goslow</a>, United States</td><td style="text-align:right">13.82</td></tr>
@@ -1400,7 +1400,7 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">767</td><td><a href="https://www.worldcubeassociation.org/persons/2015FIEC01#222">Elmar Fiechter-Alber</a>, Austria, 50+</td><td style="text-align:right">1:19.97</td></tr>
     <tr><td style="text-align:center">772</td><td><a href="https://www.worldcubeassociation.org/persons/2016LUJA01#222">Jose Gabriel Moratalla Lujan</a>, Spain, 50+</td><td style="text-align:right">1:35.33</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 790</p><p>Estimated completeness of rankings &#8776; 40.8%</p></details>
+<p>Estimated number of seniors &#8776; 791</p><p>Estimated completeness of rankings &#8776; 40.7%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
@@ -1462,39 +1462,39 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">66</td><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02#444">Jordi Borrell</a>, Spain</td><td style="text-align:right">1:22.93</td></tr>
     <tr><td style="text-align:center">67</td><td><a href="https://www.worldcubeassociation.org/persons/2012MORI01#444">Junichi Mori (森純一)</a>, Japan</td><td style="text-align:right">1:22.95</td></tr>
     <tr><td style="text-align:center">70</td><td><a href="https://www.worldcubeassociation.org/persons/2003AKIM01#444">Masayuki Akimoto (秋元正行)</a>, Japan</td><td style="text-align:right">1:24.44</td></tr>
-    <tr><td style="text-align:center">71</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#444">Dieter Amberger</a>, Austria</td><td style="text-align:right">1:25.55</td></tr>
-    <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2017FREG01#444">Jérôme Fréguin</a>, Canada</td><td style="text-align:right">1:25.83</td></tr>
-    <tr><td style="text-align:center">74</td><td><a href="https://www.worldcubeassociation.org/persons/2005KURO02#444">Shuichi Kuroiwa (黒岩秀一)</a>, Japan</td><td style="text-align:right">1:26.69</td></tr>
-    <tr><td style="text-align:center">75</td><td><a href="https://www.worldcubeassociation.org/persons/2008YIMV01#444">Vincent Yim</a>, Canada</td><td style="text-align:right">1:26.96</td></tr>
-    <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2011BOIS01#444">Thierry Boisivon</a>, France</td><td style="text-align:right">1:27.32</td></tr>
-    <tr><td style="text-align:center">78</td><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02#444">Hong Chen</a>, Canada</td><td style="text-align:right">1:28.12</td></tr>
-    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2005WOIT01#444">Christophe Woittequand</a>, France</td><td style="text-align:right">1:28.46</td></tr>
-    <tr><td style="text-align:center">80</td><td><a href="https://www.worldcubeassociation.org/persons/2006PIRZ01#444">Markus Pirzer</a>, Germany</td><td style="text-align:right">1:30.44</td></tr>
-    <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYE08#444">Rafael Reyes</a>, United States</td><td style="text-align:right">1:31.23</td></tr>
-    <tr><td style="text-align:center">84</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#444">Cari Goslow</a>, United States, 50+</td><td style="text-align:right">1:32.23</td></tr>
-    <tr><td style="text-align:center">87</td><td><a href="https://www.worldcubeassociation.org/persons/2012WATA02#444">Akio Watanabe (渡辺昭夫)</a>, Canada</td><td style="text-align:right">1:32.98</td></tr>
-    <tr><td style="text-align:center">88</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#444">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">1:33.57</td></tr>
-    <tr><td style="text-align:center">89</td><td><a href="https://www.worldcubeassociation.org/persons/2006ALBA01#444">Cristiano Alba</a>, Italy</td><td style="text-align:right">1:33.61</td></tr>
-    <tr><td style="text-align:center">90</td><td><a href="https://www.worldcubeassociation.org/persons/2017KITA01#444">Akatsuki Kitamura (北村曉)</a>, Japan</td><td style="text-align:right">1:34.07</td></tr>
-    <tr><td style="text-align:center">91</td><td><a href="https://www.worldcubeassociation.org/persons/2012HAMA02#444">Yuichi Hamada (濵田祐一)</a>, Japan</td><td style="text-align:right">1:34.28</td></tr>
-    <tr><td style="text-align:center">94</td><td><a href="https://www.worldcubeassociation.org/persons/2012ANGD01#444">David Ang</a>, Singapore</td><td style="text-align:right">1:35.47</td></tr>
-    <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02#444">Aaron Jody Cumes</a>, United Kingdom</td><td style="text-align:right">1:35.65</td></tr>
-    <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANTI01#444">Marco Antinori</a>, Italy</td><td style="text-align:right">1:36.22</td></tr>
-    <tr><td style="text-align:center">98</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#444">Heike Zbierski</a>, Germany</td><td style="text-align:right">1:37.03</td></tr>
-    <tr><td style="text-align:center">99</td><td><a href="https://www.worldcubeassociation.org/persons/2016FRIS02#444">Roland Frisch</a>, Germany, 50+</td><td style="text-align:right">1:37.07</td></tr>
-    <tr><td style="text-align:center">100</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#444">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">1:37.58</td></tr>
-    <tr><td style="text-align:center">101</td><td><a href="https://www.worldcubeassociation.org/persons/2007CHIM01#444">Giulio Chiminelli</a>, Italy</td><td style="text-align:right">1:37.66</td></tr>
-    <tr><td style="text-align:center">105</td><td><a href="https://www.worldcubeassociation.org/persons/2008GOUB01#444">Benoît Goubin</a>, France</td><td style="text-align:right">1:39.46</td></tr>
-    <tr><td style="text-align:center">109</td><td><a href="https://www.worldcubeassociation.org/persons/2015HARR03#444">Chad Harris</a>, United States</td><td style="text-align:right">1:39.71</td></tr>
-    <tr><td style="text-align:center">110</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#444">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">1:40.21</td></tr>
-    <tr><td style="text-align:center">111</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#444">David Barr</a>, United States</td><td style="text-align:right">1:40.35</td></tr>
-    <tr><td style="text-align:center">113</td><td><a href="https://www.worldcubeassociation.org/persons/2017TABA02#444">Chris Tabar</a>, United States</td><td style="text-align:right">1:41.06</td></tr>
-    <tr><td style="text-align:center">115</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#444">Daniel Daoust</a>, Canada</td><td style="text-align:right">1:41.80</td></tr>
-    <tr><td style="text-align:center">117</td><td><a href="https://www.worldcubeassociation.org/persons/2018SACH03#444">Christian Sachgau</a>, Germany, 50+</td><td style="text-align:right">1:42.13</td></tr>
-    <tr><td style="text-align:center">118</td><td><a href="https://www.worldcubeassociation.org/persons/2006STAD01#444">Thomas Stadler</a>, Switzerland</td><td style="text-align:right">1:42.27</td></tr>
-    <tr><td style="text-align:center">119</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#444">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">1:42.88</td></tr>
-    <tr><td style="text-align:center">120</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#444">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">1:43.11</td></tr>
-    <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#444">Tommy Holm</a>, Sweden</td><td style="text-align:right">1:43.11</td></tr>
+    <tr><td style="text-align:center">71</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#444">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">1:24.79</td></tr>
+    <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#444">Dieter Amberger</a>, Austria</td><td style="text-align:right">1:25.55</td></tr>
+    <tr><td style="text-align:center">73</td><td><a href="https://www.worldcubeassociation.org/persons/2017FREG01#444">Jérôme Fréguin</a>, Canada</td><td style="text-align:right">1:25.83</td></tr>
+    <tr><td style="text-align:center">75</td><td><a href="https://www.worldcubeassociation.org/persons/2005KURO02#444">Shuichi Kuroiwa (黒岩秀一)</a>, Japan</td><td style="text-align:right">1:26.69</td></tr>
+    <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2008YIMV01#444">Vincent Yim</a>, Canada</td><td style="text-align:right">1:26.96</td></tr>
+    <tr><td style="text-align:center">77</td><td><a href="https://www.worldcubeassociation.org/persons/2011BOIS01#444">Thierry Boisivon</a>, France</td><td style="text-align:right">1:27.32</td></tr>
+    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02#444">Hong Chen</a>, Canada</td><td style="text-align:right">1:28.12</td></tr>
+    <tr><td style="text-align:center">80</td><td><a href="https://www.worldcubeassociation.org/persons/2005WOIT01#444">Christophe Woittequand</a>, France</td><td style="text-align:right">1:28.46</td></tr>
+    <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2006PIRZ01#444">Markus Pirzer</a>, Germany</td><td style="text-align:right">1:30.44</td></tr>
+    <tr><td style="text-align:center">82</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYE08#444">Rafael Reyes</a>, United States</td><td style="text-align:right">1:31.23</td></tr>
+    <tr><td style="text-align:center">85</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#444">Cari Goslow</a>, United States, 50+</td><td style="text-align:right">1:32.23</td></tr>
+    <tr><td style="text-align:center">88</td><td><a href="https://www.worldcubeassociation.org/persons/2012WATA02#444">Akio Watanabe (渡辺昭夫)</a>, Canada</td><td style="text-align:right">1:32.98</td></tr>
+    <tr><td style="text-align:center">89</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#444">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">1:33.57</td></tr>
+    <tr><td style="text-align:center">90</td><td><a href="https://www.worldcubeassociation.org/persons/2006ALBA01#444">Cristiano Alba</a>, Italy</td><td style="text-align:right">1:33.61</td></tr>
+    <tr><td style="text-align:center">91</td><td><a href="https://www.worldcubeassociation.org/persons/2017KITA01#444">Akatsuki Kitamura (北村曉)</a>, Japan</td><td style="text-align:right">1:34.07</td></tr>
+    <tr><td style="text-align:center">92</td><td><a href="https://www.worldcubeassociation.org/persons/2012HAMA02#444">Yuichi Hamada (濵田祐一)</a>, Japan</td><td style="text-align:right">1:34.28</td></tr>
+    <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2012ANGD01#444">David Ang</a>, Singapore</td><td style="text-align:right">1:35.47</td></tr>
+    <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2018CUME02#444">Aaron Jody Cumes</a>, United Kingdom</td><td style="text-align:right">1:35.65</td></tr>
+    <tr><td style="text-align:center">97</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANTI01#444">Marco Antinori</a>, Italy</td><td style="text-align:right">1:36.22</td></tr>
+    <tr><td style="text-align:center">99</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#444">Heike Zbierski</a>, Germany</td><td style="text-align:right">1:37.03</td></tr>
+    <tr><td style="text-align:center">100</td><td><a href="https://www.worldcubeassociation.org/persons/2016FRIS02#444">Roland Frisch</a>, Germany, 50+</td><td style="text-align:right">1:37.07</td></tr>
+    <tr><td style="text-align:center">101</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#444">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">1:37.58</td></tr>
+    <tr><td style="text-align:center">102</td><td><a href="https://www.worldcubeassociation.org/persons/2007CHIM01#444">Giulio Chiminelli</a>, Italy</td><td style="text-align:right">1:37.66</td></tr>
+    <tr><td style="text-align:center">103</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#444">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">1:37.71</td></tr>
+    <tr><td style="text-align:center">107</td><td><a href="https://www.worldcubeassociation.org/persons/2008GOUB01#444">Benoît Goubin</a>, France</td><td style="text-align:right">1:39.46</td></tr>
+    <tr><td style="text-align:center">111</td><td><a href="https://www.worldcubeassociation.org/persons/2015HARR03#444">Chad Harris</a>, United States</td><td style="text-align:right">1:39.71</td></tr>
+    <tr><td style="text-align:center">112</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#444">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">1:40.21</td></tr>
+    <tr><td style="text-align:center">113</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#444">David Barr</a>, United States</td><td style="text-align:right">1:40.35</td></tr>
+    <tr><td style="text-align:center">115</td><td><a href="https://www.worldcubeassociation.org/persons/2017TABA02#444">Chris Tabar</a>, United States</td><td style="text-align:right">1:41.06</td></tr>
+    <tr><td style="text-align:center">117</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#444">Daniel Daoust</a>, Canada</td><td style="text-align:right">1:41.80</td></tr>
+    <tr><td style="text-align:center">119</td><td><a href="https://www.worldcubeassociation.org/persons/2018SACH03#444">Christian Sachgau</a>, Germany, 50+</td><td style="text-align:right">1:42.13</td></tr>
+    <tr><td style="text-align:center">120</td><td><a href="https://www.worldcubeassociation.org/persons/2006STAD01#444">Thomas Stadler</a>, Switzerland</td><td style="text-align:right">1:42.27</td></tr>
+    <tr><td style="text-align:center">121</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#444">Tommy Holm</a>, Sweden</td><td style="text-align:right">1:43.11</td></tr>
     <tr><td style="text-align:center">122</td><td><a href="https://www.worldcubeassociation.org/persons/2017ASMU01#444">Thor Muto Asmund</a>, Denmark</td><td style="text-align:right">1:43.17</td></tr>
     <tr><td style="text-align:center">123</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#444">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">1:43.28</td></tr>
     <tr><td style="text-align:center">124</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#444">Luis J. Iáñez</a>, Spain</td><td style="text-align:right">1:43.68</td></tr>
@@ -1513,7 +1513,7 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">142</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#444">Gregory Martin</a>, United States</td><td style="text-align:right">1:51.74</td></tr>
     <tr><td style="text-align:center">145</td><td><a href="https://www.worldcubeassociation.org/persons/2005ISHI01#444">Hiroshi Ishino (石野弘司)</a>, Japan, 50+</td><td style="text-align:right">1:52.30</td></tr>
     <tr><td style="text-align:center">147</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#444">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">1:52.90</td></tr>
-    <tr><td style="text-align:center">148</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#444">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">1:53.28</td></tr>
+    <tr><td style="text-align:center">148</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#444">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">1:53.25</td></tr>
     <tr><td style="text-align:center">149</td><td><a href="https://www.worldcubeassociation.org/persons/2017THOR06#444">Torbjörn Thorsén</a>, Sweden</td><td style="text-align:right">1:53.59</td></tr>
     <tr><td style="text-align:center">150</td><td><a href="https://www.worldcubeassociation.org/persons/2018SCHU17#444">Thomas Schukraft</a>, Germany</td><td style="text-align:right">1:54.07</td></tr>
     <tr><td style="text-align:center">151</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#444">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">1:54.38</td></tr>
@@ -1595,52 +1595,52 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">33</td><td><a href="https://www.worldcubeassociation.org/persons/2011LAWR01#555">Scott Lawrence</a>, United Kingdom</td><td style="text-align:right">2:26.75</td></tr>
     <tr><td style="text-align:center">34</td><td><a href="https://www.worldcubeassociation.org/persons/2012HINO01#555">Takeshi Hino (日野健志)</a>, Japan</td><td style="text-align:right">2:27.93</td></tr>
     <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2015BOSW01#555">Brent Boswell</a>, South Africa</td><td style="text-align:right">2:29.08</td></tr>
-    <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#555">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">2:29.68</td></tr>
-    <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2007DIAZ01#555">Agustín Díaz Morón</a>, Spain</td><td style="text-align:right">2:30.02</td></tr>
-    <tr><td style="text-align:center">41</td><td><a href="https://www.worldcubeassociation.org/persons/2007CINO01#555">Rafael de Andrade Cinoto</a>, Brazil</td><td style="text-align:right">2:34.47</td></tr>
-    <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#555">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">2:37.71</td></tr>
-    <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2008GOUB01#555">Benoît Goubin</a>, France</td><td style="text-align:right">2:39.93</td></tr>
-    <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2016DUEH02#555">Jeremy Duehring</a>, United States</td><td style="text-align:right">2:41.28</td></tr>
-    <tr><td style="text-align:center">48</td><td><a href="https://www.worldcubeassociation.org/persons/2006SANG02#555">Park Sang-Dong</a>, Republic of Korea</td><td style="text-align:right">2:47.75</td></tr>
-    <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2016PETE06#555">Rob Peters</a>, United States</td><td style="text-align:right">2:48.66</td></tr>
-    <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2017KOST06#555">Roman Kostyukov</a>, Russia</td><td style="text-align:right">2:48.72</td></tr>
-    <tr><td style="text-align:center">52</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#555">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">2:50.43</td></tr>
-    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#555">Reiner Thomsen</a>, Germany</td><td style="text-align:right">2:51.22</td></tr>
-    <tr><td style="text-align:center">57</td><td><a href="https://www.worldcubeassociation.org/persons/2003AKIM01#555">Masayuki Akimoto (秋元正行)</a>, Japan</td><td style="text-align:right">2:56.32</td></tr>
-    <tr><td style="text-align:center">59</td><td><a href="https://www.worldcubeassociation.org/persons/2006PIRZ01#555">Markus Pirzer</a>, Germany</td><td style="text-align:right">3:02.21</td></tr>
-    <tr><td style="text-align:center">60</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#555">Gianluca Placenti</a>, Italy</td><td style="text-align:right">3:02.28</td></tr>
-    <tr><td style="text-align:center">61</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#555">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">3:04.36</td></tr>
-    <tr><td style="text-align:center">62</td><td><a href="https://www.worldcubeassociation.org/persons/2016LECO01#555">Yoann Lecoeur</a>, France</td><td style="text-align:right">3:04.65</td></tr>
-    <tr><td style="text-align:center">63</td><td><a href="https://www.worldcubeassociation.org/persons/2005YAZA01#555">Atsushi Yazawa (矢澤篤)</a>, Japan</td><td style="text-align:right">3:06.46</td></tr>
-    <tr><td style="text-align:center">64</td><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01#555">Adrian Roșu</a>, Romania</td><td style="text-align:right">3:07.27</td></tr>
-    <tr><td style="text-align:center">65</td><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02#555">Hong Chen</a>, Canada</td><td style="text-align:right">3:10.99</td></tr>
-    <tr><td style="text-align:center">66</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#555">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">3:12.93</td></tr>
-    <tr><td style="text-align:center">67</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#555">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">3:13.22</td></tr>
-    <tr><td style="text-align:center">68</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#555">Heike Zbierski</a>, Germany</td><td style="text-align:right">3:13.81</td></tr>
-    <tr><td style="text-align:center">69</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#555">Gregory Martin</a>, United States</td><td style="text-align:right">3:23.16</td></tr>
-    <tr><td style="text-align:center">70</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#555">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">3:24.85</td></tr>
-    <tr><td style="text-align:center">71</td><td><a href="https://www.worldcubeassociation.org/persons/2017ASMU01#555">Thor Muto Asmund</a>, Denmark</td><td style="text-align:right">3:25.21</td></tr>
-    <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#555">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">3:25.38</td></tr>
-    <tr><td style="text-align:center">73</td><td><a href="https://www.worldcubeassociation.org/persons/2013MORA10#555">André Pozzobon de Morais</a>, Brazil</td><td style="text-align:right">3:26.18</td></tr>
-    <tr><td style="text-align:center">75</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMI01#555">Junya Tomita (富田純也)</a>, Japan</td><td style="text-align:right">3:30.74</td></tr>
-    <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2009JARU02#555">Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)</a>, Thailand</td><td style="text-align:right">3:31.38</td></tr>
-    <tr><td style="text-align:center">77</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#555">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">3:32.36</td></tr>
-    <tr><td style="text-align:center">78</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#555">David Barr</a>, United States</td><td style="text-align:right">3:34.29</td></tr>
-    <tr><td style="text-align:center">80</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#555">Tommy Holm</a>, Sweden</td><td style="text-align:right">3:35.77</td></tr>
-    <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2018PRAT13#555">James Pratt</a>, United Kingdom</td><td style="text-align:right">3:36.04</td></tr>
-    <tr><td style="text-align:center">82</td><td><a href="https://www.worldcubeassociation.org/persons/2017FREG01#555">Jérôme Fréguin</a>, Canada</td><td style="text-align:right">3:36.33</td></tr>
-    <tr><td style="text-align:center">83</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#555">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">3:37.23</td></tr>
-    <tr><td style="text-align:center">85</td><td><a href="https://www.worldcubeassociation.org/persons/2017TABA02#555">Chris Tabar</a>, United States</td><td style="text-align:right">3:40.08</td></tr>
-    <tr><td style="text-align:center">86</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#555">David Brown</a>, United States, 50+</td><td style="text-align:right">3:40.47</td></tr>
-    <tr><td style="text-align:center">87</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST01#555">Kenneth Gustavsson</a>, Sweden</td><td style="text-align:right">3:47.87</td></tr>
-    <tr><td style="text-align:center">88</td><td><a href="https://www.worldcubeassociation.org/persons/2005KURO02#555">Shuichi Kuroiwa (黒岩秀一)</a>, Japan</td><td style="text-align:right">3:49.27</td></tr>
-    <tr><td style="text-align:center">90</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#555">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">3:55.04</td></tr>
-    <tr><td style="text-align:center">91</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#555">Peter Andersson</a>, Sweden, 50+</td><td style="text-align:right">3:58.81</td></tr>
-    <tr><td style="text-align:center">92</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#555">Cari Goslow</a>, United States</td><td style="text-align:right">3:59.17</td></tr>
-    <tr><td style="text-align:center">93</td><td><a href="https://www.worldcubeassociation.org/persons/2012WING01#555">Dave Wing</a>, United States</td><td style="text-align:right">4:00.17</td></tr>
-    <tr><td style="text-align:center">94</td><td><a href="https://www.worldcubeassociation.org/persons/2012ANGD01#555">David Ang</a>, Singapore</td><td style="text-align:right">4:04.25</td></tr>
-    <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#555">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">4:10.54</td></tr>
-    <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#555">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">4:15.75</td></tr>
+    <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2018CHOI09#555">Moonkyoo Choi (최문규)</a>, Republic of Korea</td><td style="text-align:right">2:29.60</td></tr>
+    <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2003DENN01#555">Ton Dennenbroek</a>, Netherlands</td><td style="text-align:right">2:29.68</td></tr>
+    <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2007DIAZ01#555">Agustín Díaz Morón</a>, Spain</td><td style="text-align:right">2:30.02</td></tr>
+    <tr><td style="text-align:center">42</td><td><a href="https://www.worldcubeassociation.org/persons/2007CINO01#555">Rafael de Andrade Cinoto</a>, Brazil</td><td style="text-align:right">2:34.47</td></tr>
+    <tr><td style="text-align:center">44</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#555">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">2:37.71</td></tr>
+    <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2008GOUB01#555">Benoît Goubin</a>, France</td><td style="text-align:right">2:39.93</td></tr>
+    <tr><td style="text-align:center">46</td><td><a href="https://www.worldcubeassociation.org/persons/2016DUEH02#555">Jeremy Duehring</a>, United States</td><td style="text-align:right">2:41.28</td></tr>
+    <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2006SANG02#555">Park Sang-Dong</a>, Republic of Korea</td><td style="text-align:right">2:47.75</td></tr>
+    <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2016PETE06#555">Rob Peters</a>, United States</td><td style="text-align:right">2:48.66</td></tr>
+    <tr><td style="text-align:center">51</td><td><a href="https://www.worldcubeassociation.org/persons/2017KOST06#555">Roman Kostyukov</a>, Russia</td><td style="text-align:right">2:48.72</td></tr>
+    <tr><td style="text-align:center">53</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#555">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">2:50.43</td></tr>
+    <tr><td style="text-align:center">54</td><td><a href="https://www.worldcubeassociation.org/persons/2005THOM01#555">Reiner Thomsen</a>, Germany</td><td style="text-align:right">2:51.22</td></tr>
+    <tr><td style="text-align:center">58</td><td><a href="https://www.worldcubeassociation.org/persons/2003AKIM01#555">Masayuki Akimoto (秋元正行)</a>, Japan</td><td style="text-align:right">2:56.32</td></tr>
+    <tr><td style="text-align:center">60</td><td><a href="https://www.worldcubeassociation.org/persons/2006PIRZ01#555">Markus Pirzer</a>, Germany</td><td style="text-align:right">3:02.21</td></tr>
+    <tr><td style="text-align:center">61</td><td><a href="https://www.worldcubeassociation.org/persons/2012PLAC01#555">Gianluca Placenti</a>, Italy</td><td style="text-align:right">3:02.28</td></tr>
+    <tr><td style="text-align:center">62</td><td><a href="https://www.worldcubeassociation.org/persons/2004FRED02#555">Per Kristen Fredlund</a>, Norway</td><td style="text-align:right">3:04.36</td></tr>
+    <tr><td style="text-align:center">63</td><td><a href="https://www.worldcubeassociation.org/persons/2016LECO01#555">Yoann Lecoeur</a>, France</td><td style="text-align:right">3:04.65</td></tr>
+    <tr><td style="text-align:center">64</td><td><a href="https://www.worldcubeassociation.org/persons/2005YAZA01#555">Atsushi Yazawa (矢澤篤)</a>, Japan</td><td style="text-align:right">3:06.46</td></tr>
+    <tr><td style="text-align:center">65</td><td><a href="https://www.worldcubeassociation.org/persons/2012ADRI01#555">Adrian Roșu</a>, Romania</td><td style="text-align:right">3:07.27</td></tr>
+    <tr><td style="text-align:center">66</td><td><a href="https://www.worldcubeassociation.org/persons/2005CHEN02#555">Hong Chen</a>, Canada</td><td style="text-align:right">3:10.99</td></tr>
+    <tr><td style="text-align:center">67</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#555">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">3:12.93</td></tr>
+    <tr><td style="text-align:center">68</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#555">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">3:13.22</td></tr>
+    <tr><td style="text-align:center">69</td><td><a href="https://www.worldcubeassociation.org/persons/2009ZBIE01#555">Heike Zbierski</a>, Germany</td><td style="text-align:right">3:13.81</td></tr>
+    <tr><td style="text-align:center">70</td><td><a href="https://www.worldcubeassociation.org/persons/2017MART70#555">Gregory Martin</a>, United States</td><td style="text-align:right">3:23.16</td></tr>
+    <tr><td style="text-align:center">71</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#555">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">3:24.85</td></tr>
+    <tr><td style="text-align:center">72</td><td><a href="https://www.worldcubeassociation.org/persons/2017ASMU01#555">Thor Muto Asmund</a>, Denmark</td><td style="text-align:right">3:25.21</td></tr>
+    <tr><td style="text-align:center">73</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#555">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">3:25.38</td></tr>
+    <tr><td style="text-align:center">74</td><td><a href="https://www.worldcubeassociation.org/persons/2013MORA10#555">André Pozzobon de Morais</a>, Brazil</td><td style="text-align:right">3:26.18</td></tr>
+    <tr><td style="text-align:center">76</td><td><a href="https://www.worldcubeassociation.org/persons/2005TOMI01#555">Junya Tomita (富田純也)</a>, Japan</td><td style="text-align:right">3:30.74</td></tr>
+    <tr><td style="text-align:center">77</td><td><a href="https://www.worldcubeassociation.org/persons/2009JARU02#555">Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)</a>, Thailand</td><td style="text-align:right">3:31.38</td></tr>
+    <tr><td style="text-align:center">78</td><td><a href="https://www.worldcubeassociation.org/persons/2006MATH01#555">Jean-Louis Mathieu</a>, France</td><td style="text-align:right">3:32.36</td></tr>
+    <tr><td style="text-align:center">79</td><td><a href="https://www.worldcubeassociation.org/persons/2003BARR01#555">David Barr</a>, United States</td><td style="text-align:right">3:34.29</td></tr>
+    <tr><td style="text-align:center">81</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#555">Tommy Holm</a>, Sweden</td><td style="text-align:right">3:35.77</td></tr>
+    <tr><td style="text-align:center">82</td><td><a href="https://www.worldcubeassociation.org/persons/2018PRAT13#555">James Pratt</a>, United Kingdom</td><td style="text-align:right">3:36.04</td></tr>
+    <tr><td style="text-align:center">83</td><td><a href="https://www.worldcubeassociation.org/persons/2017FREG01#555">Jérôme Fréguin</a>, Canada</td><td style="text-align:right">3:36.33</td></tr>
+    <tr><td style="text-align:center">84</td><td><a href="https://www.worldcubeassociation.org/persons/2015KIMH04#555">Hyunjo Kim (김현조)</a>, Republic of Korea</td><td style="text-align:right">3:37.23</td></tr>
+    <tr><td style="text-align:center">86</td><td><a href="https://www.worldcubeassociation.org/persons/2017TABA02#555">Chris Tabar</a>, United States</td><td style="text-align:right">3:40.08</td></tr>
+    <tr><td style="text-align:center">87</td><td><a href="https://www.worldcubeassociation.org/persons/2017BROW09#555">David Brown</a>, United States, 50+</td><td style="text-align:right">3:40.47</td></tr>
+    <tr><td style="text-align:center">88</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST01#555">Kenneth Gustavsson</a>, Sweden</td><td style="text-align:right">3:47.87</td></tr>
+    <tr><td style="text-align:center">89</td><td><a href="https://www.worldcubeassociation.org/persons/2005KURO02#555">Shuichi Kuroiwa (黒岩秀一)</a>, Japan</td><td style="text-align:right">3:49.27</td></tr>
+    <tr><td style="text-align:center">91</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#555">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">3:55.04</td></tr>
+    <tr><td style="text-align:center">92</td><td><a href="https://www.worldcubeassociation.org/persons/2013ANDE01#555">Peter Andersson</a>, Sweden, 50+</td><td style="text-align:right">3:58.81</td></tr>
+    <tr><td style="text-align:center">93</td><td><a href="https://www.worldcubeassociation.org/persons/2015GOSL01#555">Cari Goslow</a>, United States</td><td style="text-align:right">3:59.17</td></tr>
+    <tr><td style="text-align:center">94</td><td><a href="https://www.worldcubeassociation.org/persons/2012WING01#555">Dave Wing</a>, United States</td><td style="text-align:right">4:00.17</td></tr>
+    <tr><td style="text-align:center">95</td><td><a href="https://www.worldcubeassociation.org/persons/2012ANGD01#555">David Ang</a>, Singapore</td><td style="text-align:right">4:04.25</td></tr>
+    <tr><td style="text-align:center">96</td><td><a href="https://www.worldcubeassociation.org/persons/2010HAMA03#555">Ryuji Hamano (浜野竜二)</a>, Japan</td><td style="text-align:right">4:10.54</td></tr>
     <tr><td style="text-align:center">97</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#555">Daniel Daoust</a>, Canada</td><td style="text-align:right">4:27.65</td></tr>
     <tr><td style="text-align:center">98</td><td><a href="https://www.worldcubeassociation.org/persons/2005ISHI01#555">Hiroshi Ishino (石野弘司)</a>, Japan, 50+</td><td style="text-align:right">4:53.69</td></tr>
     <tr><td style="text-align:center">99</td><td><a href="https://www.worldcubeassociation.org/persons/2006NORS01#555">Bruce Norskog</a>, United States, 50+</td><td style="text-align:right">5:01.49</td></tr>
@@ -1980,7 +1980,7 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">13</td><td><a href="https://www.worldcubeassociation.org/persons/2005VANH02#333ft">Petri Vanhala</a>, Finland</td><td style="text-align:right">2:32.24</td></tr>
     <tr><td style="text-align:center">14</td><td><a href="https://www.worldcubeassociation.org/persons/2008COUR01#333ft">François Courtès</a>, France</td><td style="text-align:right">2:48.33</td></tr>
     <tr><td style="text-align:center">15</td><td><a href="https://www.worldcubeassociation.org/persons/2013HUBH01#333ft">Hanns Hub</a>, Germany, 50+</td><td style="text-align:right">2:57.01</td></tr>
-    <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333ft">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">3:25.47</td></tr>
+    <tr><td style="text-align:center">16</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#333ft">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">2:58.01</td></tr>
     <tr><td style="text-align:center">17</td><td><a href="https://www.worldcubeassociation.org/persons/2010WENS01#333ft">Siew Hann Wen (蕭漢文)</a>, Malaysia</td><td style="text-align:right">3:48.62</td></tr>
     <tr><td style="text-align:center">18</td><td><a href="https://www.worldcubeassociation.org/persons/2005ASPE01#333ft">Lennart Aspelin</a>, Sweden</td><td style="text-align:right">3:52.33</td></tr>
     <tr><td style="text-align:center">19</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#333ft">István Kocza</a>, Hungary</td><td style="text-align:right">4:11.12</td></tr>
@@ -2228,46 +2228,46 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">158</td><td><a href="https://www.worldcubeassociation.org/persons/2014JANE01#pyram">Piotr Janecki</a>, Poland</td><td style="text-align:right">15.97</td></tr>
     <tr><td style="text-align:center">159</td><td><a href="https://www.worldcubeassociation.org/persons/2015SPAD01#pyram">Eugenio Spadafora</a>, Italy</td><td style="text-align:right">16.06</td></tr>
     <tr><td style="text-align:center">161</td><td><a href="https://www.worldcubeassociation.org/persons/2008MATS04#pyram">Takayuki Matsumoto (松本孝之)</a>, Japan</td><td style="text-align:right">16.11</td></tr>
-    <tr><td style="text-align:center">166</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#pyram">David Kleiner</a>, United States, 60+</td><td style="text-align:right">16.24</td></tr>
-    <tr><td style="text-align:center">167</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#pyram">Yves Créange</a>, France, 50+</td><td style="text-align:right">16.25</td></tr>
-    <tr><td style="text-align:center">169</td><td><a href="https://www.worldcubeassociation.org/persons/2019SZYM02#pyram">Marek Szymański</a>, Poland</td><td style="text-align:right">16.34</td></tr>
-    <tr><td style="text-align:center">170</td><td><a href="https://www.worldcubeassociation.org/persons/2012POOT01#pyram">Marcel Poots</a>, Netherlands</td><td style="text-align:right">16.35</td></tr>
-    <tr><td style="text-align:center">172</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#pyram">Dieter Amberger</a>, Austria</td><td style="text-align:right">16.46</td></tr>
-    <tr><td style="text-align:center">174</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#pyram">Tommy Holm</a>, Sweden</td><td style="text-align:right">16.55</td></tr>
-    <tr><td style="text-align:center">176</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#pyram">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td style="text-align:right">16.62</td></tr>
-    <tr><td style="text-align:center">181</td><td><a href="https://www.worldcubeassociation.org/persons/2004CONN01#pyram">Sean Connolly</a>, United Kingdom</td><td style="text-align:right">16.81</td></tr>
-    <tr><td style="text-align:center">183</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10#pyram">Javier Agustín Rossi</a>, Argentina, 50+</td><td style="text-align:right">16.84</td></tr>
-    <tr><td style="text-align:center">186</td><td><a href="https://www.worldcubeassociation.org/persons/2011BOIS01#pyram">Thierry Boisivon</a>, France</td><td style="text-align:right">16.98</td></tr>
-    <tr><td style="text-align:center">187</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#pyram">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">17.01</td></tr>
-    <tr><td style="text-align:center">189</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#pyram">Dan Turner</a>, United States</td><td style="text-align:right">17.09</td></tr>
-    <tr><td style="text-align:center">190</td><td><a href="https://www.worldcubeassociation.org/persons/2017UEDA02#pyram">Shoji Ueda (植田昌司)</a>, Japan</td><td style="text-align:right">17.17</td></tr>
-    <tr><td style="text-align:center">191</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#pyram">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">17.23</td></tr>
-    <tr><td style="text-align:center">193</td><td><a href="https://www.worldcubeassociation.org/persons/2016BREW04#pyram">Michelle Brewster</a>, Australia</td><td style="text-align:right">17.31</td></tr>
-    <tr><td style="text-align:center">194</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#pyram">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">17.32</td></tr>
-    <tr><td style="text-align:center">195</td><td><a href="https://www.worldcubeassociation.org/persons/2012SCHM07#pyram">Søren Schmidt</a>, Denmark</td><td style="text-align:right">17.40</td></tr>
-    <tr><td style="text-align:center">199</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#pyram">Daniel Daoust</a>, Canada</td><td style="text-align:right">17.55</td></tr>
-    <tr><td style="text-align:center">201</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYE08#pyram">Rafael Reyes</a>, United States</td><td style="text-align:right">17.67</td></tr>
-    <tr><td style="text-align:center">203</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#pyram">Endre Kovács</a>, Hungary</td><td style="text-align:right">17.78</td></tr>
-    <tr><td style="text-align:center">210</td><td><a href="https://www.worldcubeassociation.org/persons/2015ADAM03#pyram">Mark Adams</a>, United Kingdom</td><td style="text-align:right">18.12</td></tr>
-    <tr><td style="text-align:center">211</td><td><a href="https://www.worldcubeassociation.org/persons/2005WOIT01#pyram">Christophe Woittequand</a>, France</td><td style="text-align:right">18.23</td></tr>
-    <tr><td style="text-align:center">213</td><td><a href="https://www.worldcubeassociation.org/persons/2015STOP01#pyram">Zorinko Stopic</a>, Bosnia and Herzegovina</td><td style="text-align:right">18.40</td></tr>
-    <tr><td style="text-align:center">214</td><td><a href="https://www.worldcubeassociation.org/persons/2016UMET02#pyram">Satoru Umetsu (梅津諭)</a>, Japan</td><td style="text-align:right">18.45</td></tr>
-    <tr><td style="text-align:center">218</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#pyram">John Cook</a>, Australia, 50+</td><td style="text-align:right">18.58</td></tr>
-    <tr><td style="text-align:center">219</td><td><a href="https://www.worldcubeassociation.org/persons/2019CHIE01#pyram">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td style="text-align:right">18.61</td></tr>
-    <tr><td style="text-align:center">220</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#pyram">István Kocza</a>, Hungary</td><td style="text-align:right">18.62</td></tr>
+    <tr><td style="text-align:center">166</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#pyram">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">16.23</td></tr>
+    <tr><td style="text-align:center">167</td><td><a href="https://www.worldcubeassociation.org/persons/2016KLEI01#pyram">David Kleiner</a>, United States, 60+</td><td style="text-align:right">16.24</td></tr>
+    <tr><td style="text-align:center">168</td><td><a href="https://www.worldcubeassociation.org/persons/2017CREA01#pyram">Yves Créange</a>, France, 50+</td><td style="text-align:right">16.25</td></tr>
+    <tr><td style="text-align:center">170</td><td><a href="https://www.worldcubeassociation.org/persons/2019SZYM02#pyram">Marek Szymański</a>, Poland</td><td style="text-align:right">16.34</td></tr>
+    <tr><td style="text-align:center">171</td><td><a href="https://www.worldcubeassociation.org/persons/2012POOT01#pyram">Marcel Poots</a>, Netherlands</td><td style="text-align:right">16.35</td></tr>
+    <tr><td style="text-align:center">173</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#pyram">Dieter Amberger</a>, Austria</td><td style="text-align:right">16.46</td></tr>
+    <tr><td style="text-align:center">175</td><td><a href="https://www.worldcubeassociation.org/persons/2007HOLM02#pyram">Tommy Holm</a>, Sweden</td><td style="text-align:right">16.55</td></tr>
+    <tr><td style="text-align:center">177</td><td><a href="https://www.worldcubeassociation.org/persons/2011SALA06#pyram">José Adrian Jaquez Salazar</a>, Mexico, 50+</td><td style="text-align:right">16.62</td></tr>
+    <tr><td style="text-align:center">182</td><td><a href="https://www.worldcubeassociation.org/persons/2004CONN01#pyram">Sean Connolly</a>, United Kingdom</td><td style="text-align:right">16.81</td></tr>
+    <tr><td style="text-align:center">184</td><td><a href="https://www.worldcubeassociation.org/persons/2017ROSS10#pyram">Javier Agustín Rossi</a>, Argentina, 50+</td><td style="text-align:right">16.84</td></tr>
+    <tr><td style="text-align:center">187</td><td><a href="https://www.worldcubeassociation.org/persons/2011BOIS01#pyram">Thierry Boisivon</a>, France</td><td style="text-align:right">16.98</td></tr>
+    <tr><td style="text-align:center">188</td><td><a href="https://www.worldcubeassociation.org/persons/2005GUST02#pyram">Tommy Gustavsson</a>, Sweden</td><td style="text-align:right">17.01</td></tr>
+    <tr><td style="text-align:center">190</td><td><a href="https://www.worldcubeassociation.org/persons/2018TURN03#pyram">Dan Turner</a>, United States</td><td style="text-align:right">17.09</td></tr>
+    <tr><td style="text-align:center">191</td><td><a href="https://www.worldcubeassociation.org/persons/2017UEDA02#pyram">Shoji Ueda (植田昌司)</a>, Japan</td><td style="text-align:right">17.17</td></tr>
+    <tr><td style="text-align:center">192</td><td><a href="https://www.worldcubeassociation.org/persons/2014RIEM01#pyram">Marius Rombout Ferreira van Riemsdijk</a>, Brazil</td><td style="text-align:right">17.23</td></tr>
+    <tr><td style="text-align:center">194</td><td><a href="https://www.worldcubeassociation.org/persons/2016BREW04#pyram">Michelle Brewster</a>, Australia</td><td style="text-align:right">17.31</td></tr>
+    <tr><td style="text-align:center">195</td><td><a href="https://www.worldcubeassociation.org/persons/2007YULH01#pyram">Yul-Hok Sung (성열학)</a>, Republic of Korea</td><td style="text-align:right">17.32</td></tr>
+    <tr><td style="text-align:center">196</td><td><a href="https://www.worldcubeassociation.org/persons/2012SCHM07#pyram">Søren Schmidt</a>, Denmark</td><td style="text-align:right">17.40</td></tr>
+    <tr><td style="text-align:center">200</td><td><a href="https://www.worldcubeassociation.org/persons/2017DAOU01#pyram">Daniel Daoust</a>, Canada</td><td style="text-align:right">17.55</td></tr>
+    <tr><td style="text-align:center">202</td><td><a href="https://www.worldcubeassociation.org/persons/2015REYE08#pyram">Rafael Reyes</a>, United States</td><td style="text-align:right">17.67</td></tr>
+    <tr><td style="text-align:center">204</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#pyram">Endre Kovács</a>, Hungary</td><td style="text-align:right">17.78</td></tr>
+    <tr><td style="text-align:center">211</td><td><a href="https://www.worldcubeassociation.org/persons/2015ADAM03#pyram">Mark Adams</a>, United Kingdom</td><td style="text-align:right">18.12</td></tr>
+    <tr><td style="text-align:center">212</td><td><a href="https://www.worldcubeassociation.org/persons/2005WOIT01#pyram">Christophe Woittequand</a>, France</td><td style="text-align:right">18.23</td></tr>
+    <tr><td style="text-align:center">214</td><td><a href="https://www.worldcubeassociation.org/persons/2015STOP01#pyram">Zorinko Stopic</a>, Bosnia and Herzegovina</td><td style="text-align:right">18.40</td></tr>
+    <tr><td style="text-align:center">215</td><td><a href="https://www.worldcubeassociation.org/persons/2016UMET02#pyram">Satoru Umetsu (梅津諭)</a>, Japan</td><td style="text-align:right">18.45</td></tr>
+    <tr><td style="text-align:center">219</td><td><a href="https://www.worldcubeassociation.org/persons/2018COOK04#pyram">John Cook</a>, Australia, 50+</td><td style="text-align:right">18.58</td></tr>
+    <tr><td style="text-align:center">220</td><td><a href="https://www.worldcubeassociation.org/persons/2019CHIE01#pyram">Siwasan Chiewpimolporn (ศิวสรรค์ เชี่ยวพิมลพร)</a>, Thailand</td><td style="text-align:right">18.61</td></tr>
+    <tr><td style="text-align:center">221</td><td><a href="https://www.worldcubeassociation.org/persons/2005KOCZ01#pyram">István Kocza</a>, Hungary</td><td style="text-align:right">18.62</td></tr>
     <tr><td style="text-align:center"></td><td><a href="https://www.worldcubeassociation.org/persons/2017THOR05#pyram">Jennifer Thorsen</a>, Sweden</td><td style="text-align:right">18.62</td></tr>
-    <tr><td style="text-align:center">223</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#pyram">Peter Douthwright</a>, Canada, 50+</td><td style="text-align:right">18.68</td></tr>
-    <tr><td style="text-align:center">224</td><td><a href="https://www.worldcubeassociation.org/persons/2018JOHN29#pyram">Mitchell Johnson</a>, United States, 50+</td><td style="text-align:right">18.69</td></tr>
-    <tr><td style="text-align:center">225</td><td><a href="https://www.worldcubeassociation.org/persons/2016CHOW02#pyram">Christian Chow</a>, Canada, 50+</td><td style="text-align:right">18.70</td></tr>
-    <tr><td style="text-align:center">227</td><td><a href="https://www.worldcubeassociation.org/persons/2009KISS01#pyram">Zoltán János Kiss</a>, Hungary</td><td style="text-align:right">18.71</td></tr>
-    <tr><td style="text-align:center">229</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#pyram">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">18.74</td></tr>
-    <tr><td style="text-align:center">232</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#pyram">Mark Rivers</a>, United Kingdom</td><td style="text-align:right">18.95</td></tr>
-    <tr><td style="text-align:center">234</td><td><a href="https://www.worldcubeassociation.org/persons/2019BOXD03#pyram">Jeremy Boxdorfer</a>, United States</td><td style="text-align:right">19.21</td></tr>
-    <tr><td style="text-align:center">236</td><td><a href="https://www.worldcubeassociation.org/persons/2016COUL01#pyram">Michael Coulter</a>, Canada</td><td style="text-align:right">19.30</td></tr>
-    <tr><td style="text-align:center">239</td><td><a href="https://www.worldcubeassociation.org/persons/2017MARI16#pyram">Uma Marieswaran</a>, India</td><td style="text-align:right">19.53</td></tr>
-    <tr><td style="text-align:center">242</td><td><a href="https://www.worldcubeassociation.org/persons/2016GOSL01#pyram">Harry Goslow</a>, United States</td><td style="text-align:right">19.78</td></tr>
-    <tr><td style="text-align:center">243</td><td><a href="https://www.worldcubeassociation.org/persons/2013JOKI02#pyram">Juhana Jokinen</a>, Finland</td><td style="text-align:right">19.82</td></tr>
-    <tr><td style="text-align:center">246</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#pyram">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">19.98</td></tr>
+    <tr><td style="text-align:center">224</td><td><a href="https://www.worldcubeassociation.org/persons/2007DOUT01#pyram">Peter Douthwright</a>, Canada, 50+</td><td style="text-align:right">18.68</td></tr>
+    <tr><td style="text-align:center">225</td><td><a href="https://www.worldcubeassociation.org/persons/2018JOHN29#pyram">Mitchell Johnson</a>, United States, 50+</td><td style="text-align:right">18.69</td></tr>
+    <tr><td style="text-align:center">226</td><td><a href="https://www.worldcubeassociation.org/persons/2016CHOW02#pyram">Christian Chow</a>, Canada, 50+</td><td style="text-align:right">18.70</td></tr>
+    <tr><td style="text-align:center">228</td><td><a href="https://www.worldcubeassociation.org/persons/2009KISS01#pyram">Zoltán János Kiss</a>, Hungary</td><td style="text-align:right">18.71</td></tr>
+    <tr><td style="text-align:center">230</td><td><a href="https://www.worldcubeassociation.org/persons/2009KOTT01#pyram">Norbert Kotthoff</a>, Germany</td><td style="text-align:right">18.74</td></tr>
+    <tr><td style="text-align:center">233</td><td><a href="https://www.worldcubeassociation.org/persons/2015RIVE05#pyram">Mark Rivers</a>, United Kingdom</td><td style="text-align:right">18.95</td></tr>
+    <tr><td style="text-align:center">235</td><td><a href="https://www.worldcubeassociation.org/persons/2019BOXD03#pyram">Jeremy Boxdorfer</a>, United States</td><td style="text-align:right">19.21</td></tr>
+    <tr><td style="text-align:center">237</td><td><a href="https://www.worldcubeassociation.org/persons/2016COUL01#pyram">Michael Coulter</a>, Canada</td><td style="text-align:right">19.30</td></tr>
+    <tr><td style="text-align:center">240</td><td><a href="https://www.worldcubeassociation.org/persons/2017MARI16#pyram">Uma Marieswaran</a>, India</td><td style="text-align:right">19.53</td></tr>
+    <tr><td style="text-align:center">243</td><td><a href="https://www.worldcubeassociation.org/persons/2016GOSL01#pyram">Harry Goslow</a>, United States</td><td style="text-align:right">19.78</td></tr>
+    <tr><td style="text-align:center">244</td><td><a href="https://www.worldcubeassociation.org/persons/2013JOKI02#pyram">Juhana Jokinen</a>, Finland</td><td style="text-align:right">19.82</td></tr>
     <tr><td style="text-align:center">247</td><td><a href="https://www.worldcubeassociation.org/persons/2015HEIK01#pyram">Jari Heikkinen</a>, Finland</td><td style="text-align:right">20.05</td></tr>
     <tr><td style="text-align:center">249</td><td><a href="https://www.worldcubeassociation.org/persons/2016GREE02#pyram">Jason Green</a>, United States</td><td style="text-align:right">20.17</td></tr>
     <tr><td style="text-align:center">250</td><td><a href="https://www.worldcubeassociation.org/persons/2017GEES01#pyram">Paul N. van de Geest</a>, United Kingdom</td><td style="text-align:right">20.19</td></tr>
@@ -2351,14 +2351,14 @@ Last refreshed: 2020-01-01 18:01:44 (UTC)
     <tr><td style="text-align:center">23</td><td><a href="https://www.worldcubeassociation.org/persons/2016DUEH02#skewb">Jeremy Duehring</a>, United States</td><td style="text-align:right">10.22</td></tr>
     <tr><td style="text-align:center">25</td><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02#skewb">Luis J. Iáñez</a>, Spain</td><td style="text-align:right">10.63</td></tr>
     <tr><td style="text-align:center">26</td><td><a href="https://www.worldcubeassociation.org/persons/2007HUGH01#skewb">Mike Hughey</a>, United States, 50+</td><td style="text-align:right">10.73</td></tr>
-    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2016LECO01#skewb">Yoann Lecoeur</a>, France</td><td style="text-align:right">10.88</td></tr>
-    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02#skewb">Jordi Borrell</a>, Spain</td><td style="text-align:right">10.91</td></tr>
-    <tr><td style="text-align:center">34</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#skewb">Endre Kovács</a>, Hungary</td><td style="text-align:right">11.83</td></tr>
-    <tr><td style="text-align:center">35</td><td><a href="https://www.worldcubeassociation.org/persons/2004MASA01#skewb">Jesús Masanet García</a>, Spain, 50+</td><td style="text-align:right">11.85</td></tr>
-    <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#skewb">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">11.86</td></tr>
-    <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#skewb">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">11.89</td></tr>
-    <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2011YOSH01#skewb">Ryohei Yoshioka (吉岡亮平)</a>, Japan</td><td style="text-align:right">11.91</td></tr>
-    <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#skewb">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">12.01</td></tr>
+    <tr><td style="text-align:center">29</td><td><a href="https://www.worldcubeassociation.org/persons/2017NOVA05#skewb">João Luiz Melo Novaes</a>, Brazil</td><td style="text-align:right">10.85</td></tr>
+    <tr><td style="text-align:center">30</td><td><a href="https://www.worldcubeassociation.org/persons/2016LECO01#skewb">Yoann Lecoeur</a>, France</td><td style="text-align:right">10.88</td></tr>
+    <tr><td style="text-align:center">31</td><td><a href="https://www.worldcubeassociation.org/persons/2016BORR02#skewb">Jordi Borrell</a>, Spain</td><td style="text-align:right">10.91</td></tr>
+    <tr><td style="text-align:center">35</td><td><a href="https://www.worldcubeassociation.org/persons/2008KOVA01#skewb">Endre Kovács</a>, Hungary</td><td style="text-align:right">11.83</td></tr>
+    <tr><td style="text-align:center">36</td><td><a href="https://www.worldcubeassociation.org/persons/2004MASA01#skewb">Jesús Masanet García</a>, Spain, 50+</td><td style="text-align:right">11.85</td></tr>
+    <tr><td style="text-align:center">37</td><td><a href="https://www.worldcubeassociation.org/persons/2009TIRA01#skewb">Javier Tirado Ortiz</a>, Spain</td><td style="text-align:right">11.86</td></tr>
+    <tr><td style="text-align:center">38</td><td><a href="https://www.worldcubeassociation.org/persons/2010SOHT01#skewb">Tiffany Soh (蘇明珠)</a>, Malaysia</td><td style="text-align:right">11.89</td></tr>
+    <tr><td style="text-align:center">39</td><td><a href="https://www.worldcubeassociation.org/persons/2011YOSH01#skewb">Ryohei Yoshioka (吉岡亮平)</a>, Japan</td><td style="text-align:right">11.91</td></tr>
     <tr><td style="text-align:center">40</td><td><a href="https://www.worldcubeassociation.org/persons/2014SANT22#skewb">Valdinei Cordeiro dos Santos</a>, Brazil</td><td style="text-align:right">12.03</td></tr>
     <tr><td style="text-align:center">43</td><td><a href="https://www.worldcubeassociation.org/persons/2019POLL04#skewb">Ruud Pollé</a>, Netherlands</td><td style="text-align:right">12.32</td></tr>
     <tr><td style="text-align:center">45</td><td><a href="https://www.worldcubeassociation.org/persons/2016AMBE02#skewb">Dieter Amberger</a>, Austria</td><td style="text-align:right">12.82</td></tr>
