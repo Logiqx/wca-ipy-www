@@ -7,16 +7,9 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-02 03:00:04 (UTC)
+Last refreshed: 2020-01-02 06:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/Oklahoma2020">Oklahoma 2020</a> - Ardmore, Oklahoma, United States - Dec 31, 2019 - Jan 1, 2020</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
-  </p>
-</details>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
