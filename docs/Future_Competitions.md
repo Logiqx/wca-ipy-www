@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-03 15:00:05 (UTC)
+Last refreshed: 2020-01-03 18:00:02 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -291,6 +291,13 @@ Last refreshed: 2020-01-03 15:00:05 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/CCCQualificationSPB2020">CCC Qualification SPB 2020</a> - Saint Petersburg, Russia - Feb 1 - 2, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2018KORO08">Sergei Korobkin (Сергей Коробкин)</a>, Russia
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SalzburgOpen2020">Salzburg Open 2020</a> - Salzburg, Austria - Feb 1 - 2, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany
   </p>
 </details>
 
