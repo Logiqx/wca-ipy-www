@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-03 03:00:04 (UTC)
+Last refreshed: 2020-01-03 06:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -407,6 +407,13 @@ Last refreshed: 2020-01-03 03:00:04 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2018SACH03">Christian Sachgau</a>, Germany, 50+<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/TurkishCubingTourAnkara2020">Turkish Cubing Tour Ankara 2020</a> - Ankara, Turkey - Feb 22 - 23, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013AKGL01">Selçuk Soner Akgül</a>, Turkey
   </p>
 </details>
 
