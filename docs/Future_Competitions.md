@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-05 09:00:04 (UTC)
+Last refreshed: 2020-01-05 12:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -444,7 +444,8 @@ Last refreshed: 2020-01-05 09:00:04 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/HamburgInternational2020">Hamburg International 2020</a> - Hamburg, Germany - Feb 29 - Mar 1, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany
+    - <a href="https://www.worldcubeassociation.org/persons/2009ZBIE01">Heike Zbierski</a>, Germany<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany
   </p>
 </details>
 
