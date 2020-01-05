@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-05 12:00:03 (UTC)
+Last refreshed: 2020-01-05 15:00:04 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -295,9 +295,17 @@ Last refreshed: 2020-01-05 12:00:03 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/GetafeContinua2020">Getafe Continúa 2020</a> - Getafe, Madrid, Spain - Feb 1 - 2, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SalzburgOpen2020">Salzburg Open 2020</a> - Salzburg, Austria - Feb 1 - 2, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany
+    - <a href="https://www.worldcubeassociation.org/persons/2018BAUE04">Jochen Bauer</a>, Germany<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LASC01">Péter Laschek</a>, Hungary
   </p>
 </details>
 
