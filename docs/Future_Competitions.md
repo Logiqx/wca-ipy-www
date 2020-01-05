@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-04 21:00:03 (UTC)
+Last refreshed: 2020-01-05 00:00:03 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -302,6 +302,8 @@ Last refreshed: 2020-01-04 21:00:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2007OEYM01">Maria Oey</a>, Indonesia, 50+ - <a href="https://www.speedsolving.com/members/crazycubemom.492">Crazycubemom</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003BRUC01">Ron van Bruchem</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ron.163">Ron</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2019POLL04">Ruud Pollé</a>, Netherlands - <a href="https://www.speedsolving.com/members/absoruud.47329">AbsoRuud</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2006KASP02">Sander Kaspers</a>, Netherlands - <a href="https://www.speedsolving.com/members/scylla.3284">scylla</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018GRAG01">Thorsten Gragert</a>, Netherlands<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2003DENN01">Ton Dennenbroek</a>, Netherlands, 50+ - <a href="https://www.speedsolving.com/members/ton.630">Ton</a> on Speedsolving.com
   </p>
 </details>
