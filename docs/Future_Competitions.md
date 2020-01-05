@@ -7,23 +7,9 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-05 03:00:04 (UTC)
+Last refreshed: 2020-01-05 06:00:02 (UTC)
 
 <h3>Jan 6, 2020</h3>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/CharlotteWinter2020">Charlotte Winter 2020</a> - Charlotte, North Carolina, United States - Jan 4, 2020</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015HARR03">Chad Harris</a>, United States - <a href="https://www.speedsolving.com/members/chtiger.30820">chtiger</a> on Speedsolving.com
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/DFWNxNWinter2020">DFW NxN Winter 2020</a> - Cleburne, Texas, United States - Jan 4, 2020</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015PARK24">Jae Park</a>, United States - <a href="https://www.speedsolving.com/members/openseas.32143">openseas</a> on Speedsolving.com
-  </p>
-</details>
 
 <details open>
   <summary><a href="https://www.worldcubeassociation.org/competitions/GLSGdynia2020">GLS Gdynia 2020</a> - Gdynia, Poland - Jan 4 - 5, 2020</summary>
