@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-05 18:00:02 (UTC)
+Last refreshed: 2020-01-05 21:00:04 (UTC)
 
 <h3>Jan 6, 2020</h3>
 
@@ -46,13 +46,6 @@ Last refreshed: 2020-01-05 18:00:02 (UTC)
   <summary><a href="https://www.worldcubeassociation.org/competitions/SalentoCubingOpen2020">Salento Cubing Open 2020</a> - Lecce, Italy - Jan 4 - 5, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2017BONI01">Raffaele Bonifazi</a>, Italy
-  </p>
-</details>
-
-<details open>
-  <summary><a href="https://www.worldcubeassociation.org/competitions/SwisscubingCupI2020">Swisscubing Cup I 2020</a> - Sonvico, Switzerland - Jan 4 - 5, 2020</summary>
-  <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2015NICH04">Andy Nicholls</a>, United Kingdom - <a href="https://www.speedsolving.com/members/shaky-hands.32568">Shaky Hands</a> on Speedsolving.com
   </p>
 </details>
 
