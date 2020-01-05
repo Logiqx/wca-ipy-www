@@ -18,7 +18,7 @@ Notes:
 - The anonymised data was only for official averages so I cannot produce similar rankings for singles, sorry!
 - Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-04 18:46:58 (UTC)
+Last refreshed: 2020-01-05 04:14:50 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -627,7 +627,7 @@ Last refreshed: 2020-01-04 18:46:58 (UTC)
     <tr><td style="text-align:center">1623-1818</td><td><a href="https://www.worldcubeassociation.org/persons/2019MILL10#333">Frances Mills</a>, United Kingdom, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2017HOZS01#333">Sergio Luzardo de la Hoz</a>, Spain, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2009ELSO01#333">Valerie Elson</a>, United States, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2015MILA01#333">Maria Regina de Aguiar Milani</a>, Brazil<br/><a href="https://www.worldcubeassociation.org/persons/2018SOLA08#333">Marvin Solano</a>, Costa Rica<br/><a href="https://www.worldcubeassociation.org/persons/2009NAGY02#333">Magdolna Nagy</a>, Hungary, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2006BERG01#333">Martin Berger</a>, United Kingdom, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2018KRIS27#333">Andrey Kristesashvili (Андрей Кристесашвили)</a>, Russia<br/><a href="https://www.worldcubeassociation.org/persons/2014THAB03#333">Raouf Thabet</a>, Tunisia<br/><a href="https://www.worldcubeassociation.org/persons/2018NATH03#333">Senthil Nathan</a>, India<br/>+ 186 unknowns</td><td style="text-align:right">2:00.86<br/>2:01.56<br/>2:05.26<br/>2:10.97<br/>2:11.72<br/>2:12.93<br/>2:35.10<br/>2:44.83<br/>2:51.58<br/>2:54.93<br/>2:xx.xx</td></tr>
     <tr><td style="text-align:center">1819-1886</td><td><a href="https://www.worldcubeassociation.org/persons/2017GUPT02#333">Suvendu Gupta</a>, India, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2009AZHA01#333">Mohammad Azhari</a>, Indonesia, 60+<br/><a href="https://www.worldcubeassociation.org/persons/2018LUCE06#333">Aníbal Sergio Lucero</a>, Argentina, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2018DOYL02#333">Tom Doyle</a>, United States, 80+<br/><a href="https://www.worldcubeassociation.org/persons/2018MOOR10#333">Jeremy Moore</a>, United States<br/><a href="https://www.worldcubeassociation.org/persons/2017CALK02#333">David Calkins</a>, United States<br/><a href="https://www.worldcubeassociation.org/persons/2011YANG13#333">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+<br/><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+<br/>+ 59 unknowns</td><td style="text-align:right">3:01.07<br/>3:03.10<br/>3:16.35<br/>3:19.05<br/>3:19.87<br/>3:30.86<br/>3:44.87<br/>3:50.96<br/>6:52.57<br/>3:00.00+</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1911</p><p>Estimated completeness of rankings &#8776; 26.5%</p></details>
+<p>Estimated number of seniors &#8776; 1912</p><p>Estimated completeness of rankings &#8776; 26.5%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -1350,7 +1350,7 @@ Last refreshed: 2020-01-04 18:46:58 (UTC)
     <tr><td style="text-align:center">396-405</td><td><a href="https://www.worldcubeassociation.org/persons/2013BINI01#pyram">Neusa da Silva Bini</a>, Brazil, 50+<br/><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+<br/>+ 8 unknowns</td><td style="text-align:right">51.37<br/>59.61<br/>5x.xx</td></tr>
     <tr><td style="text-align:center">406-415</td><td><a href="https://www.worldcubeassociation.org/persons/2014FAGO01#pyram">Ricardo Cantón Fago</a>, Spain<br/>+ 9 unknowns</td><td style="text-align:right">1:54.81<br/>1:00.00+</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 418</p><p>Estimated completeness of rankings &#8776; 47.1%</p></details>
+<p>Estimated number of seniors &#8776; 419</p><p>Estimated completeness of rankings &#8776; 47.0%</p></details>
 
 <details id="skewb_avg">
   <summary>Skewb</summary>

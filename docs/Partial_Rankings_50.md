@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-04 18:46:56 (UTC)
+Last refreshed: 2020-01-05 04:14:47 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -451,7 +451,7 @@ Last refreshed: 2020-01-04 18:46:56 (UTC)
     <tr><td style="text-align:center">83</td><td><a href="https://www.worldcubeassociation.org/persons/2015FIEC01#222">Elmar Fiechter-Alber</a>, Austria</td><td style="text-align:right">1:19.97</td></tr>
     <tr><td style="text-align:center">84</td><td><a href="https://www.worldcubeassociation.org/persons/2016LUJA01#222">Jose Gabriel Moratalla Lujan</a>, Spain</td><td style="text-align:right">1:35.33</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 201</p><p>Estimated completeness of rankings &#8776; 41.8%</p></details>
+<p>Estimated number of seniors &#8776; 202</p><p>Estimated completeness of rankings &#8776; 41.6%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
