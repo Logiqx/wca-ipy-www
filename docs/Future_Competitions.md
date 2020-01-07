@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-07 15:00:03 (UTC)
+Last refreshed: 2020-01-07 18:00:02 (UTC)
 
 <h3>Jan 13, 2020</h3>
 
@@ -250,6 +250,7 @@ Last refreshed: 2020-01-07 15:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/GetafeContinua2020">Getafe Continúa 2020</a> - Getafe, Madrid, Spain - Feb 1 - 2, 2020</summary>
   <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2004MASA01">Jesús Masanet García</a>, Spain, 50+ - <a href="https://www.speedsolving.com/members/noiusli.7986">noiusli</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+
   </p>
 </details>
