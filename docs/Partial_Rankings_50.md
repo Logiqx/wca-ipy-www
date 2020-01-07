@@ -9,7 +9,7 @@ A [dynamic page](https://jonatanklosko.github.io/rankings/#/rankings/show?name=O
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-06 18:05:42 (UTC)
+Last refreshed: 2020-01-07 04:18:19 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -360,7 +360,7 @@ Last refreshed: 2020-01-06 18:05:42 (UTC)
     <tr><td style="text-align:center">155</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">156</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 503</p><p>Estimated completeness of rankings &#8776; 31.0%</p></details>
+<p>Estimated number of seniors &#8776; 504</p><p>Estimated completeness of rankings &#8776; 31.0%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -1379,7 +1379,7 @@ Last refreshed: 2020-01-06 18:05:42 (UTC)
     <tr><td style="text-align:center">49</td><td><a href="https://www.worldcubeassociation.org/persons/2011YANG13#pyram">Yang-Mo Sung (성양모)</a>, Republic of Korea, 70+</td><td style="text-align:right">45.82</td></tr>
     <tr><td style="text-align:center">50</td><td><a href="https://www.worldcubeassociation.org/persons/2015LIMA20#pyram">Didier Limal</a>, France, 60+</td><td style="text-align:right">46.73</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 108</p><p>Estimated completeness of rankings &#8776; 46.3%</p></details>
+<p>Estimated number of seniors &#8776; 109</p><p>Estimated completeness of rankings &#8776; 45.9%</p></details>
 
 <details id="skewb_best">
   <summary>Skewb</summary>
