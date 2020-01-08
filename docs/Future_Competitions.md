@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-08 00:00:03 (UTC)
+Last refreshed: 2020-01-08 03:00:03 (UTC)
 
 <h3>Jan 13, 2020</h3>
 
@@ -208,6 +208,13 @@ Last refreshed: 2020-01-08 00:00:03 (UTC)
     - <a href="https://www.worldcubeassociation.org/persons/2013ANDE01">Peter Andersson</a>, Sweden, 50+ - <a href="https://www.speedsolving.com/members/peter-andersson.21285">Peter Andersson</a> on Speedsolving.com<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017JANS02">Thomas Jansson</a>, Sweden<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2017THOR06">Torbjörn Thorsén</a>, Sweden, 50+
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020">ByeolLae Open 2020</a> - 경기도 남양주시 (Namyangju-si, Gyeonggi-do), Republic of Korea - Feb 1, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea
   </p>
 </details>
 
