@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-08 09:00:03 (UTC)
+Last refreshed: 2020-01-08 12:00:03 (UTC)
 
 <h3>Jan 13, 2020</h3>
 
@@ -214,7 +214,8 @@ Last refreshed: 2020-01-08 09:00:03 (UTC)
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020">ByeolLae Open 2020</a> - 경기도 남양주시 (Namyangju-si, Gyeonggi-do), Republic of Korea - Feb 1, 2020</summary>
   <p style="margin-left: 20px">
-    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea
+    - <a href="https://www.worldcubeassociation.org/persons/2018CHOI09">Moonkyoo Choi (최문규)</a>, Republic of Korea<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2007YULH01">Yul-Hok Sung (성열학)</a>, Republic of Korea
   </p>
 </details>
 
