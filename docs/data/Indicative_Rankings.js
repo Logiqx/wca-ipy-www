@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-08 17:01:23",
+"refreshed": "2020-01-08 17:33:23",
 "events": [
 {
 "id": "333",
@@ -16708,6 +16708,10 @@ rankings =
 {
 "id": "EU",
 "name": "Europe"
+},
+{
+"id": "MC",
+"name": "Multiple Continents"
 },
 {
 "id": "NA",
