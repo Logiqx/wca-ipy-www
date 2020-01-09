@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-09 10:05:14",
+"refreshed": "2020-01-09 10:14:13",
 "events": [
 {
 "id": "333",
@@ -3058,6 +3058,7 @@ rankings =
 "rank": 1464,
 "id": "2017SVAN01",
 "best": "1:16.93",
+"age": 50,
 "competition": 5777
 },
 {
@@ -4235,6 +4236,12 @@ rankings =
 "best": "1:16.23",
 "age": 60,
 "competition": 6204
+},
+{
+"rank": 342,
+"id": "2017SVAN01",
+"best": "1:16.93",
+"competition": 5777
 },
 {
 "rank": 345,
@@ -7984,6 +7991,7 @@ rankings =
 "rank": 1486,
 "id": "2017SVAN01",
 "best": "1:41.89",
+"age": 50,
 "competition": 5777
 },
 {
@@ -9092,6 +9100,12 @@ rankings =
 "id": "2018BUCK02",
 "best": "1:41.32",
 "competition": 4706
+},
+{
+"rank": 358,
+"id": "2017SVAN01",
+"best": "1:41.89",
+"competition": 5777
 },
 {
 "rank": 366,
@@ -11714,6 +11728,7 @@ rankings =
 "rank": 787,
 "id": "2017SVAN01",
 "best": "41.11",
+"age": 50,
 "competition": 4589
 },
 {
@@ -12282,7 +12297,13 @@ rankings =
 "competition": 4308
 },
 {
-"rank": 196,
+"rank": 194,
+"id": "2017SVAN01",
+"best": "41.11",
+"competition": 4589
+},
+{
+"rank": 197,
 "id": "2019OGOR03",
 "best": "42.34",
 "competition": 6267
@@ -14462,6 +14483,7 @@ rankings =
 "rank": 719,
 "id": "2017SVAN01",
 "best": "48.39",
+"age": 50,
 "competition": 4589
 },
 {
@@ -15038,6 +15060,12 @@ rankings =
 "id": "2016ZEMD01",
 "best": "46.18",
 "competition": 4308
+},
+{
+"rank": 173,
+"id": "2017SVAN01",
+"best": "48.39",
+"competition": 4589
 },
 {
 "rank": 178,
@@ -39730,7 +39758,7 @@ rankings =
 "id": "2017SVAN01",
 "name": "Lynette Svanosio",
 "country": "AU",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
