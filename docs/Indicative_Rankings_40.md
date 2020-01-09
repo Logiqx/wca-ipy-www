@@ -9,7 +9,7 @@ If you would like your name to be added then please contact me as described on t
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-09 04:15:14 (UTC)
+Last refreshed: 2020-01-09 07:57:24 (UTC)
 
 <h2 id="competitors">Official Competitors</h2>
 
@@ -301,6 +301,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2004STEE01">Klaas Steenhuis</a>, Netherlands, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2010ANDE01">Klaus Andersen</a>, Denmark</td><td><a href="https://www.speedsolving.com/members/perff.8019">Perff</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017SUGO01">Kusnanto Sugondo</a>, Indonesia</td><td></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2011NARA04">Lakshmi Narasimhan</a>, India</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2005ORST01">Lars Örström</a>, Sweden</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/1982PETR01">Lars Petrus</a>, Sweden, 50+</td><td><a href="https://www.speedsolving.com/members/lars-petrus.4334">Lars Petrus</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2014BRED01">Lars Thomas Bredland</a>, Norway</td><td></td></tr>
@@ -319,6 +320,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009PARE02">Luis J. Iáñez</a>, Spain, 50+</td><td><a href="https://www.speedsolving.com/members/luis.10152">Luis</a></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2017MANC05">Luis Mancilla</a>, Chile</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2018PARI11">Luis Palomar París</a>, Spain, 60+</td><td></td></tr>
+    <tr><td><a href="https://www.worldcubeassociation.org/persons/2017SVAN01">Lynette Svanosio</a>, Australia</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2009NAGY02">Magdolna Nagy</a>, Hungary, 50+</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012WATE01">Marc Waterman</a>, Netherlands</td><td></td></tr>
     <tr><td><a href="https://www.worldcubeassociation.org/persons/2012POOT01">Marcel Poots</a>, Netherlands</td><td><a href="https://www.speedsolving.com/members/marcelp.16680">MarcelP</a></td></tr>
@@ -986,7 +988,8 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td style="text-align:center">1165</td><td><a href="https://www.worldcubeassociation.org/persons/2019MAHJ01#333">Micah Mahjoubian</a>, United States</td><td style="text-align:right">1:12.32</td></tr>
     <tr><td style="text-align:center">1167</td><td><a href="https://www.worldcubeassociation.org/persons/2018FOLE03#333">Tiernan Foley</a>, Ireland, 70+</td><td style="text-align:right">1:12.49</td></tr>
     <tr><td style="text-align:center">1171</td><td><a href="https://www.worldcubeassociation.org/persons/2016GUZM09#333">Jesús Eduardo Rojas Guzman</a>, Venezuela</td><td style="text-align:right">1:12.80</td></tr>
-    <tr><td style="text-align:center">1176</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#333">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">1:13.19</td></tr>
+    <tr><td style="text-align:center">1175</td><td><a href="https://www.worldcubeassociation.org/persons/2017KUMI01#333">Alexander Kuminov</a>, Russia, 70+</td><td style="text-align:right">1:13.19</td></tr>
+    <tr><td style="text-align:center">1180</td><td><a href="https://www.worldcubeassociation.org/persons/2011NARA04#333">Lakshmi Narasimhan</a>, India</td><td style="text-align:right">1:13.49</td></tr>
     <tr><td style="text-align:center">1187</td><td><a href="https://www.worldcubeassociation.org/persons/2007SATT01#333">Jay Satterfield</a>, United States</td><td style="text-align:right">1:14.02</td></tr>
     <tr><td style="text-align:center">1189</td><td><a href="https://www.worldcubeassociation.org/persons/2008HOPJ01#333">Jan Hop</a>, Netherlands, 60+</td><td style="text-align:right">1:14.26</td></tr>
     <tr><td style="text-align:center">1192</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#333">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">1:14.35</td></tr>
@@ -1040,6 +1043,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td style="text-align:center">1469</td><td><a href="https://www.worldcubeassociation.org/persons/2019PEAC01#333">David Peacock</a>, Canada</td><td style="text-align:right">1:39.46</td></tr>
     <tr><td style="text-align:center">1485</td><td><a href="https://www.worldcubeassociation.org/persons/2009NOVI01#333">Irina Novichkova</a>, Russia</td><td style="text-align:right">1:41.27</td></tr>
     <tr><td style="text-align:center">1486</td><td><a href="https://www.worldcubeassociation.org/persons/2018BUCK02#333">Mark Buckley</a>, Australia, 50+</td><td style="text-align:right">1:41.32</td></tr>
+    <tr><td style="text-align:center">1491</td><td><a href="https://www.worldcubeassociation.org/persons/2017SVAN01#333">Lynette Svanosio</a>, Australia</td><td style="text-align:right">1:41.89</td></tr>
     <tr><td style="text-align:center">1502</td><td><a href="https://www.worldcubeassociation.org/persons/2016MALK01#333">Soumia Malki</a>, Algeria</td><td style="text-align:right">1:42.89</td></tr>
     <tr><td style="text-align:center">1503</td><td><a href="https://www.worldcubeassociation.org/persons/2017SOAR04#333">Jude Soares</a>, India</td><td style="text-align:right">1:42.91</td></tr>
     <tr><td style="text-align:center">1514</td><td><a href="https://www.worldcubeassociation.org/persons/2006OOMS01#333">Grada Ooms</a>, Netherlands, 60+</td><td style="text-align:right">1:44.35</td></tr>
@@ -1077,7 +1081,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td style="text-align:center">1864</td><td><a href="https://www.worldcubeassociation.org/persons/2018LOVE02#333">Aroldo Andres Tachon Lovera</a>, Venezuela, 50+</td><td style="text-align:right">3:50.96</td></tr>
     <tr><td style="text-align:center">1886</td><td><a href="https://www.worldcubeassociation.org/persons/2010WANG33#333">Yongchao Wang (王永超)</a>, China, 80+</td><td style="text-align:right">6:52.57</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 1919</p><p>Estimated completeness of rankings &#8776; 26.6%</p></details>
+<p>Estimated number of seniors &#8776; 1919</p><p>Estimated completeness of rankings &#8776; 26.7%</p></details>
 
 <details id="222_avg">
   <summary>2x2x2 Cube</summary>
@@ -1397,6 +1401,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td style="text-align:center">727</td><td><a href="https://www.worldcubeassociation.org/persons/2016ZEMD01#222">David Zemdegs</a>, Australia, 50+</td><td style="text-align:right">46.18</td></tr>
     <tr><td style="text-align:center">728</td><td><a href="https://www.worldcubeassociation.org/persons/2018MORE06#222">Álvaro García Moreau</a>, Spain</td><td style="text-align:right">46.22</td></tr>
     <tr><td style="text-align:center">731</td><td><a href="https://www.worldcubeassociation.org/persons/2017ISSL02#222">Daniel Issler</a>, Brazil</td><td style="text-align:right">46.88</td></tr>
+    <tr><td style="text-align:center">734</td><td><a href="https://www.worldcubeassociation.org/persons/2017SVAN01#222">Lynette Svanosio</a>, Australia</td><td style="text-align:right">48.39</td></tr>
     <tr><td style="text-align:center">742</td><td><a href="https://www.worldcubeassociation.org/persons/2014THAB03#222">Raouf Thabet</a>, Tunisia</td><td style="text-align:right">52.03</td></tr>
     <tr><td style="text-align:center">748</td><td><a href="https://www.worldcubeassociation.org/persons/2013BINI01#222">Neusa da Silva Bini</a>, Brazil, 50+</td><td style="text-align:right">54.67</td></tr>
     <tr><td style="text-align:center">750</td><td><a href="https://www.worldcubeassociation.org/persons/2019ALVA14#222">Bryant Borrego Alvarado</a>, Spain</td><td style="text-align:right">54.93</td></tr>
@@ -1408,7 +1413,7 @@ Last refreshed: 2020-01-09 04:15:14 (UTC)
     <tr><td style="text-align:center">780</td><td><a href="https://www.worldcubeassociation.org/persons/2015FIEC01#222">Elmar Fiechter-Alber</a>, Austria, 50+</td><td style="text-align:right">1:19.97</td></tr>
     <tr><td style="text-align:center">786</td><td><a href="https://www.worldcubeassociation.org/persons/2016LUJA01#222">Jose Gabriel Moratalla Lujan</a>, Spain, 50+</td><td style="text-align:right">1:35.33</td></tr>
   </table>
-<p>Estimated number of seniors &#8776; 794</p><p>Estimated completeness of rankings &#8776; 40.8%</p></details>
+<p>Estimated number of seniors &#8776; 794</p><p>Estimated completeness of rankings &#8776; 40.9%</p></details>
 
 <details id="444_avg">
   <summary>4x4x4 Cube</summary>
