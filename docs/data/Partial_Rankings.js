@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-08 22:16:58",
+"refreshed": "2020-01-09 04:15:15",
 "events": [
 {
 "id": "333",
@@ -2708,7 +2708,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 1917
+"estimate": 1919
 },
 {
 "type": "single",
@@ -5474,7 +5474,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 2006
+"estimate": 2008
 },
 {
 "type": "average",
@@ -6296,7 +6296,7 @@ rankings =
 "age": 80
 }
 ],
-"estimate": 504
+"estimate": 505
 },
 {
 "type": "single",
@@ -7155,7 +7155,7 @@ rankings =
 "age": 90
 }
 ],
-"estimate": 528
+"estimate": 529
 },
 {
 "type": "average",
@@ -13289,7 +13289,7 @@ rankings =
 "best": "5:10.05"
 }
 ],
-"estimate": 225
+"estimate": 226
 },
 {
 "type": "single",
@@ -17969,7 +17969,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 50
+"estimate": 51
 },
 {
 "type": "single",
@@ -25715,7 +25715,7 @@ rankings =
 "best": "55.30"
 }
 ],
-"estimate": 455
+"estimate": 456
 },
 {
 "type": "average",
@@ -25969,7 +25969,7 @@ rankings =
 "age": 70
 }
 ],
-"estimate": 97
+"estimate": 98
 },
 {
 "type": "single",
@@ -27649,7 +27649,7 @@ rankings =
 "age": 50
 }
 ],
-"estimate": 228
+"estimate": 229
 },
 {
 "type": "average",
