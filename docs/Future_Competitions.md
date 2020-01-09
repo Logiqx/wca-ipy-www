@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-09 18:00:02 (UTC)
+Last refreshed: 2020-01-09 21:00:45 (UTC)
 
 <h3>Jan 13, 2020</h3>
 
@@ -326,6 +326,15 @@ Last refreshed: 2020-01-09 18:00:02 (UTC)
 </details>
 
 <details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/ChellesOpen2020">Chelles Open 2020</a> - Chelles, France - Feb 15 - 16, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2018LAMU01">Franck Lamure</a>, France<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2017PHIL09">Guillaume Philippot</a>, France<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2016LECO01">Yoann Lecoeur</a>, France
+  </p>
+</details>
+
+<details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/KievSuperBlind2020">Kiev Super Blind 2020</a> - Kiev, Ukraine - Feb 15 - 16, 2020</summary>
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2016AMBE02">Dieter Amberger</a>, Austria<br/>
@@ -483,6 +492,24 @@ Last refreshed: 2020-01-09 18:00:02 (UTC)
   <p style="margin-left: 20px">
     - <a href="https://www.worldcubeassociation.org/persons/2019MEDI04">Miguel Ángel Galdeano Medina</a>, Spain<br/>
     - <a href="https://www.worldcubeassociation.org/persons/2018MORE06">Álvaro García Moreau</a>, Spain
+  </p>
+</details>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/CubingDaysEsslingen2020">Cubing Days Esslingen 2020</a> - Esslingen, Germany - Apr 4 - 5, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2013HUBH01">Hanns Hub</a>, Germany - <a href="https://www.speedsolving.com/members/jacck.34385">Jacck</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2010HEIL02">Helmut Heilig</a>, Germany - <a href="https://www.speedsolving.com/members/realcube.10981">realcube</a> on Speedsolving.com<br/>
+    - <a href="https://www.worldcubeassociation.org/persons/2018SCHU17">Thomas Schukraft</a>, Germany
+  </p>
+</details>
+
+<h3>May 4, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SwedishBlindQualification2020">Swedish Blind Qualification 2020</a> - Stockholm, Sweden - May 2, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2008BERG04">Mats Bergsten</a>, Sweden - <a href="https://www.speedsolving.com/members/matsbergsten.1760">MatsBergsten</a> on Speedsolving.com
   </p>
 </details>
 
