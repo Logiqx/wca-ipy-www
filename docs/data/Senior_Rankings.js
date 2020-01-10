@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-10 19:31:51",
+"refreshed": "2020-01-10 21:46:52",
 "events": [
 {
 "id": "333",
@@ -3275,6 +3275,12 @@ rankings =
 "best": "1:42.85",
 "age": 50,
 "competition": 3939
+},
+{
+"rank": 1756,
+"id": "2018WEBE07",
+"best": "1:48.30",
+"competition": 5649
 },
 {
 "rank": 1777,
@@ -8242,6 +8248,12 @@ rankings =
 "best": "2:05.26",
 "age": 70,
 "competition": 1431
+},
+{
+"rank": 1658,
+"id": "2018WEBE07",
+"best": "2:06.55",
+"competition": 5649
 },
 {
 "rank": 1681,
@@ -41812,6 +41824,15 @@ rankings =
 ]
 },
 {
+"id": "2018WEBE07",
+"name": "Rick Weber",
+"country": "US",
+"age": 40,
+"events": [
+"333"
+]
+},
+{
 "id": "2016PETE06",
 "name": "Rob Peters",
 "country": "US",
@@ -50544,6 +50565,12 @@ rankings =
 "name": "CLIP Open 2019",
 "country": "PT",
 "webId": "CLIPOpen2019"
+},
+{
+"id": 5649,
+"name": "Indianapolis Cubes 2019",
+"country": "US",
+"webId": "IndianapolisCubes2019"
 },
 {
 "id": 5652,
