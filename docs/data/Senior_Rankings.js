@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-10 11:14:24",
+"refreshed": "2020-01-10 13:54:15",
 "events": [
 {
 "id": "333",
@@ -22034,6 +22034,12 @@ rankings =
 "competition": 6150
 },
 {
+"rank": 60,
+"id": "2016KRUE03",
+"best": "2:56.52",
+"competition": 4623
+},
+{
 "rank": 61,
 "id": "2012HINO01",
 "best": "3:02.86",
@@ -22399,6 +22405,13 @@ rankings =
 "competition": 6151
 },
 {
+"rank": 10,
+"id": "2016KRUE03",
+"best": "3:16.28",
+"competition": 6531,
+"highlight": 1
+},
+{
 "rank": 11,
 "id": "2017ROSS10",
 "best": "3:21.09",
@@ -22738,6 +22751,12 @@ rankings =
 "competition": 4650
 },
 {
+"rank": 37,
+"id": "2016KRUE03",
+"best": "3:44.70",
+"competition": 5167
+},
+{
 "rank": 38,
 "id": "2003POCH01",
 "best": "3:53.56",
@@ -22839,6 +22858,12 @@ rankings =
 "id": "2013HUBH01",
 "best": "4:28.16",
 "competition": 4420
+},
+{
+"rank": 7,
+"id": "2016KRUE03",
+"best": "4:33.04",
+"competition": 5943
 },
 {
 "rank": 11,
@@ -35238,6 +35263,12 @@ rankings =
 "highlight": 1
 },
 {
+"rank": 25,
+"id": "2016KRUE03",
+"best": "20:21.00",
+"competition": 5638
+},
+{
 "rank": 26,
 "id": "2017LAWR04",
 "best": "22:32.00",
@@ -35551,6 +35582,14 @@ rankings =
 "id": "2009TIRA01",
 "best": "34:57.00",
 "competition": 1924
+},
+{
+"rank": 18,
+"id": "2016KRUE03",
+"best": "47:18.00",
+"age": 50,
+"competition": 6531,
+"highlight": 1
 }
 ],
 "estimate": 18
@@ -35583,6 +35622,13 @@ rankings =
 "id": "2013HUBH01",
 "best": "20:43.00",
 "competition": 3948
+},
+{
+"rank": 5,
+"id": "2016KRUE03",
+"best": "47:18.00",
+"competition": 6531,
+"highlight": 1
 }
 ],
 "estimate": 5
@@ -35792,6 +35838,13 @@ rankings =
 "id": "2015ADAM03",
 "best": "7/7 in 47:32",
 "competition": 5298
+},
+{
+"rank": 19,
+"id": "2016KRUE03",
+"best": "7/7 in 55:04",
+"age": 50,
+"competition": 5943
 },
 {
 "rank": 20,
@@ -36009,6 +36062,12 @@ rankings =
 "best": "8/8 in 54:14",
 "competition": 6663,
 "highlight": 1
+},
+{
+"rank": 5,
+"id": "2016KRUE03",
+"best": "7/7 in 55:04",
+"competition": 5943
 },
 {
 "rank": 6,
@@ -37646,6 +37705,18 @@ rankings =
 "age": 50,
 "events": [
 "333"
+]
+},
+{
+"id": "2016KRUE03",
+"name": "Donna Krueger",
+"country": "US",
+"age": 50,
+"events": [
+"333bf",
+"333mbf",
+"444bf",
+"555bf"
 ]
 },
 {
@@ -48580,6 +48651,12 @@ rankings =
 "name": "U.R.A. Spring of Colors 2018",
 "country": "RO",
 "webId": "URASpringofColors2018"
+},
+{
+"id": 4623,
+"name": "Flag City Spring 2018",
+"country": "US",
+"webId": "FlagCitySpring2018"
 },
 {
 "id": 4628,
