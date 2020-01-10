@@ -20,7 +20,7 @@ pipeline {
         stage('Git Diff') {
             steps {
                 sh """cd ${REPO}
-                      cp /home/jovyan/work/wca-ipy/docs/*.md docs/
+                      cp /home/jovyan/work/wca-ipy/docs/*.html docs/
                       cp /home/jovyan/work/wca-ipy/docs/data/*.js docs/data/
                       git diff --stat"""
             }
