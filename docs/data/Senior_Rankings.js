@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-10 10:59:49",
+"refreshed": "2020-01-10 11:14:24",
 "events": [
 {
 "id": "333",
@@ -83,6 +83,12 @@ rankings =
 "id": "2017WEST02",
 "best": "12.10",
 "competition": 5747
+},
+{
+"rank": 15,
+"id": "2013PAPA04",
+"best": "12.13",
+"competition": 3032
 },
 {
 "rank": 16,
@@ -5031,6 +5037,12 @@ rankings =
 "id": "2011WRIG01",
 "best": "15.25",
 "competition": 4327
+},
+{
+"rank": 16,
+"id": "2013PAPA04",
+"best": "15.38",
+"competition": 5473
 },
 {
 "rank": 18,
@@ -15502,6 +15514,12 @@ rankings =
 "competition": 6255
 },
 {
+"rank": 39,
+"id": "2013PAPA04",
+"best": "1:03.13",
+"competition": 5473
+},
+{
 "rank": 40,
 "id": "2014JANE01",
 "best": "1:03.19",
@@ -17257,6 +17275,12 @@ rankings =
 "competition": 2174
 },
 {
+"rank": 54,
+"id": "2013PAPA04",
+"best": "1:18.39",
+"competition": 5473
+},
+{
 "rank": 55,
 "id": "2017PHIL09",
 "best": "1:19.35",
@@ -18563,6 +18587,12 @@ rankings =
 "competition": 2475
 },
 {
+"rank": 79,
+"id": "2013PAPA04",
+"best": "2:47.23",
+"competition": 2858
+},
+{
 "rank": 80,
 "id": "2007YULH01",
 "best": "2:49.45",
@@ -19591,6 +19621,12 @@ rankings =
 "id": "2003AKIM01",
 "best": "2:56.32",
 "competition": 56
+},
+{
+"rank": 58,
+"id": "2013PAPA04",
+"best": "3:01.90",
+"competition": 2858
 },
 {
 "rank": 59,
@@ -24128,6 +24164,12 @@ rankings =
 "competition": 862
 },
 {
+"rank": 42,
+"id": "2013PAPA04",
+"best": "30.18",
+"competition": 3561
+},
+{
 "rank": 43,
 "id": "2017REZH01",
 "best": "30.79",
@@ -25347,6 +25389,12 @@ rankings =
 "best": "40.40",
 "competition": 6490,
 "highlight": 1
+},
+{
+"rank": 49,
+"id": "2013PAPA04",
+"best": "40.80",
+"competition": 5473
 },
 {
 "rank": 50,
@@ -39870,6 +39918,18 @@ rankings =
 ]
 },
 {
+"id": "2013PAPA04",
+"name": "Makis Papadimitriou (Μάκης Παπαδημητριου)",
+"country": "GR",
+"age": 40,
+"events": [
+"333",
+"333oh",
+"444",
+"555"
+]
+},
+{
 "id": "2012WATE01",
 "name": "Marc Waterman",
 "country": "NL",
@@ -46230,6 +46290,12 @@ rankings =
 "webId": "AlpharettaOpen2016"
 },
 {
+"id": 2858,
+"name": "Greece Spring Open 2016",
+"country": "GR",
+"webId": "GreeceSpringOpen2016"
+},
+{
 "id": 2861,
 "name": "Melbourne Autumn 2016",
 "country": "AU",
@@ -46420,6 +46486,12 @@ rankings =
 "name": "US Nationals 2016",
 "country": "US",
 "webId": "USNationals2016"
+},
+{
+"id": 3032,
+"name": "Thessalonicube 2016",
+"country": "GR",
+"webId": "Thessalonicube2016"
 },
 {
 "id": 3039,
@@ -47074,6 +47146,12 @@ rankings =
 "name": "SSL 2 Stockholm 2017",
 "country": "SE",
 "webId": "SSL2Stockholm2017"
+},
+{
+"id": 3561,
+"name": "Greece Spring Open 2017",
+"country": "GR",
+"webId": "GreeceSpringOpen2017"
 },
 {
 "id": 3572,
@@ -49804,6 +49882,12 @@ rankings =
 "name": "D-City Cubing 2019",
 "country": "CH",
 "webId": "DCityCubing2019"
+},
+{
+"id": 5473,
+"name": "Greece New Year 2019",
+"country": "GR",
+"webId": "GreeceNewYear2019"
 },
 {
 "id": 5475,
