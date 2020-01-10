@@ -7,7 +7,7 @@ It retrieves registration data from [worldcubeassociation.org](https://www.world
 
 Tip: Best viewed in landscape mode on mobile phones and some tablets.
 
-Last refreshed: 2020-01-09 21:00:45 (UTC)
+Last refreshed: 2020-01-10 00:00:05 (UTC)
 
 <h3>Jan 13, 2020</h3>
 
@@ -429,6 +429,13 @@ Last refreshed: 2020-01-09 21:00:45 (UTC)
 </details>
 
 <h3>Mar 16, 2020</h3>
+
+<details>
+  <summary><a href="https://www.worldcubeassociation.org/competitions/SevernaParkOpen2020">Severna Park Open 2020</a> - Severna Park, Maryland, United States - Mar 14, 2020</summary>
+  <p style="margin-left: 20px">
+    - <a href="https://www.worldcubeassociation.org/persons/2016DUEH02">Jeremy Duehring</a>, United States - <a href="https://www.speedsolving.com/members/spartansailor.36397">SpartanSailor</a> on Speedsolving.com
+  </p>
+</details>
 
 <details>
   <summary><a href="https://www.worldcubeassociation.org/competitions/SpokanePiDay2020">Spokane Pi Day 2020</a> - Spokane, Washington, United States - Mar 14, 2020</summary>
