@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-10 14:00:35",
+"refreshed": "2020-01-10 16:59:31",
 "events": [
 {
 "id": "333",
@@ -3073,6 +3073,14 @@ rankings =
 "competition": 6204
 },
 {
+"rank": 1461,
+"id": "2017HART11",
+"best": "1:16.75",
+"age": 50,
+"competition": 6703,
+"highlight": 1
+},
+{
 "rank": 1464,
 "id": "2017SVAN01",
 "best": "1:16.93",
@@ -4261,6 +4269,13 @@ rankings =
 "best": "1:16.23",
 "age": 60,
 "competition": 6204
+},
+{
+"rank": 341,
+"id": "2017HART11",
+"best": "1:16.75",
+"competition": 6703,
+"highlight": 1
 },
 {
 "rank": 342,
@@ -7946,6 +7961,14 @@ rankings =
 "competition": 4260
 },
 {
+"rank": 1354,
+"id": "2017HART11",
+"best": "1:28.28",
+"age": 50,
+"competition": 6575,
+"highlight": 1
+},
+{
 "rank": 1356,
 "id": "2015PUGH01",
 "best": "1:28.33",
@@ -9120,6 +9143,13 @@ rankings =
 "id": "2017GRAD03",
 "best": "1:28.13",
 "competition": 4260
+},
+{
+"rank": 320,
+"id": "2017HART11",
+"best": "1:28.28",
+"competition": 6575,
+"highlight": 1
 },
 {
 "rank": 322,
@@ -11714,6 +11744,13 @@ rankings =
 "competition": 3962
 },
 {
+"rank": 670,
+"id": "2017HART11",
+"best": "21.40",
+"age": 50,
+"competition": 4055
+},
+{
 "rank": 674,
 "id": "2013BRAN01",
 "best": "21.96",
@@ -12367,6 +12404,12 @@ rankings =
 "id": "2017VRIE02",
 "best": "20.61",
 "competition": 3962
+},
+{
+"rank": 157,
+"id": "2017HART11",
+"best": "21.40",
+"competition": 4055
 },
 {
 "rank": 160,
@@ -14463,6 +14506,13 @@ rankings =
 "competition": 1752
 },
 {
+"rank": 604,
+"id": "2017HART11",
+"best": "28.70",
+"age": 50,
+"competition": 4055
+},
+{
 "rank": 606,
 "id": "2016BREW04",
 "best": "28.75",
@@ -15106,6 +15156,12 @@ rankings =
 "best": "27.26",
 "age": 70,
 "competition": 1752
+},
+{
+"rank": 140,
+"id": "2017HART11",
+"best": "28.70",
+"competition": 4055
 },
 {
 "rank": 141,
@@ -26792,6 +26848,13 @@ rankings =
 "competition": 4882
 },
 {
+"rank": 51,
+"id": "2017HART11",
+"best": "19.42",
+"age": 50,
+"competition": 4855
+},
+{
 "rank": 52,
 "id": "2006PIRZ01",
 "best": "19.66",
@@ -27217,6 +27280,12 @@ rankings =
 "competition": 4962
 },
 {
+"rank": 12,
+"id": "2017HART11",
+"best": "19.42",
+"competition": 4855
+},
+{
 "rank": 13,
 "id": "2016GOSL01",
 "best": "21.17",
@@ -27584,6 +27653,14 @@ rankings =
 "competition": 1764
 },
 {
+"rank": 45,
+"id": "2017HART11",
+"best": "21.39",
+"age": 50,
+"competition": 6575,
+"highlight": 1
+},
+{
 "rank": 46,
 "id": "2016GOSL01",
 "best": "21.60",
@@ -27910,6 +27987,13 @@ rankings =
 "id": "2003LARS01",
 "best": "21.17",
 "competition": 1764
+},
+{
+"rank": 10,
+"id": "2017HART11",
+"best": "21.39",
+"competition": 6575,
+"highlight": 1
 },
 {
 "rank": 11,
@@ -40910,6 +40994,17 @@ rankings =
 ]
 },
 {
+"id": "2017HART11",
+"name": "Nancy Hartman",
+"country": "US",
+"age": 50,
+"events": [
+"222",
+"333",
+"clock"
+]
+},
+{
 "id": "2011RIGG03",
 "name": "Natán Riggenbach",
 "country": "PE",
@@ -52162,6 +52257,12 @@ rankings =
 "webId": "TarnbyCubeTraef2019"
 },
 {
+"id": 6575,
+"name": "Carolina Clock 'Stravaganza 2019",
+"country": "US",
+"webId": "CarolinaClockStravaganza2019"
+},
+{
 "id": 6577,
 "name": "III Project Warszawa 2019",
 "country": "PL",
@@ -52400,6 +52501,12 @@ rankings =
 "name": "Franconia X 2019",
 "country": "DE",
 "webId": "FranconiaX2019"
+},
+{
+"id": 6703,
+"name": "Florida Winter Break 2019",
+"country": "US",
+"webId": "FloridaWinterBreak2019"
 },
 {
 "id": 6709,
