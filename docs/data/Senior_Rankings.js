@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-11 22:14:12",
+"refreshed": "2020-01-11 22:55:52",
 "events": [
 {
 "id": "333",
@@ -2097,6 +2097,13 @@ rankings =
 "competition": 5500
 },
 {
+"rank": 714,
+"id": "2016BERK01",
+"best": "34.59",
+"age": 50,
+"competition": 5898
+},
+{
 "rank": 719,
 "id": "2017NOVA05",
 "best": "34.75",
@@ -3925,6 +3932,12 @@ rankings =
 "id": "2018COOK04",
 "best": "33.78",
 "competition": 5913
+},
+{
+"rank": 141,
+"id": "2016BERK01",
+"best": "34.59",
+"competition": 5898
 },
 {
 "rank": 148,
@@ -7013,6 +7026,13 @@ rankings =
 "competition": 6056
 },
 {
+"rank": 664,
+"id": "2016BERK01",
+"best": "40.20",
+"age": 50,
+"competition": 5898
+},
+{
 "rank": 667,
 "id": "2019GOOR01",
 "best": "40.25",
@@ -8795,6 +8815,12 @@ rankings =
 "id": "2018BENN01",
 "best": "40.18",
 "competition": 6056
+},
+{
+"rank": 121,
+"id": "2016BERK01",
+"best": "40.20",
+"competition": 5898
 },
 {
 "rank": 123,
@@ -39654,6 +39680,15 @@ rankings =
 "333",
 "clock",
 "pyram"
+]
+},
+{
+"id": "2016BERK01",
+"name": "Joffie Berkowitz",
+"country": "ZA",
+"age": 50,
+"events": [
+"333"
 ]
 },
 {
