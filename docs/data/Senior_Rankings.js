@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-11 04:13:59",
+"refreshed": "2020-01-11 07:28:24",
 "events": [
 {
 "id": "333",
@@ -383,6 +383,12 @@ rankings =
 "id": "2017PHIL09",
 "best": "15.03",
 "competition": 5817
+},
+{
+"rank": 73,
+"id": "2009DANA01",
+"best": "15.05",
+"competition": 1698
 },
 {
 "rank": 75,
@@ -5465,6 +5471,12 @@ rankings =
 "id": "2005KOCZ01",
 "best": "19.11",
 "competition": 1675
+},
+{
+"rank": 98,
+"id": "2009DANA01",
+"best": "19.17",
+"competition": 1698
 },
 {
 "rank": 100,
@@ -10835,6 +10847,12 @@ rankings =
 "competition": 3260
 },
 {
+"rank": 237,
+"id": "2009DANA01",
+"best": "6.89",
+"competition": 6313
+},
+{
 "rank": 238,
 "id": "2017TABA02",
 "best": "6.92",
@@ -14080,6 +14098,12 @@ rankings =
 "competition": 3291
 },
 {
+"rank": 352,
+"id": "2009DANA01",
+"best": "13.41",
+"competition": 6313
+},
+{
 "rank": 362,
 "id": "2017BROW09",
 "best": "13.71",
@@ -16457,6 +16481,12 @@ rankings =
 "id": "2016GILJ03",
 "best": "1:57.16",
 "competition": 5769
+},
+{
+"rank": 225,
+"id": "2009DANA01",
+"best": "1:57.22",
+"competition": 6313
 },
 {
 "rank": 226,
@@ -24284,6 +24314,12 @@ rankings =
 },
 {
 "rank": 23,
+"id": "2009DANA01",
+"best": "27.01",
+"competition": 6313
+},
+{
+"rank": 23,
 "id": "2012PETR01",
 "best": "27.01",
 "competition": 5034
@@ -25400,6 +25436,12 @@ rankings =
 "id": "2007CINO01",
 "best": "28.82",
 "competition": 3229
+},
+{
+"rank": 8,
+"id": "2009DANA01",
+"best": "28.98",
+"competition": 6313
 },
 {
 "rank": 9,
@@ -30071,6 +30113,12 @@ rankings =
 "competition": 5893
 },
 {
+"rank": 256,
+"id": "2009DANA01",
+"best": "14.92",
+"competition": 6313
+},
+{
 "rank": 257,
 "id": "2012SCHM07",
 "best": "14.96",
@@ -31602,6 +31650,12 @@ rankings =
 "competition": 3821
 },
 {
+"rank": 203,
+"id": "2009DANA01",
+"best": "18.51",
+"competition": 6313
+},
+{
 "rank": 206,
 "id": "2018COOK04",
 "best": "18.58",
@@ -32991,6 +33045,12 @@ rankings =
 },
 {
 "rank": 124,
+"id": "2009DANA01",
+"best": "14.91",
+"competition": 6313
+},
+{
+"rank": 124,
 "id": "2015STOP01",
 "best": "14.91",
 "competition": 5587
@@ -33844,6 +33904,12 @@ rankings =
 "id": "2017MART70",
 "best": "18.23",
 "competition": 4585
+},
+{
+"rank": 89,
+"id": "2009DANA01",
+"best": "18.76",
+"competition": 6313
 },
 {
 "rank": 90,
@@ -37899,6 +37965,20 @@ rankings =
 "333",
 "444",
 "pyram"
+]
+},
+{
+"id": "2009DANA01",
+"name": "Didik Danardono",
+"country": "ID",
+"age": 40,
+"events": [
+"222",
+"333",
+"333oh",
+"444",
+"pyram",
+"skewb"
 ]
 },
 {
@@ -45569,6 +45649,12 @@ rankings =
 "webId": "HessenOpen2014"
 },
 {
+"id": 1698,
+"name": "Jakarta Cube Day 2014",
+"country": "ID",
+"webId": "JakartaCubeDay2014"
+},
+{
 "id": 1699,
 "name": "Monticello Conte Otto Open 2014",
 "country": "IT",
@@ -51831,6 +51917,12 @@ rankings =
 "name": "Mental Breakdown Germany 2019",
 "country": "DE",
 "webId": "MentalBreakdownGermany2019"
+},
+{
+"id": 6313,
+"name": "Yongjun Jakarta Speedcubing 2019",
+"country": "ID",
+"webId": "YongjunJakartaSpeedcubing2019"
 },
 {
 "id": 6316,
