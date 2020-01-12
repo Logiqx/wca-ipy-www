@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-12 15:07:09",
+"refreshed": "2020-01-12 16:03:34",
 "events": [
 {
 "id": "333",
@@ -2324,6 +2324,12 @@ rankings =
 "id": "2015STOP01",
 "best": "42.00",
 "competition": 5938
+},
+{
+"rank": 864,
+"id": "2017FIND02",
+"best": "42.06",
+"competition": 5992
 },
 {
 "rank": 866,
@@ -7390,6 +7396,12 @@ rankings =
 "best": "51.40",
 "age": 50,
 "competition": 3179
+},
+{
+"rank": 859,
+"id": "2017FIND02",
+"best": "51.51",
+"competition": 6246
 },
 {
 "rank": 861,
@@ -16808,6 +16820,13 @@ rankings =
 "id": "2004ZIJD01",
 "best": "2:44.36",
 "competition": 254
+},
+{
+"rank": 312,
+"id": "2017FIND02",
+"best": "2:45.85",
+"competition": 6454,
+"highlight": 1
 },
 {
 "rank": 315,
@@ -38785,6 +38804,16 @@ rankings =
 ]
 },
 {
+"id": "2017FIND02",
+"name": "Gordon Findlay",
+"country": "GB",
+"age": 40,
+"events": [
+"333",
+"444"
+]
+},
+{
 "id": "2006OOMS01",
 "name": "Grada Ooms",
 "country": "NL",
@@ -52349,6 +52378,12 @@ rankings =
 "name": "Road to IC - Milano 2019",
 "country": "IT",
 "webId": "RoadtoICMilano2019"
+},
+{
+"id": 6454,
+"name": "Swisscubing Cup V 2019",
+"country": "CH",
+"webId": "SwisscubingCupV2019"
 },
 {
 "id": 6456,
