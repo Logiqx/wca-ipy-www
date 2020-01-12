@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-11 22:55:52",
+"refreshed": "2020-01-12 00:47:23",
 "events": [
 {
 "id": "333",
@@ -24712,8 +24712,7 @@ rankings =
 "rank": 99,
 "id": "2016DUEH02",
 "best": "42.38",
-"competition": 6414,
-"highlight": 1
+"competition": 6414
 },
 {
 "rank": 101,
@@ -25729,8 +25728,7 @@ rankings =
 "rank": 59,
 "id": "2016DUEH02",
 "best": "43.32",
-"competition": 6414,
-"highlight": 1
+"competition": 6414
 },
 {
 "rank": 60,
@@ -26842,8 +26840,7 @@ rankings =
 "rank": 23,
 "id": "2010SOHT01",
 "best": "12.34",
-"competition": 6407,
-"highlight": 1
+"competition": 6407
 },
 {
 "rank": 25,
@@ -27617,8 +27614,7 @@ rankings =
 "rank": 11,
 "id": "2010WENS01",
 "best": "10.80",
-"competition": 6407,
-"highlight": 1
+"competition": 6407
 },
 {
 "rank": 12,
