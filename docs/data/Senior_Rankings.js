@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-12 10:24:28",
+"refreshed": "2020-01-12 14:09:14",
 "events": [
 {
 "id": "333",
@@ -163,6 +163,12 @@ rankings =
 "id": "2007CINO01",
 "best": "12.85",
 "competition": 5166
+},
+{
+"rank": 28,
+"id": "2016HOUG03",
+"best": "12.95",
+"competition": 5349
 },
 {
 "rank": 29,
@@ -5133,6 +5139,12 @@ rankings =
 "competition": 5473
 },
 {
+"rank": 17,
+"id": "2016HOUG03",
+"best": "15.52",
+"competition": 6187
+},
+{
 "rank": 18,
 "id": "2003ZBOR02",
 "best": "15.53",
@@ -9951,6 +9963,12 @@ rankings =
 "competition": 2209
 },
 {
+"rank": 13,
+"id": "2016HOUG03",
+"best": "2.64",
+"competition": 6288
+},
+{
 "rank": 14,
 "id": "2003BRUC01",
 "best": "2.65",
@@ -12893,6 +12911,12 @@ rankings =
 "competition": 5485
 },
 {
+"rank": 32,
+"id": "2016HOUG03",
+"best": "6.41",
+"competition": 6288
+},
+{
 "rank": 34,
 "id": "2017KOST06",
 "best": "6.42",
@@ -15631,6 +15655,12 @@ rankings =
 "competition": 6269
 },
 {
+"rank": 17,
+"id": "2016HOUG03",
+"best": "54.94",
+"competition": 6187
+},
+{
 "rank": 18,
 "id": "2015GEOR02",
 "best": "55.00",
@@ -17321,6 +17351,12 @@ rankings =
 "competition": 5287
 },
 {
+"rank": 16,
+"id": "2016HOUG03",
+"best": "1:03.97",
+"competition": 6187
+},
+{
 "rank": 17,
 "id": "2014PACE01",
 "best": "1:04.11",
@@ -18473,6 +18509,13 @@ rankings =
 "id": "2005CAMP01",
 "best": "1:36.86",
 "competition": 5914
+},
+{
+"rank": 5,
+"id": "2016HOUG03",
+"best": "1:38.75",
+"competition": 6639,
+"highlight": 1
 },
 {
 "rank": 6,
@@ -19630,6 +19673,13 @@ rankings =
 "competition": 5248
 },
 {
+"rank": 7,
+"id": "2016HOUG03",
+"best": "1:53.32",
+"competition": 6639,
+"highlight": 1
+},
+{
 "rank": 8,
 "id": "2015NICH04",
 "best": "1:53.88",
@@ -20474,6 +20524,12 @@ rankings =
 "competition": 3119
 },
 {
+"rank": 32,
+"id": "2016HOUG03",
+"best": "4:39.69",
+"competition": 6358
+},
+{
 "rank": 33,
 "id": "2012PLAC01",
 "best": "4:40.91",
@@ -21015,6 +21071,12 @@ rankings =
 "highlight": 1
 },
 {
+"rank": 22,
+"id": "2016HOUG03",
+"best": "4:51.56",
+"competition": 6358
+},
+{
 "rank": 23,
 "id": "2010HEIL02",
 "best": "4:56.59",
@@ -21388,6 +21450,12 @@ rankings =
 "id": "2012ADRI01",
 "best": "7:08.13",
 "competition": 2344
+},
+{
+"rank": 31,
+"id": "2016HOUG03",
+"best": "7:18.28",
+"competition": 6358
 },
 {
 "rank": 32,
@@ -21840,6 +21908,12 @@ rankings =
 "best": "7:16.02",
 "competition": 6463,
 "highlight": 1
+},
+{
+"rank": 22,
+"id": "2016HOUG03",
+"best": "7:29.52",
+"competition": 6358
 },
 {
 "rank": 23,
@@ -29394,6 +29468,12 @@ rankings =
 "competition": 3403
 },
 {
+"rank": 58,
+"id": "2016HOUG03",
+"best": "7.27",
+"competition": 6358
+},
+{
 "rank": 59,
 "id": "2014VIGN02",
 "best": "7.35",
@@ -31136,6 +31216,12 @@ rankings =
 "competition": 3608
 },
 {
+"rank": 56,
+"id": "2016HOUG03",
+"best": "11.31",
+"competition": 6358
+},
+{
 "rank": 57,
 "id": "2016FRIS02",
 "best": "11.34",
@@ -32801,6 +32887,12 @@ rankings =
 "competition": 3646
 },
 {
+"rank": 51,
+"id": "2016HOUG03",
+"best": "9.07",
+"competition": 6288
+},
+{
 "rank": 52,
 "id": "2011YERK01",
 "best": "9.08",
@@ -33798,6 +33890,12 @@ rankings =
 "id": "2015GOSL01",
 "best": "14.94",
 "competition": 3506
+},
+{
+"rank": 54,
+"id": "2016HOUG03",
+"best": "15.32",
+"competition": 6358
 },
 {
 "rank": 56,
@@ -37653,6 +37751,22 @@ rankings =
 "pyram",
 "skewb",
 "sq1"
+]
+},
+{
+"id": "2016HOUG03",
+"name": "Daniel Houghton",
+"country": "CH",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"666",
+"777",
+"pyram",
+"skewb"
 ]
 },
 {
@@ -50203,6 +50317,12 @@ rankings =
 "webId": "PolishOpen2018"
 },
 {
+"id": 5349,
+"name": "Swisscubing Cup Final 2018",
+"country": "CH",
+"webId": "SwisscubingCupFinal2018"
+},
+{
 "id": 5357,
 "name": "CubingUSA Georgia Championship 2018",
 "country": "US",
@@ -51665,6 +51785,12 @@ rankings =
 "name": "Jönköping Side Events 2019",
 "country": "SE",
 "webId": "JonkopingSideEvents2019"
+},
+{
+"id": 6187,
+"name": "LYN Cubing Days 2019",
+"country": "CH",
+"webId": "LYNCubingDays2019"
 },
 {
 "id": 6190,
