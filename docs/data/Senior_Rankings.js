@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-14 04:14:53",
+"refreshed": "2020-01-14 07:43:18",
 "events": [
 {
 "id": "333",
@@ -402,6 +402,12 @@ rankings =
 "best": "15.07",
 "competition": 6508,
 "highlight": 1
+},
+{
+"rank": 76,
+"id": "2017TAKA06",
+"best": "15.08",
+"competition": 6345
 },
 {
 "rank": 77,
@@ -1348,6 +1354,13 @@ rankings =
 "id": "2008CIRN01",
 "best": "23.17",
 "competition": 3001
+},
+{
+"rank": 361,
+"id": "2011HAYS02",
+"best": "23.19",
+"age": 60,
+"competition": 6090
 },
 {
 "rank": 368,
@@ -3659,6 +3672,13 @@ rankings =
 "competition": 5499
 },
 {
+"rank": 50,
+"id": "2011HAYS02",
+"best": "23.19",
+"age": 60,
+"competition": 6090
+},
+{
 "rank": 51,
 "id": "2018FAUS02",
 "best": "23.38",
@@ -4526,6 +4546,12 @@ rankings =
 "age": 60,
 "ranks": [
 {
+"rank": 1,
+"id": "2011HAYS02",
+"best": "23.19",
+"competition": 6090
+},
+{
 "rank": 2,
 "id": "2018FAUS02",
 "best": "23.38",
@@ -5244,6 +5270,12 @@ rankings =
 "id": "2016GREE02",
 "best": "16.37",
 "competition": 4414
+},
+{
+"rank": 35,
+"id": "2017TAKA06",
+"best": "16.60",
+"competition": 6345
 },
 {
 "rank": 36,
@@ -6484,6 +6516,13 @@ rankings =
 "id": "2005ORST01",
 "best": "29.48",
 "competition": 124
+},
+{
+"rank": 406,
+"id": "2011HAYS02",
+"best": "29.63",
+"age": 60,
+"competition": 4746
 },
 {
 "rank": 410,
@@ -8649,6 +8688,13 @@ rankings =
 "competition": 1595
 },
 {
+"rank": 60,
+"id": "2011HAYS02",
+"best": "29.63",
+"age": 60,
+"competition": 4746
+},
+{
 "rank": 61,
 "id": "2017TAKA02",
 "best": "29.79",
@@ -9451,6 +9497,12 @@ rankings =
 "rank": 1,
 "id": "2018FAUS02",
 "best": "28.68",
+"competition": 4746
+},
+{
+"rank": 2,
+"id": "2011HAYS02",
+"best": "29.63",
 "competition": 4746
 },
 {
@@ -10732,6 +10784,12 @@ rankings =
 "id": "2012MORI01",
 "best": "6.37",
 "competition": 4473
+},
+{
+"rank": 195,
+"id": "2017TAKA06",
+"best": "6.44",
+"competition": 6345
 },
 {
 "rank": 196,
@@ -13236,6 +13294,12 @@ rankings =
 "competition": 3286
 },
 {
+"rank": 97,
+"id": "2017TAKA06",
+"best": "7.63",
+"competition": 6345
+},
+{
 "rank": 101,
 "id": "2016LECO01",
 "best": "7.67",
@@ -15709,6 +15773,12 @@ rankings =
 "competition": 3882
 },
 {
+"rank": 26,
+"id": "2017TAKA06",
+"best": "57.78",
+"competition": 6345
+},
+{
 "rank": 27,
 "id": "2008COUR01",
 "best": "57.88",
@@ -17348,6 +17418,12 @@ rankings =
 "id": "2009TIRA01",
 "best": "1:03.14",
 "competition": 5287
+},
+{
+"rank": 15,
+"id": "2017TAKA06",
+"best": "1:03.43",
+"competition": 6345
 },
 {
 "rank": 16,
@@ -29959,6 +30035,12 @@ rankings =
 "competition": 2469
 },
 {
+"rank": 179,
+"id": "2017TAKA06",
+"best": "11.71",
+"competition": 6345
+},
+{
 "rank": 181,
 "id": "2016UMET02",
 "best": "11.74",
@@ -31465,6 +31547,12 @@ rankings =
 "competition": 4670
 },
 {
+"rank": 125,
+"id": "2017TAKA06",
+"best": "14.54",
+"competition": 6345
+},
+{
 "rank": 126,
 "id": "2018GRAG01",
 "best": "14.66",
@@ -32907,6 +32995,12 @@ rankings =
 "competition": 6161
 },
 {
+"rank": 62,
+"id": "2017TAKA06",
+"best": "9.55",
+"competition": 5055
+},
+{
 "rank": 63,
 "id": "2005KOSE01",
 "best": "9.93",
@@ -33871,6 +33965,12 @@ rankings =
 "id": "2016HOUG03",
 "best": "15.32",
 "competition": 6358
+},
+{
+"rank": 55,
+"id": "2017TAKA06",
+"best": "15.33",
+"competition": 5055
 },
 {
 "rank": 56,
@@ -38159,6 +38259,15 @@ rankings =
 ]
 },
 {
+"id": "2011HAYS02",
+"name": "Donna Hays",
+"country": "US",
+"age": 60,
+"events": [
+"333"
+]
+},
+{
 "id": "2016KRUE03",
 "name": "Donna Krueger",
 "country": "US",
@@ -40080,6 +40189,19 @@ rankings =
 "222",
 "333",
 "pyram"
+]
+},
+{
+"id": "2017TAKA06",
+"name": "Kei Takahashi (高橋慶)",
+"country": "JP",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"pyram",
+"skewb"
 ]
 },
 {
