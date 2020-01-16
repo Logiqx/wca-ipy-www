@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-16 04:14:00",
+"refreshed": "2020-01-16 09:34:11",
 "events": [
 {
 "id": "333",
@@ -513,6 +513,12 @@ rankings =
 "id": "2016UMET02",
 "best": "15.81",
 "competition": 6345
+},
+{
+"rank": 103,
+"id": "2009OKAM01",
+"best": "15.90",
+"competition": 6274
 },
 {
 "rank": 103,
@@ -5301,6 +5307,12 @@ rankings =
 "best": "16.61",
 "age": 50,
 "competition": 1442
+},
+{
+"rank": 38,
+"id": "2009OKAM01",
+"best": "16.63",
+"competition": 6274
 },
 {
 "rank": 40,
@@ -40211,6 +40223,15 @@ rankings =
 "222",
 "333",
 "pyram"
+]
+},
+{
+"id": "2009OKAM01",
+"name": "Kazuhito Okamoto (岡本一人)",
+"country": "JP",
+"age": 40,
+"events": [
+"333"
 ]
 },
 {
