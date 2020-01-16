@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-16 09:34:11",
+"refreshed": "2020-01-16 14:05:21",
 "events": [
 {
 "id": "333",
@@ -364,6 +364,12 @@ rankings =
 "best": "14.87",
 "competition": 6446,
 "highlight": 1
+},
+{
+"rank": 67,
+"id": "2019SANO01",
+"best": "14.88",
+"competition": 5432
 },
 {
 "rank": 67,
@@ -5637,6 +5643,12 @@ rankings =
 "competition": 900
 },
 {
+"rank": 119,
+"id": "2019SANO01",
+"best": "20.01",
+"competition": 6274
+},
+{
 "rank": 122,
 "id": "2014JANE01",
 "best": "20.12",
@@ -10799,6 +10811,12 @@ rankings =
 "competition": 380
 },
 {
+"rank": 185,
+"id": "2019SANO01",
+"best": "6.28",
+"competition": 6274
+},
+{
 "rank": 190,
 "id": "2012PAVL01",
 "best": "6.35",
@@ -13335,6 +13353,12 @@ rankings =
 "id": "2012SCHM07",
 "best": "7.75",
 "competition": 1623
+},
+{
+"rank": 105,
+"id": "2019SANO01",
+"best": "7.79",
+"competition": 6274
 },
 {
 "rank": 107,
@@ -15991,6 +16015,13 @@ rankings =
 "competition": 56
 },
 {
+"rank": 65,
+"id": "2019SANO01",
+"best": "1:10.44",
+"competition": 6578,
+"highlight": 1
+},
+{
 "rank": 66,
 "id": "2010SOHT01",
 "best": "1:10.74",
@@ -17662,6 +17693,12 @@ rankings =
 "competition": 2174
 },
 {
+"rank": 53,
+"id": "2019SANO01",
+"best": "1:17.98",
+"competition": 5809
+},
+{
 "rank": 54,
 "id": "2013PAPA04",
 "best": "1:18.39",
@@ -18919,6 +18956,13 @@ rankings =
 "competition": 5125
 },
 {
+"rank": 64,
+"id": "2019SANO01",
+"best": "2:33.06",
+"competition": 6578,
+"highlight": 1
+},
+{
 "rank": 66,
 "id": "2013COPP01",
 "best": "2:35.54",
@@ -19985,6 +20029,13 @@ rankings =
 "id": "2016DUEH02",
 "best": "2:41.28",
 "competition": 5657
+},
+{
+"rank": 46,
+"id": "2019SANO01",
+"best": "2:43.71",
+"competition": 6578,
+"highlight": 1
 },
 {
 "rank": 48,
@@ -30122,6 +30173,12 @@ rankings =
 "competition": 4312
 },
 {
+"rank": 194,
+"id": "2019SANO01",
+"best": "12.16",
+"competition": 6274
+},
+{
 "rank": 195,
 "id": "2018TURN03",
 "best": "12.17",
@@ -31858,6 +31915,12 @@ rankings =
 "id": "2009DANA01",
 "best": "18.51",
 "competition": 6313
+},
+{
+"rank": 205,
+"id": "2019SANO01",
+"best": "18.55",
+"competition": 6274
 },
 {
 "rank": 206,
@@ -38378,6 +38441,19 @@ rankings =
 "444",
 "pyram",
 "sq1"
+]
+},
+{
+"id": "2019SANO01",
+"name": "Eiji Sano (佐野栄治)",
+"country": "JP",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"pyram"
 ]
 },
 {
@@ -50585,6 +50661,12 @@ rankings =
 "webId": "AnotherBruinCubeDay2019"
 },
 {
+"id": 5432,
+"name": "JRCA Kansai Winter 2019",
+"country": "JP",
+"webId": "JRCAKansaiWinter2019"
+},
+{
 "id": 5433,
 "name": "Larnaca Open 2019",
 "country": "CY",
@@ -52773,6 +52855,12 @@ rankings =
 "name": "III Project Warszawa 2019",
 "country": "PL",
 "webId": "IIIProjectWarszawa2019"
+},
+{
+"id": 6578,
+"name": "Kansai Big Cubes 2019",
+"country": "JP",
+"webId": "KansaiBigCubes2019"
 },
 {
 "id": 6580,
