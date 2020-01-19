@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-19 04:14:23",
+"refreshed": "2020-01-19 10:27:28",
 "events": [
 {
 "id": "333",
@@ -2154,19 +2154,25 @@ rankings =
 "competition": 6082
 },
 {
-"rank": 734,
+"rank": 731,
+"id": "2009HAMO02",
+"best": "35.27",
+"competition": 2393
+},
+{
+"rank": 733,
 "id": "2018MALA01",
 "best": "35.41",
 "competition": 4293
 },
 {
-"rank": 735,
+"rank": 734,
 "id": "2015RETT02",
 "best": "35.44",
 "competition": 4989
 },
 {
-"rank": 736,
+"rank": 735,
 "id": "2018BENN01",
 "best": "35.49",
 "age": 50,
@@ -3422,7 +3428,7 @@ rankings =
 "competition": 4888
 },
 {
-"rank": 1915,
+"rank": 1914,
 "id": "2018NATH03",
 "best": "2:35.82",
 "competition": 6154
@@ -4109,6 +4115,12 @@ rankings =
 "best": "42.89",
 "age": 60,
 "competition": 5632
+},
+{
+"rank": 187,
+"id": "2009HAMO02",
+"best": "43.68",
+"competition": 2857
 },
 {
 "rank": 188,
@@ -4829,7 +4841,7 @@ rankings =
 "competition": 643
 },
 {
-"rank": 69,
+"rank": 68,
 "id": "2018DOYL02",
 "best": "2:30.49",
 "age": 80,
@@ -4985,46 +4997,46 @@ rankings =
 "competition": 193
 },
 {
-"rank": 23,
+"rank": 22,
 "id": "2011MICH02",
 "best": "2:29.52",
 "competition": 643
 },
 {
-"rank": 24,
+"rank": 23,
 "id": "2018DOYL02",
 "best": "2:30.49",
 "age": 80,
 "competition": 4888
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2011YANG13",
 "best": "3:26.81",
 "competition": 6204
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2012SING03",
 "best": "4:19.52",
 "competition": 1186
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2009LIXI05",
 "best": "4:43.52",
 "age": 80,
 "competition": 313
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2010WANG33",
 "best": "4:59.18",
 "age": 80,
 "competition": 477
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2011MICH01",
 "best": "5:52.16",
 "age": 90,
@@ -7455,7 +7467,13 @@ rankings =
 "competition": 4138
 },
 {
-"rank": 808,
+"rank": 807,
+"id": "2009HAMO02",
+"best": "48.28",
+"competition": 2035
+},
+{
+"rank": 809,
 "id": "2017NOVA05",
 "best": "48.29",
 "competition": 5303
@@ -8477,7 +8495,7 @@ rankings =
 "competition": 6154
 },
 {
-"rank": 1819,
+"rank": 1818,
 "id": "2017GUPT02",
 "best": "3:01.07",
 "age": 50,
@@ -9129,10 +9147,16 @@ rankings =
 "competition": 4682
 },
 {
-"rank": 180,
+"rank": 179,
 "id": "2009ROKI01",
 "best": "51.40",
 "competition": 3179
+},
+{
+"rank": 180,
+"id": "2009HAMO02",
+"best": "51.56",
+"competition": 2857
 },
 {
 "rank": 187,
@@ -9948,7 +9972,7 @@ rankings =
 "competition": 216
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2018DOYL02",
 "best": "3:19.05",
 "age": 80,
@@ -11320,6 +11344,12 @@ rankings =
 "id": "2019BLAC02",
 "best": "8.09",
 "competition": 6440
+},
+{
+"rank": 319,
+"id": "2009HAMO02",
+"best": "8.13",
+"competition": 1156
 },
 {
 "rank": 321,
@@ -14303,6 +14333,12 @@ rankings =
 "competition": 3133
 },
 {
+"rank": 336,
+"id": "2009HAMO02",
+"best": "12.96",
+"competition": 1156
+},
+{
 "rank": 338,
 "id": "2015HAGE04",
 "best": "13.00",
@@ -17144,6 +17180,12 @@ rankings =
 "age": 60,
 "competition": 6640,
 "highlight": 1
+},
+{
+"rank": 348,
+"id": "2009HAMO02",
+"best": "4:02.31",
+"competition": 2127
 },
 {
 "rank": 352,
@@ -22838,23 +22880,29 @@ rankings =
 "competition": 5734
 },
 {
-"rank": 111,
+"rank": 110,
 "id": "2016POPO02",
 "best": "5:59.93",
 "competition": 3231
 },
 {
-"rank": 112,
+"rank": 111,
 "id": "2016BALA16",
 "best": "6:01.30",
 "competition": 5713
 },
 {
-"rank": 113,
+"rank": 112,
 "id": "2006NORS01",
 "best": "6:01.84",
 "age": 50,
 "competition": 337
+},
+{
+"rank": 113,
+"id": "2009HAMO02",
+"best": "6:02.27",
+"competition": 1648
 },
 {
 "rank": 115,
@@ -36782,6 +36830,12 @@ rankings =
 "competition": 5718
 },
 {
+"rank": 36,
+"id": "2009HAMO02",
+"best": "3/3 in 29:17",
+"competition": 2393
+},
+{
 "rank": 37,
 "id": "2013MORA02",
 "best": "4/5 in 37:10",
@@ -42246,6 +42300,19 @@ rankings =
 ]
 },
 {
+"id": "2009HAMO02",
+"name": "Phil Hamory",
+"country": "US",
+"age": 50,
+"events": [
+"222",
+"333",
+"333bf",
+"333mbf",
+"444"
+]
+},
+{
 "id": "2016LEWI07",
 "name": "Phil Lewis",
 "country": "US",
@@ -45698,6 +45765,12 @@ rankings =
 "webId": "AmstelveenOpen2012"
 },
 {
+"id": 1156,
+"name": "Eagle Peak - San Diego Open 2012",
+"country": "US",
+"webId": "SanDiego2012"
+},
+{
 "id": 1162,
 "name": "Harvard Fall 2012",
 "country": "US",
@@ -46238,6 +46311,12 @@ rankings =
 "webId": "PolishOpen2014"
 },
 {
+"id": 1648,
+"name": "Caltech Winter Open 2014",
+"country": "US",
+"webId": "CaltechWinter2014"
+},
+{
 "id": 1653,
 "name": "Hamburg Open 2014",
 "country": "DE",
@@ -46598,6 +46677,12 @@ rankings =
 "webId": "CapeTown2014"
 },
 {
+"id": 2035,
+"name": "Newport Winter Open 2014",
+"country": "US",
+"webId": "NewportWinter2014"
+},
+{
 "id": 2041,
 "name": "Santa Claus Cube Race 2014",
 "country": "PL",
@@ -46662,6 +46747,12 @@ rankings =
 "name": "JRCA Kansai Winter 2015",
 "country": "JP",
 "webId": "JRCAKansaiWinter2015"
+},
+{
+"id": 2127,
+"name": "Caltech Winter Open 2015",
+"country": "US",
+"webId": "CaltechWinterOpen2015"
 },
 {
 "id": 2129,
@@ -46926,6 +47017,12 @@ rankings =
 "name": "JRCA Kansai Summer 2015",
 "country": "JP",
 "webId": "JRCAKansaiSummer2015"
+},
+{
+"id": 2393,
+"name": "US Nationals 2015",
+"country": "US",
+"webId": "USNationals2015"
 },
 {
 "id": 2396,
@@ -47382,6 +47479,12 @@ rankings =
 "name": "Alpharetta Open 2016",
 "country": "US",
 "webId": "AlpharettaOpen2016"
+},
+{
+"id": 2857,
+"name": "St. Francis II: GYM 2016",
+"country": "US",
+"webId": "StFrancisIIGYM2016"
 },
 {
 "id": 2858,
