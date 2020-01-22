@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-22 09:03:29",
+"refreshed": "2020-01-22 10:53:34",
 "events": [
 {
 "id": "333",
@@ -1770,25 +1770,25 @@ rankings =
 "competition": 6090
 },
 {
-"rank": 534,
+"rank": 535,
 "id": "2015GIRO01",
 "best": "28.41",
 "competition": 5202
 },
 {
-"rank": 538,
+"rank": 537,
 "id": "2013JOKI02",
 "best": "28.52",
 "competition": 2838
 },
 {
-"rank": 542,
+"rank": 540,
 "id": "2015JIJI02",
 "best": "28.62",
 "competition": 3581
 },
 {
-"rank": 544,
+"rank": 543,
 "id": "2007YULH01",
 "best": "28.66",
 "competition": 6720,
@@ -10939,13 +10939,13 @@ rankings =
 "competition": 380
 },
 {
-"rank": 185,
+"rank": 186,
 "id": "2019SANO01",
 "best": "6.28",
 "competition": 6274
 },
 {
-"rank": 186,
+"rank": 187,
 "id": "2016CRUZ16",
 "best": "6.29",
 "competition": 4417
@@ -16831,14 +16831,14 @@ rankings =
 "competition": 224
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2018KORO08",
 "best": "1:52.84",
 "competition": 6487,
 "highlight": 1
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "2007KOLL01",
 "best": "1:53.63",
 "competition": 3557
@@ -19656,14 +19656,14 @@ rankings =
 "competition": 380
 },
 {
-"rank": 161,
+"rank": 160,
 "id": "2005ISHI01",
 "best": "4:23.56",
 "age": 50,
 "competition": 356
 },
 {
-"rank": 162,
+"rank": 161,
 "id": "2011VOLK01",
 "best": "4:25.25",
 "competition": 1205
@@ -30520,62 +30520,62 @@ rankings =
 "competition": 3406
 },
 {
-"rank": 202,
+"rank": 201,
 "id": "2016AMBE02",
 "best": "12.42",
 "competition": 4720
 },
 {
-"rank": 203,
+"rank": 202,
 "id": "2008YIMV01",
 "best": "12.45",
 "competition": 6051
 },
 {
-"rank": 204,
+"rank": 203,
 "id": "2014KIPR02",
 "best": "12.46",
 "competition": 2861
 },
 {
-"rank": 206,
+"rank": 204,
 "id": "2004CONN01",
 "best": "12.47",
 "competition": 595
 },
 {
-"rank": 207,
+"rank": 205,
 "id": "2014NIET01",
 "best": "12.50",
 "competition": 6025
 },
 {
-"rank": 207,
+"rank": 205,
 "id": "2015ADAM03",
 "best": "12.50",
 "competition": 4159
 },
 {
-"rank": 209,
+"rank": 208,
 "id": "2012MUNO03",
 "best": "12.65",
 "competition": 3150
 },
 {
-"rank": 210,
+"rank": 209,
 "id": "2015HASU01",
 "best": "12.70",
 "competition": 2732
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2018COOK04",
 "best": "12.84",
 "age": 50,
 "competition": 6389
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2015LOPE29",
 "best": "12.87",
 "competition": 4557
@@ -32193,13 +32193,13 @@ rankings =
 "highlight": 1
 },
 {
-"rank": 183,
+"rank": 184,
 "id": "2007YULH01",
 "best": "17.32",
 "competition": 6115
 },
 {
-"rank": 184,
+"rank": 185,
 "id": "2012SCHM07",
 "best": "17.40",
 "competition": 1623
