@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-22 10:53:34",
+"refreshed": "2020-01-22 14:03:04",
 "events": [
 {
 "id": "333",
@@ -883,7 +883,7 @@ rankings =
 "competition": 721
 },
 {
-"rank": 207,
+"rank": 206,
 "id": "2004ZIJD01",
 "best": "19.08",
 "age": 50,
@@ -896,14 +896,14 @@ rankings =
 "competition": 844
 },
 {
-"rank": 211,
+"rank": 210,
 "id": "2014KIZU01",
 "best": "19.20",
 "competition": 6545,
 "highlight": 1
 },
 {
-"rank": 216,
+"rank": 217,
 "id": "2016AMBE02",
 "best": "19.46",
 "competition": 6367
@@ -10552,7 +10552,7 @@ rankings =
 "competition": 3310
 },
 {
-"rank": 97,
+"rank": 96,
 "id": "2015DULE03",
 "best": "5.00",
 "competition": 5034
@@ -13884,13 +13884,13 @@ rankings =
 "competition": 5883
 },
 {
-"rank": 200,
+"rank": 199,
 "id": "2012POOT01",
 "best": "9.54",
 "competition": 2486
 },
 {
-"rank": 201,
+"rank": 200,
 "id": "2013MESA01",
 "best": "9.56",
 "competition": 6309
@@ -24974,7 +24974,7 @@ rankings =
 "competition": 2490
 },
 {
-"rank": 46,
+"rank": 45,
 "id": "2014RIEM01",
 "best": "31.68",
 "competition": 5377
