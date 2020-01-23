@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-23 09:53:57",
+"refreshed": "2020-01-23 15:06:10",
 "events": [
 {
 "id": "333",
@@ -756,6 +756,12 @@ rankings =
 "id": "2012HAMA02",
 "best": "18.05",
 "competition": 3146
+},
+{
+"rank": 171,
+"id": "2015DISI01",
+"best": "18.08",
+"competition": 3513
 },
 {
 "rank": 173,
@@ -6053,6 +6059,12 @@ rankings =
 "competition": 16
 },
 {
+"rank": 217,
+"id": "2015DISI01",
+"best": "23.10",
+"competition": 3675
+},
+{
 "rank": 218,
 "id": "2005GUST02",
 "best": "23.12",
@@ -10504,6 +10516,12 @@ rankings =
 "competition": 5217
 },
 {
+"rank": 83,
+"id": "2015DISI01",
+"best": "4.82",
+"competition": 3908
+},
+{
 "rank": 84,
 "id": "2005GUST01",
 "best": "4.83",
@@ -13431,6 +13449,12 @@ rankings =
 "competition": 5538
 },
 {
+"rank": 77,
+"id": "2015DISI01",
+"best": "7.21",
+"competition": 3908
+},
+{
 "rank": 78,
 "id": "2012PAVL01",
 "best": "7.22",
@@ -16326,6 +16350,12 @@ rankings =
 "competition": 5328
 },
 {
+"rank": 79,
+"id": "2015DISI01",
+"best": "1:14.81",
+"competition": 3908
+},
+{
 "rank": 80,
 "id": "2005THOM01",
 "best": "1:15.09",
@@ -18152,6 +18182,12 @@ rankings =
 "competition": 5959
 },
 {
+"rank": 95,
+"id": "2015DISI01",
+"best": "1:34.92",
+"competition": 3908
+},
+{
 "rank": 96,
 "id": "2012ANGD01",
 "best": "1:35.47",
@@ -19510,6 +19546,12 @@ rankings =
 "id": "2008ERSK01",
 "best": "3:26.56",
 "competition": 1186
+},
+{
+"rank": 120,
+"id": "2015DISI01",
+"best": "3:26.83",
+"competition": 4909
 },
 {
 "rank": 121,
@@ -25399,6 +25441,12 @@ rankings =
 "competition": 4807
 },
 {
+"rank": 131,
+"id": "2015DISI01",
+"best": "52.95",
+"competition": 4909
+},
+{
 "rank": 132,
 "id": "2007FEKE01",
 "best": "53.28",
@@ -26653,6 +26701,12 @@ rankings =
 "id": "2007OEYM01",
 "best": "1:33.43",
 "competition": 254
+},
+{
+"rank": 144,
+"id": "2015DISI01",
+"best": "1:37.17",
+"competition": 3908
 },
 {
 "rank": 145,
@@ -29806,6 +29860,12 @@ rankings =
 "competition": 5388
 },
 {
+"rank": 24,
+"id": "2015DISI01",
+"best": "5.68",
+"competition": 3462
+},
+{
 "rank": 26,
 "id": "2005KOSE01",
 "best": "5.89",
@@ -31728,6 +31788,12 @@ rankings =
 "best": "11.36",
 "competition": 6574,
 "highlight": 1
+},
+{
+"rank": 61,
+"id": "2015DISI01",
+"best": "11.51",
+"competition": 3908
 },
 {
 "rank": 61,
@@ -41047,6 +41113,20 @@ rankings =
 ]
 },
 {
+"id": "2015DISI01",
+"name": "Lucas Martin Disipio",
+"country": "AR",
+"age": 40,
+"events": [
+"222",
+"333",
+"333oh",
+"444",
+"555",
+"pyram"
+]
+},
+{
 "id": "2017WEST02",
 "name": "Lucien West",
 "country": "AU",
@@ -48384,6 +48464,12 @@ rankings =
 "webId": "ODUBigBlueSpring2017"
 },
 {
+"id": 3462,
+"name": "Nacionales Uruguayas UCHI 2017",
+"country": "UY",
+"webId": "NacionalesUruguayasUCHI2017"
+},
+{
 "id": 3464,
 "name": "Peterborough Open 2017",
 "country": "GB",
@@ -48970,6 +49056,12 @@ rankings =
 "name": "Botosani Rubik Open 2017",
 "country": "RO",
 "webId": "BotosaniRubikOpen2017"
+},
+{
+"id": 3908,
+"name": "Happy Winter MDQ 2017",
+"country": "AR",
+"webId": "HappyWinterMDQ2017"
 },
 {
 "id": 3931,
@@ -50428,6 +50520,12 @@ rankings =
 "name": "Mariupol Open 2018",
 "country": "UA",
 "webId": "MariupolOpen2018"
+},
+{
+"id": 4909,
+"name": "VCP Invierno 2018",
+"country": "AR",
+"webId": "VCPInvierno2018"
 },
 {
 "id": 4922,
