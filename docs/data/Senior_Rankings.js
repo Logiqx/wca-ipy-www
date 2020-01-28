@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-28 04:14:18",
+"refreshed": "2020-01-28 15:52:05",
 "events": [
 {
 "id": "333",
@@ -3528,7 +3528,94 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 1976
+"estimate": 1976,
+"missing": {
+"world": 1427,
+"continents": {
+"AF": 35,
+"AS": 347,
+"EU": 490,
+"NA": 388,
+"OC": 54,
+"SA": 140
+},
+"countries": {
+"AR": 8,
+"AT": 1,
+"AU": 46,
+"BA": 1,
+"BE": 10,
+"BG": 1,
+"BR": 98,
+"BY": 3,
+"CA": 61,
+"CH": 15,
+"CL": 7,
+"CN": 107,
+"CO": 12,
+"CR": 1,
+"CZ": 5,
+"DE": 59,
+"DK": 17,
+"DO": 3,
+"DZ": 6,
+"EC": 1,
+"EE": 2,
+"ES": 74,
+"FI": 11,
+"FR": 50,
+"GB": 28,
+"GR": 2,
+"GT": 4,
+"HK": 6,
+"HR": 2,
+"HU": 9,
+"ID": 3,
+"IE": 4,
+"IL": 7,
+"IN": 47,
+"IR": 8,
+"IT": 20,
+"JM": 0,
+"JO": 0,
+"JP": 135,
+"KR": 13,
+"KZ": 6,
+"LT": 0,
+"LV": 2,
+"MN": 1,
+"MX": 15,
+"MY": 4,
+"NG": 1,
+"NL": 26,
+"NO": 10,
+"NZ": 8,
+"PA": 4,
+"PE": 2,
+"PH": 5,
+"PL": 27,
+"PT": 5,
+"PY": 1,
+"RO": 14,
+"RS": 1,
+"RU": 42,
+"SE": 27,
+"SG": 2,
+"SI": 1,
+"SK": 2,
+"SV": 2,
+"TH": 4,
+"TN": 1,
+"TR": 4,
+"TW": 2,
+"TZ": 1,
+"UA": 5,
+"US": 297,
+"UY": 3,
+"VE": 8,
+"ZA": 26
+}
+}
 },
 {
 "type": "single",
@@ -4631,7 +4718,64 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 521
+"estimate": 521,
+"missing": {
+"world": 348,
+"continents": {
+"AF": 7,
+"AS": 81,
+"EU": 115,
+"NA": 99,
+"OC": 18,
+"SA": 33
+},
+"countries": {
+"AR": 2,
+"AT": 0,
+"AU": 13,
+"BE": 2,
+"BR": 26,
+"CA": 14,
+"CN": 22,
+"CZ": 2,
+"DE": 17,
+"DK": 4,
+"ES": 20,
+"FI": 3,
+"FR": 13,
+"GB": 6,
+"GR": 1,
+"HU": 0,
+"ID": 1,
+"IE": 1,
+"IL": 3,
+"IN": 10,
+"IR": 5,
+"IT": 5,
+"JM": 0,
+"JP": 35,
+"KR": 2,
+"MX": 1,
+"NG": 1,
+"NL": 10,
+"NZ": 5,
+"PA": 1,
+"PE": 0,
+"PL": 1,
+"RO": 2,
+"RU": 9,
+"SE": 8,
+"SI": 1,
+"SK": 1,
+"SV": 0,
+"TN": 1,
+"TZ": 1,
+"UA": 0,
+"US": 81,
+"VE": 1,
+"ZA": 3
+}
+}
 },
 {
 "type": "single",
@@ -4919,7 +5063,41 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 90
+"estimate": 90,
+"missing": {
+"world": 47,
+"continents": {
+"AS": 13,
+"EU": 13,
+"NA": 13,
+"OC": 1,
+"SA": 6
+},
+"countries": {
+"AU": 1,
+"BE": 0,
+"BR": 6,
+"CA": 4,
+"CN": 5,
+"DK": 1,
+"ES": 3,
+"FR": 2,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IE": 0,
+"IN": 5,
+"JP": 2,
+"KR": 0,
+"MX": 1,
+"NL": 1,
+"RO": 1,
+"RU": 1,
+"SE": 1,
+"UA": 0,
+"US": 8
+}
+}
 },
 {
 "type": "single",
@@ -5081,7 +5259,33 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 32
+"estimate": 32,
+"missing": {
+"world": 8,
+"continents": {
+"AS": 2,
+"EU": 2,
+"NA": 3,
+"OC": 0,
+"SA": 1
+},
+"countries": {
+"AU": 0,
+"BR": 1,
+"CA": 0,
+"CN": 1,
+"DK": 0,
+"ES": 1,
+"GB": 0,
+"IE": 0,
+"IN": 1,
+"JP": 0,
+"KR": 0,
+"RU": 1,
+"SE": 0,
+"US": 3
+}
+}
 },
 {
 "type": "single",
@@ -5155,7 +5359,26 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 12
+"estimate": 12,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 1,
+"OC": 0
+},
+"countries": {
+"AU": 0,
+"CA": 0,
+"CN": 0,
+"DK": 0,
+"GB": 0,
+"JP": 0,
+"SE": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
@@ -5168,7 +5391,16 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"DK": 0
+}
+}
 },
 {
 "type": "average",
@@ -8617,7 +8849,94 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 1888
+"estimate": 1888,
+"missing": {
+"world": 1351,
+"continents": {
+"AF": 35,
+"AS": 303,
+"EU": 473,
+"NA": 379,
+"OC": 51,
+"SA": 137
+},
+"countries": {
+"AR": 8,
+"AT": 1,
+"AU": 43,
+"BA": 1,
+"BE": 9,
+"BG": 0,
+"BR": 95,
+"BY": 3,
+"CA": 59,
+"CH": 14,
+"CL": 7,
+"CN": 97,
+"CO": 12,
+"CR": 1,
+"CZ": 5,
+"DE": 59,
+"DK": 16,
+"DO": 3,
+"DZ": 6,
+"EC": 1,
+"EE": 2,
+"ES": 70,
+"FI": 11,
+"FR": 48,
+"GB": 26,
+"GR": 2,
+"GT": 4,
+"HK": 6,
+"HR": 2,
+"HU": 9,
+"ID": 3,
+"IE": 4,
+"IL": 7,
+"IN": 28,
+"IR": 8,
+"IT": 20,
+"JM": 0,
+"JO": 0,
+"JP": 127,
+"KR": 11,
+"KZ": 5,
+"LT": 0,
+"LV": 2,
+"MN": 1,
+"MX": 14,
+"MY": 4,
+"NG": 1,
+"NL": 24,
+"NO": 10,
+"NZ": 8,
+"PA": 4,
+"PE": 2,
+"PH": 3,
+"PL": 27,
+"PT": 5,
+"PY": 1,
+"RO": 14,
+"RS": 1,
+"RU": 41,
+"SE": 26,
+"SG": 2,
+"SI": 1,
+"SK": 2,
+"SV": 2,
+"TH": 3,
+"TN": 1,
+"TR": 3,
+"TW": 2,
+"TZ": 1,
+"UA": 5,
+"US": 291,
+"UY": 3,
+"VE": 8,
+"ZA": 26
+}
+}
 },
 {
 "type": "average",
@@ -9677,7 +9996,64 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 497
+"estimate": 497,
+"missing": {
+"world": 331,
+"continents": {
+"AF": 7,
+"AS": 74,
+"EU": 112,
+"NA": 95,
+"OC": 16,
+"SA": 32
+},
+"countries": {
+"AR": 2,
+"AT": 0,
+"AU": 11,
+"BE": 1,
+"BR": 25,
+"CA": 13,
+"CN": 21,
+"CZ": 2,
+"DE": 17,
+"DK": 4,
+"ES": 20,
+"FI": 3,
+"FR": 13,
+"GB": 5,
+"GR": 1,
+"HU": 0,
+"ID": 1,
+"IE": 1,
+"IL": 3,
+"IN": 6,
+"IR": 5,
+"IT": 5,
+"JM": 0,
+"JP": 35,
+"KR": 2,
+"MX": 1,
+"NG": 1,
+"NL": 10,
+"NZ": 5,
+"PA": 1,
+"PE": 0,
+"PL": 1,
+"RO": 2,
+"RU": 9,
+"SE": 8,
+"SI": 1,
+"SK": 1,
+"SV": 0,
+"TN": 1,
+"TZ": 1,
+"UA": 0,
+"US": 78,
+"VE": 1,
+"ZA": 3
+}
+}
 },
 {
 "type": "average",
@@ -9933,7 +10309,40 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 78
+"estimate": 78,
+"missing": {
+"world": 40,
+"continents": {
+"AS": 10,
+"EU": 13,
+"NA": 10,
+"OC": 0,
+"SA": 6
+},
+"countries": {
+"AU": 0,
+"BE": 0,
+"BR": 6,
+"CA": 3,
+"CN": 4,
+"ES": 3,
+"FR": 2,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IE": 0,
+"IN": 3,
+"JP": 2,
+"KR": 0,
+"MX": 1,
+"NL": 1,
+"RO": 1,
+"RU": 1,
+"SE": 1,
+"UA": 0,
+"US": 6
+}
+}
 },
 {
 "type": "average",
@@ -10064,7 +10473,32 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 26
+"estimate": 26,
+"missing": {
+"world": 7,
+"continents": {
+"AS": 1,
+"EU": 2,
+"NA": 3,
+"OC": 0,
+"SA": 1
+},
+"countries": {
+"AU": 0,
+"BR": 1,
+"CA": 0,
+"CN": 0,
+"ES": 1,
+"GB": 0,
+"IE": 0,
+"IN": 1,
+"JP": 0,
+"KR": 0,
+"RU": 1,
+"SE": 0,
+"US": 3
+}
+}
 },
 {
 "type": "average",
@@ -10125,7 +10559,25 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 10
+"estimate": 10,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 1,
+"OC": 0
+},
+"countries": {
+"AU": 0,
+"CA": 0,
+"CN": 0,
+"GB": 0,
+"JP": 0,
+"SE": 0,
+"US": 1
+}
+}
 }
 ]
 },
@@ -12341,7 +12793,78 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 835
+"estimate": 835,
+"missing": {
+"world": 486,
+"continents": {
+"AF": 12,
+"AS": 83,
+"EU": 188,
+"NA": 146,
+"OC": 28,
+"SA": 42
+},
+"countries": {
+"AR": 3,
+"AT": 1,
+"AU": 25,
+"BA": 1,
+"BE": 2,
+"BG": 0,
+"BR": 30,
+"BY": 1,
+"CA": 20,
+"CH": 10,
+"CL": 2,
+"CN": 34,
+"CO": 3,
+"CZ": 2,
+"DE": 20,
+"DK": 2,
+"EE": 2,
+"ES": 36,
+"FI": 5,
+"FR": 18,
+"GB": 5,
+"GT": 2,
+"HK": 3,
+"HR": 1,
+"HU": 3,
+"ID": 0,
+"IE": 3,
+"IL": 2,
+"IN": 13,
+"IT": 12,
+"JM": 0,
+"JP": 20,
+"KR": 2,
+"KZ": 2,
+"MN": 0,
+"MX": 6,
+"MY": 2,
+"NL": 8,
+"NO": 5,
+"NZ": 3,
+"PE": 0,
+"PL": 10,
+"PT": 2,
+"RO": 7,
+"RS": 2,
+"RU": 13,
+"SE": 8,
+"SG": 1,
+"SI": 1,
+"SK": 1,
+"TH": 1,
+"TN": 1,
+"TZ": 1,
+"UA": 0,
+"US": 118,
+"UY": 1,
+"VE": 3,
+"ZA": 9
+}
+}
 },
 {
 "type": "single",
@@ -12924,7 +13447,55 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 212
+"estimate": 212,
+"missing": {
+"world": 121,
+"continents": {
+"AF": 5,
+"AS": 16,
+"EU": 51,
+"NA": 31,
+"OC": 8,
+"SA": 12
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 6,
+"BR": 11,
+"CA": 3,
+"CH": 3,
+"CZ": 1,
+"DE": 6,
+"ES": 12,
+"FI": 2,
+"FR": 3,
+"GB": 1,
+"ID": 0,
+"IE": 1,
+"IL": 2,
+"IN": 3,
+"IT": 4,
+"JM": 0,
+"JP": 5,
+"KR": 1,
+"MX": 0,
+"NL": 5,
+"NZ": 2,
+"PE": 0,
+"PL": 1,
+"RO": 2,
+"RS": 1,
+"RU": 2,
+"SE": 1,
+"SI": 1,
+"SK": 1,
+"TN": 1,
+"TZ": 1,
+"US": 27,
+"ZA": 2
+}
+}
 },
 {
 "type": "single",
@@ -13021,7 +13592,30 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 26
+"estimate": 26,
+"missing": {
+"world": 12,
+"continents": {
+"AS": 2,
+"EU": 8,
+"NA": 1,
+"SA": 1
+},
+"countries": {
+"BR": 1,
+"CA": 0,
+"DE": 1,
+"ES": 3,
+"FR": 1,
+"IN": 2,
+"JP": 0,
+"KR": 0,
+"NL": 1,
+"RO": 1,
+"SE": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
@@ -13065,13 +13659,35 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 7
+"estimate": 7,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"JP": 0,
+"KR": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
 "age": 80,
 "ranks": [],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 1,
+"continents": {
+"NA": 1
+},
+"countries": {
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -15220,7 +15836,78 @@ rankings =
 "competition": 3099
 }
 ],
-"estimate": 783
+"estimate": 783,
+"missing": {
+"world": 445,
+"continents": {
+"AF": 11,
+"AS": 67,
+"EU": 177,
+"NA": 136,
+"OC": 26,
+"SA": 38
+},
+"countries": {
+"AR": 3,
+"AT": 1,
+"AU": 23,
+"BA": 1,
+"BE": 2,
+"BG": 0,
+"BR": 28,
+"BY": 1,
+"CA": 18,
+"CH": 9,
+"CL": 2,
+"CN": 30,
+"CO": 2,
+"CZ": 2,
+"DE": 18,
+"DK": 2,
+"EE": 2,
+"ES": 34,
+"FI": 5,
+"FR": 17,
+"GB": 4,
+"GT": 2,
+"HK": 2,
+"HR": 1,
+"HU": 3,
+"ID": 0,
+"IE": 3,
+"IL": 2,
+"IN": 4,
+"IT": 12,
+"JM": 0,
+"JP": 19,
+"KR": 2,
+"KZ": 2,
+"MN": 0,
+"MX": 6,
+"MY": 2,
+"NL": 7,
+"NO": 5,
+"NZ": 3,
+"PE": 0,
+"PL": 9,
+"PT": 2,
+"RO": 7,
+"RS": 1,
+"RU": 13,
+"SE": 8,
+"SG": 0,
+"SI": 1,
+"SK": 1,
+"TH": 1,
+"TN": 1,
+"TZ": 1,
+"UA": 0,
+"US": 110,
+"UY": 1,
+"VE": 2,
+"ZA": 9
+}
+}
 },
 {
 "type": "average",
@@ -15789,7 +16476,54 @@ rankings =
 "competition": 3099
 }
 ],
-"estimate": 200
+"estimate": 200,
+"missing": {
+"world": 111,
+"continents": {
+"AF": 4,
+"AS": 12,
+"EU": 47,
+"NA": 29,
+"OC": 7,
+"SA": 12
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 5,
+"BR": 11,
+"CA": 2,
+"CH": 3,
+"CZ": 1,
+"DE": 6,
+"ES": 11,
+"FI": 2,
+"FR": 3,
+"GB": 0,
+"ID": 0,
+"IE": 1,
+"IL": 2,
+"IN": 0,
+"IT": 4,
+"JM": 0,
+"JP": 5,
+"KR": 1,
+"MX": 0,
+"NL": 4,
+"NZ": 2,
+"PE": 0,
+"PL": 1,
+"RO": 2,
+"RU": 2,
+"SE": 1,
+"SI": 1,
+"SK": 1,
+"TN": 1,
+"TZ": 1,
+"US": 26,
+"ZA": 2
+}
+}
 },
 {
 "type": "average",
@@ -15881,7 +16615,30 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 23
+"estimate": 23,
+"missing": {
+"world": 10,
+"continents": {
+"AS": 0,
+"EU": 8,
+"NA": 1,
+"SA": 1
+},
+"countries": {
+"BR": 1,
+"CA": 0,
+"DE": 1,
+"ES": 3,
+"FR": 1,
+"IN": 0,
+"JP": 0,
+"KR": 0,
+"NL": 1,
+"RO": 1,
+"SE": 0,
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -15919,13 +16676,35 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 6
+"estimate": 6,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"JP": 0,
+"KR": 0,
+"US": 1
+}
+}
 },
 {
 "type": "average",
 "age": 80,
 "ranks": [],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 1,
+"continents": {
+"NA": 1
+},
+"countries": {
+"US": 1
+}
+}
 }
 ]
 },
@@ -17369,7 +18148,69 @@ rankings =
 "competition": 3939
 }
 ],
-"estimate": 375
+"estimate": 375,
+"missing": {
+"world": 147,
+"continents": {
+"AF": 2,
+"AS": 24,
+"EU": 68,
+"NA": 41,
+"OC": 2,
+"SA": 11
+},
+"countries": {
+"AR": 1,
+"AT": 1,
+"AU": 1,
+"BA": 1,
+"BE": 1,
+"BG": 0,
+"BR": 9,
+"CA": 7,
+"CH": 4,
+"CL": 0,
+"CN": 6,
+"CO": 0,
+"DE": 13,
+"DK": 3,
+"EE": 1,
+"ES": 12,
+"FI": 1,
+"FR": 7,
+"GB": 1,
+"GR": 0,
+"HR": 0,
+"HU": 1,
+"ID": 1,
+"IL": 1,
+"IN": 3,
+"IT": 5,
+"JP": 10,
+"KR": 2,
+"KZ": 1,
+"LV": 1,
+"MN": 0,
+"MX": 3,
+"MY": 0,
+"NL": 3,
+"NO": 0,
+"NZ": 1,
+"PL": 3,
+"PT": 1,
+"RO": 0,
+"RS": 0,
+"RU": 6,
+"SE": 2,
+"SG": 0,
+"SI": 0,
+"TH": 0,
+"UA": 0,
+"US": 31,
+"VE": 1,
+"ZA": 2
+}
+}
 },
 {
 "type": "single",
@@ -17666,7 +18507,43 @@ rankings =
 "competition": 3939
 }
 ],
-"estimate": 73
+"estimate": 73,
+"missing": {
+"world": 26,
+"continents": {
+"AF": 0,
+"AS": 4,
+"EU": 15,
+"NA": 6,
+"OC": 0,
+"SA": 1
+},
+"countries": {
+"AR": 0,
+"BR": 1,
+"CA": 0,
+"DE": 3,
+"DK": 1,
+"ES": 4,
+"FI": 0,
+"FR": 2,
+"GB": 0,
+"ID": 0,
+"IL": 1,
+"IN": 1,
+"IT": 2,
+"JP": 3,
+"MX": 0,
+"NL": 0,
+"NZ": 0,
+"PL": 0,
+"RU": 2,
+"SE": 0,
+"SI": 0,
+"US": 6,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -17686,7 +18563,18 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 4
+"estimate": 4,
+"missing": {
+"world": 2,
+"continents": {
+"EU": 2
+},
+"countries": {
+"ES": 1,
+"FR": 1,
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -18699,7 +19587,65 @@ rankings =
 "competition": 2595
 }
 ],
-"estimate": 221
+"estimate": 221,
+"missing": {
+"world": 61,
+"continents": {
+"AF": 2,
+"AS": 13,
+"EU": 26,
+"NA": 15,
+"OC": 1,
+"SA": 5
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 0,
+"BE": 1,
+"BG": 0,
+"BR": 5,
+"CA": 3,
+"CH": 1,
+"CN": 3,
+"CO": 0,
+"DE": 3,
+"DK": 1,
+"EE": 1,
+"ES": 7,
+"FI": 1,
+"FR": 3,
+"GB": 0,
+"GR": 0,
+"HR": 0,
+"HU": 0,
+"ID": 0,
+"IL": 1,
+"IN": 0,
+"IT": 0,
+"JP": 7,
+"KR": 2,
+"LV": 1,
+"MN": 0,
+"MX": 0,
+"MY": 0,
+"NL": 1,
+"NO": 0,
+"NZ": 1,
+"PL": 0,
+"PT": 0,
+"RO": 0,
+"RS": 0,
+"RU": 4,
+"SE": 1,
+"SG": 0,
+"SI": 0,
+"TH": 0,
+"UA": 0,
+"US": 12,
+"ZA": 2
+}
+}
 },
 {
 "type": "average",
@@ -18903,7 +19849,39 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 43
+"estimate": 43,
+"missing": {
+"world": 11,
+"continents": {
+"AF": 0,
+"AS": 1,
+"EU": 8,
+"NA": 2,
+"OC": 0
+},
+"countries": {
+"CA": 0,
+"DE": 1,
+"DK": 1,
+"ES": 2,
+"FI": 0,
+"FR": 1,
+"GB": 0,
+"ID": 0,
+"IL": 1,
+"IN": 0,
+"IT": 0,
+"JP": 1,
+"MX": 0,
+"NL": 0,
+"NZ": 0,
+"RU": 2,
+"SE": 0,
+"SI": 0,
+"US": 2,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -18923,7 +19901,17 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 3
+"estimate": 3,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 1
+},
+"countries": {
+"FR": 1,
+"SE": 0
+}
+}
 }
 ]
 },
@@ -19898,7 +20886,60 @@ rankings =
 "competition": 2595
 }
 ],
-"estimate": 209
+"estimate": 209,
+"missing": {
+"world": 57,
+"continents": {
+"AF": 2,
+"AS": 12,
+"EU": 27,
+"NA": 12,
+"OC": 0,
+"SA": 3
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 0,
+"BG": 0,
+"BR": 3,
+"CA": 1,
+"CH": 1,
+"CN": 3,
+"CO": 0,
+"DE": 4,
+"DK": 2,
+"ES": 5,
+"FI": 1,
+"FR": 2,
+"GB": 0,
+"GR": 0,
+"HR": 0,
+"HU": 1,
+"ID": 1,
+"IN": 1,
+"IT": 2,
+"JP": 6,
+"KR": 0,
+"KZ": 1,
+"LV": 1,
+"MN": 0,
+"MY": 0,
+"NL": 3,
+"NO": 0,
+"PL": 1,
+"PT": 0,
+"RO": 0,
+"RS": 0,
+"RU": 3,
+"SE": 2,
+"SG": 0,
+"SI": 0,
+"TH": 0,
+"US": 11,
+"ZA": 2
+}
+}
 },
 {
 "type": "single",
@@ -20084,7 +21125,33 @@ rankings =
 "competition": 2308
 }
 ],
-"estimate": 40
+"estimate": 40,
+"missing": {
+"world": 11,
+"continents": {
+"AF": 1,
+"AS": 1,
+"EU": 6,
+"NA": 3
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"DK": 1,
+"ES": 2,
+"FR": 0,
+"GB": 0,
+"IN": 0,
+"IT": 1,
+"JP": 1,
+"NL": 0,
+"RU": 2,
+"SE": 0,
+"SI": 0,
+"US": 3,
+"ZA": 1
+}
+}
 },
 {
 "type": "single",
@@ -20097,7 +21164,17 @@ rankings =
 "competition": 3670
 }
 ],
-"estimate": 2
+"estimate": 2,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 1
+},
+"countries": {
+"ES": 1,
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -20705,7 +21782,53 @@ rankings =
 "competition": 1953
 }
 ],
-"estimate": 115
+"estimate": 115,
+"missing": {
+"world": 19,
+"continents": {
+"AF": 2,
+"AS": 6,
+"EU": 6,
+"NA": 3,
+"SA": 2
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 2,
+"CA": 1,
+"CH": 0,
+"CN": 1,
+"CO": 0,
+"DE": 0,
+"DK": 1,
+"ES": 0,
+"FI": 1,
+"FR": 1,
+"GB": 0,
+"GR": 0,
+"HR": 0,
+"ID": 0,
+"IN": 0,
+"IT": 0,
+"JP": 5,
+"KR": 0,
+"LV": 1,
+"MN": 0,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"PL": 0,
+"PT": 0,
+"RO": 0,
+"RU": 2,
+"SE": 0,
+"SG": 0,
+"TH": 0,
+"US": 2,
+"ZA": 2
+}
+}
 },
 {
 "type": "average",
@@ -20811,7 +21934,30 @@ rankings =
 "competition": 1953
 }
 ],
-"estimate": 20
+"estimate": 20,
+"missing": {
+"world": 4,
+"continents": {
+"AF": 1,
+"AS": 1,
+"EU": 2,
+"NA": 0
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"DK": 1,
+"GB": 0,
+"IN": 0,
+"IT": 0,
+"JP": 1,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 0,
+"ZA": 1
+}
+}
 },
 {
 "type": "average",
@@ -20824,7 +21970,16 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 },
@@ -21311,7 +22466,46 @@ rankings =
 "competition": 457
 }
 ],
-"estimate": 89
+"estimate": 89,
+"missing": {
+"world": 14,
+"continents": {
+"AF": 0,
+"AS": 3,
+"EU": 6,
+"NA": 4,
+"SA": 1
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 1,
+"CA": 0,
+"CH": 0,
+"CN": 1,
+"CO": 0,
+"DE": 0,
+"DK": 1,
+"ES": 0,
+"FR": 2,
+"GB": 0,
+"HR": 0,
+"HU": 0,
+"IT": 0,
+"JP": 2,
+"KR": 0,
+"LV": 1,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"PL": 1,
+"PT": 0,
+"RU": 1,
+"SE": 0,
+"US": 4,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -21416,7 +22610,24 @@ rankings =
 "competition": 2350
 }
 ],
-"estimate": 17
+"estimate": 17,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 1,
+"NA": 0
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"GB": 0,
+"IT": 0,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -21429,7 +22640,16 @@ rankings =
 "competition": 3670
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -21707,7 +22927,40 @@ rankings =
 "competition": 970
 }
 ],
-"estimate": 48
+"estimate": 48,
+"missing": {
+"world": 4,
+"continents": {
+"AF": 0,
+"AS": 1,
+"EU": 2,
+"NA": 1,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 0,
+"CA": 0,
+"CH": 0,
+"CN": 0,
+"CO": 0,
+"DE": 0,
+"ES": 0,
+"FR": 1,
+"GB": 0,
+"HR": 0,
+"JP": 1,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"RU": 1,
+"SE": 0,
+"US": 1,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -21751,7 +23004,21 @@ rankings =
 "competition": 5604
 }
 ],
-"estimate": 7
+"estimate": 7,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 1,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"NL": 0,
+"RU": 1,
+"US": 0
+}
+}
 }
 ]
 },
@@ -22162,7 +23429,46 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 75
+"estimate": 75,
+"missing": {
+"world": 11,
+"continents": {
+"AF": 0,
+"AS": 4,
+"EU": 4,
+"NA": 3,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 0,
+"CA": 0,
+"CH": 0,
+"CN": 2,
+"CO": 0,
+"DE": 0,
+"DK": 1,
+"ES": 0,
+"FR": 1,
+"GB": 0,
+"HR": 0,
+"HU": 0,
+"IT": 0,
+"JP": 2,
+"KR": 0,
+"LV": 1,
+"MY": 0,
+"NL": 0,
+"PL": 0,
+"PT": 0,
+"RO": 0,
+"RU": 1,
+"SE": 0,
+"US": 3,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -22255,7 +23561,24 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 15
+"estimate": 15,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 1,
+"NA": 0
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"GB": 0,
+"IT": 0,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -22268,7 +23591,16 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -22484,7 +23816,39 @@ rankings =
 "competition": 765
 }
 ],
-"estimate": 35
+"estimate": 35,
+"missing": {
+"world": 1,
+"continents": {
+"AF": 0,
+"AS": 0,
+"EU": 1,
+"NA": 0,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"CA": 0,
+"CH": 0,
+"CN": 0,
+"CO": 0,
+"DE": 0,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"HR": 0,
+"JP": 0,
+"LV": 1,
+"MY": 0,
+"NL": 0,
+"RO": 0,
+"RU": 0,
+"SE": 0,
+"US": 0,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -22516,7 +23880,19 @@ rankings =
 "competition": 1249
 }
 ],
-"estimate": 4
+"estimate": 4,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"US": 0
+}
+}
 }
 ]
 },
@@ -23171,7 +24547,54 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 145
+"estimate": 145,
+"missing": {
+"world": 44,
+"continents": {
+"AF": 1,
+"AS": 17,
+"EU": 14,
+"NA": 9,
+"OC": 1,
+"SA": 2
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 0,
+"BA": 1,
+"BR": 2,
+"CA": 4,
+"CN": 9,
+"DE": 1,
+"DK": 1,
+"EE": 1,
+"ES": 2,
+"FR": 3,
+"GB": 0,
+"HU": 0,
+"ID": 1,
+"IN": 2,
+"IT": 0,
+"JP": 4,
+"KR": 0,
+"MN": 0,
+"MX": 1,
+"MY": 0,
+"NL": 0,
+"NZ": 1,
+"PE": 0,
+"PL": 2,
+"PT": 0,
+"RO": 0,
+"RU": 3,
+"SE": 0,
+"SI": 0,
+"TW": 0,
+"US": 4,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -23320,7 +24743,31 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 27
+"estimate": 27,
+"missing": {
+"world": 4,
+"continents": {
+"AS": 0,
+"EU": 2,
+"NA": 1,
+"SA": 1
+},
+"countries": {
+"AR": 0,
+"BR": 1,
+"CA": 1,
+"DE": 0,
+"ES": 1,
+"FR": 1,
+"GB": 0,
+"IN": 0,
+"IT": 0,
+"JP": 0,
+"NL": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -23340,7 +24787,18 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 2
+"estimate": 2,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"EU": 0
+},
+"countries": {
+"JP": 0,
+"SE": 0
+}
+}
 },
 {
 "type": "single",
@@ -23354,7 +24812,16 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0
+},
+"countries": {
+"JP": 0
+}
+}
 },
 {
 "type": "single",
@@ -23367,7 +24834,16 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0
+},
+"countries": {
+"JP": 0
+}
+}
 },
 {
 "type": "average",
@@ -23636,7 +25112,39 @@ rankings =
 "competition": 396
 }
 ],
-"estimate": 50
+"estimate": 50,
+"missing": {
+"world": 8,
+"continents": {
+"AS": 2,
+"EU": 2,
+"NA": 3,
+"SA": 1
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"BR": 1,
+"CA": 2,
+"CN": 2,
+"DE": 0,
+"ES": 1,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IT": 0,
+"JP": 0,
+"NL": 0,
+"PE": 0,
+"PL": 0,
+"RO": 0,
+"RU": 1,
+"SE": 0,
+"TW": 0,
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -23693,7 +25201,25 @@ rankings =
 "competition": 396
 }
 ],
-"estimate": 11
+"estimate": 11,
+"missing": {
+"world": 3,
+"continents": {
+"EU": 1,
+"NA": 1,
+"SA": 1
+},
+"countries": {
+"AR": 0,
+"BR": 1,
+"CA": 1,
+"DE": 0,
+"ES": 1,
+"GB": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -23706,7 +25232,16 @@ rankings =
 "competition": 3351
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 },
@@ -24298,7 +25833,47 @@ rankings =
 "competition": 4443
 }
 ],
-"estimate": 111
+"estimate": 111,
+"missing": {
+"world": 18,
+"continents": {
+"AF": 0,
+"AS": 3,
+"EU": 7,
+"NA": 5,
+"OC": 2,
+"SA": 1
+},
+"countries": {
+"AT": 0,
+"AU": 1,
+"BR": 1,
+"CA": 1,
+"CN": 2,
+"CO": 0,
+"DE": 2,
+"DK": 0,
+"ES": 2,
+"FI": 0,
+"FR": 1,
+"GB": 0,
+"HK": 0,
+"HU": 0,
+"IT": 0,
+"JP": 1,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"PL": 0,
+"RO": 0,
+"RU": 2,
+"SE": 0,
+"UA": 0,
+"US": 4,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -24426,7 +26001,31 @@ rankings =
 "competition": 171
 }
 ],
-"estimate": 24
+"estimate": 24,
+"missing": {
+"world": 4,
+"continents": {
+"AS": 0,
+"EU": 2,
+"NA": 1,
+"OC": 1
+},
+"countries": {
+"AU": 1,
+"CA": 1,
+"DE": 0,
+"ES": 1,
+"FI": 0,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"JP": 0,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -24439,7 +26038,16 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -24716,7 +26324,39 @@ rankings =
 "competition": 2182
 }
 ],
-"estimate": 50
+"estimate": 50,
+"missing": {
+"world": 7,
+"continents": {
+"AF": 0,
+"AS": 0,
+"EU": 3,
+"NA": 3,
+"SA": 1
+},
+"countries": {
+"AT": 0,
+"BR": 1,
+"CA": 0,
+"DE": 0,
+"ES": 1,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"IT": 0,
+"JP": 0,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"PL": 0,
+"RO": 0,
+"RU": 2,
+"SE": 0,
+"UA": 0,
+"US": 3,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -24789,7 +26429,25 @@ rankings =
 "competition": 4904
 }
 ],
-"estimate": 13
+"estimate": 13,
+"missing": {
+"world": 2,
+"continents": {
+"AS": 0,
+"EU": 2,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"ES": 1,
+"GB": 0,
+"HU": 0,
+"JP": 0,
+"NL": 0,
+"RU": 1,
+"US": 0
+}
+}
 }
 ]
 },
@@ -25768,7 +27426,58 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 225
+"estimate": 225,
+"missing": {
+"world": 71,
+"continents": {
+"AF": 0,
+"AS": 13,
+"EU": 28,
+"NA": 25,
+"SA": 6
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"BE": 1,
+"BG": 0,
+"BR": 4,
+"CA": 3,
+"CH": 1,
+"CN": 9,
+"CO": 1,
+"DE": 5,
+"DK": 1,
+"ES": 6,
+"FI": 0,
+"FR": 4,
+"GB": 0,
+"GR": 0,
+"HU": 1,
+"ID": 0,
+"IN": 1,
+"IT": 0,
+"JP": 1,
+"KR": 1,
+"KZ": 1,
+"MN": 0,
+"MX": 3,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"PE": 0,
+"PL": 3,
+"PY": 1,
+"RO": 0,
+"RS": 1,
+"RU": 4,
+"SE": 1,
+"SG": 0,
+"UA": 0,
+"US": 19,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -25961,7 +27670,34 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 45
+"estimate": 45,
+"missing": {
+"world": 15,
+"continents": {
+"AF": 0,
+"AS": 1,
+"EU": 5,
+"NA": 8,
+"SA": 2
+},
+"countries": {
+"BR": 1,
+"CA": 0,
+"DE": 1,
+"ES": 2,
+"FI": 0,
+"FR": 1,
+"GB": 0,
+"IN": 0,
+"JP": 0,
+"MX": 1,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 7,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -25986,13 +27722,33 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 4
+"estimate": 4,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"NA": 1
+},
+"countries": {
+"IN": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
 "age": 70,
 "ranks": [],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 1,
+"continents": {
+"NA": 1
+},
+"countries": {
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -26747,7 +28503,53 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 163
+"estimate": 163,
+"missing": {
+"world": 43,
+"continents": {
+"AF": 0,
+"AS": 8,
+"EU": 21,
+"NA": 12,
+"SA": 3
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"BE": 1,
+"BG": 0,
+"BR": 2,
+"CA": 2,
+"CN": 5,
+"CO": 0,
+"DE": 4,
+"DK": 1,
+"ES": 5,
+"FI": 0,
+"FR": 2,
+"GB": 0,
+"GR": 0,
+"HU": 1,
+"ID": 0,
+"IT": 0,
+"JP": 1,
+"KR": 1,
+"MN": 0,
+"MX": 2,
+"MY": 0,
+"NL": 0,
+"PE": 0,
+"PL": 3,
+"PY": 1,
+"RO": 0,
+"RU": 3,
+"SE": 1,
+"SG": 0,
+"UA": 0,
+"US": 8,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -26884,7 +28686,31 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 29
+"estimate": 29,
+"missing": {
+"world": 8,
+"continents": {
+"AF": 0,
+"AS": 1,
+"EU": 4,
+"NA": 3
+},
+"countries": {
+"CA": 0,
+"DE": 1,
+"ES": 2,
+"FI": 0,
+"FR": 0,
+"GB": 0,
+"JP": 0,
+"MX": 1,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"US": 2,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -26897,7 +28723,16 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"NA": 0
+},
+"countries": {
+"US": 0
+}
+}
 }
 ]
 },
@@ -27535,7 +29370,51 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 136
+"estimate": 136,
+"missing": {
+"world": 37,
+"continents": {
+"AS": 5,
+"EU": 20,
+"NA": 9,
+"OC": 1,
+"SA": 2
+},
+"countries": {
+"AT": 0,
+"AU": 1,
+"BA": 0,
+"BE": 2,
+"BG": 0,
+"BR": 2,
+"CA": 1,
+"CN": 1,
+"CO": 0,
+"DE": 5,
+"DK": 2,
+"ES": 4,
+"FI": 2,
+"FR": 1,
+"GB": 1,
+"HR": 0,
+"HU": 0,
+"IN": 2,
+"IT": 1,
+"JP": 1,
+"KR": 0,
+"KZ": 1,
+"MY": 0,
+"NL": 0,
+"NO": 0,
+"PL": 0,
+"PT": 0,
+"RS": 0,
+"RU": 1,
+"SE": 1,
+"UA": 0,
+"US": 8
+}
+}
 },
 {
 "type": "single",
@@ -27706,7 +29585,31 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 31
+"estimate": 31,
+"missing": {
+"world": 5,
+"continents": {
+"AS": 0,
+"EU": 2,
+"NA": 3,
+"OC": 0,
+"SA": 0
+},
+"countries": {
+"AU": 0,
+"BR": 0,
+"CA": 0,
+"DE": 0,
+"ES": 1,
+"FI": 1,
+"FR": 0,
+"GB": 0,
+"KR": 0,
+"NL": 0,
+"SE": 0,
+"US": 3
+}
+}
 },
 {
 "type": "single",
@@ -27732,7 +29635,18 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 3
+"estimate": 3,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"SA": 0
+},
+"countries": {
+"BR": 0,
+"KR": 0
+}
+}
 },
 {
 "type": "single",
@@ -27745,7 +29659,16 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0
+},
+"countries": {
+"KR": 0
+}
+}
 },
 {
 "type": "average",
@@ -28262,7 +30185,43 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 99
+"estimate": 99,
+"missing": {
+"world": 19,
+"continents": {
+"AS": 3,
+"EU": 11,
+"NA": 3,
+"SA": 2
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 2,
+"CA": 1,
+"CN": 1,
+"CO": 0,
+"DE": 1,
+"DK": 0,
+"ES": 3,
+"FI": 2,
+"FR": 1,
+"GB": 1,
+"HR": 0,
+"HU": 0,
+"IN": 1,
+"IT": 0,
+"JP": 0,
+"KR": 0,
+"KZ": 1,
+"MY": 0,
+"NL": 0,
+"PT": 0,
+"RU": 1,
+"SE": 1,
+"US": 2
+}
+}
 },
 {
 "type": "average",
@@ -28415,7 +30374,29 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 26
+"estimate": 26,
+"missing": {
+"world": 3,
+"continents": {
+"AS": 0,
+"EU": 1,
+"NA": 2,
+"SA": 0
+},
+"countries": {
+"BR": 0,
+"CA": 0,
+"DE": 0,
+"ES": 0,
+"FI": 1,
+"FR": 0,
+"GB": 0,
+"KR": 0,
+"NL": 0,
+"SE": 0,
+"US": 2
+}
+}
 },
 {
 "type": "average",
@@ -28441,7 +30422,18 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 3
+"estimate": 3,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"SA": 0
+},
+"countries": {
+"BR": 0,
+"KR": 0
+}
+}
 },
 {
 "type": "average",
@@ -28454,7 +30446,16 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0
+},
+"countries": {
+"KR": 0
+}
+}
 }
 ]
 },
@@ -28912,7 +30913,44 @@ rankings =
 "competition": 2222
 }
 ],
-"estimate": 90
+"estimate": 90,
+"missing": {
+"world": 19,
+"continents": {
+"AF": 0,
+"AS": 4,
+"EU": 6,
+"NA": 8,
+"SA": 1
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 1,
+"CA": 2,
+"CN": 0,
+"CO": 0,
+"DE": 0,
+"DK": 2,
+"ES": 1,
+"FI": 0,
+"FR": 1,
+"GB": 0,
+"IT": 0,
+"JP": 3,
+"KR": 0,
+"KZ": 1,
+"MX": 1,
+"MY": 0,
+"NL": 0,
+"PL": 1,
+"PT": 0,
+"RU": 1,
+"SE": 0,
+"US": 5,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -28993,7 +31031,24 @@ rankings =
 "competition": 271
 }
 ],
-"estimate": 13
+"estimate": 13,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"FR": 0,
+"GB": 0,
+"IT": 0,
+"NL": 0,
+"SE": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
@@ -29006,7 +31061,16 @@ rankings =
 "competition": 2611
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -29284,7 +31348,39 @@ rankings =
 "competition": 258
 }
 ],
-"estimate": 52
+"estimate": 52,
+"missing": {
+"world": 8,
+"continents": {
+"AF": 0,
+"AS": 3,
+"EU": 2,
+"NA": 3,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 0,
+"CA": 0,
+"CN": 0,
+"DE": 0,
+"DK": 1,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"IT": 0,
+"JP": 3,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"PT": 0,
+"RU": 1,
+"SE": 0,
+"US": 3,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -29328,7 +31424,21 @@ rankings =
 "competition": 5073
 }
 ],
-"estimate": 6
+"estimate": 6,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"IT": 0,
+"NL": 0,
+"US": 0
+}
+}
 }
 ]
 },
@@ -30687,7 +32797,70 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 447
+"estimate": 447,
+"missing": {
+"world": 233,
+"continents": {
+"AF": 3,
+"AS": 48,
+"EU": 87,
+"NA": 74,
+"OC": 7,
+"SA": 18
+},
+"countries": {
+"AR": 1,
+"AT": 0,
+"AU": 6,
+"BA": 1,
+"BE": 1,
+"BG": 0,
+"BR": 10,
+"BY": 1,
+"CA": 10,
+"CH": 4,
+"CN": 23,
+"CO": 3,
+"CZ": 2,
+"DE": 6,
+"DK": 5,
+"EE": 1,
+"ES": 16,
+"FI": 1,
+"FR": 9,
+"GB": 3,
+"GT": 0,
+"HR": 0,
+"HU": 1,
+"ID": 0,
+"IL": 1,
+"IN": 9,
+"IT": 6,
+"JM": 0,
+"JO": 0,
+"JP": 10,
+"KR": 1,
+"KZ": 2,
+"MX": 2,
+"MY": 0,
+"NL": 4,
+"NO": 2,
+"NZ": 1,
+"PE": 0,
+"PL": 7,
+"PT": 0,
+"RO": 0,
+"RU": 11,
+"SE": 4,
+"SG": 0,
+"SI": 1,
+"TH": 0,
+"TN": 0,
+"UA": 0,
+"US": 61,
+"ZA": 2
+}
+}
 },
 {
 "type": "single",
@@ -31021,7 +33194,46 @@ rankings =
 "competition": 3967
 }
 ],
-"estimate": 108
+"estimate": 108,
+"missing": {
+"world": 56,
+"continents": {
+"AF": 0,
+"AS": 13,
+"EU": 26,
+"NA": 13,
+"OC": 2,
+"SA": 3
+},
+"countries": {
+"AR": 0,
+"AU": 2,
+"BR": 2,
+"CA": 2,
+"CN": 6,
+"CZ": 1,
+"DE": 3,
+"ES": 6,
+"FI": 1,
+"FR": 2,
+"GB": 1,
+"ID": 0,
+"IN": 2,
+"IT": 2,
+"JM": 0,
+"JP": 4,
+"KR": 0,
+"MX": 0,
+"NL": 3,
+"NZ": 0,
+"PL": 1,
+"RU": 3,
+"SE": 0,
+"SI": 1,
+"US": 11,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -31079,7 +33291,24 @@ rankings =
 "competition": 3967
 }
 ],
-"estimate": 13
+"estimate": 13,
+"missing": {
+"world": 5,
+"continents": {
+"AS": 3,
+"EU": 1,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"CN": 2,
+"DE": 1,
+"FR": 0,
+"KR": 0,
+"RU": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
@@ -31104,13 +33333,37 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 5
+"estimate": 5,
+"missing": {
+"world": 2,
+"continents": {
+"AS": 1,
+"EU": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"CN": 1,
+"KR": 0,
+"RU": 0,
+"US": 1
+}
+}
 },
 {
 "type": "single",
 "age": 80,
 "ranks": [],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 1,
+"continents": {
+"NA": 1
+},
+"countries": {
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -32428,7 +34681,69 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 412
+"estimate": 412,
+"missing": {
+"world": 204,
+"continents": {
+"AF": 3,
+"AS": 39,
+"EU": 82,
+"NA": 66,
+"OC": 7,
+"SA": 11
+},
+"countries": {
+"AR": 0,
+"AT": 0,
+"AU": 6,
+"BA": 1,
+"BE": 1,
+"BG": 0,
+"BR": 8,
+"BY": 1,
+"CA": 10,
+"CH": 4,
+"CN": 17,
+"CO": 2,
+"CZ": 2,
+"DE": 5,
+"DK": 5,
+"EE": 1,
+"ES": 16,
+"FI": 1,
+"FR": 9,
+"GB": 3,
+"GT": 0,
+"HR": 0,
+"HU": 1,
+"ID": 0,
+"IL": 1,
+"IN": 6,
+"IT": 4,
+"JM": 0,
+"JP": 10,
+"KR": 1,
+"KZ": 2,
+"MX": 1,
+"MY": 0,
+"NL": 3,
+"NO": 2,
+"NZ": 1,
+"PE": 0,
+"PL": 6,
+"PT": 0,
+"RO": 0,
+"RU": 11,
+"SE": 4,
+"SG": 0,
+"SI": 1,
+"TH": 0,
+"TN": 0,
+"UA": 0,
+"US": 54,
+"ZA": 2
+}
+}
 },
 {
 "type": "average",
@@ -32747,7 +35062,45 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 97
+"estimate": 97,
+"missing": {
+"world": 47,
+"continents": {
+"AF": 0,
+"AS": 10,
+"EU": 22,
+"NA": 13,
+"OC": 2,
+"SA": 1
+},
+"countries": {
+"AR": 0,
+"AU": 2,
+"BR": 1,
+"CA": 2,
+"CZ": 1,
+"DE": 2,
+"ES": 6,
+"FI": 1,
+"FR": 2,
+"GB": 1,
+"ID": 0,
+"IN": 1,
+"IT": 0,
+"JM": 0,
+"JP": 4,
+"KR": 0,
+"MX": 0,
+"NL": 2,
+"NZ": 0,
+"PL": 1,
+"RU": 3,
+"SE": 0,
+"SI": 1,
+"US": 11,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -32799,7 +35152,21 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 8
+"estimate": 8,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"KR": 0,
+"RU": 0,
+"US": 1
+}
+}
 },
 {
 "type": "average",
@@ -32824,13 +35191,36 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 4
+"estimate": 4,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 1
+},
+"countries": {
+"CA": 0,
+"KR": 0,
+"RU": 0,
+"US": 1
+}
+}
 },
 {
 "type": "average",
 "age": 80,
 "ranks": [],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 1,
+"continents": {
+"NA": 1
+},
+"countries": {
+"US": 1
+}
+}
 }
 ]
 },
@@ -33672,7 +36062,58 @@ rankings =
 "competition": 2475
 }
 ],
-"estimate": 226
+"estimate": 226,
+"missing": {
+"world": 94,
+"continents": {
+"AF": 1,
+"AS": 16,
+"EU": 39,
+"NA": 27,
+"OC": 5,
+"SA": 8
+},
+"countries": {
+"AR": 1,
+"AT": 0,
+"AU": 3,
+"BA": 1,
+"BG": 0,
+"BR": 6,
+"BY": 1,
+"CA": 4,
+"CH": 1,
+"CN": 9,
+"CO": 1,
+"CZ": 2,
+"DE": 2,
+"DK": 1,
+"ES": 10,
+"FI": 0,
+"FR": 2,
+"GB": 1,
+"GT": 0,
+"HU": 1,
+"ID": 0,
+"IL": 1,
+"IN": 3,
+"IT": 4,
+"JP": 2,
+"KR": 1,
+"KZ": 1,
+"MX": 1,
+"MY": 0,
+"NL": 1,
+"PL": 4,
+"PT": 0,
+"RU": 4,
+"SE": 3,
+"SG": 0,
+"UA": 0,
+"US": 22,
+"ZA": 1
+}
+}
 },
 {
 "type": "single",
@@ -33833,7 +36274,36 @@ rankings =
 "competition": 2475
 }
 ],
-"estimate": 45
+"estimate": 45,
+"missing": {
+"world": 20,
+"continents": {
+"AS": 3,
+"EU": 10,
+"NA": 5,
+"OC": 1,
+"SA": 1
+},
+"countries": {
+"AU": 0,
+"BR": 1,
+"CA": 0,
+"CZ": 1,
+"DE": 0,
+"ES": 4,
+"FR": 1,
+"GB": 0,
+"ID": 0,
+"IT": 1,
+"JP": 1,
+"MX": 0,
+"NL": 1,
+"PL": 0,
+"RU": 1,
+"SE": 0,
+"US": 5
+}
+}
 },
 {
 "type": "single",
@@ -33852,7 +36322,18 @@ rankings =
 "competition": 2731
 }
 ],
-"estimate": 3
+"estimate": 3,
+"missing": {
+"world": 1,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -34635,7 +37116,58 @@ rankings =
 "competition": 1657
 }
 ],
-"estimate": 210
+"estimate": 210,
+"missing": {
+"world": 87,
+"continents": {
+"AF": 1,
+"AS": 14,
+"EU": 37,
+"NA": 25,
+"OC": 5,
+"SA": 7
+},
+"countries": {
+"AR": 1,
+"AT": 0,
+"AU": 3,
+"BA": 1,
+"BG": 0,
+"BR": 5,
+"BY": 1,
+"CA": 4,
+"CH": 1,
+"CN": 8,
+"CO": 1,
+"CZ": 2,
+"DE": 2,
+"DK": 1,
+"ES": 10,
+"FI": 0,
+"FR": 2,
+"GB": 1,
+"GT": 0,
+"HU": 1,
+"ID": 0,
+"IL": 1,
+"IN": 2,
+"IT": 3,
+"JP": 2,
+"KR": 1,
+"KZ": 1,
+"MX": 1,
+"MY": 0,
+"NL": 1,
+"PL": 4,
+"PT": 0,
+"RU": 4,
+"SE": 2,
+"SG": 0,
+"UA": 0,
+"US": 20,
+"ZA": 1
+}
+}
 },
 {
 "type": "average",
@@ -34778,7 +37310,33 @@ rankings =
 "competition": 5364
 }
 ],
-"estimate": 39
+"estimate": 39,
+"missing": {
+"world": 17,
+"continents": {
+"AS": 2,
+"EU": 9,
+"NA": 5,
+"OC": 1
+},
+"countries": {
+"AU": 0,
+"CA": 0,
+"CZ": 1,
+"DE": 0,
+"ES": 4,
+"FR": 1,
+"GB": 0,
+"ID": 0,
+"IT": 0,
+"JP": 1,
+"MX": 0,
+"NL": 1,
+"RU": 1,
+"SE": 0,
+"US": 5
+}
+}
 },
 {
 "type": "average",
@@ -34791,7 +37349,16 @@ rankings =
 "competition": 2731
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"NA": 0
+},
+"countries": {
+"US": 0
+}
+}
 }
 ]
 },
@@ -35231,7 +37798,47 @@ rankings =
 "competition": 708
 }
 ],
-"estimate": 86
+"estimate": 86,
+"missing": {
+"world": 18,
+"continents": {
+"AF": 1,
+"AS": 4,
+"EU": 8,
+"NA": 5,
+"OC": 0,
+"SA": 1
+},
+"countries": {
+"AT": 0,
+"AU": 0,
+"BG": 0,
+"BR": 1,
+"CA": 0,
+"CN": 1,
+"CO": 0,
+"DE": 0,
+"DK": 2,
+"ES": 2,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IN": 0,
+"IT": 1,
+"JP": 3,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"PL": 1,
+"PT": 0,
+"RU": 2,
+"SE": 0,
+"TN": 1,
+"US": 5,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -35312,7 +37919,29 @@ rankings =
 "competition": 708
 }
 ],
-"estimate": 18
+"estimate": 18,
+"missing": {
+"world": 6,
+"continents": {
+"AF": 1,
+"AS": 1,
+"EU": 2,
+"NA": 2
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"FR": 0,
+"GB": 0,
+"IT": 1,
+"JP": 1,
+"NL": 0,
+"RU": 1,
+"SE": 0,
+"TN": 1,
+"US": 2
+}
+}
 },
 {
 "type": "single",
@@ -35325,7 +37954,16 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -35688,7 +38326,43 @@ rankings =
 "competition": 5734
 }
 ],
-"estimate": 66
+"estimate": 66,
+"missing": {
+"world": 9,
+"continents": {
+"AF": 0,
+"AS": 4,
+"EU": 3,
+"NA": 2,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"BG": 0,
+"BR": 0,
+"CA": 0,
+"CN": 1,
+"CO": 0,
+"DE": 0,
+"DK": 1,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IN": 0,
+"IT": 0,
+"JP": 3,
+"KR": 0,
+"MY": 0,
+"NL": 0,
+"PT": 0,
+"RU": 2,
+"SE": 0,
+"US": 2,
+"ZA": 0
+}
+}
 },
 {
 "type": "average",
@@ -35757,7 +38431,26 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 14
+"estimate": 14,
+"missing": {
+"world": 4,
+"continents": {
+"AS": 1,
+"EU": 1,
+"NA": 2
+},
+"countries": {
+"CA": 0,
+"DE": 0,
+"FR": 0,
+"GB": 0,
+"IT": 0,
+"JP": 1,
+"RU": 1,
+"SE": 0,
+"US": 2
+}
+}
 },
 {
 "type": "average",
@@ -35770,7 +38463,16 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 },
@@ -35976,7 +38678,37 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 32
+"estimate": 32,
+"missing": {
+"world": 2,
+"continents": {
+"AF": 0,
+"AS": 2,
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"AT": 0,
+"CN": 1,
+"DE": 0,
+"DK": 0,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"IT": 0,
+"JP": 1,
+"MY": 0,
+"NL": 0,
+"PL": 0,
+"RO": 0,
+"RU": 0,
+"SE": 0,
+"TW": 0,
+"US": 0,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -36021,7 +38753,21 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 6
+"estimate": 6,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"NL": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -36034,7 +38780,16 @@ rankings =
 "competition": 2611
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -36093,7 +38848,25 @@ rankings =
 "competition": 4420
 }
 ],
-"estimate": 8
+"estimate": 8,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"AT": 0,
+"CN": 0,
+"DE": 0,
+"GB": 0,
+"HU": 0,
+"IT": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -36125,7 +38898,20 @@ rankings =
 "competition": 4420
 }
 ],
-"estimate": 4
+"estimate": 4,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -36138,7 +38924,16 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 },
@@ -36267,7 +39062,29 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 18
+"estimate": 18,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"AT": 0,
+"CN": 0,
+"DE": 0,
+"DK": 0,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"IT": 0,
+"PL": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -36306,7 +39123,20 @@ rankings =
 "highlight": 1
 }
 ],
-"estimate": 5
+"estimate": 5,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"DE": 0,
+"GB": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -36319,7 +39149,16 @@ rankings =
 "competition": 3168
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 },
 {
 "type": "average",
@@ -36358,7 +39197,22 @@ rankings =
 "competition": 2356
 }
 ],
-"estimate": 5
+"estimate": 5,
+"missing": {
+"world": 0,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"CN": 0,
+"DE": 0,
+"HU": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -36378,7 +39232,18 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 2
+"estimate": 2,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0,
+"NA": 0
+},
+"countries": {
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "average",
@@ -36391,7 +39256,16 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 },
@@ -36710,7 +39584,43 @@ rankings =
 "competition": 156
 }
 ],
-"estimate": 56
+"estimate": 56,
+"missing": {
+"world": 8,
+"continents": {
+"AF": 0,
+"AS": 3,
+"EU": 2,
+"NA": 2,
+"OC": 1,
+"SA": 0
+},
+"countries": {
+"AT": 0,
+"AU": 0,
+"CA": 2,
+"CN": 2,
+"DE": 0,
+"DK": 0,
+"ES": 0,
+"FR": 0,
+"GB": 0,
+"HU": 0,
+"ID": 0,
+"IT": 0,
+"JP": 1,
+"MY": 0,
+"NL": 0,
+"NZ": 1,
+"PE": 0,
+"PL": 1,
+"RO": 0,
+"RU": 1,
+"SE": 0,
+"US": 0,
+"ZA": 0
+}
+}
 },
 {
 "type": "single",
@@ -36791,7 +39701,25 @@ rankings =
 "competition": 1165
 }
 ],
-"estimate": 13
+"estimate": 13,
+"missing": {
+"world": 1,
+"continents": {
+"AS": 0,
+"EU": 0,
+"NA": 1
+},
+"countries": {
+"CA": 1,
+"DE": 0,
+"GB": 0,
+"IT": 0,
+"JP": 0,
+"NL": 0,
+"SE": 0,
+"US": 0
+}
+}
 },
 {
 "type": "single",
@@ -36804,7 +39732,16 @@ rankings =
 "competition": 1870
 }
 ],
-"estimate": 1
+"estimate": 1,
+"missing": {
+"world": 0,
+"continents": {
+"EU": 0
+},
+"countries": {
+"SE": 0
+}
+}
 }
 ]
 }
