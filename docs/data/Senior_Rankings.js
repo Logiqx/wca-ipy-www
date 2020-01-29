@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-28 16:51:40",
+"refreshed": "2020-01-29 04:14:34",
 "events": [
 {
 "id": "333",
@@ -2643,97 +2643,97 @@ rankings =
 "competition": 5591
 },
 {
-"rank": 1017,
+"rank": 1014,
+"id": "2019JARM01",
+"best": "49.96",
+"competition": 6798,
+"highlight": 1
+},
+{
+"rank": 1018,
 "id": "2015MELN01",
 "best": "50.22",
 "competition": 3188
 },
 {
-"rank": 1019,
+"rank": 1020,
 "id": "2017WARD09",
 "best": "50.32",
 "competition": 3964
 },
 {
-"rank": 1023,
+"rank": 1024,
 "id": "1982VALD01",
 "best": "50.64",
 "age": 50,
 "competition": 1199
 },
 {
-"rank": 1026,
+"rank": 1027,
 "id": "2007SATT01",
 "best": "50.84",
 "competition": 581
 },
 {
-"rank": 1030,
+"rank": 1031,
 "id": "2011BEMB01",
 "best": "51.02",
 "competition": 1377
 },
 {
-"rank": 1034,
+"rank": 1035,
 "id": "2019SAUN02",
 "best": "51.30",
 "age": 50,
 "competition": 6464
 },
 {
-"rank": 1041,
+"rank": 1042,
 "id": "2018BUCK02",
 "best": "51.49",
 "age": 50,
 "competition": 4706
 },
 {
-"rank": 1046,
+"rank": 1047,
 "id": "2008HERN02",
 "best": "51.91",
 "age": 50,
 "competition": 5732
 },
 {
-"rank": 1049,
+"rank": 1050,
 "id": "2018NICH04",
 "best": "52.03",
 "competition": 4510
 },
 {
-"rank": 1052,
+"rank": 1053,
 "id": "2009NEWH02",
 "best": "52.29",
 "age": 50,
 "competition": 5514
 },
 {
-"rank": 1054,
+"rank": 1055,
 "id": "2011CORM02",
 "best": "52.48",
 "age": 50,
 "competition": 5309
 },
 {
-"rank": 1058,
+"rank": 1059,
 "id": "2003LICH01",
 "best": "52.93",
 "age": 50,
 "competition": 2
 },
 {
-"rank": 1061,
+"rank": 1062,
 "id": "2008HOPJ01",
 "best": "53.06",
 "age": 60,
 "competition": 219
-},
-{
-"rank": 1062,
-"id": "2019JARM01",
-"best": "53.21",
-"competition": 6752,
-"highlight": 1
 },
 {
 "rank": 1078,
@@ -56394,6 +56394,12 @@ rankings =
 "name": "SacCubing IX 2020",
 "country": "US",
 "webId": "SacCubingIX2020"
+},
+{
+"id": 6798,
+"name": "Melbourne Summer 2020",
+"country": "AU",
+"webId": "MelbourneSummer2020"
 }
 ],
 "countries": [
