@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-29 11:48:50",
+"refreshed": "2020-01-29 12:02:40",
 "events": [
 {
 "id": "333",
@@ -1908,6 +1908,12 @@ rankings =
 "competition": 2779
 },
 {
+"rank": 598,
+"id": "2011HUBB02",
+"best": "30.04",
+"competition": 1804
+},
+{
 "rank": 602,
 "id": "2009OKED01",
 "best": "30.15",
@@ -3538,11 +3544,11 @@ rankings =
 ],
 "estimate": 1976,
 "missing": {
-"world": 1426,
+"world": 1425,
 "continents": {
 "AF": 35,
 "AS": 347,
-"EU": 490,
+"EU": 489,
 "NA": 387,
 "OC": 54,
 "SA": 140
@@ -3572,7 +3578,7 @@ rankings =
 "ES": 74,
 "FI": 11,
 "FR": 50,
-"GB": 28,
+"GB": 27,
 "GR": 2,
 "GT": 4,
 "HK": 6,
@@ -7210,6 +7216,12 @@ rankings =
 "competition": 2567
 },
 {
+"rank": 541,
+"id": "2011HUBB02",
+"best": "34.64",
+"competition": 1498
+},
+{
 "rank": 544,
 "id": "2011DEWA01",
 "best": "34.68",
@@ -8873,11 +8885,11 @@ rankings =
 ],
 "estimate": 1888,
 "missing": {
-"world": 1350,
+"world": 1349,
 "continents": {
 "AF": 35,
 "AS": 303,
-"EU": 473,
+"EU": 472,
 "NA": 378,
 "OC": 51,
 "SA": 137
@@ -8907,7 +8919,7 @@ rankings =
 "ES": 70,
 "FI": 11,
 "FR": 48,
-"GB": 26,
+"GB": 25,
 "GR": 2,
 "GT": 4,
 "HK": 6,
@@ -11825,6 +11837,12 @@ rankings =
 "competition": 5583
 },
 {
+"rank": 294,
+"id": "2011HUBB02",
+"best": "7.73",
+"competition": 1870
+},
+{
 "rank": 299,
 "id": "2012HAMA02",
 "best": "7.78",
@@ -12830,11 +12848,11 @@ rankings =
 ],
 "estimate": 835,
 "missing": {
-"world": 485,
+"world": 484,
 "continents": {
 "AF": 12,
 "AS": 83,
-"EU": 188,
+"EU": 187,
 "NA": 145,
 "OC": 28,
 "SA": 42
@@ -12860,7 +12878,7 @@ rankings =
 "ES": 36,
 "FI": 5,
 "FR": 18,
-"GB": 5,
+"GB": 4,
 "GT": 2,
 "HK": 3,
 "HR": 1,
@@ -14743,6 +14761,12 @@ rankings =
 "competition": 260
 },
 {
+"rank": 238,
+"id": "2011HUBB02",
+"best": "10.22",
+"competition": 1870
+},
+{
 "rank": 239,
 "id": "2018CHOI09",
 "best": "10.23",
@@ -15886,11 +15910,11 @@ rankings =
 ],
 "estimate": 783,
 "missing": {
-"world": 444,
+"world": 443,
 "continents": {
 "AF": 11,
 "AS": 67,
-"EU": 177,
+"EU": 176,
 "NA": 135,
 "OC": 26,
 "SA": 38
@@ -15916,7 +15940,7 @@ rankings =
 "ES": 34,
 "FI": 5,
 "FR": 17,
-"GB": 4,
+"GB": 3,
 "GT": 2,
 "HK": 2,
 "HR": 1,
@@ -29027,6 +29051,12 @@ rankings =
 "competition": 4764
 },
 {
+"rank": 37,
+"id": "2011HUBB02",
+"best": "15.89",
+"competition": 1982
+},
+{
 "rank": 38,
 "id": "2016AMBE02",
 "best": "16.23",
@@ -29467,10 +29497,10 @@ rankings =
 ],
 "estimate": 136,
 "missing": {
-"world": 37,
+"world": 36,
 "continents": {
 "AS": 5,
-"EU": 20,
+"EU": 19,
 "NA": 9,
 "OC": 1,
 "SA": 2
@@ -29490,7 +29520,7 @@ rankings =
 "ES": 4,
 "FI": 2,
 "FR": 1,
-"GB": 1,
+"GB": 0,
 "HR": 0,
 "HU": 0,
 "IN": 2,
@@ -29958,6 +29988,12 @@ rankings =
 "competition": 3894
 },
 {
+"rank": 37,
+"id": "2011HUBB02",
+"best": "19.49",
+"competition": 1982
+},
+{
 "rank": 38,
 "id": "2017BONI01",
 "best": "20.21",
@@ -30282,10 +30318,10 @@ rankings =
 ],
 "estimate": 99,
 "missing": {
-"world": 19,
+"world": 18,
 "continents": {
 "AS": 3,
-"EU": 11,
+"EU": 10,
 "NA": 3,
 "SA": 2
 },
@@ -30301,7 +30337,7 @@ rankings =
 "ES": 3,
 "FI": 2,
 "FR": 1,
-"GB": 1,
+"GB": 0,
 "HR": 0,
 "HU": 0,
 "IN": 1,
@@ -31658,6 +31694,12 @@ rankings =
 "highlight": 1
 },
 {
+"rank": 21,
+"id": "2011HUBB02",
+"best": "5.44",
+"competition": 1870
+},
+{
 "rank": 22,
 "id": "2010HAMA03",
 "best": "5.47",
@@ -32901,11 +32943,11 @@ rankings =
 ],
 "estimate": 447,
 "missing": {
-"world": 232,
+"world": 231,
 "continents": {
 "AF": 3,
 "AS": 48,
-"EU": 87,
+"EU": 86,
 "NA": 73,
 "OC": 7,
 "SA": 18
@@ -32930,7 +32972,7 @@ rankings =
 "ES": 16,
 "FI": 1,
 "FR": 9,
-"GB": 3,
+"GB": 2,
 "GT": 0,
 "HR": 0,
 "HU": 1,
@@ -33531,6 +33573,12 @@ rankings =
 "id": "2003BRUC01",
 "best": "7.11",
 "competition": 2367
+},
+{
+"rank": 13,
+"id": "2011HUBB02",
+"best": "7.24",
+"competition": 1870
 },
 {
 "rank": 14,
@@ -34798,11 +34846,11 @@ rankings =
 ],
 "estimate": 412,
 "missing": {
-"world": 203,
+"world": 202,
 "continents": {
 "AF": 3,
 "AS": 39,
-"EU": 82,
+"EU": 81,
 "NA": 65,
 "OC": 7,
 "SA": 11
@@ -34827,7 +34875,7 @@ rankings =
 "ES": 16,
 "FI": 1,
 "FR": 9,
-"GB": 3,
+"GB": 2,
 "GT": 0,
 "HR": 0,
 "HU": 1,
@@ -42548,6 +42596,18 @@ rankings =
 ]
 },
 {
+"id": "2011HUBB02",
+"name": "Ian Hubbard",
+"country": "GB",
+"age": 40,
+"events": [
+"222",
+"333",
+"clock",
+"pyram"
+]
+},
+{
 "id": "2015PEPP01",
 "name": "Ian Pepper",
 "country": "GB",
@@ -49038,6 +49098,12 @@ rankings =
 "webId": "LjubljanaOpen2013"
 },
 {
+"id": 1498,
+"name": "Cuthberts Open 2013",
+"country": "GB",
+"webId": "CuthbertsOpen2013"
+},
+{
 "id": 1501,
 "name": "Spanish Championship 2013",
 "country": "ES",
@@ -49354,6 +49420,12 @@ rankings =
 "name": "Maribor Open 2014",
 "country": "SI",
 "webId": "MariborOpen2014"
+},
+{
+"id": 1804,
+"name": "Nottingham Summer 2014",
+"country": "GB",
+"webId": "NottinghamSummer2014"
 },
 {
 "id": 1812,
