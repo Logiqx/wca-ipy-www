@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://logiqx.github.io/wca-ipy-www/ -->
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Senior Rankings" />
+    <meta name="author" content="Michael George" />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+    <title>Senior Rankings</title>
+
+    <link rel="stylesheet" type="text/css" href="css/common-min.css" />
+  </head>
+  <body>
+    <div class="container">
+      <p><img src="img/logo.jpg" alt="alt text" title="logo" /></p>
+
+      <h2 id="senior-rankings">Senior Rankings</h2>
+
+      <p>This project started on the SpeedSolving.com forum and provides unofficial rankings for the senior cubing community, produced from official WCA competition results.</p>
+
+      <form action="https://usebasin.com/f/91f64aceae97" method="POST">
+	    <table>
+		  <tr>
+		     <td>
+			   Name:
+		     </td>
+		     <td>
+                <input type="text" name="name">
+		      <br/>
+		     </td>
+          </tr>
+		  <tr>
+		     <td>
+			   E-mail:
+		     </td>
+		     <td>
+                <input type="email" name="_replyto">
+		      <br/>
+		     </td>
+          </tr>
+		  <tr>
+		     <td>
+			   WCA ID:
+		     </td>
+		     <td>
+                <input type="text" name="wca_id">
+		      <br/>
+		     </td>
+          </tr>
+		  <tr>
+		     <td>
+			   DOB:
+		     </td>
+		     <td>
+                <input type="date" name="dob">
+		      <br/>
+		     </td>
+          </tr>
+		  <tr>
+		     <td>
+               Comments:
+		     </td>
+		     <td>
+                <textarea rows="3" cols="50" name="comments"></textarea>
+ 		     </td>
+          </tr>
+		  <tr>
+		     <td>
+               <input type="submit" value="Send">
+ 		     </td>
+		     <td>
+ 		     </td>
+          </tr>
+	    </table>
+      </form>
+	  
+<form id="invisible-recaptcha-form" accept-charset="UTF-8" action="https://usebasin.com/f/91f64aceae97" method="POST">
+
+	<!-- input fields -->
+
+	<div class="g-recaptcha" data-sitekey="6LcFXNQUAAAAACytdBYrFqWhF9BFV_R_qo2u8Of7" data-callback="onSubmit" data-badge="inline" data-size="invisible"></div>
+	<button class="btn btn-primary">Submit</button>
+</form>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+	document.getElementById("invisible-recaptcha-form").addEventListener("submit", function(){
+		event.preventDefault();
+		grecaptcha.reset();
+		grecaptcha.execute();
+	}, false);
+	function onSubmit(token) {
+		document.getElementById("invisible-recaptcha-form").submit();
+	}
+</script>
+
+    </div>
+  </body>
+</html>
