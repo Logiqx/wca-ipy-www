@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-30 08:56:48",
+"refreshed": "2020-01-30 10:12:43",
 "events": [
 {
 "id": "333",
@@ -155,8 +155,7 @@ rankings =
 "rank": 26,
 "id": "2010COAT01",
 "best": "12.81",
-"competition": 6635,
-"highlight": 1
+"competition": 6635
 },
 {
 "rank": 27,
@@ -222,8 +221,7 @@ rankings =
 "rank": 39,
 "id": "2009TIRA01",
 "best": "13.77",
-"competition": 6688,
-"highlight": 1
+"competition": 6688
 },
 {
 "rank": 39,
@@ -271,8 +269,7 @@ rankings =
 "rank": 47,
 "id": "2015NICH04",
 "best": "14.13",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 48,
@@ -374,8 +371,7 @@ rankings =
 "rank": 67,
 "id": "2017LAWR04",
 "best": "14.88",
-"competition": 6495,
-"highlight": 1
+"competition": 6495
 },
 {
 "rank": 69,
@@ -411,8 +407,7 @@ rankings =
 "rank": 75,
 "id": "2017REZH01",
 "best": "15.07",
-"competition": 6508,
-"highlight": 1
+"competition": 6508
 },
 {
 "rank": 76,
@@ -473,8 +468,7 @@ rankings =
 "rank": 90,
 "id": "2014ISHI01",
 "best": "15.51",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 91,
@@ -498,8 +492,7 @@ rankings =
 "rank": 96,
 "id": "2019WADA01",
 "best": "15.65",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 98,
@@ -573,8 +566,7 @@ rankings =
 "rank": 120,
 "id": "2017KITA01",
 "best": "16.47",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 122,
@@ -628,15 +620,13 @@ rankings =
 "rank": 133,
 "id": "2016COUL01",
 "best": "16.82",
-"competition": 6749,
-"highlight": 1
+"competition": 6749
 },
 {
 "rank": 134,
 "id": "2015PARK24",
 "best": "16.84",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 135,
@@ -666,8 +656,7 @@ rankings =
 "rank": 140,
 "id": "2016DUEH02",
 "best": "17.06",
-"competition": 6526,
-"highlight": 1
+"competition": 6526
 },
 {
 "rank": 142,
@@ -735,8 +724,7 @@ rankings =
 "rank": 164,
 "id": "2017BONI01",
 "best": "17.90",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 165,
@@ -748,8 +736,7 @@ rankings =
 "rank": 169,
 "id": "2017KOST06",
 "best": "18.02",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 170,
@@ -767,8 +754,7 @@ rankings =
 "rank": 173,
 "id": "2018CHOI09",
 "best": "18.10",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 176,
@@ -799,8 +785,7 @@ rankings =
 "rank": 182,
 "id": "2017HART06",
 "best": "18.50",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 182,
@@ -848,8 +833,7 @@ rankings =
 "rank": 195,
 "id": "2018HOSH02",
 "best": "18.77",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 196,
@@ -879,8 +863,7 @@ rankings =
 "rank": 204,
 "id": "2018CUME02",
 "best": "19.05",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 204,
@@ -905,8 +888,7 @@ rankings =
 "rank": 210,
 "id": "2014KIZU01",
 "best": "19.20",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 217,
@@ -936,22 +918,19 @@ rankings =
 "rank": 221,
 "id": "2015KIMH04",
 "best": "19.53",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 226,
 "id": "2011LUCI01",
 "best": "19.66",
-"competition": 6542,
-"highlight": 1
+"competition": 6542
 },
 {
 "rank": 228,
 "id": "2018FENI01",
 "best": "19.86",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 230,
@@ -963,8 +942,7 @@ rankings =
 "rank": 230,
 "id": "2016MUTH05",
 "best": "19.87",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 233,
@@ -977,8 +955,7 @@ rankings =
 "id": "2017ROSA09",
 "best": "19.94",
 "age": 50,
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 237,
@@ -1033,8 +1010,7 @@ rankings =
 "rank": 254,
 "id": "2019CHIE01",
 "best": "20.41",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 255,
@@ -1052,8 +1028,7 @@ rankings =
 "rank": 256,
 "id": "2019ROCH03",
 "best": "20.46",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 260,
@@ -1071,8 +1046,7 @@ rankings =
 "rank": 262,
 "id": "2017ASMU01",
 "best": "20.57",
-"competition": 6574,
-"highlight": 1
+"competition": 6574
 },
 {
 "rank": 263,
@@ -1192,8 +1166,7 @@ rankings =
 "id": "2017MEGA01",
 "best": "21.25",
 "age": 50,
-"competition": 6673,
-"highlight": 1
+"competition": 6673
 },
 {
 "rank": 297,
@@ -1211,8 +1184,7 @@ rankings =
 "rank": 300,
 "id": "2018GRAG01",
 "best": "21.38",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 301,
@@ -1243,8 +1215,7 @@ rankings =
 "rank": 309,
 "id": "2019KILL01",
 "best": "21.79",
-"competition": 6784,
-"highlight": 1
+"competition": 6784
 },
 {
 "rank": 311,
@@ -1256,8 +1227,7 @@ rankings =
 "rank": 312,
 "id": "2017SUDA03",
 "best": "21.88",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 313,
@@ -1307,8 +1277,7 @@ rankings =
 "rank": 329,
 "id": "2015LOPE29",
 "best": "22.43",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 332,
@@ -1338,8 +1307,7 @@ rankings =
 "rank": 343,
 "id": "2018BAUE04",
 "best": "22.84",
-"competition": 6606,
-"highlight": 1
+"competition": 6606
 },
 {
 "rank": 346,
@@ -1415,8 +1383,7 @@ rankings =
 "id": "2019BLAC02",
 "best": "23.38",
 "age": 50,
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 381,
@@ -1499,8 +1466,7 @@ rankings =
 "rank": 412,
 "id": "2019POLL04",
 "best": "24.29",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 419,
@@ -1520,8 +1486,7 @@ rankings =
 "rank": 421,
 "id": "2019SZYM02",
 "best": "24.69",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 422,
@@ -1597,8 +1562,7 @@ rankings =
 "rank": 455,
 "id": "2017BAIR03",
 "best": "25.95",
-"competition": 6765,
-"highlight": 1
+"competition": 6765
 },
 {
 "rank": 461,
@@ -1799,8 +1763,7 @@ rankings =
 "rank": 543,
 "id": "2007YULH01",
 "best": "28.66",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 548,
@@ -1845,8 +1808,7 @@ rankings =
 "id": "2019KUCA01",
 "best": "29.35",
 "age": 50,
-"competition": 6669,
-"highlight": 1
+"competition": 6669
 },
 {
 "rank": 571,
@@ -1936,8 +1898,7 @@ rankings =
 "rank": 618,
 "id": "2018SCHU17",
 "best": "30.56",
-"competition": 6692,
-"highlight": 1
+"competition": 6692
 },
 {
 "rank": 620,
@@ -2021,8 +1982,7 @@ rankings =
 "id": "2019MARI22",
 "best": "31.69",
 "age": 50,
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 652,
@@ -2053,8 +2013,7 @@ rankings =
 "rank": 663,
 "id": "2019BOXD03",
 "best": "32.08",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 663,
@@ -2072,8 +2031,7 @@ rankings =
 "rank": 672,
 "id": "2019CALI06",
 "best": "32.48",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 676,
@@ -2133,8 +2091,7 @@ rankings =
 "id": "2016CHOW03",
 "best": "33.86",
 "age": 50,
-"competition": 6773,
-"highlight": 1
+"competition": 6773
 },
 {
 "rank": 699,
@@ -2228,8 +2185,7 @@ rankings =
 "id": "2019AGUE01",
 "best": "35.94",
 "age": 50,
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 745,
@@ -2273,8 +2229,7 @@ rankings =
 "rank": 769,
 "id": "2018DUBI04",
 "best": "37.13",
-"competition": 6617,
-"highlight": 1
+"competition": 6617
 },
 {
 "rank": 771,
@@ -2318,38 +2273,33 @@ rankings =
 "id": "2017MAHI02",
 "best": "39.00",
 "age": 50,
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 810,
 "id": "2019GOFF01",
 "best": "39.09",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 814,
 "id": "2019SLES02",
 "best": "39.21",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 818,
 "id": "2018NILS03",
 "best": "39.44",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 819,
 "id": "2017THOR05",
 "best": "39.46",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 822,
@@ -2389,15 +2339,13 @@ rankings =
 "id": "2006SANT01",
 "best": "41.17",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 855,
 "id": "2018TEEM01",
 "best": "41.26",
-"competition": 6512,
-"highlight": 1
+"competition": 6512
 },
 {
 "rank": 864,
@@ -2416,23 +2364,20 @@ rankings =
 "id": "2019HICK05",
 "best": "42.10",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 868,
 "id": "2019TURE01",
 "best": "42.12",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 870,
 "id": "2020ROND01",
 "best": "42.15",
 "age": 50,
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 876,
@@ -2471,8 +2416,7 @@ rankings =
 "rank": 895,
 "id": "2016KUHL01",
 "best": "43.32",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 902,
@@ -2491,8 +2435,7 @@ rankings =
 "id": "2012RONK01",
 "best": "43.97",
 "age": 50,
-"competition": 6758,
-"highlight": 1
+"competition": 6758
 },
 {
 "rank": 915,
@@ -2504,8 +2447,7 @@ rankings =
 "rank": 918,
 "id": "2019VELL03",
 "best": "44.22",
-"competition": 6611,
-"highlight": 1
+"competition": 6611
 },
 {
 "rank": 928,
@@ -2548,8 +2490,7 @@ rankings =
 "rank": 950,
 "id": "2018CHOD01",
 "best": "46.07",
-"competition": 6691,
-"highlight": 1
+"competition": 6691
 },
 {
 "rank": 953,
@@ -2603,8 +2544,7 @@ rankings =
 "rank": 990,
 "id": "2018DITT03",
 "best": "48.13",
-"competition": 6639,
-"highlight": 1
+"competition": 6639
 },
 {
 "rank": 994,
@@ -2660,8 +2600,7 @@ rankings =
 "rank": 1014,
 "id": "2019JARM01",
 "best": "49.96",
-"competition": 6798,
-"highlight": 1
+"competition": 6798
 },
 {
 "rank": 1018,
@@ -2823,8 +2762,7 @@ rankings =
 "rank": 1138,
 "id": "2017GALA01",
 "best": "56.61",
-"competition": 6493,
-"highlight": 1
+"competition": 6493
 },
 {
 "rank": 1146,
@@ -2849,8 +2787,7 @@ rankings =
 "rank": 1154,
 "id": "2019KOLC04",
 "best": "57.76",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 1155,
@@ -2963,8 +2900,7 @@ rankings =
 "rank": 1254,
 "id": "2017MARI16",
 "best": "1:03.33",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 1257,
@@ -3015,8 +2951,7 @@ rankings =
 "rank": 1285,
 "id": "2020HOHL01",
 "best": "1:05.24",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 1287,
@@ -3063,8 +2998,7 @@ rankings =
 "rank": 1338,
 "id": "2018KOHL03",
 "best": "1:08.31",
-"competition": 6766,
-"highlight": 1
+"competition": 6766
 },
 {
 "rank": 1345,
@@ -3077,8 +3011,7 @@ rankings =
 "rank": 1347,
 "id": "2018MORE06",
 "best": "1:08.89",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 1350,
@@ -3203,8 +3136,7 @@ rankings =
 "id": "2017HART11",
 "best": "1:16.75",
 "age": 50,
-"competition": 6703,
-"highlight": 1
+"competition": 6703
 },
 {
 "rank": 1466,
@@ -3249,8 +3181,7 @@ rankings =
 "id": "2019OGOR03",
 "best": "1:21.35",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 1527,
@@ -3542,7 +3473,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 1976,
 "missing": {
 "world": 1425,
 "continents": {
@@ -3657,8 +3587,7 @@ rankings =
 "rank": 5,
 "id": "2011WRIG01",
 "best": "14.14",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 6,
@@ -3688,8 +3617,7 @@ rankings =
 "rank": 13,
 "id": "2014ROCH07",
 "best": "16.84",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 14,
@@ -3743,8 +3671,7 @@ rankings =
 "rank": 26,
 "id": "2017ROSA09",
 "best": "19.94",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 28,
@@ -3756,8 +3683,7 @@ rankings =
 "rank": 32,
 "id": "2005SHIM02",
 "best": "20.52",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 33,
@@ -3799,8 +3725,7 @@ rankings =
 "rank": 41,
 "id": "2017MEGA01",
 "best": "21.25",
-"competition": 6673,
-"highlight": 1
+"competition": 6673
 },
 {
 "rank": 43,
@@ -3856,8 +3781,7 @@ rankings =
 "rank": 51,
 "id": "2019BLAC02",
 "best": "23.38",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 54,
@@ -4009,8 +3933,7 @@ rankings =
 "rank": 101,
 "id": "2019KUCA01",
 "best": "29.35",
-"competition": 6669,
-"highlight": 1
+"competition": 6669
 },
 {
 "rank": 102,
@@ -4083,8 +4006,7 @@ rankings =
 "rank": 121,
 "id": "2019MARI22",
 "best": "31.69",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 123,
@@ -4134,8 +4056,7 @@ rankings =
 "rank": 139,
 "id": "2016CHOW03",
 "best": "33.86",
-"competition": 6773,
-"highlight": 1
+"competition": 6773
 },
 {
 "rank": 142,
@@ -4159,8 +4080,7 @@ rankings =
 "rank": 151,
 "id": "2019AGUE01",
 "best": "35.94",
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 152,
@@ -4184,23 +4104,20 @@ rankings =
 "rank": 167,
 "id": "2017MAHI02",
 "best": "39.00",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 168,
 "id": "2019GOFF01",
 "best": "39.09",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 170,
 "id": "2019SLES02",
 "best": "39.21",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 173,
@@ -4226,22 +4143,19 @@ rankings =
 "id": "2006SANT01",
 "best": "41.17",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 181,
 "id": "2019HICK05",
 "best": "42.10",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 182,
 "id": "2020ROND01",
 "best": "42.15",
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 183,
@@ -4272,15 +4186,13 @@ rankings =
 "rank": 189,
 "id": "2012RONK01",
 "best": "43.97",
-"competition": 6758,
-"highlight": 1
+"competition": 6758
 },
 {
 "rank": 194,
 "id": "2016GOSL01",
 "best": "44.65",
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 198,
@@ -4543,8 +4455,7 @@ rankings =
 "rank": 342,
 "id": "2017HART11",
 "best": "1:16.75",
-"competition": 6703,
-"highlight": 1
+"competition": 6703
 },
 {
 "rank": 343,
@@ -4562,8 +4473,7 @@ rankings =
 "rank": 359,
 "id": "2019OGOR03",
 "best": "1:21.35",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 366,
@@ -4739,7 +4649,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 521,
 "missing": {
 "world": 347,
 "continents": {
@@ -4869,8 +4778,7 @@ rankings =
 "rank": 16,
 "id": "2019GOFF01",
 "best": "39.09",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 19,
@@ -4883,8 +4791,7 @@ rankings =
 "rank": 20,
 "id": "2006SANT01",
 "best": "41.17",
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 21,
@@ -5084,7 +4991,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 90,
 "missing": {
 "world": 47,
 "continents": {
@@ -5155,8 +5061,7 @@ rankings =
 "rank": 6,
 "id": "2009NEEL01",
 "best": "53.04",
-"competition": 6796,
-"highlight": 1
+"competition": 6796
 },
 {
 "rank": 7,
@@ -5280,7 +5185,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 32,
 "missing": {
 "world": 8,
 "continents": {
@@ -5380,7 +5284,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 12,
 "missing": {
 "world": 1,
 "continents": {
@@ -5412,7 +5315,6 @@ rankings =
 "competition": 643
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -5456,8 +5358,7 @@ rankings =
 "rank": 5,
 "id": "2010COAT01",
 "best": "13.92",
-"competition": 6635,
-"highlight": 1
+"competition": 6635
 },
 {
 "rank": 6,
@@ -5542,8 +5443,7 @@ rankings =
 "rank": 20,
 "id": "2014GOME07",
 "best": "15.63",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 21,
@@ -5658,8 +5558,7 @@ rankings =
 "rank": 40,
 "id": "2017REZH01",
 "best": "16.65",
-"competition": 6629,
-"highlight": 1
+"competition": 6629
 },
 {
 "rank": 42,
@@ -5743,8 +5642,7 @@ rankings =
 "rank": 56,
 "id": "2016LASC01",
 "best": "17.24",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 59,
@@ -5762,8 +5660,7 @@ rankings =
 "rank": 61,
 "id": "2019WADA01",
 "best": "17.66",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 62,
@@ -5829,8 +5726,7 @@ rankings =
 "rank": 80,
 "id": "2015HARR03",
 "best": "18.61",
-"competition": 6737,
-"highlight": 1
+"competition": 6737
 },
 {
 "rank": 84,
@@ -5904,8 +5800,7 @@ rankings =
 "rank": 101,
 "id": "2017KITA01",
 "best": "19.20",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 102,
@@ -6033,8 +5928,7 @@ rankings =
 "rank": 133,
 "id": "2019URAN02",
 "best": "20.35",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 134,
@@ -6052,8 +5946,7 @@ rankings =
 "rank": 136,
 "id": "2017BONI01",
 "best": "20.40",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 137,
@@ -6089,8 +5982,7 @@ rankings =
 "rank": 145,
 "id": "2014ROCH07",
 "best": "20.73",
-"competition": 6544,
-"highlight": 1
+"competition": 6544
 },
 {
 "rank": 146,
@@ -6128,8 +6020,7 @@ rankings =
 "rank": 156,
 "id": "2017HART06",
 "best": "21.24",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 157,
@@ -6147,8 +6038,7 @@ rankings =
 "rank": 160,
 "id": "2018CUME02",
 "best": "21.30",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 161,
@@ -6166,8 +6056,7 @@ rankings =
 "rank": 165,
 "id": "2017KOST06",
 "best": "21.52",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 168,
@@ -6203,23 +6092,20 @@ rankings =
 "rank": 180,
 "id": "2014KIZU01",
 "best": "22.07",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 182,
 "id": "2005SHIM02",
 "best": "22.11",
 "age": 50,
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 186,
 "id": "2016BORR02",
 "best": "22.19",
-"competition": 6599,
-"highlight": 1
+"competition": 6599
 },
 {
 "rank": 191,
@@ -6293,22 +6179,19 @@ rankings =
 "rank": 204,
 "id": "2012LUKE01",
 "best": "22.60",
-"competition": 6690,
-"highlight": 1
+"competition": 6690
 },
 {
 "rank": 205,
 "id": "2016MUTH05",
 "best": "22.63",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 206,
 "id": "2019ROCH03",
 "best": "22.64",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 207,
@@ -6326,8 +6209,7 @@ rankings =
 "rank": 218,
 "id": "2016CRUZ16",
 "best": "23.12",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 218,
@@ -6395,8 +6277,7 @@ rankings =
 "rank": 232,
 "id": "2019CHIE01",
 "best": "23.64",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 235,
@@ -6438,8 +6319,7 @@ rankings =
 "rank": 243,
 "id": "2018FENI01",
 "best": "23.87",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 245,
@@ -6463,8 +6343,7 @@ rankings =
 "rank": 250,
 "id": "2016GILJ03",
 "best": "24.18",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 252,
@@ -6476,8 +6355,7 @@ rankings =
 "rank": 252,
 "id": "2006PIRZ01",
 "best": "24.31",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 256,
@@ -6489,8 +6367,7 @@ rankings =
 "rank": 262,
 "id": "2017SUDA03",
 "best": "24.84",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 264,
@@ -6533,8 +6410,7 @@ rankings =
 "rank": 271,
 "id": "2018CHOI09",
 "best": "25.16",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 271,
@@ -6684,8 +6560,7 @@ rankings =
 "rank": 332,
 "id": "2017BAIR03",
 "best": "27.22",
-"competition": 6765,
-"highlight": 1
+"competition": 6765
 },
 {
 "rank": 333,
@@ -6697,8 +6572,7 @@ rankings =
 "rank": 334,
 "id": "2018BAUE04",
 "best": "27.28",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 340,
@@ -6723,8 +6597,7 @@ rankings =
 "id": "2017ROSA09",
 "best": "27.69",
 "age": 50,
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 347,
@@ -6874,8 +6747,7 @@ rankings =
 "rank": 396,
 "id": "2014BRED01",
 "best": "29.21",
-"competition": 6504,
-"highlight": 1
+"competition": 6504
 },
 {
 "rank": 398,
@@ -6893,8 +6765,7 @@ rankings =
 "rank": 400,
 "id": "2019SZYM02",
 "best": "29.45",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 402,
@@ -6946,8 +6817,7 @@ rankings =
 "rank": 432,
 "id": "2017TABA02",
 "best": "30.72",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 440,
@@ -6959,8 +6829,7 @@ rankings =
 "rank": 445,
 "id": "2018BART01",
 "best": "31.35",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 446,
@@ -7010,8 +6879,7 @@ rankings =
 "id": "2019BLAC02",
 "best": "31.91",
 "age": 50,
-"competition": 6622,
-"highlight": 1
+"competition": 6622
 },
 {
 "rank": 464,
@@ -7107,8 +6975,7 @@ rankings =
 "id": "2019KUCA01",
 "best": "33.47",
 "age": 50,
-"competition": 6669,
-"highlight": 1
+"competition": 6669
 },
 {
 "rank": 506,
@@ -7147,8 +7014,7 @@ rankings =
 "rank": 513,
 "id": "2017GEES01",
 "best": "33.78",
-"competition": 6544,
-"highlight": 1
+"competition": 6544
 },
 {
 "rank": 517,
@@ -7256,8 +7122,7 @@ rankings =
 "rank": 553,
 "id": "2017CHAR16",
 "best": "34.85",
-"competition": 6745,
-"highlight": 1
+"competition": 6745
 },
 {
 "rank": 556,
@@ -7326,8 +7191,7 @@ rankings =
 "rank": 587,
 "id": "2019CALI06",
 "best": "36.46",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 589,
@@ -7359,8 +7223,7 @@ rankings =
 "rank": 612,
 "id": "2018SCHU17",
 "best": "37.59",
-"competition": 6692,
-"highlight": 1
+"competition": 6692
 },
 {
 "rank": 613,
@@ -7384,8 +7247,7 @@ rankings =
 "rank": 624,
 "id": "2019CHUN08",
 "best": "38.15",
-"competition": 6752,
-"highlight": 1
+"competition": 6752
 },
 {
 "rank": 627,
@@ -7416,8 +7278,7 @@ rankings =
 "rank": 650,
 "id": "2018DUBI04",
 "best": "39.61",
-"competition": 6617,
-"highlight": 1
+"competition": 6617
 },
 {
 "rank": 652,
@@ -7475,8 +7336,7 @@ rankings =
 "id": "2019MARI22",
 "best": "40.30",
 "age": 50,
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 669,
@@ -7496,15 +7356,13 @@ rankings =
 "rank": 673,
 "id": "2018TURN03",
 "best": "40.61",
-"competition": 6548,
-"highlight": 1
+"competition": 6548
 },
 {
 "rank": 673,
 "id": "2019BOXD03",
 "best": "40.61",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 681,
@@ -7530,8 +7388,7 @@ rankings =
 "rank": 692,
 "id": "2018NILS03",
 "best": "41.58",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 693,
@@ -7557,8 +7414,7 @@ rankings =
 "id": "2018COOK04",
 "best": "41.90",
 "age": 50,
-"competition": 6729,
-"highlight": 1
+"competition": 6729
 },
 {
 "rank": 700,
@@ -7572,8 +7428,7 @@ rankings =
 "id": "2018PARI11",
 "best": "42.02",
 "age": 60,
-"competition": 6688,
-"highlight": 1
+"competition": 6688
 },
 {
 "rank": 707,
@@ -7636,8 +7491,7 @@ rankings =
 "rank": 730,
 "id": "2017THOR05",
 "best": "43.38",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 734,
@@ -7668,8 +7522,7 @@ rankings =
 "id": "2019SLES02",
 "best": "44.26",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 753,
@@ -7696,8 +7549,7 @@ rankings =
 "id": "2006SANT01",
 "best": "45.47",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 766,
@@ -7716,8 +7568,7 @@ rankings =
 "id": "2019AGUE01",
 "best": "45.82",
 "age": 50,
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 769,
@@ -7730,8 +7581,7 @@ rankings =
 "rank": 771,
 "id": "2017NOVA05",
 "best": "46.18",
-"competition": 6781,
-"highlight": 1
+"competition": 6781
 },
 {
 "rank": 786,
@@ -7751,8 +7601,7 @@ rankings =
 "id": "2017MAHI02",
 "best": "47.12",
 "age": 50,
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 791,
@@ -7778,8 +7627,7 @@ rankings =
 "rank": 800,
 "id": "2018TEEM01",
 "best": "47.72",
-"competition": 6512,
-"highlight": 1
+"competition": 6512
 },
 {
 "rank": 803,
@@ -7829,15 +7677,13 @@ rankings =
 "rank": 856,
 "id": "2019TURE01",
 "best": "51.38",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 857,
 "id": "2018CHOD01",
 "best": "51.40",
-"competition": 6691,
-"highlight": 1
+"competition": 6691
 },
 {
 "rank": 857,
@@ -7862,8 +7708,7 @@ rankings =
 "rank": 868,
 "id": "2019VELL03",
 "best": "51.92",
-"competition": 6690,
-"highlight": 1
+"competition": 6690
 },
 {
 "rank": 877,
@@ -7907,8 +7752,7 @@ rankings =
 "id": "2019GOFF01",
 "best": "54.00",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 900,
@@ -7921,8 +7765,7 @@ rankings =
 "rank": 905,
 "id": "2019JARM01",
 "best": "54.29",
-"competition": 6752,
-"highlight": 1
+"competition": 6752
 },
 {
 "rank": 910,
@@ -7948,8 +7791,7 @@ rankings =
 "id": "2020ROND01",
 "best": "56.32",
 "age": 50,
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 931,
@@ -8017,8 +7859,7 @@ rankings =
 "rank": 970,
 "id": "2018DITT03",
 "best": "58.77",
-"competition": 6541,
-"highlight": 1
+"competition": 6541
 },
 {
 "rank": 974,
@@ -8050,8 +7891,7 @@ rankings =
 "id": "2019HICK05",
 "best": "59.60",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 986,
@@ -8093,8 +7933,7 @@ rankings =
 "rank": 1023,
 "id": "2017GALA01",
 "best": "1:03.14",
-"competition": 6493,
-"highlight": 1
+"competition": 6493
 },
 {
 "rank": 1034,
@@ -8236,8 +8075,7 @@ rankings =
 "id": "2018FOLE03",
 "best": "1:12.49",
 "age": 70,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 1150,
@@ -8256,8 +8094,7 @@ rankings =
 "rank": 1158,
 "id": "2018KOHL03",
 "best": "1:13.27",
-"competition": 6766,
-"highlight": 1
+"competition": 6766
 },
 {
 "rank": 1162,
@@ -8379,8 +8216,7 @@ rankings =
 "rank": 1232,
 "id": "2020HOHL01",
 "best": "1:18.05",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 1238,
@@ -8400,8 +8236,7 @@ rankings =
 "id": "2016CHOW02",
 "best": "1:18.48",
 "age": 50,
-"competition": 6773,
-"highlight": 1
+"competition": 6773
 },
 {
 "rank": 1269,
@@ -8448,8 +8283,7 @@ rankings =
 "rank": 1292,
 "id": "2018MORE06",
 "best": "1:22.38",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 1293,
@@ -8513,8 +8347,7 @@ rankings =
 "id": "2017HART11",
 "best": "1:28.28",
 "age": 50,
-"competition": 6575,
-"highlight": 1
+"competition": 6575
 },
 {
 "rank": 1357,
@@ -8580,8 +8413,7 @@ rankings =
 "id": "2019OGOR03",
 "best": "1:33.11",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 1405,
@@ -8883,7 +8715,6 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 1888,
 "missing": {
 "world": 1349,
 "continents": {
@@ -8992,8 +8823,7 @@ rankings =
 "rank": 5,
 "id": "2011WRIG01",
 "best": "16.02",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 6,
@@ -9047,8 +8877,7 @@ rankings =
 "rank": 17,
 "id": "2014ROCH07",
 "best": "21.30",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 17,
@@ -9060,8 +8889,7 @@ rankings =
 "rank": 20,
 "id": "2005SHIM02",
 "best": "22.11",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 23,
@@ -9157,8 +8985,7 @@ rankings =
 "rank": 48,
 "id": "2017ROSA09",
 "best": "27.69",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 49,
@@ -9238,8 +9065,7 @@ rankings =
 "rank": 70,
 "id": "2019BLAC02",
 "best": "31.91",
-"competition": 6622,
-"highlight": 1
+"competition": 6622
 },
 {
 "rank": 71,
@@ -9276,8 +9102,7 @@ rankings =
 "rank": 81,
 "id": "2019KUCA01",
 "best": "33.47",
-"competition": 6669,
-"highlight": 1
+"competition": 6669
 },
 {
 "rank": 82,
@@ -9410,8 +9235,7 @@ rankings =
 "rank": 124,
 "id": "2019MARI22",
 "best": "40.30",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 125,
@@ -9449,8 +9273,7 @@ rankings =
 "rank": 134,
 "id": "2018COOK04",
 "best": "41.90",
-"competition": 6729,
-"highlight": 1
+"competition": 6729
 },
 {
 "rank": 135,
@@ -9464,8 +9287,7 @@ rankings =
 "id": "2018PARI11",
 "best": "42.02",
 "age": 60,
-"competition": 6688,
-"highlight": 1
+"competition": 6688
 },
 {
 "rank": 137,
@@ -9496,8 +9318,7 @@ rankings =
 "rank": 148,
 "id": "2019SLES02",
 "best": "44.26",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 150,
@@ -9516,15 +9337,13 @@ rankings =
 "id": "2006SANT01",
 "best": "45.47",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 156,
 "id": "2019AGUE01",
 "best": "45.82",
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 157,
@@ -9543,8 +9362,7 @@ rankings =
 "rank": 162,
 "id": "2017MAHI02",
 "best": "47.12",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 165,
@@ -9593,8 +9411,7 @@ rankings =
 "id": "2019GOFF01",
 "best": "54.00",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 189,
@@ -9614,8 +9431,7 @@ rankings =
 "rank": 197,
 "id": "2020ROND01",
 "best": "56.32",
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 198,
@@ -9639,8 +9455,7 @@ rankings =
 "rank": 208,
 "id": "2019HICK05",
 "best": "59.60",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 222,
@@ -9703,8 +9518,7 @@ rankings =
 "id": "2018FOLE03",
 "best": "1:12.49",
 "age": 70,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 259,
@@ -9780,8 +9594,7 @@ rankings =
 "rank": 284,
 "id": "2016CHOW02",
 "best": "1:18.48",
-"competition": 6773,
-"highlight": 1
+"competition": 6773
 },
 {
 "rank": 296,
@@ -9837,8 +9650,7 @@ rankings =
 "rank": 321,
 "id": "2017HART11",
 "best": "1:28.28",
-"competition": 6575,
-"highlight": 1
+"competition": 6575
 },
 {
 "rank": 323,
@@ -9875,8 +9687,7 @@ rankings =
 "rank": 334,
 "id": "2019OGOR03",
 "best": "1:33.11",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 335,
@@ -10036,7 +9847,6 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 497,
 "missing": {
 "world": 330,
 "continents": {
@@ -10153,8 +9963,7 @@ rankings =
 "rank": 14,
 "id": "2018PARI11",
 "best": "42.02",
-"competition": 6688,
-"highlight": 1
+"competition": 6688
 },
 {
 "rank": 15,
@@ -10167,8 +9976,7 @@ rankings =
 "rank": 16,
 "id": "2006SANT01",
 "best": "45.47",
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 17,
@@ -10181,8 +9989,7 @@ rankings =
 "rank": 20,
 "id": "2019GOFF01",
 "best": "54.00",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 21,
@@ -10214,8 +10021,7 @@ rankings =
 "id": "2018FOLE03",
 "best": "1:12.49",
 "age": 70,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 30,
@@ -10349,7 +10155,6 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 78,
 "missing": {
 "world": 40,
 "continents": {
@@ -10419,8 +10224,7 @@ rankings =
 "rank": 6,
 "id": "2009NEEL01",
 "best": "1:01.20",
-"competition": 6796,
-"highlight": 1
+"competition": 6796
 },
 {
 "rank": 8,
@@ -10432,8 +10236,7 @@ rankings =
 "rank": 9,
 "id": "2018FOLE03",
 "best": "1:12.49",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 10,
@@ -10513,7 +10316,6 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 26,
 "missing": {
 "world": 7,
 "continents": {
@@ -10599,7 +10401,6 @@ rankings =
 "competition": 477
 }
 ],
-"estimate": 10,
 "missing": {
 "world": 1,
 "continents": {
@@ -10830,8 +10631,7 @@ rankings =
 "rank": 35,
 "id": "2015GEOR02",
 "best": "3.73",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 35,
@@ -11058,8 +10858,7 @@ rankings =
 "rank": 91,
 "id": "2018HOSH02",
 "best": "4.96",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 91,
@@ -11179,8 +10978,7 @@ rankings =
 "rank": 125,
 "id": "2014KIZU01",
 "best": "5.52",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 127,
@@ -11193,15 +10991,13 @@ rankings =
 "id": "2017THOR06",
 "best": "5.54",
 "age": 50,
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 129,
 "id": "2017ASMU01",
 "best": "5.55",
-"competition": 6574,
-"highlight": 1
+"competition": 6574
 },
 {
 "rank": 130,
@@ -11249,8 +11045,7 @@ rankings =
 "rank": 139,
 "id": "2019SZYM02",
 "best": "5.65",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 140,
@@ -11306,8 +11101,7 @@ rankings =
 "id": "2018BENN01",
 "best": "5.79",
 "age": 50,
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 149,
@@ -11426,8 +11220,7 @@ rankings =
 "rank": 175,
 "id": "2010SOHT01",
 "best": "6.12",
-"competition": 6571,
-"highlight": 1
+"competition": 6571
 },
 {
 "rank": 178,
@@ -11548,15 +11341,13 @@ rankings =
 "id": "2018PARI11",
 "best": "6.63",
 "age": 60,
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 210,
 "id": "2016UMET02",
 "best": "6.63",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 212,
@@ -11589,8 +11380,7 @@ rankings =
 "id": "2017TAKA02",
 "best": "6.70",
 "age": 50,
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 221,
@@ -11639,8 +11429,7 @@ rankings =
 "rank": 232,
 "id": "2018BAUE04",
 "best": "6.84",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 233,
@@ -11713,15 +11502,13 @@ rankings =
 "id": "2018COOK04",
 "best": "7.06",
 "age": 50,
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 255,
 "id": "2017JANS02",
 "best": "7.09",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 256,
@@ -11760,8 +11547,7 @@ rankings =
 "rank": 262,
 "id": "2018BART01",
 "best": "7.26",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 266,
@@ -11779,8 +11565,7 @@ rankings =
 "rank": 273,
 "id": "2017THOR05",
 "best": "7.41",
-"competition": 6504,
-"highlight": 1
+"competition": 6504
 },
 {
 "rank": 274,
@@ -11901,8 +11686,7 @@ rankings =
 "rank": 313,
 "id": "2017PEHJ01",
 "best": "7.95",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 315,
@@ -11989,8 +11773,7 @@ rankings =
 "rank": 335,
 "id": "2019CHIE01",
 "best": "8.35",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 338,
@@ -12022,8 +11805,7 @@ rankings =
 "id": "2018SMIT42",
 "best": "8.64",
 "age": 50,
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 352,
@@ -12090,8 +11872,7 @@ rankings =
 "rank": 377,
 "id": "2018CUME02",
 "best": "9.21",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 377,
@@ -12149,8 +11930,7 @@ rankings =
 "id": "2019AGUE01",
 "best": "9.77",
 "age": 50,
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 409,
@@ -12163,16 +11943,14 @@ rankings =
 "id": "2017BROW09",
 "best": "9.89",
 "age": 50,
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 412,
 "id": "2019KUCA01",
 "best": "9.94",
 "age": 50,
-"competition": 6731,
-"highlight": 1
+"competition": 6731
 },
 {
 "rank": 413,
@@ -12197,8 +11975,7 @@ rankings =
 "id": "2019SLES02",
 "best": "10.09",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 418,
@@ -12505,8 +12282,7 @@ rankings =
 "rank": 568,
 "id": "2019VELL03",
 "best": "15.15",
-"competition": 6690,
-"highlight": 1
+"competition": 6690
 },
 {
 "rank": 575,
@@ -12536,15 +12312,13 @@ rankings =
 "rank": 586,
 "id": "2020HOHL01",
 "best": "16.16",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 588,
 "id": "2017GALA01",
 "best": "16.24",
-"competition": 6493,
-"highlight": 1
+"competition": 6493
 },
 {
 "rank": 591,
@@ -12564,8 +12338,7 @@ rankings =
 "id": "2015LIMA20",
 "best": "16.55",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 600,
@@ -12577,16 +12350,14 @@ rankings =
 "rank": 618,
 "id": "2019TURE01",
 "best": "17.68",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 622,
 "id": "2019HICK05",
 "best": "17.88",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 625,
@@ -12756,8 +12527,7 @@ rankings =
 "id": "2019FRAT01",
 "best": "33.76",
 "age": 50,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 770,
@@ -12846,7 +12616,6 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 835,
 "missing": {
 "world": 484,
 "continents": {
@@ -12993,15 +12762,13 @@ rankings =
 "rank": 17,
 "id": "2011WRIG01",
 "best": "5.54",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 17,
 "id": "2017THOR06",
 "best": "5.54",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 19,
@@ -13019,8 +12786,7 @@ rankings =
 "rank": 21,
 "id": "2018BENN01",
 "best": "5.79",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 22,
@@ -13062,8 +12828,7 @@ rankings =
 "rank": 32,
 "id": "2014ROCH07",
 "best": "6.12",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 36,
@@ -13076,8 +12841,7 @@ rankings =
 "id": "2018PARI11",
 "best": "6.63",
 "age": 60,
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 39,
@@ -13095,8 +12859,7 @@ rankings =
 "rank": 42,
 "id": "2017TAKA02",
 "best": "6.70",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 44,
@@ -13120,8 +12883,7 @@ rankings =
 "rank": 49,
 "id": "2018COOK04",
 "best": "7.06",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 50,
@@ -13184,15 +12946,13 @@ rankings =
 "rank": 68,
 "id": "2019BLAC02",
 "best": "8.59",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 69,
 "id": "2018SMIT42",
 "best": "8.64",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 71,
@@ -13229,8 +12989,7 @@ rankings =
 "rank": 80,
 "id": "2019AGUE01",
 "best": "9.77",
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 81,
@@ -13242,22 +13001,19 @@ rankings =
 "rank": 82,
 "id": "2017BROW09",
 "best": "9.89",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 84,
 "id": "2019KUCA01",
 "best": "9.94",
-"competition": 6731,
-"highlight": 1
+"competition": 6731
 },
 {
 "rank": 85,
 "id": "2019SLES02",
 "best": "10.09",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 91,
@@ -13357,15 +13113,13 @@ rankings =
 "id": "2015LIMA20",
 "best": "16.55",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 139,
 "id": "2019HICK05",
 "best": "17.88",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 142,
@@ -13452,8 +13206,7 @@ rankings =
 "rank": 187,
 "id": "2019FRAT01",
 "best": "33.76",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 190,
@@ -13506,7 +13259,6 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 212,
 "missing": {
 "world": 120,
 "continents": {
@@ -13564,8 +13316,7 @@ rankings =
 "rank": 1,
 "id": "2018PARI11",
 "best": "6.63",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 2,
@@ -13615,8 +13366,7 @@ rankings =
 "rank": 15,
 "id": "2015LIMA20",
 "best": "16.55",
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 17,
@@ -13651,7 +13401,6 @@ rankings =
 "competition": 977
 }
 ],
-"estimate": 26,
 "missing": {
 "world": 12,
 "continents": {
@@ -13708,8 +13457,7 @@ rankings =
 "rank": 5,
 "id": "2009NEEL01",
 "best": "22.55",
-"competition": 6796,
-"highlight": 1
+"competition": 6796
 },
 {
 "rank": 7,
@@ -13718,7 +13466,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 7,
 "missing": {
 "world": 1,
 "continents": {
@@ -13737,7 +13484,6 @@ rankings =
 "type": "single",
 "age": 80,
 "ranks": [],
-"estimate": 1,
 "missing": {
 "world": 1,
 "continents": {
@@ -13950,8 +13696,7 @@ rankings =
 "rank": 41,
 "id": "2014GOME07",
 "best": "6.54",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 42,
@@ -14008,8 +13753,7 @@ rankings =
 "rank": 49,
 "id": "2011BOIS01",
 "best": "6.69",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 51,
@@ -14100,8 +13844,7 @@ rankings =
 "rank": 72,
 "id": "2017KITA01",
 "best": "7.14",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 74,
@@ -14144,8 +13887,7 @@ rankings =
 "rank": 80,
 "id": "2019SZYM02",
 "best": "7.23",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 81,
@@ -14193,15 +13935,13 @@ rankings =
 "rank": 90,
 "id": "2014KIZU01",
 "best": "7.46",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 92,
 "id": "2017BONI01",
 "best": "7.55",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 93,
@@ -14365,8 +14105,7 @@ rankings =
 "rank": 135,
 "id": "2019ROCH03",
 "best": "8.42",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 135,
@@ -14384,8 +14123,7 @@ rankings =
 "rank": 139,
 "id": "2018BAUE04",
 "best": "8.47",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 140,
@@ -14403,8 +14141,7 @@ rankings =
 "rank": 145,
 "id": "2012PETR01",
 "best": "8.67",
-"competition": 6612,
-"highlight": 1
+"competition": 6612
 },
 {
 "rank": 147,
@@ -14434,8 +14171,7 @@ rankings =
 "rank": 152,
 "id": "2017JANS02",
 "best": "8.74",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 153,
@@ -14517,8 +14253,7 @@ rankings =
 "id": "2018COOK04",
 "best": "9.08",
 "age": 50,
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 177,
@@ -14543,8 +14278,7 @@ rankings =
 "id": "2017TAKA02",
 "best": "9.13",
 "age": 50,
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 183,
@@ -14641,16 +14375,14 @@ rankings =
 "rank": 207,
 "id": "2017GEES01",
 "best": "9.62",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 208,
 "id": "2018SMIT42",
 "best": "9.63",
 "age": 50,
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 209,
@@ -14668,8 +14400,7 @@ rankings =
 "rank": 212,
 "id": "2016CRUZ16",
 "best": "9.71",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 213,
@@ -14720,8 +14451,7 @@ rankings =
 "id": "2018BENN01",
 "best": "10.03",
 "age": 50,
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 227,
@@ -14838,29 +14568,25 @@ rankings =
 "rank": 261,
 "id": "2017TABA02",
 "best": "10.65",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 263,
 "id": "2018PRAT13",
 "best": "10.70",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 263,
 "id": "2018SALM01",
 "best": "10.70",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 265,
 "id": "2017THOR05",
 "best": "10.73",
-"competition": 6504,
-"highlight": 1
+"competition": 6504
 },
 {
 "rank": 268,
@@ -14873,15 +14599,13 @@ rankings =
 "id": "2018PARI11",
 "best": "10.84",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 271,
 "id": "2018BART01",
 "best": "10.87",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 272,
@@ -14919,8 +14643,7 @@ rankings =
 "id": "2019KUCA01",
 "best": "10.96",
 "age": 50,
-"competition": 6731,
-"highlight": 1
+"competition": 6731
 },
 {
 "rank": 279,
@@ -15018,8 +14741,7 @@ rankings =
 "rank": 310,
 "id": "2018CUME02",
 "best": "12.11",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 311,
@@ -15101,8 +14823,7 @@ rankings =
 "rank": 330,
 "id": "2019CHIE01",
 "best": "12.80",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 332,
@@ -15139,8 +14860,7 @@ rankings =
 "rank": 340,
 "id": "2019BOXD03",
 "best": "13.01",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 345,
@@ -15184,8 +14904,7 @@ rankings =
 "id": "2019AGUE01",
 "best": "13.51",
 "age": 50,
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 364,
@@ -15291,8 +15010,7 @@ rankings =
 "rank": 403,
 "id": "2017GUER16",
 "best": "14.98",
-"competition": 6573,
-"highlight": 1
+"competition": 6573
 },
 {
 "rank": 405,
@@ -15362,8 +15080,7 @@ rankings =
 "id": "2019SLES02",
 "best": "16.47",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 437,
@@ -15431,8 +15148,7 @@ rankings =
 "rank": 461,
 "id": "2015DULE03",
 "best": "17.89",
-"competition": 6612,
-"highlight": 1
+"competition": 6612
 },
 {
 "rank": 463,
@@ -15476,8 +15192,7 @@ rankings =
 "id": "2019GOFF01",
 "best": "19.95",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 507,
@@ -15523,8 +15238,7 @@ rankings =
 "id": "2019HICK05",
 "best": "20.98",
 "age": 50,
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 520,
@@ -15569,15 +15283,13 @@ rankings =
 "rank": 537,
 "id": "2019VELL03",
 "best": "22.63",
-"competition": 6690,
-"highlight": 1
+"competition": 6690
 },
 {
 "rank": 538,
 "id": "2016KUHL01",
 "best": "22.65",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 539,
@@ -15785,8 +15497,7 @@ rankings =
 "id": "2019FRAT01",
 "best": "42.28",
 "age": 50,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 707,
@@ -15799,8 +15510,7 @@ rankings =
 "id": "2015LIMA20",
 "best": "45.20",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 712,
@@ -15864,8 +15574,7 @@ rankings =
 "rank": 754,
 "id": "2018NATH03",
 "best": "1:01.23",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 758,
@@ -15908,7 +15617,6 @@ rankings =
 "competition": 3099
 }
 ],
-"estimate": 783,
 "missing": {
 "world": 443,
 "continents": {
@@ -16025,8 +15733,7 @@ rankings =
 "rank": 10,
 "id": "2011WRIG01",
 "best": "6.75",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 11,
@@ -16068,8 +15775,7 @@ rankings =
 "rank": 22,
 "id": "2014ROCH07",
 "best": "8.24",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 23,
@@ -16099,15 +15805,13 @@ rankings =
 "rank": 30,
 "id": "2018COOK04",
 "best": "9.08",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 31,
 "id": "2017TAKA02",
 "best": "9.13",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 32,
@@ -16125,8 +15829,7 @@ rankings =
 "rank": 35,
 "id": "2018SMIT42",
 "best": "9.63",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 37,
@@ -16144,8 +15847,7 @@ rankings =
 "rank": 41,
 "id": "2018BENN01",
 "best": "10.03",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 43,
@@ -16176,8 +15878,7 @@ rankings =
 "id": "2018PARI11",
 "best": "10.84",
 "age": 60,
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 51,
@@ -16189,8 +15890,7 @@ rankings =
 "rank": 52,
 "id": "2019KUCA01",
 "best": "10.96",
-"competition": 6731,
-"highlight": 1
+"competition": 6731
 },
 {
 "rank": 53,
@@ -16238,8 +15938,7 @@ rankings =
 "rank": 64,
 "id": "2019BLAC02",
 "best": "12.92",
-"competition": 6772,
-"highlight": 1
+"competition": 6772
 },
 {
 "rank": 67,
@@ -16258,8 +15957,7 @@ rankings =
 "rank": 71,
 "id": "2019AGUE01",
 "best": "13.51",
-"competition": 6777,
-"highlight": 1
+"competition": 6777
 },
 {
 "rank": 75,
@@ -16310,8 +16008,7 @@ rankings =
 "rank": 91,
 "id": "2019SLES02",
 "best": "16.47",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 92,
@@ -16336,8 +16033,7 @@ rankings =
 "id": "2019GOFF01",
 "best": "19.95",
 "age": 60,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 107,
@@ -16361,8 +16057,7 @@ rankings =
 "rank": 111,
 "id": "2019HICK05",
 "best": "20.98",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 112,
@@ -16493,16 +16188,14 @@ rankings =
 "rank": 167,
 "id": "2019FRAT01",
 "best": "42.28",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 170,
 "id": "2015LIMA20",
 "best": "45.20",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 172,
@@ -16554,7 +16247,6 @@ rankings =
 "competition": 3099
 }
 ],
-"estimate": 200,
 "missing": {
 "world": 110,
 "continents": {
@@ -16611,8 +16303,7 @@ rankings =
 "rank": 1,
 "id": "2018PARI11",
 "best": "10.84",
-"competition": 6605,
-"highlight": 1
+"competition": 6605
 },
 {
 "rank": 2,
@@ -16644,8 +16335,7 @@ rankings =
 "rank": 11,
 "id": "2019GOFF01",
 "best": "19.95",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 12,
@@ -16682,8 +16372,7 @@ rankings =
 "rank": 20,
 "id": "2015LIMA20",
 "best": "45.20",
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 23,
@@ -16693,7 +16382,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 23,
 "missing": {
 "world": 10,
 "continents": {
@@ -16744,8 +16432,7 @@ rankings =
 "rank": 5,
 "id": "2009NEEL01",
 "best": "29.92",
-"competition": 6796,
-"highlight": 1
+"competition": 6796
 },
 {
 "rank": 6,
@@ -16754,7 +16441,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 6,
 "missing": {
 "world": 1,
 "continents": {
@@ -16773,7 +16459,6 @@ rankings =
 "type": "average",
 "age": 80,
 "ranks": [],
-"estimate": 1,
 "missing": {
 "world": 1,
 "continents": {
@@ -16806,8 +16491,7 @@ rankings =
 "id": "2003BRUC01",
 "best": "41.23",
 "age": 50,
-"competition": 6755,
-"highlight": 1
+"competition": 6755
 },
 {
 "rank": 3,
@@ -16910,15 +16594,13 @@ rankings =
 "rank": 19,
 "id": "2015NICH04",
 "best": "55.57",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 20,
 "id": "2018BAUE04",
 "best": "55.91",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 21,
@@ -17046,8 +16728,7 @@ rankings =
 "rank": 41,
 "id": "2017HART06",
 "best": "1:03.35",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 42,
@@ -17144,8 +16825,7 @@ rankings =
 "rank": 65,
 "id": "2019SANO01",
 "best": "1:10.44",
-"competition": 6578,
-"highlight": 1
+"competition": 6578
 },
 {
 "rank": 66,
@@ -17163,8 +16843,7 @@ rankings =
 "rank": 68,
 "id": "2018CHOI09",
 "best": "1:11.68",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 69,
@@ -17195,8 +16874,7 @@ rankings =
 "rank": 73,
 "id": "2016CRUZ16",
 "best": "1:13.10",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 74,
@@ -17256,8 +16934,7 @@ rankings =
 "rank": 89,
 "id": "2010COAT01",
 "best": "1:17.67",
-"competition": 6635,
-"highlight": 1
+"competition": 6635
 },
 {
 "rank": 90,
@@ -17293,8 +16970,7 @@ rankings =
 "rank": 96,
 "id": "2017BONI01",
 "best": "1:19.62",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 97,
@@ -17318,8 +16994,7 @@ rankings =
 "rank": 101,
 "id": "2018CUME02",
 "best": "1:21.33",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 101,
@@ -17350,8 +17025,7 @@ rankings =
 "rank": 110,
 "id": "2018HOSH02",
 "best": "1:23.57",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 114,
@@ -17369,8 +17043,7 @@ rankings =
 "rank": 116,
 "id": "2017ASMU01",
 "best": "1:24.92",
-"competition": 6779,
-"highlight": 1
+"competition": 6779
 },
 {
 "rank": 117,
@@ -17388,8 +17061,7 @@ rankings =
 "rank": 119,
 "id": "2015HARR03",
 "best": "1:25.48",
-"competition": 6737,
-"highlight": 1
+"competition": 6737
 },
 {
 "rank": 121,
@@ -17450,8 +17122,7 @@ rankings =
 "rank": 134,
 "id": "2019POLL04",
 "best": "1:28.71",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 135,
@@ -17549,8 +17220,7 @@ rankings =
 "id": "2019BLAC02",
 "best": "1:35.47",
 "age": 50,
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 157,
@@ -17600,15 +17270,13 @@ rankings =
 "rank": 168,
 "id": "2019ROCH03",
 "best": "1:38.07",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 169,
 "id": "2010WENS01",
 "best": "1:38.13",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 170,
@@ -17779,8 +17447,7 @@ rankings =
 "id": "2005ASPE01",
 "best": "1:54.50",
 "age": 50,
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 222,
@@ -17828,8 +17495,7 @@ rankings =
 "rank": 230,
 "id": "2015LOPE29",
 "best": "1:57.94",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 231,
@@ -18058,8 +17724,7 @@ rankings =
 "id": "2019SLES02",
 "best": "2:41.41",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 310,
@@ -18152,8 +17817,7 @@ rankings =
 "rank": 338,
 "id": "2017NOVA05",
 "best": "3:32.16",
-"competition": 6781,
-"highlight": 1
+"competition": 6781
 },
 {
 "rank": 339,
@@ -18178,8 +17842,7 @@ rankings =
 "id": "2015LIMA20",
 "best": "3:59.55",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 350,
@@ -18226,7 +17889,6 @@ rankings =
 "competition": 3939
 }
 ],
-"estimate": 375,
 "missing": {
 "world": 147,
 "continents": {
@@ -18298,8 +17960,7 @@ rankings =
 "rank": 1,
 "id": "2003BRUC01",
 "best": "41.23",
-"competition": 6755,
-"highlight": 1
+"competition": 6755
 },
 {
 "rank": 2,
@@ -18311,8 +17972,7 @@ rankings =
 "rank": 3,
 "id": "2011WRIG01",
 "best": "55.00",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 4,
@@ -18378,8 +18038,7 @@ rankings =
 "rank": 20,
 "id": "2019BLAC02",
 "best": "1:35.47",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 21,
@@ -18446,8 +18105,7 @@ rankings =
 "rank": 35,
 "id": "2005ASPE01",
 "best": "1:54.50",
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 36,
@@ -18531,8 +18189,7 @@ rankings =
 "rank": 55,
 "id": "2019SLES02",
 "best": "2:41.41",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 56,
@@ -18569,8 +18226,7 @@ rankings =
 "id": "2015LIMA20",
 "best": "3:59.55",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 68,
@@ -18585,7 +18241,6 @@ rankings =
 "competition": 3939
 }
 ],
-"estimate": 73,
 "missing": {
 "world": 26,
 "continents": {
@@ -18637,11 +18292,9 @@ rankings =
 "rank": 4,
 "id": "2015LIMA20",
 "best": "3:59.55",
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 }
 ],
-"estimate": 4,
 "missing": {
 "world": 2,
 "continents": {
@@ -18663,15 +18316,13 @@ rankings =
 "id": "2003BRUC01",
 "best": "46.68",
 "age": 50,
-"competition": 6755,
-"highlight": 1
+"competition": 6755
 },
 {
 "rank": 2,
 "id": "2005SUSE01",
 "best": "49.61",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 3,
@@ -18707,8 +18358,7 @@ rankings =
 "rank": 8,
 "id": "2014GOME07",
 "best": "1:00.10",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 9,
@@ -18738,8 +18388,7 @@ rankings =
 "rank": 13,
 "id": "2015NICH04",
 "best": "1:02.74",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 14,
@@ -18799,8 +18448,7 @@ rankings =
 "rank": 23,
 "id": "2016DUEH02",
 "best": "1:05.49",
-"competition": 6757,
-"highlight": 1
+"competition": 6757
 },
 {
 "rank": 24,
@@ -18904,8 +18552,7 @@ rankings =
 "rank": 42,
 "id": "2017HART06",
 "best": "1:11.50",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 43,
@@ -18930,8 +18577,7 @@ rankings =
 "rank": 46,
 "id": "2010HAMA03",
 "best": "1:13.43",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 47,
@@ -19016,8 +18662,7 @@ rankings =
 "rank": 63,
 "id": "2018BAUE04",
 "best": "1:22.28",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 64,
@@ -19047,15 +18692,13 @@ rankings =
 "rank": 70,
 "id": "2018CHOI09",
 "best": "1:24.79",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 72,
 "id": "2016CRUZ16",
 "best": "1:25.38",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 73,
@@ -19115,8 +18758,7 @@ rankings =
 "rank": 83,
 "id": "2015REYE08",
 "best": "1:31.23",
-"competition": 6689,
-"highlight": 1
+"competition": 6689
 },
 {
 "rank": 86,
@@ -19129,8 +18771,7 @@ rankings =
 "rank": 87,
 "id": "2017ASMU01",
 "best": "1:32.33",
-"competition": 6779,
-"highlight": 1
+"competition": 6779
 },
 {
 "rank": 89,
@@ -19154,8 +18795,7 @@ rankings =
 "rank": 92,
 "id": "2015HARR03",
 "best": "1:33.66",
-"competition": 6737,
-"highlight": 1
+"competition": 6737
 },
 {
 "rank": 93,
@@ -19228,8 +18868,7 @@ rankings =
 "rank": 106,
 "id": "2015KIMH04",
 "best": "1:37.71",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 111,
@@ -19384,15 +19023,13 @@ rankings =
 "rank": 144,
 "id": "2010WENS01",
 "best": "1:52.90",
-"competition": 6634,
-"highlight": 1
+"competition": 6634
 },
 {
 "rank": 145,
 "id": "2007YULH01",
 "best": "1:53.25",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 146,
@@ -19556,8 +19193,7 @@ rankings =
 "rank": 190,
 "id": "2017GEES01",
 "best": "2:40.64",
-"competition": 6619,
-"highlight": 1
+"competition": 6619
 },
 {
 "rank": 191,
@@ -19643,8 +19279,7 @@ rankings =
 "id": "2015LIMA20",
 "best": "4:12.62",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 },
 {
 "rank": 216,
@@ -19665,7 +19300,6 @@ rankings =
 "competition": 2595
 }
 ],
-"estimate": 221,
 "missing": {
 "world": 61,
 "continents": {
@@ -19733,15 +19367,13 @@ rankings =
 "rank": 1,
 "id": "2003BRUC01",
 "best": "46.68",
-"competition": 6755,
-"highlight": 1
+"competition": 6755
 },
 {
 "rank": 2,
 "id": "2011WRIG01",
 "best": "1:02.78",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -19923,11 +19555,9 @@ rankings =
 "id": "2015LIMA20",
 "best": "4:12.62",
 "age": 60,
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 }
 ],
-"estimate": 43,
 "missing": {
 "world": 11,
 "continents": {
@@ -19975,11 +19605,9 @@ rankings =
 "rank": 3,
 "id": "2015LIMA20",
 "best": "4:12.62",
-"competition": 6640,
-"highlight": 1
+"competition": 6640
 }
 ],
-"estimate": 3,
 "missing": {
 "world": 1,
 "continents": {
@@ -20031,8 +19659,7 @@ rankings =
 "rank": 5,
 "id": "2016HOUG03",
 "best": "1:38.75",
-"competition": 6639,
-"highlight": 1
+"competition": 6639
 },
 {
 "rank": 6,
@@ -20044,8 +19671,7 @@ rankings =
 "rank": 7,
 "id": "2015NICH04",
 "best": "1:38.88",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 8,
@@ -20063,8 +19689,7 @@ rankings =
 "rank": 10,
 "id": "2016UMET02",
 "best": "1:44.05",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 11,
@@ -20076,15 +19701,13 @@ rankings =
 "rank": 12,
 "id": "2015GEOR02",
 "best": "1:45.97",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 13,
 "id": "2014GOME07",
 "best": "1:51.75",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 14,
@@ -20116,15 +19739,13 @@ rankings =
 "rank": 18,
 "id": "2016CRUZ16",
 "best": "1:57.71",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 19,
 "id": "2016BORR02",
 "best": "1:58.00",
-"competition": 6561,
-"highlight": 1
+"competition": 6561
 },
 {
 "rank": 20,
@@ -20161,8 +19782,7 @@ rankings =
 "id": "2014VIGN02",
 "best": "2:01.19",
 "age": 50,
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 27,
@@ -20235,8 +19855,7 @@ rankings =
 "rank": 39,
 "id": "2017HART06",
 "best": "2:11.53",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 40,
@@ -20303,8 +19922,7 @@ rankings =
 "rank": 53,
 "id": "2018CHOI09",
 "best": "2:23.17",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 54,
@@ -20346,8 +19964,7 @@ rankings =
 "rank": 64,
 "id": "2019SANO01",
 "best": "2:33.06",
-"competition": 6578,
-"highlight": 1
+"competition": 6578
 },
 {
 "rank": 67,
@@ -20402,8 +20019,7 @@ rankings =
 "rank": 78,
 "id": "2006PIRZ01",
 "best": "2:44.67",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 79,
@@ -20427,8 +20043,7 @@ rankings =
 "rank": 82,
 "id": "2018CUME02",
 "best": "2:51.35",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 84,
@@ -20440,15 +20055,13 @@ rankings =
 "rank": 85,
 "id": "2018BAUE04",
 "best": "2:52.97",
-"competition": 6606,
-"highlight": 1
+"competition": 6606
 },
 {
 "rank": 86,
 "id": "2009ZBIE01",
 "best": "2:53.11",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 87,
@@ -20461,8 +20074,7 @@ rankings =
 "rank": 88,
 "id": "2017ASMU01",
 "best": "2:55.77",
-"competition": 6779,
-"highlight": 1
+"competition": 6779
 },
 {
 "rank": 89,
@@ -20474,8 +20086,7 @@ rankings =
 "rank": 90,
 "id": "2017BONI01",
 "best": "2:57.44",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 92,
@@ -20488,8 +20099,7 @@ rankings =
 "id": "2018SMIT42",
 "best": "3:00.55",
 "age": 50,
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 94,
@@ -20501,15 +20111,13 @@ rankings =
 "rank": 96,
 "id": "2010WENS01",
 "best": "3:02.80",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 97,
 "id": "2015KIMH04",
 "best": "3:03.49",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 98,
@@ -20613,8 +20221,7 @@ rankings =
 "rank": 118,
 "id": "2018SCHU17",
 "best": "3:24.29",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 119,
@@ -20725,8 +20332,7 @@ rankings =
 "rank": 144,
 "id": "2017GEES01",
 "best": "3:52.82",
-"competition": 6674,
-"highlight": 1
+"competition": 6674
 },
 {
 "rank": 145,
@@ -20739,8 +20345,7 @@ rankings =
 "id": "2017THOR06",
 "best": "3:54.11",
 "age": 50,
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 149,
@@ -20765,8 +20370,7 @@ rankings =
 "rank": 153,
 "id": "2019POLL04",
 "best": "3:58.41",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 155,
@@ -20964,7 +20568,6 @@ rankings =
 "competition": 2595
 }
 ],
-"estimate": 209,
 "missing": {
 "world": 57,
 "continents": {
@@ -21033,8 +20636,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "1:45.64",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -21052,8 +20654,7 @@ rankings =
 "rank": 5,
 "id": "2014VIGN02",
 "best": "2:01.19",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 6,
@@ -21089,8 +20690,7 @@ rankings =
 "rank": 16,
 "id": "2018SMIT42",
 "best": "3:00.55",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 17,
@@ -21133,8 +20733,7 @@ rankings =
 "rank": 23,
 "id": "2017THOR06",
 "best": "3:54.11",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 24,
@@ -21203,7 +20802,6 @@ rankings =
 "competition": 2308
 }
 ],
-"estimate": 40,
 "missing": {
 "world": 11,
 "continents": {
@@ -21242,7 +20840,6 @@ rankings =
 "competition": 3670
 }
 ],
-"estimate": 2,
 "missing": {
 "world": 1,
 "continents": {
@@ -21299,15 +20896,13 @@ rankings =
 "rank": 7,
 "id": "2016HOUG03",
 "best": "1:53.32",
-"competition": 6639,
-"highlight": 1
+"competition": 6639
 },
 {
 "rank": 8,
 "id": "2015NICH04",
 "best": "1:53.88",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 9,
@@ -21331,8 +20926,7 @@ rankings =
 "rank": 12,
 "id": "2014GOME07",
 "best": "1:59.24",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 13,
@@ -21356,8 +20950,7 @@ rankings =
 "rank": 16,
 "id": "2016CRUZ16",
 "best": "2:06.40",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 18,
@@ -21381,8 +20974,7 @@ rankings =
 "rank": 21,
 "id": "2015GEOR02",
 "best": "2:11.26",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 22,
@@ -21401,8 +20993,7 @@ rankings =
 "rank": 24,
 "id": "2016BORR02",
 "best": "2:14.16",
-"competition": 6561,
-"highlight": 1
+"competition": 6561
 },
 {
 "rank": 25,
@@ -21475,8 +21066,7 @@ rankings =
 "rank": 37,
 "id": "2018CHOI09",
 "best": "2:29.60",
-"competition": 6720,
-"highlight": 1
+"competition": 6720
 },
 {
 "rank": 38,
@@ -21500,8 +21090,7 @@ rankings =
 "rank": 43,
 "id": "2010SOHT01",
 "best": "2:37.71",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 44,
@@ -21519,8 +21108,7 @@ rankings =
 "rank": 46,
 "id": "2019SANO01",
 "best": "2:43.71",
-"competition": 6578,
-"highlight": 1
+"competition": 6578
 },
 {
 "rank": 48,
@@ -21599,8 +21187,7 @@ rankings =
 "rank": 64,
 "id": "2017ASMU01",
 "best": "3:06.89",
-"competition": 6779,
-"highlight": 1
+"competition": 6779
 },
 {
 "rank": 65,
@@ -21630,8 +21217,7 @@ rankings =
 "rank": 69,
 "id": "2009ZBIE01",
 "best": "3:13.81",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 70,
@@ -21649,8 +21235,7 @@ rankings =
 "rank": 72,
 "id": "2010WENS01",
 "best": "3:25.38",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 73,
@@ -21860,7 +21445,6 @@ rankings =
 "competition": 1953
 }
 ],
-"estimate": 115,
 "missing": {
 "world": 19,
 "continents": {
@@ -21922,8 +21506,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "1:52.87",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -21947,8 +21530,7 @@ rankings =
 "rank": 7,
 "id": "2003DENN01",
 "best": "2:42.88",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 8,
@@ -22012,7 +21594,6 @@ rankings =
 "competition": 1953
 }
 ],
-"estimate": 20,
 "missing": {
 "world": 4,
 "continents": {
@@ -22048,7 +21629,6 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -22165,15 +21745,13 @@ rankings =
 "rank": 17,
 "id": "2017LAWR04",
 "best": "4:03.75",
-"competition": 6495,
-"highlight": 1
+"competition": 6495
 },
 {
 "rank": 18,
 "id": "2016CRUZ16",
 "best": "4:05.23",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 19,
@@ -22191,8 +21769,7 @@ rankings =
 "rank": 23,
 "id": "2010SOHT01",
 "best": "4:21.83",
-"competition": 6571,
-"highlight": 1
+"competition": 6571
 },
 {
 "rank": 24,
@@ -22224,15 +21801,13 @@ rankings =
 "rank": 28,
 "id": "2009TIRA01",
 "best": "4:29.26",
-"competition": 6561,
-"highlight": 1
+"competition": 6561
 },
 {
 "rank": 30,
 "id": "2017HART06",
 "best": "4:30.43",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 32,
@@ -22262,8 +21837,7 @@ rankings =
 "rank": 37,
 "id": "2014GOME07",
 "best": "4:48.64",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 38,
@@ -22337,8 +21911,7 @@ rankings =
 "rank": 51,
 "id": "2016LECO01",
 "best": "5:42.02",
-"competition": 6490,
-"highlight": 1
+"competition": 6490
 },
 {
 "rank": 52,
@@ -22356,8 +21929,7 @@ rankings =
 "rank": 54,
 "id": "2006PIRZ01",
 "best": "5:53.82",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 55,
@@ -22375,8 +21947,7 @@ rankings =
 "rank": 57,
 "id": "2018CUME02",
 "best": "5:58.82",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 58,
@@ -22432,8 +22003,7 @@ rankings =
 "rank": 70,
 "id": "2017BONI01",
 "best": "6:44.42",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 71,
@@ -22514,8 +22084,7 @@ rankings =
 "rank": 84,
 "id": "2016COUL01",
 "best": "8:32.29",
-"competition": 6500,
-"highlight": 1
+"competition": 6500
 },
 {
 "rank": 85,
@@ -22544,7 +22113,6 @@ rankings =
 "competition": 457
 }
 ],
-"estimate": 89,
 "missing": {
 "world": 14,
 "continents": {
@@ -22599,8 +22167,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "3:26.73",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -22688,7 +22255,6 @@ rankings =
 "competition": 2350
 }
 ],
-"estimate": 17,
 "missing": {
 "world": 1,
 "continents": {
@@ -22718,7 +22284,6 @@ rankings =
 "competition": 3670
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -22749,8 +22314,7 @@ rankings =
 "rank": 3,
 "id": "2010STAS01",
 "best": "3:19.14",
-"competition": 6775,
-"highlight": 1
+"competition": 6775
 },
 {
 "rank": 4,
@@ -22854,8 +22418,7 @@ rankings =
 "rank": 21,
 "id": "2010SOHT01",
 "best": "4:49.46",
-"competition": 6571,
-"highlight": 1
+"competition": 6571
 },
 {
 "rank": 22,
@@ -23005,7 +22568,6 @@ rankings =
 "competition": 970
 }
 ],
-"estimate": 48,
 "missing": {
 "world": 4,
 "continents": {
@@ -23054,8 +22616,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "3:38.52",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -23082,7 +22643,6 @@ rankings =
 "competition": 5604
 }
 ],
-"estimate": 7,
 "missing": {
 "world": 1,
 "continents": {
@@ -23204,8 +22764,7 @@ rankings =
 "rank": 17,
 "id": "2017HART06",
 "best": "5:58.74",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 18,
@@ -23507,7 +23066,6 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 75,
 "missing": {
 "world": 11,
 "continents": {
@@ -23556,8 +23114,7 @@ rankings =
 "rank": 1,
 "id": "2011WRIG01",
 "best": "5:21.68",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 2,
@@ -23639,7 +23196,6 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 15,
 "missing": {
 "world": 1,
 "continents": {
@@ -23669,7 +23225,6 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -23736,8 +23291,7 @@ rankings =
 "rank": 9,
 "id": "2015NICH04",
 "best": "5:43.63",
-"competition": 6503,
-"highlight": 1
+"competition": 6503
 },
 {
 "rank": 10,
@@ -23780,8 +23334,7 @@ rankings =
 "rank": 16,
 "id": "2017HART06",
 "best": "6:17.01",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 17,
@@ -23894,7 +23447,6 @@ rankings =
 "competition": 765
 }
 ],
-"estimate": 35,
 "missing": {
 "world": 1,
 "continents": {
@@ -23936,8 +23488,7 @@ rankings =
 "rank": 1,
 "id": "2011WRIG01",
 "best": "5:35.86",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 2,
@@ -23958,7 +23509,6 @@ rankings =
 "competition": 1249
 }
 ],
-"estimate": 4,
 "missing": {
 "world": 0,
 "continents": {
@@ -23993,8 +23543,7 @@ rankings =
 "rank": 2,
 "id": "2015PARK24",
 "best": "46.73",
-"competition": 6523,
-"highlight": 1
+"competition": 6523
 },
 {
 "rank": 3,
@@ -24032,8 +23581,7 @@ rankings =
 "rank": 8,
 "id": "2016AMBE02",
 "best": "1:01.41",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 9,
@@ -24070,8 +23618,7 @@ rankings =
 "rank": 15,
 "id": "2015ADAM03",
 "best": "1:15.13",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 16,
@@ -24083,15 +23630,13 @@ rankings =
 "rank": 17,
 "id": "2019ROCH03",
 "best": "1:25.42",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 18,
 "id": "2017KOST06",
 "best": "1:27.62",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 19,
@@ -24140,8 +23685,7 @@ rankings =
 "rank": 27,
 "id": "2015HARR03",
 "best": "1:47.82",
-"competition": 6737,
-"highlight": 1
+"competition": 6737
 },
 {
 "rank": 28,
@@ -24178,8 +23722,7 @@ rankings =
 "rank": 35,
 "id": "2015NICH04",
 "best": "2:05.00",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 36,
@@ -24234,8 +23777,7 @@ rankings =
 "rank": 46,
 "id": "2017LAWR04",
 "best": "2:31.02",
-"competition": 6519,
-"highlight": 1
+"competition": 6519
 },
 {
 "rank": 47,
@@ -24254,15 +23796,13 @@ rankings =
 "id": "2016CHOW03",
 "best": "2:34.02",
 "age": 50,
-"competition": 6592,
-"highlight": 1
+"competition": 6592
 },
 {
 "rank": 50,
 "id": "2017JANS02",
 "best": "2:41.85",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 52,
@@ -24305,8 +23845,7 @@ rankings =
 "rank": 58,
 "id": "2014GOME07",
 "best": "2:55.38",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 59,
@@ -24343,8 +23882,7 @@ rankings =
 "id": "2017ROSS10",
 "best": "3:21.09",
 "age": 50,
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 67,
@@ -24381,15 +23919,13 @@ rankings =
 "rank": 73,
 "id": "2010COAT01",
 "best": "3:29.59",
-"competition": 6635,
-"highlight": 1
+"competition": 6635
 },
 {
 "rank": 74,
 "id": "2012HAMA02",
 "best": "3:37.78",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 75,
@@ -24432,8 +23968,7 @@ rankings =
 "rank": 88,
 "id": "2018SALM01",
 "best": "4:30.65",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 89,
@@ -24469,15 +24004,13 @@ rankings =
 "rank": 106,
 "id": "2015LOPE29",
 "best": "5:47.50",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 107,
 "id": "2009ZBIE01",
 "best": "5:49.71",
-"competition": 6606,
-"highlight": 1
+"competition": 6606
 },
 {
 "rank": 110,
@@ -24520,8 +24053,7 @@ rankings =
 "rank": 119,
 "id": "2010SOHT01",
 "best": "6:21.57",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 121,
@@ -24591,8 +24123,7 @@ rankings =
 "rank": 137,
 "id": "2018SEMO01",
 "best": "9:39.67",
-"competition": 6593,
-"highlight": 1
+"competition": 6593
 },
 {
 "rank": 138,
@@ -24633,7 +24164,6 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 145,
 "missing": {
 "world": 43,
 "continents": {
@@ -24727,8 +24257,7 @@ rankings =
 "rank": 7,
 "id": "2016CHOW03",
 "best": "2:34.02",
-"competition": 6592,
-"highlight": 1
+"competition": 6592
 },
 {
 "rank": 8,
@@ -24746,15 +24275,13 @@ rankings =
 "rank": 10,
 "id": "2016KRUE03",
 "best": "3:16.28",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 },
 {
 "rank": 11,
 "id": "2017ROSS10",
 "best": "3:21.09",
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 12,
@@ -24836,7 +24363,6 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 27,
 "missing": {
 "world": 3,
 "continents": {
@@ -24880,7 +24406,6 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 2,
 "missing": {
 "world": 0,
 "continents": {
@@ -24905,7 +24430,6 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -24927,7 +24451,6 @@ rankings =
 "competition": 2141
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -24971,8 +24494,7 @@ rankings =
 "rank": 5,
 "id": "2015PARK24",
 "best": "1:07.05",
-"competition": 6546,
-"highlight": 1
+"competition": 6546
 },
 {
 "rank": 6,
@@ -25003,8 +24525,7 @@ rankings =
 "rank": 10,
 "id": "2016AMBE02",
 "best": "1:27.87",
-"competition": 6608,
-"highlight": 1
+"competition": 6608
 },
 {
 "rank": 11,
@@ -25028,8 +24549,7 @@ rankings =
 "rank": 15,
 "id": "2017KOST06",
 "best": "2:05.76",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 16,
@@ -25157,8 +24677,7 @@ rankings =
 "id": "2017ROSS10",
 "best": "3:54.55",
 "age": 50,
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 40,
@@ -25212,7 +24731,6 @@ rankings =
 "competition": 396
 }
 ],
-"estimate": 50,
 "missing": {
 "world": 7,
 "continents": {
@@ -25279,8 +24797,7 @@ rankings =
 "rank": 5,
 "id": "2017ROSS10",
 "best": "3:54.55",
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 6,
@@ -25307,7 +24824,6 @@ rankings =
 "competition": 396
 }
 ],
-"estimate": 11,
 "missing": {
 "world": 2,
 "continents": {
@@ -25338,7 +24854,6 @@ rankings =
 "competition": 3351
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -25376,8 +24891,7 @@ rankings =
 "rank": 3,
 "id": "2017LAWR04",
 "best": "23",
-"competition": 6519,
-"highlight": 1
+"competition": 6519
 },
 {
 "rank": 4,
@@ -25525,8 +25039,7 @@ rankings =
 "rank": 24,
 "id": "2014ISHI01",
 "best": "31",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 30,
@@ -25686,15 +25199,13 @@ rankings =
 "rank": 56,
 "id": "2011YOSH01",
 "best": "43",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 61,
 "id": "2017REZH01",
 "best": "44",
-"competition": 6711,
-"highlight": 1
+"competition": 6711
 },
 {
 "rank": 61,
@@ -25750,8 +25261,7 @@ rankings =
 "rank": 70,
 "id": "2007YULH01",
 "best": "47",
-"competition": 6620,
-"highlight": 1
+"competition": 6620
 },
 {
 "rank": 74,
@@ -25775,8 +25285,7 @@ rankings =
 "rank": 74,
 "id": "2016UMET02",
 "best": "48",
-"competition": 6620,
-"highlight": 1
+"competition": 6620
 },
 {
 "rank": 74,
@@ -25818,8 +25327,7 @@ rankings =
 "rank": 84,
 "id": "2017BONI01",
 "best": "52",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 87,
@@ -25946,7 +25454,6 @@ rankings =
 "competition": 4443
 }
 ],
-"estimate": 111,
 "missing": {
 "world": 17,
 "continents": {
@@ -26120,7 +25627,6 @@ rankings =
 "competition": 4027
 }
 ],
-"estimate": 24,
 "missing": {
 "world": 3,
 "continents": {
@@ -26157,7 +25663,6 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -26320,8 +25825,7 @@ rankings =
 "rank": 26,
 "id": "2010WENS01",
 "best": "39.00",
-"competition": 6571,
-"highlight": 1
+"competition": 6571
 },
 {
 "rank": 27,
@@ -26359,8 +25863,7 @@ rankings =
 "rank": 32,
 "id": "2017REZH01",
 "best": "46.67",
-"competition": 6711,
-"highlight": 1
+"competition": 6711
 },
 {
 "rank": 33,
@@ -26390,15 +25893,13 @@ rankings =
 "rank": 37,
 "id": "2016UMET02",
 "best": "49.67",
-"competition": 6620,
-"highlight": 1
+"competition": 6620
 },
 {
 "rank": 38,
 "id": "2007YULH01",
 "best": "50.67",
-"competition": 6620,
-"highlight": 1
+"competition": 6620
 },
 {
 "rank": 42,
@@ -26443,7 +25944,6 @@ rankings =
 "competition": 2182
 }
 ],
-"estimate": 50,
 "missing": {
 "world": 7,
 "continents": {
@@ -26548,7 +26048,6 @@ rankings =
 "competition": 4904
 }
 ],
-"estimate": 13,
 "missing": {
 "world": 2,
 "continents": {
@@ -26607,8 +26106,7 @@ rankings =
 "rank": 5,
 "id": "2010HEIL02",
 "best": "20.58",
-"competition": 6692,
-"highlight": 1
+"competition": 6692
 },
 {
 "rank": 6,
@@ -26645,8 +26143,7 @@ rankings =
 "rank": 11,
 "id": "2005KOSE01",
 "best": "23.26",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 12,
@@ -26658,8 +26155,7 @@ rankings =
 "rank": 13,
 "id": "2016LASC01",
 "best": "23.74",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 14,
@@ -26683,8 +26179,7 @@ rankings =
 "rank": 18,
 "id": "2011BOIS01",
 "best": "25.93",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 19,
@@ -26787,8 +26282,7 @@ rankings =
 "rank": 40,
 "id": "2016COUL01",
 "best": "29.49",
-"competition": 6749,
-"highlight": 1
+"competition": 6749
 },
 {
 "rank": 41,
@@ -26830,8 +26324,7 @@ rankings =
 "rank": 48,
 "id": "2015NICH04",
 "best": "32.02",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 49,
@@ -26904,15 +26397,13 @@ rankings =
 "rank": 66,
 "id": "2011LUCI01",
 "best": "36.92",
-"competition": 6542,
-"highlight": 1
+"competition": 6542
 },
 {
 "rank": 67,
 "id": "2010SOHT01",
 "best": "36.99",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 69,
@@ -26955,8 +26446,7 @@ rankings =
 "id": "2005ASPE01",
 "best": "37.99",
 "age": 50,
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 77,
@@ -27053,8 +26543,7 @@ rankings =
 "rank": 96,
 "id": "2017HART06",
 "best": "41.85",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 98,
@@ -27067,8 +26556,7 @@ rankings =
 "id": "2019BLAC02",
 "best": "42.12",
 "age": 50,
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 100,
@@ -27178,8 +26666,7 @@ rankings =
 "rank": 122,
 "id": "2017TABA02",
 "best": "49.06",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 123,
@@ -27197,8 +26684,7 @@ rankings =
 "rank": 126,
 "id": "2017BONI01",
 "best": "51.23",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 127,
@@ -27241,8 +26727,7 @@ rankings =
 "rank": 135,
 "id": "2018SCHU17",
 "best": "54.55",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 136,
@@ -27273,8 +26758,7 @@ rankings =
 "rank": 140,
 "id": "2011YOSH01",
 "best": "55.81",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 141,
@@ -27355,8 +26839,7 @@ rankings =
 "rank": 160,
 "id": "2019BOXD03",
 "best": "1:05.46",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 161,
@@ -27386,8 +26869,7 @@ rankings =
 "rank": 167,
 "id": "2018BART01",
 "best": "1:07.10",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 170,
@@ -27496,8 +26978,7 @@ rankings =
 "rank": 202,
 "id": "2017DAOU01",
 "best": "1:50.05",
-"competition": 6497,
-"highlight": 1
+"competition": 6497
 },
 {
 "rank": 205,
@@ -27545,7 +27026,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 225,
 "missing": {
 "world": 71,
 "continents": {
@@ -27624,8 +27104,7 @@ rankings =
 "rank": 5,
 "id": "2011WRIG01",
 "best": "31.81",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 6,
@@ -27643,8 +27122,7 @@ rankings =
 "rank": 8,
 "id": "2005ASPE01",
 "best": "37.99",
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 10,
@@ -27656,8 +27134,7 @@ rankings =
 "rank": 11,
 "id": "2019BLAC02",
 "best": "42.12",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 12,
@@ -27789,7 +27266,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 45,
 "missing": {
 "world": 15,
 "continents": {
@@ -27841,7 +27317,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 4,
 "missing": {
 "world": 1,
 "continents": {
@@ -27858,7 +27333,6 @@ rankings =
 "type": "single",
 "age": 70,
 "ranks": [],
-"estimate": 1,
 "missing": {
 "world": 1,
 "continents": {
@@ -27901,8 +27375,7 @@ rankings =
 "rank": 5,
 "id": "2010HEIL02",
 "best": "26.77",
-"competition": 6692,
-"highlight": 1
+"competition": 6692
 },
 {
 "rank": 6,
@@ -27944,8 +27417,7 @@ rankings =
 "rank": 13,
 "id": "2011BOIS01",
 "best": "31.35",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 14,
@@ -28031,8 +27503,7 @@ rankings =
 "rank": 30,
 "id": "2016LASC01",
 "best": "35.37",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 33,
@@ -28056,8 +27527,7 @@ rankings =
 "rank": 37,
 "id": "2016COUL01",
 "best": "37.34",
-"competition": 6749,
-"highlight": 1
+"competition": 6749
 },
 {
 "rank": 38,
@@ -28095,8 +27565,7 @@ rankings =
 "rank": 43,
 "id": "2017REZH01",
 "best": "39.05",
-"competition": 6556,
-"highlight": 1
+"competition": 6556
 },
 {
 "rank": 44,
@@ -28126,15 +27595,13 @@ rankings =
 "rank": 48,
 "id": "2015NICH04",
 "best": "40.30",
-"competition": 6776,
-"highlight": 1
+"competition": 6776
 },
 {
 "rank": 49,
 "id": "2016LECO01",
 "best": "40.40",
-"competition": 6490,
-"highlight": 1
+"competition": 6490
 },
 {
 "rank": 50,
@@ -28332,8 +27799,7 @@ rankings =
 "rank": 92,
 "id": "2011LUCI01",
 "best": "52.38",
-"competition": 6542,
-"highlight": 1
+"competition": 6542
 },
 {
 "rank": 94,
@@ -28347,16 +27813,14 @@ rankings =
 "id": "2005ASPE01",
 "best": "52.82",
 "age": 50,
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 96,
 "id": "2019BLAC02",
 "best": "52.90",
 "age": 50,
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 98,
@@ -28429,8 +27893,7 @@ rankings =
 "rank": 115,
 "id": "2017TABA02",
 "best": "1:02.78",
-"competition": 6555,
-"highlight": 1
+"competition": 6555
 },
 {
 "rank": 116,
@@ -28455,8 +27918,7 @@ rankings =
 "rank": 119,
 "id": "2010WENS01",
 "best": "1:08.60",
-"competition": 6634,
-"highlight": 1
+"competition": 6634
 },
 {
 "rank": 120,
@@ -28528,8 +27990,7 @@ rankings =
 "rank": 133,
 "id": "2011YOSH01",
 "best": "1:20.69",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 134,
@@ -28622,7 +28083,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 163,
 "missing": {
 "world": 43,
 "continents": {
@@ -28708,8 +28168,7 @@ rankings =
 "rank": 7,
 "id": "2011WRIG01",
 "best": "39.27",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 11,
@@ -28727,15 +28186,13 @@ rankings =
 "rank": 13,
 "id": "2005ASPE01",
 "best": "52.82",
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 14,
 "id": "2019BLAC02",
 "best": "52.90",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 15,
@@ -28805,7 +28262,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 29,
 "missing": {
 "world": 8,
 "continents": {
@@ -28842,7 +28298,6 @@ rankings =
 "competition": 516
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -28954,8 +28409,7 @@ rankings =
 "id": "2012RONK01",
 "best": "11.24",
 "age": 50,
-"competition": 6790,
-"highlight": 1
+"competition": 6790
 },
 {
 "rank": 20,
@@ -29011,8 +28465,7 @@ rankings =
 "id": "2016FRIS02",
 "best": "14.07",
 "age": 50,
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 30,
@@ -29203,8 +28656,7 @@ rankings =
 "rank": 64,
 "id": "2017DAOU01",
 "best": "22.32",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 65,
@@ -29222,8 +28674,7 @@ rankings =
 "rank": 74,
 "id": "2019POLL04",
 "best": "24.46",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 75,
@@ -29289,8 +28740,7 @@ rankings =
 "rank": 89,
 "id": "2017FREG01",
 "best": "27.91",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 90,
@@ -29334,8 +28784,7 @@ rankings =
 "id": "2019KUCA01",
 "best": "31.36",
 "age": 50,
-"competition": 6709,
-"highlight": 1
+"competition": 6709
 },
 {
 "rank": 97,
@@ -29360,8 +28809,7 @@ rankings =
 "rank": 104,
 "id": "2017REZH01",
 "best": "33.99",
-"competition": 6711,
-"highlight": 1
+"competition": 6711
 },
 {
 "rank": 106,
@@ -29398,23 +28846,20 @@ rankings =
 "rank": 113,
 "id": "2018SCHU17",
 "best": "38.28",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 115,
 "id": "2013BINI01",
 "best": "40.50",
 "age": 50,
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 116,
 "id": "2012PETR01",
 "best": "41.01",
-"competition": 6612,
-"highlight": 1
+"competition": 6612
 },
 {
 "rank": 118,
@@ -29495,7 +28940,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 136,
 "missing": {
 "world": 36,
 "continents": {
@@ -29561,8 +29005,7 @@ rankings =
 "rank": 3,
 "id": "2012RONK01",
 "best": "11.24",
-"competition": 6790,
-"highlight": 1
+"competition": 6790
 },
 {
 "rank": 5,
@@ -29574,8 +29017,7 @@ rankings =
 "rank": 6,
 "id": "2016FRIS02",
 "best": "14.07",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 7,
@@ -29617,8 +29059,7 @@ rankings =
 "rank": 13,
 "id": "2016GOSL01",
 "best": "21.17",
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 14,
@@ -29648,8 +29089,7 @@ rankings =
 "rank": 19,
 "id": "2019KUCA01",
 "best": "31.36",
-"competition": 6709,
-"highlight": 1
+"competition": 6709
 },
 {
 "rank": 20,
@@ -29668,8 +29108,7 @@ rankings =
 "rank": 24,
 "id": "2013BINI01",
 "best": "40.50",
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 25,
@@ -29710,7 +29149,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 31,
 "missing": {
 "world": 5,
 "continents": {
@@ -29760,7 +29198,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 3,
 "missing": {
 "world": 0,
 "continents": {
@@ -29784,7 +29221,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -29876,8 +29312,7 @@ rankings =
 "rank": 15,
 "id": "2015NICH04",
 "best": "12.66",
-"competition": 6639,
-"highlight": 1
+"competition": 6639
 },
 {
 "rank": 18,
@@ -29927,8 +29362,7 @@ rankings =
 "id": "2012RONK01",
 "best": "14.60",
 "age": 50,
-"competition": 6790,
-"highlight": 1
+"competition": 6790
 },
 {
 "rank": 26,
@@ -29941,8 +29375,7 @@ rankings =
 "id": "2016FRIS02",
 "best": "16.45",
 "age": 50,
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 29,
@@ -30035,8 +29468,7 @@ rankings =
 "id": "2017HART11",
 "best": "21.39",
 "age": 50,
-"competition": 6575,
-"highlight": 1
+"competition": 6575
 },
 {
 "rank": 46,
@@ -30066,8 +29498,7 @@ rankings =
 "rank": 51,
 "id": "2014RIEM01",
 "best": "23.11",
-"competition": 6598,
-"highlight": 1
+"competition": 6598
 },
 {
 "rank": 52,
@@ -30104,8 +29535,7 @@ rankings =
 "rank": 57,
 "id": "2017DAOU01",
 "best": "25.36",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 60,
@@ -30178,16 +29608,14 @@ rankings =
 "rank": 73,
 "id": "2017FREG01",
 "best": "32.77",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 74,
 "id": "2019KUCA01",
 "best": "33.17",
 "age": 50,
-"competition": 6709,
-"highlight": 1
+"competition": 6709
 },
 {
 "rank": 75,
@@ -30246,8 +29674,7 @@ rankings =
 "id": "2013BINI01",
 "best": "42.62",
 "age": 50,
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 86,
@@ -30271,8 +29698,7 @@ rankings =
 "rank": 90,
 "id": "2012PETR01",
 "best": "48.66",
-"competition": 6612,
-"highlight": 1
+"competition": 6612
 },
 {
 "rank": 91,
@@ -30305,8 +29731,7 @@ rankings =
 "rank": 97,
 "id": "2016COUL01",
 "best": "1:23.70",
-"competition": 6500,
-"highlight": 1
+"competition": 6500
 },
 {
 "rank": 98,
@@ -30316,7 +29741,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 99,
 "missing": {
 "world": 18,
 "continents": {
@@ -30380,15 +29804,13 @@ rankings =
 "rank": 4,
 "id": "2012RONK01",
 "best": "14.60",
-"competition": 6790,
-"highlight": 1
+"competition": 6790
 },
 {
 "rank": 6,
 "id": "2016FRIS02",
 "best": "16.45",
-"competition": 6743,
-"highlight": 1
+"competition": 6743
 },
 {
 "rank": 7,
@@ -30412,8 +29834,7 @@ rankings =
 "rank": 10,
 "id": "2017HART11",
 "best": "21.39",
-"competition": 6575,
-"highlight": 1
+"competition": 6575
 },
 {
 "rank": 11,
@@ -30437,8 +29858,7 @@ rankings =
 "rank": 14,
 "id": "2019KUCA01",
 "best": "33.17",
-"competition": 6709,
-"highlight": 1
+"competition": 6709
 },
 {
 "rank": 15,
@@ -30475,8 +29895,7 @@ rankings =
 "rank": 21,
 "id": "2013BINI01",
 "best": "42.62",
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 22,
@@ -30505,7 +29924,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 26,
 "missing": {
 "world": 3,
 "continents": {
@@ -30553,7 +29971,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 3,
 "missing": {
 "world": 0,
 "continents": {
@@ -30577,7 +29994,6 @@ rankings =
 "competition": 6115
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -30658,8 +30074,7 @@ rankings =
 "rank": 10,
 "id": "2017HART06",
 "best": "1:43.23",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 11,
@@ -30707,8 +30122,7 @@ rankings =
 "rank": 19,
 "id": "2014GOME07",
 "best": "2:11.35",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 21,
@@ -30720,15 +30134,13 @@ rankings =
 "rank": 22,
 "id": "2016AMBE02",
 "best": "2:16.71",
-"competition": 6608,
-"highlight": 1
+"competition": 6608
 },
 {
 "rank": 22,
 "id": "2017LAWR04",
 "best": "2:16.71",
-"competition": 6495,
-"highlight": 1
+"competition": 6495
 },
 {
 "rank": 24,
@@ -30783,8 +30195,7 @@ rankings =
 "rank": 35,
 "id": "2009ZBIE01",
 "best": "2:43.05",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 36,
@@ -30803,8 +30214,7 @@ rankings =
 "rank": 38,
 "id": "2016LECO01",
 "best": "2:54.26",
-"competition": 6490,
-"highlight": 1
+"competition": 6490
 },
 {
 "rank": 39,
@@ -30902,8 +30312,7 @@ rankings =
 "rank": 55,
 "id": "2016COUL01",
 "best": "3:38.05",
-"competition": 6749,
-"highlight": 1
+"competition": 6749
 },
 {
 "rank": 56,
@@ -30921,8 +30330,7 @@ rankings =
 "rank": 60,
 "id": "2017NOVA05",
 "best": "3:55.65",
-"competition": 6726,
-"highlight": 1
+"competition": 6726
 },
 {
 "rank": 62,
@@ -31044,7 +30452,6 @@ rankings =
 "competition": 2222
 }
 ],
-"estimate": 90,
 "missing": {
 "world": 19,
 "continents": {
@@ -31097,8 +30504,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "2:11.17",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -31162,7 +30568,6 @@ rankings =
 "competition": 271
 }
 ],
-"estimate": 13,
 "missing": {
 "world": 1,
 "continents": {
@@ -31192,7 +30597,6 @@ rankings =
 "competition": 2611
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -31284,8 +30688,7 @@ rankings =
 "rank": 13,
 "id": "2017HART06",
 "best": "2:10.90",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 14,
@@ -31303,8 +30706,7 @@ rankings =
 "rank": 16,
 "id": "2017LAWR04",
 "best": "2:24.66",
-"competition": 6495,
-"highlight": 1
+"competition": 6495
 },
 {
 "rank": 17,
@@ -31316,8 +30718,7 @@ rankings =
 "rank": 18,
 "id": "2014GOME07",
 "best": "2:29.44",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 20,
@@ -31479,7 +30880,6 @@ rankings =
 "competition": 258
 }
 ],
-"estimate": 52,
 "missing": {
 "world": 8,
 "continents": {
@@ -31527,8 +30927,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "2:18.18",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -31555,7 +30954,6 @@ rankings =
 "competition": 5073
 }
 ],
-"estimate": 6,
 "missing": {
 "world": 0,
 "continents": {
@@ -31690,8 +31088,7 @@ rankings =
 "rank": 20,
 "id": "2016CORD01",
 "best": "5.39",
-"competition": 6600,
-"highlight": 1
+"competition": 6600
 },
 {
 "rank": 21,
@@ -31939,8 +31336,7 @@ rankings =
 "rank": 76,
 "id": "2011BOIS01",
 "best": "8.08",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 77,
@@ -31954,8 +31350,7 @@ rankings =
 "id": "2005ASPE01",
 "best": "8.10",
 "age": 50,
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 79,
@@ -32012,8 +31407,7 @@ rankings =
 "id": "2017THOR06",
 "best": "8.34",
 "age": 50,
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 92,
@@ -32075,15 +31469,13 @@ rankings =
 "rank": 105,
 "id": "2017REZH01",
 "best": "8.88",
-"competition": 6629,
-"highlight": 1
+"competition": 6629
 },
 {
 "rank": 106,
 "id": "2017ASMU01",
 "best": "8.89",
-"competition": 6574,
-"highlight": 1
+"competition": 6574
 },
 {
 "rank": 108,
@@ -32133,15 +31525,13 @@ rankings =
 "id": "2018BENN01",
 "best": "9.22",
 "age": 50,
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 120,
 "id": "2018SCHU17",
 "best": "9.26",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 122,
@@ -32204,8 +31594,7 @@ rankings =
 "id": "2018SMIT42",
 "best": "10.23",
 "age": 50,
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 140,
@@ -32230,8 +31619,7 @@ rankings =
 "id": "2017ROSS10",
 "best": "10.40",
 "age": 50,
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 147,
@@ -32287,8 +31675,7 @@ rankings =
 "rank": 164,
 "id": "2016BREW04",
 "best": "11.00",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 166,
@@ -32343,8 +31730,7 @@ rankings =
 "id": "2019SLES02",
 "best": "11.52",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 176,
@@ -32356,8 +31742,7 @@ rankings =
 "rank": 178,
 "id": "2019SZYM02",
 "best": "11.65",
-"competition": 6532,
-"highlight": 1
+"competition": 6532
 },
 {
 "rank": 179,
@@ -32393,8 +31778,7 @@ rankings =
 "rank": 187,
 "id": "2019CHIE01",
 "best": "11.89",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 188,
@@ -32558,8 +31942,7 @@ rankings =
 "rank": 234,
 "id": "2018CHOD01",
 "best": "13.64",
-"competition": 6691,
-"highlight": 1
+"competition": 6691
 },
 {
 "rank": 237,
@@ -32603,8 +31986,7 @@ rankings =
 "rank": 254,
 "id": "2017THOR05",
 "best": "14.86",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 255,
@@ -32705,8 +32087,7 @@ rankings =
 "rank": 288,
 "id": "2019BOXD03",
 "best": "16.86",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 290,
@@ -32947,7 +32328,6 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 447,
 "missing": {
 "world": 230,
 "continents": {
@@ -33068,8 +32448,7 @@ rankings =
 "rank": 11,
 "id": "2005ASPE01",
 "best": "8.10",
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 12,
@@ -33087,8 +32466,7 @@ rankings =
 "rank": 14,
 "id": "2017THOR06",
 "best": "8.34",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 15,
@@ -33118,8 +32496,7 @@ rankings =
 "rank": 23,
 "id": "2018BENN01",
 "best": "9.22",
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 24,
@@ -33144,15 +32521,13 @@ rankings =
 "rank": 28,
 "id": "2018SMIT42",
 "best": "10.23",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 30,
 "id": "2017ROSS10",
 "best": "10.40",
-"competition": 6633,
-"highlight": 1
+"competition": 6633
 },
 {
 "rank": 32,
@@ -33170,8 +32545,7 @@ rankings =
 "rank": 37,
 "id": "2019SLES02",
 "best": "11.52",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 39,
@@ -33268,8 +32642,7 @@ rankings =
 "rank": 72,
 "id": "2016GOSL01",
 "best": "21.24",
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 74,
@@ -33350,7 +32723,6 @@ rankings =
 "competition": 3967
 }
 ],
-"estimate": 108,
 "missing": {
 "world": 55,
 "continents": {
@@ -33447,7 +32819,6 @@ rankings =
 "competition": 3967
 }
 ],
-"estimate": 13,
 "missing": {
 "world": 5,
 "continents": {
@@ -33489,7 +32860,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 5,
 "missing": {
 "world": 2,
 "continents": {
@@ -33510,7 +32880,6 @@ rankings =
 "type": "single",
 "age": 80,
 "ranks": [],
-"estimate": 1,
 "missing": {
 "world": 1,
 "continents": {
@@ -33656,8 +33025,7 @@ rankings =
 "rank": 29,
 "id": "2017KITA01",
 "best": "9.06",
-"competition": 6722,
-"highlight": 1
+"competition": 6722
 },
 {
 "rank": 30,
@@ -33669,8 +33037,7 @@ rankings =
 "rank": 32,
 "id": "2016MUTH05",
 "best": "9.27",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 34,
@@ -33803,8 +33170,7 @@ rankings =
 "rank": 58,
 "id": "2017ASMU01",
 "best": "11.36",
-"competition": 6574,
-"highlight": 1
+"competition": 6574
 },
 {
 "rank": 61,
@@ -33842,8 +33208,7 @@ rankings =
 "id": "2017THOR06",
 "best": "11.69",
 "age": 50,
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 69,
@@ -33880,8 +33245,7 @@ rankings =
 "rank": 81,
 "id": "2011BOIS01",
 "best": "12.21",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 83,
@@ -33913,8 +33277,7 @@ rankings =
 "id": "2018SMIT42",
 "best": "12.77",
 "age": 50,
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 91,
@@ -33951,8 +33314,7 @@ rankings =
 "rank": 99,
 "id": "2016CRUZ16",
 "best": "13.22",
-"competition": 6782,
-"highlight": 1
+"competition": 6782
 },
 {
 "rank": 101,
@@ -33983,8 +33345,7 @@ rankings =
 "rank": 107,
 "id": "2018SCHU17",
 "best": "13.56",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 108,
@@ -34021,8 +33382,7 @@ rankings =
 "rank": 113,
 "id": "2017REZH01",
 "best": "13.81",
-"competition": 6629,
-"highlight": 1
+"competition": 6629
 },
 {
 "rank": 115,
@@ -34097,8 +33457,7 @@ rankings =
 "rank": 132,
 "id": "2019SZYM02",
 "best": "14.79",
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 133,
@@ -34177,8 +33536,7 @@ rankings =
 "id": "2005ASPE01",
 "best": "15.94",
 "age": 50,
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 153,
@@ -34209,8 +33567,7 @@ rankings =
 "rank": 161,
 "id": "2017NOVA05",
 "best": "16.23",
-"competition": 6726,
-"highlight": 1
+"competition": 6726
 },
 {
 "rank": 162,
@@ -34292,8 +33649,7 @@ rankings =
 "rank": 182,
 "id": "2016BREW04",
 "best": "17.31",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 184,
@@ -34372,8 +33728,7 @@ rankings =
 "rank": 208,
 "id": "2019CHIE01",
 "best": "18.61",
-"competition": 6545,
-"highlight": 1
+"competition": 6545
 },
 {
 "rank": 209,
@@ -34385,15 +33740,13 @@ rankings =
 "rank": 209,
 "id": "2017THOR05",
 "best": "18.62",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 209,
 "id": "2017GEES01",
 "best": "18.62",
-"competition": 6752,
-"highlight": 1
+"competition": 6752
 },
 {
 "rank": 213,
@@ -34438,8 +33791,7 @@ rankings =
 "rank": 222,
 "id": "2019BOXD03",
 "best": "19.21",
-"competition": 6489,
-"highlight": 1
+"competition": 6489
 },
 {
 "rank": 225,
@@ -34469,8 +33821,7 @@ rankings =
 "rank": 236,
 "id": "2019TURE01",
 "best": "20.05",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 236,
@@ -34494,8 +33845,7 @@ rankings =
 "rank": 243,
 "id": "2018NATH03",
 "best": "20.47",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 244,
@@ -34599,8 +33949,7 @@ rankings =
 "id": "2019SLES02",
 "best": "23.71",
 "age": 50,
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 282,
@@ -34637,8 +33986,7 @@ rankings =
 "rank": 296,
 "id": "2018CHOD01",
 "best": "25.41",
-"competition": 6742,
-"highlight": 1
+"competition": 6742
 },
 {
 "rank": 299,
@@ -34856,7 +34204,6 @@ rankings =
 "competition": 2713
 }
 ],
-"estimate": 412,
 "missing": {
 "world": 201,
 "continents": {
@@ -34976,8 +34323,7 @@ rankings =
 "rank": 12,
 "id": "2017THOR06",
 "best": "11.69",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 13,
@@ -35001,8 +34347,7 @@ rankings =
 "rank": 18,
 "id": "2018SMIT42",
 "best": "12.77",
-"competition": 6657,
-"highlight": 1
+"competition": 6657
 },
 {
 "rank": 19,
@@ -35050,8 +34395,7 @@ rankings =
 "rank": 30,
 "id": "2005ASPE01",
 "best": "15.94",
-"competition": 6740,
-"highlight": 1
+"competition": 6740
 },
 {
 "rank": 31,
@@ -35118,8 +34462,7 @@ rankings =
 "rank": 59,
 "id": "2019SLES02",
 "best": "23.71",
-"competition": 6577,
-"highlight": 1
+"competition": 6577
 },
 {
 "rank": 60,
@@ -35137,8 +34480,7 @@ rankings =
 "rank": 65,
 "id": "2016GOSL01",
 "best": "27.29",
-"competition": 6580,
-"highlight": 1
+"competition": 6580
 },
 {
 "rank": 67,
@@ -35243,7 +34585,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 97,
 "missing": {
 "world": 46,
 "continents": {
@@ -35333,7 +34674,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 8,
 "missing": {
 "world": 1,
 "continents": {
@@ -35372,7 +34712,6 @@ rankings =
 "competition": 6204
 }
 ],
-"estimate": 4,
 "missing": {
 "world": 1,
 "continents": {
@@ -35392,7 +34731,6 @@ rankings =
 "type": "average",
 "age": 80,
 "ranks": [],
-"estimate": 1,
 "missing": {
 "world": 1,
 "continents": {
@@ -35553,8 +34891,7 @@ rankings =
 "rank": 27,
 "id": "2016LASC01",
 "best": "7.00",
-"competition": 6677,
-"highlight": 1
+"competition": 6677
 },
 {
 "rank": 28,
@@ -35597,8 +34934,7 @@ rankings =
 "rank": 37,
 "id": "2016MUTH05",
 "best": "7.71",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 39,
@@ -35695,8 +35031,7 @@ rankings =
 "rank": 61,
 "id": "2009ZBIE01",
 "best": "9.49",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 62,
@@ -35739,8 +35074,7 @@ rankings =
 "rank": 68,
 "id": "2014RIEM01",
 "best": "10.14",
-"competition": 6598,
-"highlight": 1
+"competition": 6598
 },
 {
 "rank": 69,
@@ -35765,8 +35099,7 @@ rankings =
 "id": "2011SALA06",
 "best": "10.31",
 "age": 50,
-"competition": 6664,
-"highlight": 1
+"competition": 6664
 },
 {
 "rank": 73,
@@ -35791,15 +35124,13 @@ rankings =
 "rank": 76,
 "id": "2018CUME02",
 "best": "10.47",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 78,
 "id": "2018GRAG01",
 "best": "10.86",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 79,
@@ -35854,15 +35185,13 @@ rankings =
 "rank": 96,
 "id": "2015DULE03",
 "best": "12.39",
-"competition": 6612,
-"highlight": 1
+"competition": 6612
 },
 {
 "rank": 97,
 "id": "2015LOPE29",
 "best": "12.40",
-"competition": 6557,
-"highlight": 1
+"competition": 6557
 },
 {
 "rank": 101,
@@ -35931,8 +35260,7 @@ rankings =
 "rank": 122,
 "id": "2017REZH01",
 "best": "14.57",
-"competition": 6629,
-"highlight": 1
+"competition": 6629
 },
 {
 "rank": 123,
@@ -35956,15 +35284,13 @@ rankings =
 "rank": 127,
 "id": "2017GUER16",
 "best": "14.95",
-"competition": 6573,
-"highlight": 1
+"competition": 6573
 },
 {
 "rank": 128,
 "id": "2018PRAT13",
 "best": "15.13",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 131,
@@ -36006,8 +35332,7 @@ rankings =
 "rank": 142,
 "id": "2018DITT03",
 "best": "16.41",
-"competition": 6541,
-"highlight": 1
+"competition": 6541
 },
 {
 "rank": 143,
@@ -36156,8 +35481,7 @@ rankings =
 "rank": 186,
 "id": "2017MARI16",
 "best": "23.22",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 191,
@@ -36188,8 +35512,7 @@ rankings =
 "rank": 199,
 "id": "2018CHOD01",
 "best": "27.75",
-"competition": 6617,
-"highlight": 1
+"competition": 6617
 },
 {
 "rank": 203,
@@ -36249,7 +35572,6 @@ rankings =
 "competition": 2475
 }
 ],
-"estimate": 226,
 "missing": {
 "world": 93,
 "continents": {
@@ -36352,8 +35674,7 @@ rankings =
 "rank": 9,
 "id": "2011SALA06",
 "best": "10.31",
-"competition": 6664,
-"highlight": 1
+"competition": 6664
 },
 {
 "rank": 10,
@@ -36389,8 +35710,7 @@ rankings =
 "rank": 17,
 "id": "2011WRIG01",
 "best": "13.60",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 21,
@@ -36461,7 +35781,6 @@ rankings =
 "competition": 2475
 }
 ],
-"estimate": 45,
 "missing": {
 "world": 20,
 "continents": {
@@ -36509,7 +35828,6 @@ rankings =
 "competition": 2731
 }
 ],
-"estimate": 3,
 "missing": {
 "world": 1,
 "continents": {
@@ -36548,8 +35866,7 @@ rankings =
 "rank": 5,
 "id": "2015GEOR02",
 "best": "7.74",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 6,
@@ -36591,8 +35908,7 @@ rankings =
 "rank": 13,
 "id": "2016LASC01",
 "best": "9.26",
-"competition": 6506,
-"highlight": 1
+"competition": 6506
 },
 {
 "rank": 14,
@@ -36604,8 +35920,7 @@ rankings =
 "rank": 18,
 "id": "2016MUTH05",
 "best": "9.71",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 19,
@@ -36617,8 +35932,7 @@ rankings =
 "rank": 20,
 "id": "2017BONI01",
 "best": "9.86",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 21,
@@ -36642,8 +35956,7 @@ rankings =
 "rank": 24,
 "id": "2017NOVA05",
 "best": "10.44",
-"competition": 6781,
-"highlight": 1
+"competition": 6781
 },
 {
 "rank": 25,
@@ -36662,8 +35975,7 @@ rankings =
 "rank": 28,
 "id": "2016LECO01",
 "best": "10.88",
-"competition": 6490,
-"highlight": 1
+"competition": 6490
 },
 {
 "rank": 29,
@@ -36700,8 +36012,7 @@ rankings =
 "rank": 38,
 "id": "2011YOSH01",
 "best": "11.91",
-"competition": 6511,
-"highlight": 1
+"competition": 6511
 },
 {
 "rank": 39,
@@ -36737,8 +36048,7 @@ rankings =
 "rank": 47,
 "id": "2018GRAG01",
 "best": "13.92",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 48,
@@ -36849,8 +36159,7 @@ rankings =
 "id": "2017THOR06",
 "best": "16.27",
 "age": 50,
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 69,
@@ -36900,8 +36209,7 @@ rankings =
 "rank": 79,
 "id": "2017PEHJ01",
 "best": "17.83",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 },
 {
 "rank": 80,
@@ -36939,16 +36247,14 @@ rankings =
 "rank": 92,
 "id": "2018SCHU17",
 "best": "18.96",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 93,
 "id": "2003DENN01",
 "best": "19.07",
 "age": 50,
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 94,
@@ -36972,15 +36278,13 @@ rankings =
 "rank": 98,
 "id": "2009ZBIE01",
 "best": "19.71",
-"competition": 6588,
-"highlight": 1
+"competition": 6588
 },
 {
 "rank": 99,
 "id": "2017REZH01",
 "best": "19.75",
-"competition": 6629,
-"highlight": 1
+"competition": 6629
 },
 {
 "rank": 100,
@@ -37072,8 +36376,7 @@ rankings =
 "rank": 128,
 "id": "2018CUME02",
 "best": "23.98",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 128,
@@ -37129,8 +36432,7 @@ rankings =
 "rank": 144,
 "id": "2018PRAT13",
 "best": "26.36",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 146,
@@ -37203,8 +36505,7 @@ rankings =
 "rank": 166,
 "id": "2017MARI16",
 "best": "30.89",
-"competition": 6568,
-"highlight": 1
+"competition": 6568
 },
 {
 "rank": 167,
@@ -37216,8 +36517,7 @@ rankings =
 "rank": 170,
 "id": "2017GUER16",
 "best": "32.48",
-"competition": 6573,
-"highlight": 1
+"competition": 6573
 },
 {
 "rank": 176,
@@ -37259,8 +36559,7 @@ rankings =
 "rank": 187,
 "id": "2018CHOD01",
 "best": "39.06",
-"competition": 6617,
-"highlight": 1
+"competition": 6617
 },
 {
 "rank": 193,
@@ -37309,7 +36608,6 @@ rankings =
 "competition": 1657
 }
 ],
-"estimate": 210,
 "missing": {
 "world": 86,
 "continents": {
@@ -37400,15 +36698,13 @@ rankings =
 "rank": 7,
 "id": "2017THOR06",
 "best": "16.27",
-"competition": 6638,
-"highlight": 1
+"competition": 6638
 },
 {
 "rank": 8,
 "id": "2011WRIG01",
 "best": "16.39",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 9,
@@ -37438,8 +36734,7 @@ rankings =
 "rank": 15,
 "id": "2003DENN01",
 "best": "19.07",
-"competition": 6643,
-"highlight": 1
+"competition": 6643
 },
 {
 "rank": 18,
@@ -37503,7 +36798,6 @@ rankings =
 "competition": 5364
 }
 ],
-"estimate": 39,
 "missing": {
 "world": 17,
 "continents": {
@@ -37542,7 +36836,6 @@ rankings =
 "competition": 2731
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -37580,15 +36873,13 @@ rankings =
 "rank": 3,
 "id": "2017BONI01",
 "best": "17.49",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 4,
 "id": "2014GOME07",
 "best": "17.97",
-"competition": 6505,
-"highlight": 1
+"competition": 6505
 },
 {
 "rank": 5,
@@ -37672,8 +36963,7 @@ rankings =
 "rank": 19,
 "id": "2018BART01",
 "best": "27.41",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 20,
@@ -37828,8 +37118,7 @@ rankings =
 "rank": 52,
 "id": "2016BORR02",
 "best": "55.28",
-"competition": 6599,
-"highlight": 1
+"competition": 6599
 },
 {
 "rank": 53,
@@ -37841,8 +37130,7 @@ rankings =
 "rank": 54,
 "id": "2017NOVA05",
 "best": "57.57",
-"competition": 6781,
-"highlight": 1
+"competition": 6781
 },
 {
 "rank": 55,
@@ -37866,8 +37154,7 @@ rankings =
 "rank": 58,
 "id": "2017FREG01",
 "best": "1:01.50",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 59,
@@ -37897,8 +37184,7 @@ rankings =
 "rank": 64,
 "id": "2017DAOU01",
 "best": "1:13.62",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 65,
@@ -37916,8 +37202,7 @@ rankings =
 "rank": 67,
 "id": "2006PIRZ01",
 "best": "1:17.64",
-"competition": 6774,
-"highlight": 1
+"competition": 6774
 },
 {
 "rank": 68,
@@ -37949,8 +37234,7 @@ rankings =
 "rank": 72,
 "id": "2014RIEM01",
 "best": "1:22.78",
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 73,
@@ -37991,7 +37275,6 @@ rankings =
 "competition": 708
 }
 ],
-"estimate": 86,
 "missing": {
 "world": 18,
 "continents": {
@@ -38053,8 +37336,7 @@ rankings =
 "rank": 3,
 "id": "2011WRIG01",
 "best": "29.99",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 5,
@@ -38112,7 +37394,6 @@ rankings =
 "competition": 708
 }
 ],
-"estimate": 18,
 "missing": {
 "world": 6,
 "continents": {
@@ -38147,7 +37428,6 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -38197,8 +37477,7 @@ rankings =
 "rank": 6,
 "id": "2017BONI01",
 "best": "26.84",
-"competition": 6747,
-"highlight": 1
+"competition": 6747
 },
 {
 "rank": 7,
@@ -38216,8 +37495,7 @@ rankings =
 "rank": 9,
 "id": "2016AMBE02",
 "best": "29.02",
-"competition": 6608,
-"highlight": 1
+"competition": 6608
 },
 {
 "rank": 10,
@@ -38321,8 +37599,7 @@ rankings =
 "rank": 33,
 "id": "2018BART01",
 "best": "51.20",
-"competition": 6789,
-"highlight": 1
+"competition": 6789
 },
 {
 "rank": 34,
@@ -38383,8 +37660,7 @@ rankings =
 "rank": 44,
 "id": "2017FREG01",
 "best": "1:16.30",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 45,
@@ -38439,15 +37715,13 @@ rankings =
 "rank": 54,
 "id": "2017DAOU01",
 "best": "1:35.17",
-"competition": 6710,
-"highlight": 1
+"competition": 6710
 },
 {
 "rank": 55,
 "id": "2016BORR02",
 "best": "1:35.31",
-"competition": 6561,
-"highlight": 1
+"competition": 6561
 },
 {
 "rank": 56,
@@ -38471,8 +37745,7 @@ rankings =
 "rank": 59,
 "id": "2014RIEM01",
 "best": "1:48.26",
-"competition": 6661,
-"highlight": 1
+"competition": 6661
 },
 {
 "rank": 60,
@@ -38519,7 +37792,6 @@ rankings =
 "competition": 5734
 }
 ],
-"estimate": 66,
 "missing": {
 "world": 9,
 "continents": {
@@ -38571,8 +37843,7 @@ rankings =
 "rank": 2,
 "id": "2011WRIG01",
 "best": "37.96",
-"competition": 6594,
-"highlight": 1
+"competition": 6594
 },
 {
 "rank": 3,
@@ -38624,7 +37895,6 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 14,
 "missing": {
 "world": 4,
 "continents": {
@@ -38656,7 +37926,6 @@ rankings =
 "competition": 1278
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -38739,8 +38008,7 @@ rankings =
 "rank": 10,
 "id": "2015PARK24",
 "best": "7:29.52",
-"competition": 6796,
-"highlight": 1
+"competition": 6796
 },
 {
 "rank": 11,
@@ -38789,8 +38057,7 @@ rankings =
 "rank": 18,
 "id": "2015NICH04",
 "best": "10:28.00",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 19,
@@ -38815,8 +38082,7 @@ rankings =
 "rank": 22,
 "id": "2017KOST06",
 "best": "16:33.00",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 23,
@@ -38829,8 +38095,7 @@ rankings =
 "id": "2018SANG01",
 "best": "19:05.00",
 "age": 50,
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 25,
@@ -38842,8 +38107,7 @@ rankings =
 "rank": 26,
 "id": "2017LAWR04",
 "best": "22:32.00",
-"competition": 6519,
-"highlight": 1
+"competition": 6519
 },
 {
 "rank": 27,
@@ -38867,11 +38131,9 @@ rankings =
 "rank": 32,
 "id": "2010SOHT01",
 "best": "28:40.00",
-"competition": 6719,
-"highlight": 1
+"competition": 6719
 }
 ],
-"estimate": 32,
 "missing": {
 "world": 2,
 "continents": {
@@ -38942,11 +38204,9 @@ rankings =
 "rank": 6,
 "id": "2018SANG01",
 "best": "19:05.00",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 }
 ],
-"estimate": 6,
 "missing": {
 "world": 0,
 "continents": {
@@ -38973,7 +38233,6 @@ rankings =
 "competition": 2611
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -39041,7 +38300,6 @@ rankings =
 "competition": 4420
 }
 ],
-"estimate": 8,
 "missing": {
 "world": 0,
 "continents": {
@@ -39091,7 +38349,6 @@ rankings =
 "competition": 4420
 }
 ],
-"estimate": 4,
 "missing": {
 "world": 0,
 "continents": {
@@ -39117,7 +38374,6 @@ rankings =
 "competition": 903
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -39219,8 +38475,7 @@ rankings =
 "rank": 13,
 "id": "2015NICH04",
 "best": "28:02.00",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 14,
@@ -39251,11 +38506,9 @@ rankings =
 "id": "2016KRUE03",
 "best": "47:18.00",
 "age": 50,
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 }
 ],
-"estimate": 18,
 "missing": {
 "world": 0,
 "continents": {
@@ -39312,11 +38565,9 @@ rankings =
 "rank": 5,
 "id": "2016KRUE03",
 "best": "47:18.00",
-"competition": 6531,
-"highlight": 1
+"competition": 6531
 }
 ],
-"estimate": 5,
 "missing": {
 "world": 0,
 "continents": {
@@ -39342,7 +38593,6 @@ rankings =
 "competition": 3168
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -39390,7 +38640,6 @@ rankings =
 "competition": 2356
 }
 ],
-"estimate": 5,
 "missing": {
 "world": 0,
 "continents": {
@@ -39425,7 +38674,6 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 2,
 "missing": {
 "world": 0,
 "continents": {
@@ -39449,7 +38697,6 @@ rankings =
 "competition": 4654
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -39532,8 +38779,7 @@ rankings =
 "rank": 11,
 "id": "2012PLAC01",
 "best": "10/11 in 57:38",
-"competition": 6491,
-"highlight": 1
+"competition": 6491
 },
 {
 "rank": 12,
@@ -39558,8 +38804,7 @@ rankings =
 "id": "2018SANG01",
 "best": "8/8 in 54:14",
 "age": 50,
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 16,
@@ -39571,8 +38816,7 @@ rankings =
 "rank": 17,
 "id": "2017KOST06",
 "best": "7/7 in 44:29",
-"competition": 6572,
-"highlight": 1
+"competition": 6572
 },
 {
 "rank": 18,
@@ -39591,8 +38835,7 @@ rankings =
 "rank": 20,
 "id": "2015NICH04",
 "best": "7/7 in 55:07",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 21,
@@ -39653,15 +38896,13 @@ rankings =
 "rank": 30,
 "id": "2017LAWR04",
 "best": "5/6 in 43:27",
-"competition": 6519,
-"highlight": 1
+"competition": 6519
 },
 {
 "rank": 31,
 "id": "2019ROCH03",
 "best": "7/10 in 49:50",
-"competition": 6667,
-"highlight": 1
+"competition": 6667
 },
 {
 "rank": 32,
@@ -39784,7 +39025,6 @@ rankings =
 "competition": 156
 }
 ],
-"estimate": 56,
 "missing": {
 "world": 7,
 "continents": {
@@ -39849,8 +39089,7 @@ rankings =
 "rank": 4,
 "id": "2018SANG01",
 "best": "8/8 in 54:14",
-"competition": 6663,
-"highlight": 1
+"competition": 6663
 },
 {
 "rank": 5,
@@ -39907,7 +39146,6 @@ rankings =
 "competition": 1165
 }
 ],
-"estimate": 13,
 "missing": {
 "world": 0,
 "continents": {
@@ -39938,7 +39176,6 @@ rankings =
 "competition": 1870
 }
 ],
-"estimate": 1,
 "missing": {
 "world": 0,
 "continents": {
@@ -47251,9438 +46488,11011 @@ rankings =
 "id": 2,
 "name": "World Rubik's Games Championship 2003",
 "country": "CA",
+"startDate": "2003-08-23",
 "webId": "WC2003"
 },
 {
 "id": 4,
 "name": "Caltech Winter competition 2004",
 "country": "US",
+"startDate": "2004-01-24",
 "webId": "CaltechWinter2004"
 },
 {
 "id": 8,
 "name": "US Nationals 2004",
 "country": "US",
+"startDate": "2004-07-10",
 "webId": "US2004"
 },
 {
 "id": 9,
 "name": "European Rubik's Games Championship 2004",
 "country": "NL",
+"startDate": "2004-08-07",
 "webId": "Euro2004"
 },
 {
 "id": 11,
 "name": "Caltech Fall competition 2004",
 "country": "US",
+"startDate": "2004-10-16",
 "webId": "CaltechFall2004"
 },
 {
 "id": 16,
 "name": "Caltech Winter competition 2005",
 "country": "US",
+"startDate": "2005-01-15",
 "webId": "CaltechWinter2005"
 },
 {
 "id": 26,
 "name": "Japanese Championship 2005",
 "country": "JP",
+"startDate": "2005-09-03",
 "webId": "Japan2005"
 },
 {
 "id": 29,
 "name": "Northern California Fall Open 2005",
 "country": "US",
+"startDate": "2005-09-17",
 "webId": "NorthernCA2005"
 },
 {
 "id": 31,
 "name": "German Championship 2005",
 "country": "DE",
+"startDate": "2005-10-15",
 "webId": "Germany2005"
 },
 {
 "id": 35,
 "name": "Rubik's World Championship 2005",
 "country": "US",
+"startDate": "2005-11-05",
 "webId": "WC2005"
 },
 {
 "id": 36,
 "name": "Hungarian Championship 2005",
 "country": "HU",
+"startDate": "2005-11-19",
 "webId": "Hungary2005"
 },
 {
 "id": 53,
 "name": "Chalmers Open 2006",
 "country": "SE",
+"startDate": "2006-06-10",
 "webId": "ChalmersOpen2006"
 },
 {
 "id": 56,
 "name": "Tokyo Open 2006",
 "country": "JP",
+"startDate": "2006-07-30",
 "webId": "TokyoOpen2006"
 },
 {
 "id": 58,
 "name": "Polish Open 2006",
 "country": "PL",
+"startDate": "2006-09-16",
 "webId": "PolishOpen2006"
 },
 {
 "id": 59,
 "name": "European Rubik's Cube Championship 2006",
 "country": "FR",
+"startDate": "2006-09-23",
 "webId": "Euro2006"
 },
 {
 "id": 60,
 "name": "Dutch Open 2006",
 "country": "NL",
+"startDate": "2006-10-14",
 "webId": "DutchOpen2006"
 },
 {
 "id": 66,
 "name": "Caltech Fall competition 2006",
 "country": "US",
+"startDate": "2006-11-11",
 "webId": "CaltechFall2006"
 },
 {
 "id": 67,
 "name": "Japanese Championship 2006",
 "country": "JP",
+"startDate": "2006-11-12",
 "webId": "Japan2006"
 },
 {
 "id": 68,
 "name": "Rutgers Fall competition 2006",
 "country": "US",
+"startDate": "2006-11-18",
 "webId": "RutgersFall2006"
 },
 {
 "id": 71,
 "name": "Swedish Cube Day competition 2006",
 "country": "SE",
+"startDate": "2006-12-03",
 "webId": "SwedishCubeDay2006"
 },
 {
 "id": 73,
 "name": "KCRC Championship 2007",
 "country": "KR",
+"startDate": "2007-01-07",
 "webId": "KCRC2007"
 },
 {
 "id": 77,
 "name": "Roissy competition 2007",
 "country": "FR",
+"startDate": "2007-02-04",
 "webId": "Roissy2007"
 },
 {
 "id": 82,
 "name": "Osaka Rubik's Cube contest 2007",
 "country": "JP",
+"startDate": "2007-03-31",
 "webId": "Osaka2007"
 },
 {
 "id": 90,
 "name": "Canadian Open 2007",
 "country": "CA",
+"startDate": "2007-05-19",
 "webId": "CanadianOpen2007"
 },
 {
 "id": 91,
 "name": "Captain's Cove competition 2007",
 "country": "US",
+"startDate": "2007-05-26",
 "webId": "CaptainsCove2007"
 },
 {
 "id": 92,
 "name": "Italian Open 2007",
 "country": "IT",
+"startDate": "2007-05-26",
 "webId": "ItalianOpen2007"
 },
 {
 "id": 95,
 "name": "Wroclaw Open 2007",
 "country": "PL",
+"startDate": "2007-07-08",
 "webId": "WroclawOpen2007"
 },
 {
 "id": 97,
 "name": "Japan Open 2007",
 "country": "JP",
+"startDate": "2007-07-28",
 "webId": "JapanOpen2007"
 },
 {
 "id": 99,
 "name": "KCRC Busan competition 2007",
 "country": "KR",
+"startDate": "2007-08-12",
 "webId": "KCRCBusan2007"
 },
 {
 "id": 104,
 "name": "Swedish Open 2007",
 "country": "SE",
+"startDate": "2007-08-25",
 "webId": "SwedishOpen2007"
 },
 {
 "id": 106,
 "name": "Polish Open 2007",
 "country": "PL",
+"startDate": "2007-09-15",
 "webId": "PolishOpen2007"
 },
 {
 "id": 109,
 "name": "World Rubik's Cube Championship 2007",
 "country": "HU",
+"startDate": "2007-10-05",
 "webId": "WC2007"
 },
 {
 "id": 110,
 "name": "Dutch Open 2007",
 "country": "NL",
+"startDate": "2007-10-13",
 "webId": "DutchOpen2007"
 },
 {
 "id": 115,
 "name": "UK Open 2007",
 "country": "GB",
+"startDate": "2007-11-10",
 "webId": "UKOpen2007"
 },
 {
 "id": 117,
 "name": "Ibaraki competition 2007",
 "country": "JP",
+"startDate": "2007-11-17",
 "webId": "Ibaraki2007"
 },
 {
 "id": 118,
 "name": "Dutch Championship 2007",
 "country": "NL",
+"startDate": "2007-11-24",
 "webId": "Netherlands2007"
 },
 {
 "id": 124,
 "name": "Swedish Cube Day competition 2007",
 "country": "SE",
+"startDate": "2007-12-15",
 "webId": "SwedishCubeDay2007"
 },
 {
 "id": 128,
 "name": "KCA Korea Open 2008",
 "country": "KR",
+"startDate": "2008-01-20",
 "webId": "KCAKoreaOpen2008"
 },
 {
 "id": 130,
 "name": "Belgian Open 2008",
 "country": "BE",
+"startDate": "2008-02-02",
 "webId": "BelgianOpen2008"
 },
 {
 "id": 135,
 "name": "Benelux Open 2008",
 "country": "NL",
+"startDate": "2008-02-16",
 "webId": "BeneluxOpen2008"
 },
 {
 "id": 136,
 "name": "Norwegian Open 2008",
 "country": "NO",
+"startDate": "2008-02-17",
 "webId": "NorwegianOpen2008"
 },
 {
 "id": 138,
 "name": "Murcia Open 2008",
 "country": "ES",
+"startDate": "2008-02-23",
 "webId": "MurciaOpen2008"
 },
 {
 "id": 139,
 "name": "Gdansk Open 2008",
 "country": "PL",
+"startDate": "2008-02-24",
 "webId": "GdanskOpen2008"
 },
 {
 "id": 141,
 "name": "Västervik Cube Meeting 2008",
 "country": "SE",
+"startDate": "2008-03-08",
 "webId": "Vastervik2008"
 },
 {
 "id": 142,
 "name": "French Open 2008",
 "country": "FR",
+"startDate": "2008-03-15",
 "webId": "FrenchOpen2008"
 },
 {
 "id": 144,
 "name": "Chattahoochee Spring competition 2008",
 "country": "US",
+"startDate": "2008-03-29",
 "webId": "ChattahoocheeSpring2008"
 },
 {
 "id": 145,
 "name": "Osaka Open 2008",
 "country": "JP",
+"startDate": "2008-03-29",
 "webId": "OsakaOpen2008"
 },
 {
 "id": 148,
 "name": "French Championship 2008",
 "country": "FR",
+"startDate": "2008-04-11",
 "webId": "France2008"
 },
 {
 "id": 156,
 "name": "German Open 2008",
 "country": "DE",
+"startDate": "2008-04-19",
 "webId": "GermanOpen2008"
 },
 {
 "id": 157,
 "name": "Berkeley Spring competition 2008",
 "country": "US",
+"startDate": "2008-04-26",
 "webId": "BerkeleySpring2008"
 },
 {
 "id": 158,
 "name": "Armonk Spring 2008",
 "country": "US",
+"startDate": "2008-04-26",
 "webId": "ArmonkSpring2008"
 },
 {
 "id": 161,
 "name": "Kashiwa Open 2008",
 "country": "JP",
+"startDate": "2008-05-05",
 "webId": "KashiwaOpen2008"
 },
 {
 "id": 170,
 "name": "Vancouver Open Summer 2008",
 "country": "CA",
+"startDate": "2008-06-14",
 "webId": "VancouverOpenSummer2008"
 },
 {
 "id": 171,
 "name": "Da Vinci Science Center competition 2008",
 "country": "US",
+"startDate": "2008-06-14",
 "webId": "DaVinciScience2008"
 },
 {
 "id": 172,
 "name": "Italian Open 2008",
 "country": "IT",
+"startDate": "2008-06-21",
 "webId": "ItalianOpen2008"
 },
 {
 "id": 185,
 "name": "Busan Cube Championship 2008",
 "country": "KR",
+"startDate": "2008-08-03",
 "webId": "Busan2008"
 },
 {
 "id": 192,
 "name": "Marina Gdansk Open 2008",
 "country": "PL",
+"startDate": "2008-08-30",
 "webId": "MarinaGdanskOpen2008"
 },
 {
 "id": 193,
 "name": "Shanghai Open 2008",
 "country": "CN",
+"startDate": "2008-08-30",
 "webId": "ShanghaiOpen2008"
 },
 {
 "id": 194,
 "name": "Brussels Summer Open 2008",
 "country": "BE",
+"startDate": "2008-09-06",
 "webId": "BrusselsSummerOpen2008"
 },
 {
 "id": 195,
 "name": "Swedish Open 2008",
 "country": "SE",
+"startDate": "2008-09-06",
 "webId": "SwedishOpen2008"
 },
 {
 "id": 197,
 "name": "Boulder 2008",
 "country": "US",
+"startDate": "2008-09-20",
 "webId": "Boulder2008"
 },
 {
 "id": 216,
 "name": "UK Open 2008",
 "country": "GB",
+"startDate": "2008-11-08",
 "webId": "UKOpen2008"
 },
 {
 "id": 219,
 "name": "Dutch Nationals 2008",
 "country": "NL",
+"startDate": "2008-11-15",
 "webId": "Netherlands2008"
 },
 {
 "id": 223,
 "name": "Portugal Open 2008",
 "country": "PT",
+"startDate": "2008-11-29",
 "webId": "PortugalOpen2008"
 },
 {
 "id": 224,
 "name": "The Hague Open 2008",
 "country": "NL",
+"startDate": "2008-11-29",
 "webId": "TheHagueOpen2008"
 },
 {
 "id": 239,
 "name": "São Paulo Open 2009",
 "country": "BR",
+"startDate": "2009-01-17",
 "webId": "SaoPauloOpen2009"
 },
 {
 "id": 241,
 "name": "San Francisco Open 2009",
 "country": "US",
+"startDate": "2009-01-18",
 "webId": "SanFranciscoOpen2009"
 },
 {
 "id": 244,
 "name": "Newark Winter 2009",
 "country": "US",
+"startDate": "2009-02-07",
 "webId": "NewarkWinter2009"
 },
 {
 "id": 245,
 "name": "Norrköping Open 2009",
 "country": "SE",
+"startDate": "2009-02-07",
 "webId": "NorrkopingOpen2009"
 },
 {
 "id": 249,
 "name": "Italian Open 2009",
 "country": "IT",
+"startDate": "2009-02-14",
 "webId": "ItalianOpen2009"
 },
 {
 "id": 254,
 "name": "Benelux Open 2009",
 "country": "NL",
+"startDate": "2009-02-21",
 "webId": "BeneluxOpen2009"
 },
 {
 "id": 256,
 "name": "Murcia Open 2009",
 "country": "ES",
+"startDate": "2009-02-28",
 "webId": "MurciaOpen2009"
 },
 {
 "id": 258,
 "name": "Belgian Open 2009",
 "country": "BE",
+"startDate": "2009-02-28",
 "webId": "BelgianOpen2009"
 },
 {
 "id": 260,
 "name": "Fort Lee Winter 2009",
 "country": "US",
+"startDate": "2009-03-07",
 "webId": "FortLeeWinter2009"
 },
 {
 "id": 261,
 "name": "Helsinki Open 2009",
 "country": "FI",
+"startDate": "2009-03-07",
 "webId": "HelsinkiOpen2009"
 },
 {
 "id": 263,
 "name": "Moscow Open 2009",
 "country": "RU",
+"startDate": "2009-03-08",
 "webId": "MoscowOpen2009"
 },
 {
 "id": 264,
 "name": "Drexel Winter 2009",
 "country": "US",
+"startDate": "2009-03-14",
 "webId": "DrexelWinter2009"
 },
 {
 "id": 265,
 "name": "French Open 2009",
 "country": "FR",
+"startDate": "2009-03-14",
 "webId": "FrenchOpen2009"
 },
 {
 "id": 268,
 "name": "UPenn Spring competition 2009",
 "country": "US",
+"startDate": "2009-03-21",
 "webId": "UPennSpring2009"
 },
 {
 "id": 271,
 "name": "Ohio Open 2009",
 "country": "US",
+"startDate": "2009-03-28",
 "webId": "OhioOpen2009"
 },
 {
 "id": 277,
 "name": "Shristi Open 2009",
 "country": "IN",
+"startDate": "2009-04-07",
 "webId": "ShristiOpen2009"
 },
 {
 "id": 278,
 "name": "French Championship 2009",
 "country": "FR",
+"startDate": "2009-04-10",
 "webId": "France2009"
 },
 {
 "id": 281,
 "name": "Barcelona Open 2009",
 "country": "ES",
+"startDate": "2009-04-24",
 "webId": "BarcelonaOpen2009"
 },
 {
 "id": 283,
 "name": "Denver Open 2009",
 "country": "US",
+"startDate": "2009-04-25",
 "webId": "DenverOpen2009"
 },
 {
 "id": 285,
 "name": "Västerås Open 2009",
 "country": "SE",
+"startDate": "2009-04-25",
 "webId": "VasterasOpen2009"
 },
 {
 "id": 292,
 "name": "Discovery Science Center competition 2009",
 "country": "US",
+"startDate": "2009-05-16",
 "webId": "DiscoveryScience2009"
 },
 {
 "id": 313,
 "name": "Xi'an Open 2009",
 "country": "CN",
+"startDate": "2009-06-28",
 "webId": "XianOpen2009"
 },
 {
 "id": 320,
 "name": "Czech Open 2009",
 "country": "CZ",
+"startDate": "2009-07-17",
 "webId": "CzechOpen2009"
 },
 {
 "id": 321,
 "name": "Aurora Summer competition 2009",
 "country": "US",
+"startDate": "2009-07-18",
 "webId": "AuroraSummer2009"
 },
 {
 "id": 324,
 "name": "Brasília Open 2009",
 "country": "BR",
+"startDate": "2009-07-18",
 "webId": "BrasiliaOpen2009"
 },
 {
 "id": 332,
 "name": "Connecticut Summer Competition 2009",
 "country": "US",
+"startDate": "2009-08-01",
 "webId": "ConnecticutSummer2009"
 },
 {
 "id": 334,
 "name": "Japan Open 2009",
 "country": "JP",
+"startDate": "2009-08-01",
 "webId": "JapanOpen2009"
 },
 {
 "id": 337,
 "name": "US Nationals 2009",
 "country": "US",
+"startDate": "2009-08-14",
 "webId": "USNationals2009"
 },
 {
 "id": 339,
 "name": "Kristianstad Open 2009",
 "country": "SE",
+"startDate": "2009-08-15",
 "webId": "KristianstadOpen2009"
 },
 {
 "id": 347,
 "name": "Philippines Open 2009",
 "country": "PH",
+"startDate": "2009-08-29",
 "webId": "PhilippinesOpen2009"
 },
 {
 "id": 348,
 "name": "Indonesian Open 2009",
 "country": "ID",
+"startDate": "2009-08-30",
 "webId": "IndonesianOpen2009"
 },
 {
 "id": 351,
 "name": "Swedish Open 2009",
 "country": "SE",
+"startDate": "2009-09-05",
 "webId": "SwedishOpen2009"
 },
 {
 "id": 352,
 "name": "Vancouver Open 2009",
 "country": "CA",
+"startDate": "2009-09-12",
 "webId": "VancouverOpen2009"
 },
 {
 "id": 356,
 "name": "Toyama Open 2009",
 "country": "JP",
+"startDate": "2009-09-19",
 "webId": "ToyamaOpen2009"
 },
 {
 "id": 357,
 "name": "Canadian Open 2009",
 "country": "CA",
+"startDate": "2009-09-19",
 "webId": "CanadianOpen2009"
 },
 {
 "id": 358,
 "name": "Mantua Open 2009",
 "country": "IT",
+"startDate": "2009-09-19",
 "webId": "MantuaOpen2009"
 },
 {
 "id": 360,
 "name": "Polish Open 2009",
 "country": "PL",
+"startDate": "2009-09-26",
 "webId": "PolishOpen2009"
 },
 {
 "id": 364,
 "name": "World Rubik's Cube Championship 2009",
 "country": "DE",
+"startDate": "2009-10-09",
 "webId": "WC2009"
 },
 {
 "id": 366,
 "name": "Dutch Open 2009",
 "country": "NL",
+"startDate": "2009-10-17",
 "webId": "DutchOpen2009"
 },
 {
 "id": 367,
 "name": "Caltech Fall competition 2009",
 "country": "US",
+"startDate": "2009-10-24",
 "webId": "CaltechFall2009"
 },
 {
 "id": 374,
 "name": "UK Open 2009",
 "country": "GB",
+"startDate": "2009-11-07",
 "webId": "UKOpen2009"
 },
 {
 "id": 380,
 "name": "MIT Fall 2009",
 "country": "US",
+"startDate": "2009-11-14",
 "webId": "MITFall2009"
 },
 {
 "id": 381,
 "name": "Dutch Nationals 2009",
 "country": "NL",
+"startDate": "2009-11-14",
 "webId": "Netherlands2009"
 },
 {
 "id": 382,
 "name": "German Nationals 2009",
 "country": "DE",
+"startDate": "2009-11-21",
 "webId": "Germany2009"
 },
 {
 "id": 392,
 "name": "Spanish Championship 2009",
 "country": "ES",
+"startDate": "2009-12-05",
 "webId": "SpanishChampionship2009"
 },
 {
 "id": 396,
 "name": "Brown Cubing Day 2009",
 "country": "US",
+"startDate": "2009-12-12",
 "webId": "Brown2009"
 },
 {
 "id": 405,
 "name": "JRCA Hokuriku Winter 2010",
 "country": "JP",
+"startDate": "2010-01-09",
 "webId": "JRCAHokurikuWinter2010"
 },
 {
 "id": 426,
 "name": "Indian Open 2010",
 "country": "IN",
+"startDate": "2010-02-12",
 "webId": "IndianOpen2010"
 },
 {
 "id": 429,
 "name": "Benelux Open 2010",
 "country": "NL",
+"startDate": "2010-02-20",
 "webId": "BeneluxOpen2010"
 },
 {
 "id": 435,
 "name": "Murcia Open 2010",
 "country": "ES",
+"startDate": "2010-02-27",
 "webId": "MurciaOpen2010"
 },
 {
 "id": 436,
 "name": "Reno Lake Tahoe Winter 2010",
 "country": "US",
+"startDate": "2010-02-27",
 "webId": "RenoWinter2010"
 },
 {
 "id": 440,
 "name": "MIT Spring 2010",
 "country": "US",
+"startDate": "2010-03-06",
 "webId": "MITSpring2010"
 },
 {
 "id": 443,
 "name": "Madrid Open 2010",
 "country": "ES",
+"startDate": "2010-03-13",
 "webId": "MadridOpen2010"
 },
 {
 "id": 447,
 "name": "Rubik's Cube Singapore Open 2010",
 "country": "SG",
+"startDate": "2010-03-20",
 "webId": "SingaporeOpen2010"
 },
 {
 "id": 449,
 "name": "Toronto Open Spring 2010",
 "country": "CA",
+"startDate": "2010-03-27",
 "webId": "TorontoSpring2010"
 },
 {
 "id": 451,
 "name": "Japan Open 2010",
 "country": "JP",
+"startDate": "2010-03-27",
 "webId": "JapanOpen2010"
 },
 {
 "id": 453,
 "name": "French Championship 2010",
 "country": "FR",
+"startDate": "2010-04-09",
 "webId": "France2010"
 },
 {
 "id": 454,
 "name": "Zaragoza Open 2010",
 "country": "ES",
+"startDate": "2010-04-09",
 "webId": "ZaragozaOpen2010"
 },
 {
 "id": 457,
 "name": "Bulacan Open 2010",
 "country": "PH",
+"startDate": "2010-04-10",
 "webId": "BulacanOpen2010"
 },
 {
 "id": 466,
 "name": "Slovenian Open 2010",
 "country": "SI",
+"startDate": "2010-04-24",
 "webId": "SlovenianOpen2010"
 },
 {
 "id": 477,
 "name": "Alpha Cube BUAA Open 2010",
 "country": "CN",
+"startDate": "2010-05-09",
 "webId": "BUAAOpen2010"
 },
 {
 "id": 480,
 "name": "Karlstad Open 2010",
 "country": "SE",
+"startDate": "2010-05-15",
 "webId": "KarlstadOpen2010"
 },
 {
 "id": 493,
 "name": "Ohio Open 2010",
 "country": "US",
+"startDate": "2010-06-05",
 "webId": "OhioOpen2010"
 },
 {
 "id": 496,
 "name": "Cube 'n Roll Italian Open 2010",
 "country": "IT",
+"startDate": "2010-06-05",
 "webId": "CubeNRoll2010"
 },
 {
 "id": 514,
 "name": "Barcelona Rubik's Summer Open 2010",
 "country": "ES",
+"startDate": "2010-07-09",
 "webId": "BarcelonaOpen2010"
 },
 {
 "id": 516,
 "name": "Berkeley Summer 2010",
 "country": "US",
+"startDate": "2010-07-11",
 "webId": "BerkeleySummer2010"
 },
 {
 "id": 524,
 "name": "30th Anniversary MegaHouse Cup 2010",
 "country": "JP",
+"startDate": "2010-07-24",
 "webId": "30thAnniversaryMegaHouse2010"
 },
 {
 "id": 525,
 "name": "Düsseldorf Open 2010",
 "country": "DE",
+"startDate": "2010-07-24",
 "webId": "DusseldorfOpen2010"
 },
 {
 "id": 532,
 "name": "United States Rubik's Cube Championships 2010",
 "country": "US",
+"startDate": "2010-08-06",
 "webId": "USNationals2010"
 },
 {
 "id": 538,
 "name": "Toronto Open Summer 2010",
 "country": "CA",
+"startDate": "2010-08-14",
 "webId": "TorontoSummer2010"
 },
 {
 "id": 539,
 "name": "East German Open 2010",
 "country": "DE",
+"startDate": "2010-08-14",
 "webId": "EastGermanOpen2010"
 },
 {
 "id": 548,
 "name": "Finnish Open 2010",
 "country": "FI",
+"startDate": "2010-08-28",
 "webId": "FinnishOpen2010"
 },
 {
 "id": 550,
 "name": "Galeries Lafayette Open 2010",
 "country": "FR",
+"startDate": "2010-09-03",
 "webId": "GaleriesLafayetteOpen2010"
 },
 {
 "id": 556,
 "name": "German Nationals 2010",
 "country": "DE",
+"startDate": "2010-09-11",
 "webId": "Germany2010"
 },
 {
 "id": 557,
 "name": "Swedish Open 2010",
 "country": "SE",
+"startDate": "2010-09-11",
 "webId": "SwedishOpen2010"
 },
 {
 "id": 560,
 "name": "JRCA Kansai Summer 2010",
 "country": "JP",
+"startDate": "2010-09-18",
 "webId": "KansaiSummer2010"
 },
 {
 "id": 571,
 "name": "European Rubik's Cube Championship 2010",
 "country": "HU",
+"startDate": "2010-10-01",
 "webId": "Euro2010"
 },
 {
 "id": 578,
 "name": "Asian Championship 2010",
 "country": "TH",
+"startDate": "2010-10-09",
 "webId": "AsianChampionship2010"
 },
 {
 "id": 581,
 "name": "Virginia Open 2010",
 "country": "US",
+"startDate": "2010-10-16",
 "webId": "VirginiaOpen2010"
 },
 {
 "id": 590,
 "name": "Madrid Open Rubik 2010",
 "country": "ES",
+"startDate": "2010-10-30",
 "webId": "MadridOpenRubik2010"
 },
 {
 "id": 595,
 "name": "UK Open 2010",
 "country": "GB",
+"startDate": "2010-11-06",
 "webId": "UKOpen2010"
 },
 {
 "id": 599,
 "name": "MIT Fall 2010",
 "country": "US",
+"startDate": "2010-11-13",
 "webId": "MITFall2010"
 },
 {
 "id": 603,
 "name": "Bali Cube Day 2010",
 "country": "ID",
+"startDate": "2010-11-21",
 "webId": "BaliCubeDay2010"
 },
 {
 "id": 608,
 "name": "Swedish Cubedays 2010",
 "country": "SE",
+"startDate": "2010-11-27",
 "webId": "SwedishCubedays2010"
 },
 {
 "id": 611,
 "name": "Ishikawa Gokoku Shinto Shrine Open 2010",
 "country": "JP",
+"startDate": "2010-12-04",
 "webId": "IshikawaGokokuShintoOpen2010"
 },
 {
 "id": 632,
 "name": "Kansai New Year 2011",
 "country": "JP",
+"startDate": "2011-01-08",
 "webId": "KansaiNewYear2011"
 },
 {
 "id": 635,
 "name": "Aachen Open 2011",
 "country": "DE",
+"startDate": "2011-01-14",
 "webId": "AachenOpen2011"
 },
 {
 "id": 639,
 "name": "Helsinki Open 2011",
 "country": "FI",
+"startDate": "2011-01-22",
 "webId": "HelsinkiOpen2011"
 },
 {
 "id": 643,
 "name": "Fredericia Open 2011",
 "country": "DK",
+"startDate": "2011-01-29",
 "webId": "FredericiaOpen2011"
 },
 {
 "id": 646,
 "name": "Brown Cubing Day 2011",
 "country": "US",
+"startDate": "2011-02-05",
 "webId": "Brown2011"
 },
 {
 "id": 653,
 "name": "Caltech Winter 2011",
 "country": "US",
+"startDate": "2011-02-12",
 "webId": "CaltechWinter2011"
 },
 {
 "id": 657,
 "name": "Norwegian Open 2011",
 "country": "NO",
+"startDate": "2011-02-12",
 "webId": "NorwegianOpen2011"
 },
 {
 "id": 659,
 "name": "Indian Open Rubik's Cube 2011",
 "country": "IN",
+"startDate": "2011-02-17",
 "webId": "IndianOpen2011"
 },
 {
 "id": 671,
 "name": "Rubik's Cube Delhi Open 2011",
 "country": "IN",
+"startDate": "2011-02-27",
 "webId": "DelhiOpen2011"
 },
 {
 "id": 675,
 "name": "Murcia Open 2011",
 "country": "ES",
+"startDate": "2011-03-05",
 "webId": "MurciaOpen2011"
 },
 {
 "id": 685,
 "name": "Full Sail Spring 2011",
 "country": "US",
+"startDate": "2011-03-19",
 "webId": "FullSailSpring2011"
 },
 {
 "id": 689,
 "name": "Grudziadz Open 2011",
 "country": "PL",
+"startDate": "2011-03-26",
 "webId": "GrudziadzOpen2011"
 },
 {
 "id": 690,
 "name": "Osaka 2011",
 "country": "JP",
+"startDate": "2011-03-26",
 "webId": "Osaka2011"
 },
 {
 "id": 692,
 "name": "French Open 2011",
 "country": "FR",
+"startDate": "2011-03-26",
 "webId": "FrenchOpen2011"
 },
 {
 "id": 695,
 "name": "Harvard Spring 2011",
 "country": "US",
+"startDate": "2011-04-02",
 "webId": "HarvardSpring2011"
 },
 {
 "id": 702,
 "name": "German Open 2011",
 "country": "DE",
+"startDate": "2011-04-09",
 "webId": "GermanOpen2011"
 },
 {
 "id": 703,
 "name": "Matsudo Spring 2011",
 "country": "JP",
+"startDate": "2011-04-10",
 "webId": "MatsudoSpring2011"
 },
 {
 "id": 708,
 "name": "Bialystok Open 2011",
 "country": "PL",
+"startDate": "2011-04-16",
 "webId": "BialystokOpen2011"
 },
 {
 "id": 714,
 "name": "Danish Open 2011",
 "country": "DK",
+"startDate": "2011-04-22",
 "webId": "DanishOpen2011"
 },
 {
 "id": 721,
 "name": "Castellon Open 2011",
 "country": "ES",
+"startDate": "2011-04-30",
 "webId": "CastellonOpen2011"
 },
 {
 "id": 730,
 "name": "Belgian Open 2011",
 "country": "BE",
+"startDate": "2011-05-07",
 "webId": "BelgianOpen2011"
 },
 {
 "id": 738,
 "name": "Vesoul Open 2011",
 "country": "FR",
+"startDate": "2011-05-14",
 "webId": "VesoulOpen2011"
 },
 {
 "id": 741,
 "name": "Kirkkonummi Open 2011",
 "country": "FI",
+"startDate": "2011-05-21",
 "webId": "KirkkonummiOpen2011"
 },
 {
 "id": 758,
 "name": "Alania Open 2011",
 "country": "DE",
+"startDate": "2011-06-10",
 "webId": "AlaniaOpen2011"
 },
 {
 "id": 764,
 "name": "Tallinn Open 2011",
 "country": "EE",
+"startDate": "2011-06-18",
 "webId": "TallinnOpen2011"
 },
 {
 "id": 765,
 "name": "Vårgårda Open 2011",
 "country": "SE",
+"startDate": "2011-06-18",
 "webId": "VargardaOpen2011"
 },
 {
 "id": 777,
 "name": "Dolmen Open 2011",
 "country": "FR",
+"startDate": "2011-07-02",
 "webId": "DolmenOpen2011"
 },
 {
 "id": 779,
 "name": "Veneto Open 2011",
 "country": "IT",
+"startDate": "2011-07-09",
 "webId": "VenetoOpen2011"
 },
 {
 "id": 793,
 "name": "Barcelona Rubik's Summer Open 2011",
 "country": "ES",
+"startDate": "2011-07-29",
 "webId": "BarcelonaSummerOpen2011"
 },
 {
 "id": 797,
 "name": "Guildford Summer Open 2011",
 "country": "GB",
+"startDate": "2011-07-30",
 "webId": "GuildfordSummerOpen2011"
 },
 {
 "id": 799,
 "name": "Japan Open 2011",
 "country": "JP",
+"startDate": "2011-07-30",
 "webId": "JapanOpen2011"
 },
 {
 "id": 803,
 "name": "Korean Championship 2011",
 "country": "KR",
+"startDate": "2011-07-31",
 "webId": "KoreanChampionship2011"
 },
 {
 "id": 806,
 "name": "Krung Thep Open 2011",
 "country": "TH",
+"startDate": "2011-08-06",
 "webId": "KrungThepOpen2011"
 },
 {
 "id": 811,
 "name": "United States National Championships 2011",
 "country": "US",
+"startDate": "2011-08-12",
 "webId": "USNationals2011"
 },
 {
 "id": 817,
 "name": "Cube Camp in Kanazawa 2011",
 "country": "JP",
+"startDate": "2011-08-19",
 "webId": "CubeCampKanazawa2011"
 },
 {
 "id": 819,
 "name": "Phitsanulok Open 2011",
 "country": "TH",
+"startDate": "2011-08-20",
 "webId": "PhitsanulokOpen2011"
 },
 {
 "id": 841,
 "name": "Galeries Lafayette Open 2011",
 "country": "FR",
+"startDate": "2011-09-16",
 "webId": "GaleriesLafayetteOpen2011"
 },
 {
 "id": 844,
 "name": "Swedish Championship 2011",
 "country": "SE",
+"startDate": "2011-09-17",
 "webId": "SwedishChampionship2011"
 },
 {
 "id": 857,
 "name": "Amstelveen Open 2011",
 "country": "NL",
+"startDate": "2011-10-08",
 "webId": "AmstelveenOpen2011"
 },
 {
 "id": 859,
 "name": "Estonian Open 2011",
 "country": "EE",
+"startDate": "2011-10-08",
 "webId": "EstonianOpen2011"
 },
 {
 "id": 861,
 "name": "World Rubik's Cube Championship 2011",
 "country": "TH",
+"startDate": "2011-10-14",
 "webId": "WC2011"
 },
 {
 "id": 862,
 "name": "Dayton Fall 2011",
 "country": "US",
+"startDate": "2011-10-15",
 "webId": "DaytonFall2011"
 },
 {
 "id": 867,
 "name": "Engineer Open 2011",
 "country": "IN",
+"startDate": "2011-10-29",
 "webId": "EngineerOpen2011"
 },
 {
 "id": 869,
 "name": "Dutch Open 2011",
 "country": "NL",
+"startDate": "2011-10-29",
 "webId": "DutchOpen2011"
 },
 {
 "id": 877,
 "name": "Cachan Open 2011",
 "country": "FR",
+"startDate": "2011-11-05",
 "webId": "CachanOpen2011"
 },
 {
 "id": 885,
 "name": "Trentin Open 2011",
 "country": "IT",
+"startDate": "2011-11-12",
 "webId": "TrentinOpen2011"
 },
 {
 "id": 886,
 "name": "UK Open 2011",
 "country": "GB",
+"startDate": "2011-11-12",
 "webId": "UKOpen2011"
 },
 {
 "id": 891,
 "name": "Croatian Rubik Open 2011",
 "country": "HR",
+"startDate": "2011-11-19",
 "webId": "CroatianOpen2011"
 },
 {
 "id": 900,
 "name": "MPEI Open 2011",
 "country": "RU",
+"startDate": "2011-11-26",
 "webId": "MPEIOpen2011"
 },
 {
 "id": 903,
 "name": "Swedish Cubedays 2011",
 "country": "SE",
+"startDate": "2011-11-26",
 "webId": "SwedishCubedays2011"
 },
 {
 "id": 918,
 "name": "Spanish Championship 2011",
 "country": "ES",
+"startDate": "2011-12-16",
 "webId": "SpanishChampionship2011"
 },
 {
 "id": 924,
 "name": "MIT Fall 2011",
 "country": "US",
+"startDate": "2011-12-17",
 "webId": "MITFall2011"
 },
 {
 "id": 926,
 "name": "Magic Open 2011",
 "country": "FR",
+"startDate": "2011-12-17",
 "webId": "MagicOpen2011"
 },
 {
 "id": 938,
 "name": "Kansai New Year 2012",
 "country": "JP",
+"startDate": "2012-01-14",
 "webId": "KansaiNewYear2012"
 },
 {
 "id": 940,
 "name": "Bangkok 2012",
 "country": "TH",
+"startDate": "2012-01-14",
 "webId": "Bangkok2012"
 },
 {
 "id": 944,
 "name": "Borneo Championship 2012",
 "country": "ID",
+"startDate": "2012-01-21",
 "webId": "Borneo2012"
 },
 {
 "id": 952,
 "name": "Amrita Cube Championship 2012",
 "country": "IN",
+"startDate": "2012-02-02",
 "webId": "Amrita2012"
 },
 {
 "id": 954,
 "name": "Lynden Open 2012",
 "country": "US",
+"startDate": "2012-02-04",
 "webId": "LyndenOpen2012"
 },
 {
 "id": 964,
 "name": "Lyon Winter Open 2012",
 "country": "FR",
+"startDate": "2012-02-11",
 "webId": "LyonWinterOpen2012"
 },
 {
 "id": 969,
 "name": "MIT Spring 2012",
 "country": "US",
+"startDate": "2012-02-18",
 "webId": "MITSpring2012"
 },
 {
 "id": 970,
 "name": "Norwegian Championship 2012",
 "country": "NO",
+"startDate": "2012-02-18",
 "webId": "NorwegianChampionship2012"
 },
 {
 "id": 973,
 "name": "Newark Head to Head 2012",
 "country": "US",
+"startDate": "2012-02-25",
 "webId": "NewarkH2H2012"
 },
 {
 "id": 974,
 "name": "Altbier 2012",
 "country": "DE",
+"startDate": "2012-02-25",
 "webId": "Altbier2012"
 },
 {
 "id": 976,
 "name": "Zonhoven Open 2012",
 "country": "BE",
+"startDate": "2012-02-25",
 "webId": "ZonhovenOpen2012"
 },
 {
 "id": 977,
 "name": "EPGY Stanford Winter 2012",
 "country": "US",
+"startDate": "2012-02-26",
 "webId": "StanfordWinter2012"
 },
 {
 "id": 982,
 "name": "Twente Open 2012",
 "country": "NL",
+"startDate": "2012-03-03",
 "webId": "TwenteOpen2012"
 },
 {
 "id": 988,
 "name": "IIT Roorkee Open 2012",
 "country": "IN",
+"startDate": "2012-03-23",
 "webId": "IITRoorkeeOpen2012"
 },
 {
 "id": 989,
 "name": "Castellon Open 2012",
 "country": "ES",
+"startDate": "2012-03-24",
 "webId": "CastellonOpen2012"
 },
 {
 "id": 990,
 "name": "Kansai Open 2012",
 "country": "JP",
+"startDate": "2012-03-24",
 "webId": "KansaiOpen2012"
 },
 {
 "id": 1004,
 "name": "Matsudo Spring 2012",
 "country": "JP",
+"startDate": "2012-04-08",
 "webId": "MatsudoSpring2012"
 },
 {
 "id": 1007,
 "name": "Oficina Open 2012",
 "country": "BR",
+"startDate": "2012-04-14",
 "webId": "OficinaOpen2012"
 },
 {
 "id": 1008,
 "name": "Rapid Dash Open 2012",
 "country": "GB",
+"startDate": "2012-04-14",
 "webId": "RapidashOpen2012"
 },
 {
 "id": 1009,
 "name": "Slovenian Open 2012",
 "country": "SI",
+"startDate": "2012-04-14",
 "webId": "SlovenianOpen2012"
 },
 {
 "id": 1011,
 "name": "Xi'an Cherry Blossom 2012",
 "country": "CN",
+"startDate": "2012-04-15",
 "webId": "XianCherryBlossom2012"
 },
 {
 "id": 1022,
 "name": "BW Open 2012",
 "country": "DE",
+"startDate": "2012-04-28",
 "webId": "BWOpen2012"
 },
 {
 "id": 1025,
 "name": "Zune Open 2012",
 "country": "BE",
+"startDate": "2012-04-28",
 "webId": "ZuneOpen2012"
 },
 {
 "id": 1030,
 "name": "Couve Cubing 2012",
 "country": "US",
+"startDate": "2012-05-05",
 "webId": "Couve2012"
 },
 {
 "id": 1031,
 "name": "Rubikaz 10th Anniversary Open 2012",
 "country": "ES",
+"startDate": "2012-05-05",
 "webId": "Rubikaz10thAnniversary2012"
 },
 {
 "id": 1035,
 "name": "Serbian Open 2012",
 "country": "RS",
+"startDate": "2012-05-12",
 "webId": "SerbianOpen2012"
 },
 {
 "id": 1044,
 "name": "NEMO Amsterdam Open 2012",
 "country": "NL",
+"startDate": "2012-05-19",
 "webId": "NEMOAmsterdamOpen2012"
 },
 {
 "id": 1046,
 "name": "Vesoul Open Rubik 2012",
 "country": "FR",
+"startDate": "2012-05-19",
 "webId": "VesoulOpen2012"
 },
 {
 "id": 1060,
 "name": "New Albany 2012",
 "country": "US",
+"startDate": "2012-06-02",
 "webId": "NewAlbany2012"
 },
 {
 "id": 1068,
 "name": "Italian Open 2012",
 "country": "IT",
+"startDate": "2012-06-09",
 "webId": "ItalianOpen2012"
 },
 {
 "id": 1078,
 "name": "Aachen Summer Open 2012",
 "country": "DE",
+"startDate": "2012-06-23",
 "webId": "AachenSummer2012"
 },
 {
 "id": 1088,
 "name": "Saarland Open 2012",
 "country": "DE",
+"startDate": "2012-07-07",
 "webId": "SaarlandOpen2012"
 },
 {
 "id": 1092,
 "name": "FLIP Open 2012",
 "country": "FR",
+"startDate": "2012-07-14",
 "webId": "FLIPOpen2012"
 },
 {
 "id": 1093,
 "name": "Weston-super-Mare 2012",
 "country": "GB",
+"startDate": "2012-07-14",
 "webId": "WestonsuperMare2012"
 },
 {
 "id": 1100,
 "name": "Vårgårda Open 2012",
 "country": "SE",
+"startDate": "2012-07-21",
 "webId": "VargardaOpen2012"
 },
 {
 "id": 1103,
 "name": "Bosnia and Herzegovina Open 2012",
 "country": "BA",
+"startDate": "2012-07-28",
 "webId": "BIHOpen2012"
 },
 {
 "id": 1108,
 "name": "United States National Championships 2012",
 "country": "US",
+"startDate": "2012-08-03",
 "webId": "USNationals2012"
 },
 {
 "id": 1118,
 "name": "Kanto Open 2012",
 "country": "JP",
+"startDate": "2012-08-12",
 "webId": "KantoOpen2012"
 },
 {
 "id": 1130,
 "name": "Moves are for n00bs 2012",
 "country": "NL",
+"startDate": "2012-08-25",
 "webId": "MovesN00bs2012"
 },
 {
 "id": 1131,
 "name": "N8W8 Summer 2012",
 "country": "BE",
+"startDate": "2012-08-25",
 "webId": "N8W8Summer2012"
 },
 {
 "id": 1134,
 "name": "Galeries Lafayette Open 2012",
 "country": "FR",
+"startDate": "2012-08-31",
 "webId": "GaleriesLafayetteOpen2012"
 },
 {
 "id": 1139,
 "name": "Berkeley Fall 2012",
 "country": "US",
+"startDate": "2012-09-02",
 "webId": "BerkeleyFall2012"
 },
 {
 "id": 1143,
 "name": "Hungarian Open 2012",
 "country": "HU",
+"startDate": "2012-09-08",
 "webId": "HungarianOpen2012"
 },
 {
 "id": 1145,
 "name": "Eindhoven Open 2012",
 "country": "NL",
+"startDate": "2012-09-15",
 "webId": "EindhovenOpen2012"
 },
 {
 "id": 1147,
 "name": "Amstelveen Open 2012",
 "country": "NL",
+"startDate": "2012-09-22",
 "webId": "AmstelveenOpen2012"
 },
 {
 "id": 1156,
 "name": "Eagle Peak - San Diego Open 2012",
 "country": "US",
+"startDate": "2012-09-29",
 "webId": "SanDiego2012"
 },
 {
 "id": 1162,
 "name": "Harvard Fall 2012",
 "country": "US",
+"startDate": "2012-10-06",
 "webId": "HarvardFall2012"
 },
 {
 "id": 1165,
 "name": "Milan Blind Day 2012",
 "country": "IT",
+"startDate": "2012-10-06",
 "webId": "MilanBlindDay2012"
 },
 {
 "id": 1167,
 "name": "Swedish Championship 2012",
 "country": "SE",
+"startDate": "2012-10-06",
 "webId": "SwedishChampionship2012"
 },
 {
 "id": 1174,
 "name": "Dayton Fall 2012",
 "country": "US",
+"startDate": "2012-10-20",
 "webId": "Dayton2012"
 },
 {
 "id": 1179,
 "name": "Estonian Open 2012",
 "country": "EE",
+"startDate": "2012-10-27",
 "webId": "EstonianOpen2012"
 },
 {
 "id": 1185,
 "name": "German Nationals 2012",
 "country": "DE",
+"startDate": "2012-11-03",
 "webId": "GermanNationals2012"
 },
 {
 "id": 1186,
 "name": "UK Open 2012",
 "country": "GB",
+"startDate": "2012-11-03",
 "webId": "UKOpen2012"
 },
 {
 "id": 1187,
 "name": "Japan Contest 2012",
 "country": "JP",
+"startDate": "2012-11-04",
 "webId": "JapanContest2012"
 },
 {
 "id": 1192,
 "name": "Aarhus Open 2012",
 "country": "DK",
+"startDate": "2012-11-10",
 "webId": "AarhusOpen2012"
 },
 {
 "id": 1196,
 "name": "Berkeley Autumn 2012",
 "country": "US",
+"startDate": "2012-11-17",
 "webId": "BerkeleyAutumn2012"
 },
 {
 "id": 1198,
 "name": "Hasselt Open 2012",
 "country": "BE",
+"startDate": "2012-11-17",
 "webId": "HasseltOpen2012"
 },
 {
 "id": 1199,
 "name": "Aniversario Eduardo Valdivia 2012",
 "country": "PE",
+"startDate": "2012-11-18",
 "webId": "AniversarioEduardoValdivia2012"
 },
 {
 "id": 1205,
 "name": "MPEI Open 2012",
 "country": "RU",
+"startDate": "2012-11-24",
 "webId": "MPEIOpen2012"
 },
 {
 "id": 1216,
 "name": "Frankfurt Cube Days 2012",
 "country": "DE",
+"startDate": "2012-12-08",
 "webId": "FrankfurtOpen2012"
 },
 {
 "id": 1223,
 "name": "Spanish Championship 2012",
 "country": "ES",
+"startDate": "2012-12-14",
 "webId": "SpanishChampionship2012"
 },
 {
 "id": 1224,
 "name": "Arizona Winter 2012",
 "country": "US",
+"startDate": "2012-12-15",
 "webId": "ArizonaWinter2012"
 },
 {
 "id": 1239,
 "name": "Moscow North-West Open Winter 2013",
 "country": "RU",
+"startDate": "2013-01-03",
 "webId": "MNWWinter2013"
 },
 {
 "id": 1249,
 "name": "Cube Kingdom 2013",
 "country": "US",
+"startDate": "2013-01-12",
 "webId": "CubeKingdom2013"
 },
 {
 "id": 1261,
 "name": "Molina Open 2013",
 "country": "ES",
+"startDate": "2013-01-26",
 "webId": "MolinaOpen2013"
 },
 {
 "id": 1262,
 "name": "Edinburgh Open 2013",
 "country": "GB",
+"startDate": "2013-01-26",
 "webId": "EdinburghOpen2013"
 },
 {
 "id": 1266,
 "name": "Harvard Spring 2013",
 "country": "US",
+"startDate": "2013-02-02",
 "webId": "HarvardSpring2013"
 },
 {
 "id": 1275,
 "name": "Velbert Open 2013",
 "country": "DE",
+"startDate": "2013-02-16",
 "webId": "VelbertOpen2013"
 },
 {
 "id": 1277,
 "name": "UAM Open 2013",
 "country": "ES",
+"startDate": "2013-02-22",
 "webId": "UAMOpen2013"
 },
 {
 "id": 1278,
 "name": "Bergshamra Blind 2013",
 "country": "SE",
+"startDate": "2013-02-23",
 "webId": "BergshamraBlind2013"
 },
 {
 "id": 1280,
 "name": "Hillsdale Winter 2013",
 "country": "US",
+"startDate": "2013-02-23",
 "webId": "Hillsdale2013"
 },
 {
 "id": 1282,
 "name": "Danish Open 2013",
 "country": "DK",
+"startDate": "2013-02-23",
 "webId": "DanishOpen2013"
 },
 {
 "id": 1283,
 "name": "Leicester Open 2013",
 "country": "GB",
+"startDate": "2013-02-23",
 "webId": "Leicester2013"
 },
 {
 "id": 1288,
 "name": "Pragyan Cube Open 2013",
 "country": "IN",
+"startDate": "2013-03-02",
 "webId": "PragyanCubeOpen2013"
 },
 {
 "id": 1297,
 "name": "Italian Championship 2013",
 "country": "IT",
+"startDate": "2013-03-09",
 "webId": "ItalianChampionship2013"
 },
 {
 "id": 1302,
 "name": "Castellon Open 2013",
 "country": "ES",
+"startDate": "2013-03-16",
 "webId": "CastellonOpen2013"
 },
 {
 "id": 1306,
 "name": "Montréal Open 2013",
 "country": "CA",
+"startDate": "2013-03-23",
 "webId": "MontrealOpen2013"
 },
 {
 "id": 1311,
 "name": "Trieste Open 2013",
 "country": "IT",
+"startDate": "2013-03-23",
 "webId": "TriesteOpen2013"
 },
 {
 "id": 1318,
 "name": "UIUC Spring 2013",
 "country": "US",
+"startDate": "2013-03-30",
 "webId": "UIUCSpring2013"
 },
 {
 "id": 1320,
 "name": "Nelidovo Open 2013",
 "country": "RU",
+"startDate": "2013-03-30",
 "webId": "NelidovoOpen2013"
 },
 {
 "id": 1329,
 "name": "Dayton Open 2013",
 "country": "US",
+"startDate": "2013-04-06",
 "webId": "DaytonOpen2013"
 },
 {
 "id": 1332,
 "name": "Northern Irish Open 2013",
 "country": "GB",
+"startDate": "2013-04-06",
 "webId": "NorthernIrishOpen2013"
 },
 {
 "id": 1336,
 "name": "Murcia Open 2013",
 "country": "ES",
+"startDate": "2013-04-13",
 "webId": "MurciaOpen2013"
 },
 {
 "id": 1340,
 "name": "Weifang Open 2013",
 "country": "CN",
+"startDate": "2013-04-14",
 "webId": "WeifangOpen2013"
 },
 {
 "id": 1342,
 "name": "Monticello Conte Otto Open 2013",
 "country": "IT",
+"startDate": "2013-04-20",
 "webId": "MonticelloConteOtto2013"
 },
 {
 "id": 1343,
 "name": "German Open 2013",
 "country": "DE",
+"startDate": "2013-04-20",
 "webId": "GermanOpen2013"
 },
 {
 "id": 1344,
 "name": "Minx Open 2013",
 "country": "BE",
+"startDate": "2013-04-20",
 "webId": "MinxOpen2013"
 },
 {
 "id": 1347,
 "name": "Slovenian Open 2013",
 "country": "SI",
+"startDate": "2013-04-20",
 "webId": "SlovenianOpen2013"
 },
 {
 "id": 1353,
 "name": "Turkish Open 2013",
 "country": "TR",
+"startDate": "2013-04-27",
 "webId": "TurkishOpen2013"
 },
 {
 "id": 1355,
 "name": "French Championship 2013",
 "country": "FR",
+"startDate": "2013-04-27",
 "webId": "France2013"
 },
 {
 "id": 1361,
 "name": "Nottingham Open 2013",
 "country": "GB",
+"startDate": "2013-05-04",
 "webId": "NottinghamOpen2013"
 },
 {
 "id": 1362,
 "name": "Thailand Championship 2013",
 "country": "TH",
+"startDate": "2013-05-04",
 "webId": "ThailandChampionship2013"
 },
 {
 "id": 1363,
 "name": "Kawasaki Open 2013",
 "country": "JP",
+"startDate": "2013-05-05",
 "webId": "KawasakiOpen2013"
 },
 {
 "id": 1368,
 "name": "Florence Fantastic Open 2013",
 "country": "IT",
+"startDate": "2013-05-12",
 "webId": "FlorenceFantastic2013"
 },
 {
 "id": 1374,
 "name": "National Capital Region 2013",
 "country": "CA",
+"startDate": "2013-05-18",
 "webId": "NationalCapitalRegion2013"
 },
 {
 "id": 1377,
 "name": "HEM MariCubik Open 2013",
 "country": "FR",
+"startDate": "2013-05-19",
 "webId": "HEMMariCubikOpen2013"
 },
 {
 "id": 1383,
 "name": "Xi'an Summer 2013",
 "country": "CN",
+"startDate": "2013-05-25",
 "webId": "XianSummer2013"
 },
 {
 "id": 1387,
 "name": "Eindhoven Spring 2013",
 "country": "NL",
+"startDate": "2013-06-01",
 "webId": "EindhovenSpring2013"
 },
 {
 "id": 1392,
 "name": "Coastal Cubing 2013",
 "country": "US",
+"startDate": "2013-06-08",
 "webId": "CoastalCubing2013"
 },
 {
 "id": 1400,
 "name": "Cambridge Open 2013",
 "country": "GB",
+"startDate": "2013-06-15",
 "webId": "CambridgeOpen2013"
 },
 {
 "id": 1413,
 "name": "Canadian Open 2013",
 "country": "CA",
+"startDate": "2013-07-06",
 "webId": "CanadianOpen2013"
 },
 {
 "id": 1417,
 "name": "Czech Open 2013",
 "country": "CZ",
+"startDate": "2013-07-12",
 "webId": "CzechOpen2013"
 },
 {
 "id": 1419,
 "name": "FLIP Open 2013",
 "country": "FR",
+"startDate": "2013-07-13",
 "webId": "FlipOpen2013"
 },
 {
 "id": 1426,
 "name": "Indian Cube Challenge 2013",
 "country": "IN",
+"startDate": "2013-07-19",
 "webId": "IndianCubeChallenge2013"
 },
 {
 "id": 1431,
 "name": "World Rubik's Cube Championship 2013",
 "country": "US",
+"startDate": "2013-07-26",
 "webId": "WC2013"
 },
 {
 "id": 1442,
 "name": "N8W8 Summer 2013",
 "country": "BE",
+"startDate": "2013-08-10",
 "webId": "N8W8Summer2013"
 },
 {
 "id": 1453,
 "name": "Cube Camp in Kanazawa 2013",
 "country": "JP",
+"startDate": "2013-08-23",
 "webId": "CubeCampKanazawa2013"
 },
 {
 "id": 1462,
 "name": "Milan Blind Day 2013",
 "country": "IT",
+"startDate": "2013-09-07",
 "webId": "MilanBlindDay2013"
 },
 {
 "id": 1468,
 "name": "Champagne Summer Open 2013",
 "country": "FR",
+"startDate": "2013-09-14",
 "webId": "ChampagneOpen2013"
 },
 {
 "id": 1480,
 "name": "Madrid Open 2013",
 "country": "ES",
+"startDate": "2013-09-21",
 "webId": "MadridOpen2013"
 },
 {
 "id": 1485,
 "name": "Ljubljana Open 2013",
 "country": "SI",
+"startDate": "2013-09-28",
 "webId": "LjubljanaOpen2013"
 },
 {
 "id": 1498,
 "name": "Cuthberts Open 2013",
 "country": "GB",
+"startDate": "2013-10-05",
 "webId": "CuthbertsOpen2013"
 },
 {
 "id": 1501,
 "name": "Spanish Championship 2013",
 "country": "ES",
+"startDate": "2013-10-11",
 "webId": "SpanishChampionships2013"
 },
 {
 "id": 1504,
 "name": "Leaf Town 2013",
 "country": "US",
+"startDate": "2013-10-12",
 "webId": "LeafTown2013"
 },
 {
 "id": 1506,
 "name": "Estonian Open 2013",
 "country": "EE",
+"startDate": "2013-10-12",
 "webId": "EstonianOpen2013"
 },
 {
 "id": 1509,
 "name": "Amstelveen Open 2013",
 "country": "NL",
+"startDate": "2013-10-13",
 "webId": "AmstelveenOpen2013"
 },
 {
 "id": 1517,
 "name": "Dutch Open 2013",
 "country": "NL",
+"startDate": "2013-10-19",
 "webId": "DutchOpen2013"
 },
 {
 "id": 1531,
 "name": "West Japan Big Cube 2013",
 "country": "JP",
+"startDate": "2013-11-02",
 "webId": "WestJapanBigCube2013"
 },
 {
 "id": 1532,
 "name": "Aspe Open 2013",
 "country": "ES",
+"startDate": "2013-11-03",
 "webId": "AspeOpen2013"
 },
 {
 "id": 1540,
 "name": "Munich Open 2013",
 "country": "DE",
+"startDate": "2013-11-09",
 "webId": "MunichOpen2013"
 },
 {
 "id": 1552,
 "name": "Atlantic Open 2013",
 "country": "CA",
+"startDate": "2013-11-23",
 "webId": "AtlanticOpen2013"
 },
 {
 "id": 1553,
 "name": "Carnegie Mellon Fall 2013",
 "country": "US",
+"startDate": "2013-11-23",
 "webId": "CMUFall2013"
 },
 {
 "id": 1554,
 "name": "Lexington Fall 2013",
 "country": "US",
+"startDate": "2013-11-23",
 "webId": "LexingtonFall2013"
 },
 {
 "id": 1555,
 "name": "German Nationals 2013",
 "country": "DE",
+"startDate": "2013-11-23",
 "webId": "GermanNationals2013"
 },
 {
 "id": 1557,
 "name": "Swedish Cube Days 2013",
 "country": "SE",
+"startDate": "2013-11-23",
 "webId": "SwedishCubeDays2013"
 },
 {
 "id": 1558,
 "name": "Zeeland Open 2013",
 "country": "NL",
+"startDate": "2013-11-23",
 "webId": "ZeelandOpen2013"
 },
 {
 "id": 1580,
 "name": "Torneo Profecia II 2013",
 "country": "CO",
+"startDate": "2013-12-14",
 "webId": "Profecia2013"
 },
 {
 "id": 1595,
 "name": "Kyushu Open 2013",
 "country": "JP",
+"startDate": "2013-12-29",
 "webId": "KyushuOpen2013"
 },
 {
 "id": 1598,
 "name": "Duisburg Winter 2014",
 "country": "DE",
+"startDate": "2014-01-03",
 "webId": "DuisburgWinter2014"
 },
 {
 "id": 1602,
 "name": "Warsaw Open 2014",
 "country": "PL",
+"startDate": "2014-01-04",
 "webId": "WarsawOpen2014"
 },
 {
 "id": 1607,
 "name": "South Africa Open 2014",
 "country": "ZA",
+"startDate": "2014-01-11",
 "webId": "SouthAfricaOpen2014"
 },
 {
 "id": 1613,
 "name": "Frankfurt Cube Days 2014",
 "country": "DE",
+"startDate": "2014-01-18",
 "webId": "FrankfurtCubeDays2014"
 },
 {
 "id": 1623,
 "name": "Skanderborg Open 2014",
 "country": "DK",
+"startDate": "2014-02-01",
 "webId": "SkanderborgOpen2014"
 },
 {
 "id": 1630,
 "name": "JRCA Kansai Winter 2014",
 "country": "JP",
+"startDate": "2014-02-08",
 "webId": "JRCAKansaiWinter2014"
 },
 {
 "id": 1631,
 "name": "Linkub 2014",
 "country": "SE",
+"startDate": "2014-02-08",
 "webId": "Linkub2014"
 },
 {
 "id": 1644,
 "name": "Polish Open 2014",
 "country": "PL",
+"startDate": "2014-02-15",
 "webId": "PolishOpen2014"
 },
 {
 "id": 1648,
 "name": "Caltech Winter Open 2014",
 "country": "US",
+"startDate": "2014-02-22",
 "webId": "CaltechWinter2014"
 },
 {
 "id": 1653,
 "name": "Hamburg Open 2014",
 "country": "DE",
+"startDate": "2014-02-22",
 "webId": "HamburgOpen2014"
 },
 {
 "id": 1654,
 "name": "Heureka Open 2014",
 "country": "FI",
+"startDate": "2014-02-22",
 "webId": "HeurekaOpen2014"
 },
 {
 "id": 1657,
 "name": "Nottingham Open 2014",
 "country": "GB",
+"startDate": "2014-02-22",
 "webId": "UniversityofNottingham2014"
 },
 {
 "id": 1662,
 "name": "Murcia Open 2014",
 "country": "ES",
+"startDate": "2014-03-01",
 "webId": "MurciaOpen2014"
 },
 {
 "id": 1665,
 "name": "Cannes Open 2014",
 "country": "FR",
+"startDate": "2014-03-01",
 "webId": "CannesOpen2014"
 },
 {
 "id": 1670,
 "name": "Hallonbergen 2014",
 "country": "SE",
+"startDate": "2014-03-08",
 "webId": "Hallonbergen2014"
 },
 {
 "id": 1674,
 "name": "Pragyan Cube Open 2014",
 "country": "IN",
+"startDate": "2014-03-08",
 "webId": "PragyanCubeOpen2014"
 },
 {
 "id": 1675,
 "name": "SLS Rybnik 2014",
 "country": "PL",
+"startDate": "2014-03-08",
 "webId": "SLSRybnik2014"
 },
 {
 "id": 1678,
 "name": "Cube Kingdom II 2014",
 "country": "US",
+"startDate": "2014-03-15",
 "webId": "CubeKingdom2014"
 },
 {
 "id": 1684,
 "name": "Hessen Open 2014",
 "country": "DE",
+"startDate": "2014-03-15",
 "webId": "HessenOpen2014"
 },
 {
 "id": 1698,
 "name": "Jakarta Cube Day 2014",
 "country": "ID",
+"startDate": "2014-03-29",
 "webId": "JakartaCubeDay2014"
 },
 {
 "id": 1699,
 "name": "Monticello Conte Otto Open 2014",
 "country": "IT",
+"startDate": "2014-03-29",
 "webId": "MonticelloConteOtto2014"
 },
 {
 "id": 1702,
 "name": "Rumia Open 2014",
 "country": "PL",
+"startDate": "2014-03-29",
 "webId": "RumiaOpen2014"
 },
 {
 "id": 1719,
 "name": "SESC Santo Amaro 2014",
 "country": "BR",
+"startDate": "2014-04-05",
 "webId": "SESCSantoAmaro2014"
 },
 {
 "id": 1741,
 "name": "Toronto Open Spring 2014",
 "country": "CA",
+"startDate": "2014-04-26",
 "webId": "TorontoOpenSpring2014"
 },
 {
 "id": 1747,
 "name": "Japan Contest Spring 2014",
 "country": "JP",
+"startDate": "2014-04-29",
 "webId": "JapanContestSpring2014"
 },
 {
 "id": 1751,
 "name": "Castellon Open 2014",
 "country": "ES",
+"startDate": "2014-05-02",
 "webId": "CastellonOpen2014"
 },
 {
 "id": 1752,
 "name": "Atlantic Open 2014",
 "country": "CA",
+"startDate": "2014-05-03",
 "webId": "AtlanticOpen2014"
 },
 {
 "id": 1758,
 "name": "Stockholm Open 2014",
 "country": "SE",
+"startDate": "2014-05-03",
 "webId": "StockholmOpen2014"
 },
 {
 "id": 1764,
 "name": "Italian Championship 2014",
 "country": "IT",
+"startDate": "2014-05-10",
 "webId": "ItalianChampionship2014"
 },
 {
 "id": 1774,
 "name": "Moratalla Open Rubik 2014",
 "country": "ES",
+"startDate": "2014-05-17",
 "webId": "MoratallaOpenRubik2014"
 },
 {
 "id": 1777,
 "name": "HEM MariCubik Open 2014",
 "country": "FR",
+"startDate": "2014-05-18",
 "webId": "MariCubikOpen2014"
 },
 {
 "id": 1782,
 "name": "Skanstull Cube 2014",
 "country": "SE",
+"startDate": "2014-05-24",
 "webId": "SkanstullCube2014"
 },
 {
 "id": 1784,
 "name": "Berlin Open 2014",
 "country": "DE",
+"startDate": "2014-05-24",
 "webId": "BerlinOpen2014"
 },
 {
 "id": 1785,
 "name": "Educativa 2014",
 "country": "BR",
+"startDate": "2014-05-24",
 "webId": "Educativa2014"
 },
 {
 "id": 1791,
 "name": "Big CubingItaly 2014",
 "country": "IT",
+"startDate": "2014-05-31",
 "webId": "BigCubingItaly2014"
 },
 {
 "id": 1797,
 "name": "Erfurt Open 2014",
 "country": "DE",
+"startDate": "2014-06-07",
 "webId": "ErfurtOpen2014"
 },
 {
 "id": 1798,
 "name": "Maribor Open 2014",
 "country": "SI",
+"startDate": "2014-06-07",
 "webId": "MariborOpen2014"
 },
 {
 "id": 1804,
 "name": "Nottingham Summer 2014",
 "country": "GB",
+"startDate": "2014-06-14",
 "webId": "NottinghamSummer2014"
 },
 {
 "id": 1812,
 "name": "Portugal Open 2014",
 "country": "PT",
+"startDate": "2014-06-21",
 "webId": "PortugalOpen2014"
 },
 {
 "id": 1828,
 "name": "Mallorca Open Rubik 2014",
 "country": "ES",
+"startDate": "2014-07-04",
 "webId": "Mallorca2014"
 },
 {
 "id": 1839,
 "name": "Belgian Summer 2014",
 "country": "BE",
+"startDate": "2014-07-12",
 "webId": "BelgianSummer2014"
 },
 {
 "id": 1843,
 "name": "Michigan 2014",
 "country": "US",
+"startDate": "2014-07-12",
 "webId": "Michigan2014"
 },
 {
 "id": 1846,
 "name": "Les Santes Open 2014",
 "country": "ES",
+"startDate": "2014-07-18",
 "webId": "LesSantesOpen2014"
 },
 {
 "id": 1850,
 "name": "Croatian Open 2014",
 "country": "HR",
+"startDate": "2014-07-19",
 "webId": "CroatianOpen2014"
 },
 {
 "id": 1856,
 "name": "Brasileiro Etapa de Inverno 2014",
 "country": "BR",
+"startDate": "2014-07-25",
 "webId": "BrasileiroInverno2014"
 },
 {
 "id": 1863,
 "name": "US Nationals 2014",
 "country": "US",
+"startDate": "2014-08-01",
 "webId": "USNationals2014"
 },
 {
 "id": 1865,
 "name": "Lifestyle Seasons Winter 2014",
 "country": "AU",
+"startDate": "2014-08-02",
 "webId": "LifestyleSeasonsWinter2014"
 },
 {
 "id": 1870,
 "name": "Rubik's Cube European Championships 2014",
 "country": "DK",
+"startDate": "2014-08-08",
 "webId": "Euro2014"
 },
 {
 "id": 1884,
 "name": "Colombia Nationals 2014",
 "country": "CO",
+"startDate": "2014-08-22",
 "webId": "ColombiaNationals2014"
 },
 {
 "id": 1896,
 "name": "Iutopia Open 2014",
 "country": "AD",
+"startDate": "2014-08-30",
 "webId": "IutopiaOpen2014"
 },
 {
 "id": 1908,
 "name": "German Nationals 2014",
 "country": "DE",
+"startDate": "2014-09-06",
 "webId": "GermanNationals2014"
 },
 {
 "id": 1923,
 "name": "Swedish Championship 2014",
 "country": "SE",
+"startDate": "2014-09-20",
 "webId": "SwedishChampionship2014"
 },
 {
 "id": 1924,
 "name": "Spanish Championship 2014",
 "country": "ES",
+"startDate": "2014-09-26",
 "webId": "SpanishChampionship2014"
 },
 {
 "id": 1930,
 "name": "Torneo UPN 2014",
 "country": "CO",
+"startDate": "2014-09-27",
 "webId": "TorneoUPN2014"
 },
 {
 "id": 1933,
 "name": "Dutch Nationals 2014",
 "country": "NL",
+"startDate": "2014-09-28",
 "webId": "DutchNationals2014"
 },
 {
 "id": 1952,
 "name": "Cuthberts Open 2014",
 "country": "GB",
+"startDate": "2014-10-11",
 "webId": "CuthbertsOpen2014"
 },
 {
 "id": 1953,
 "name": "Montreal Fall 2014",
 "country": "CA",
+"startDate": "2014-10-11",
 "webId": "MontrealFall2014"
 },
 {
 "id": 1966,
 "name": "UPV Open 2014",
 "country": "ES",
+"startDate": "2014-10-18",
 "webId": "UPVOpen2014"
 },
 {
 "id": 1970,
 "name": "Dutch Open 2014",
 "country": "NL",
+"startDate": "2014-10-25",
 "webId": "DutchOpen2014"
 },
 {
 "id": 1975,
 "name": "Atlantic Open Fall 2014",
 "country": "CA",
+"startDate": "2014-11-01",
 "webId": "AtlanticOpenFall2014"
 },
 {
 "id": 1982,
 "name": "UK Rubik's Cube Championship 2014",
 "country": "GB",
+"startDate": "2014-11-01",
 "webId": "UKChampionship2014"
 },
 {
 "id": 1983,
 "name": "Asian Championship 2014",
 "country": "JP",
+"startDate": "2014-11-01",
 "webId": "AsianChampionship2014"
 },
 {
 "id": 1985,
 "name": "Eretum Open 2014",
 "country": "IT",
+"startDate": "2014-11-02",
 "webId": "EretumOpen2014"
 },
 {
 "id": 1995,
 "name": "Rebild Open 2014",
 "country": "DK",
+"startDate": "2014-11-08",
 "webId": "RebildOpen2014"
 },
 {
 "id": 2005,
 "name": "Alhambra LMO 2014",
 "country": "ES",
+"startDate": "2014-11-15",
 "webId": "AlhambraLMO2014"
 },
 {
 "id": 2021,
 "name": "Sydney Spring 2014",
 "country": "AU",
+"startDate": "2014-11-23",
 "webId": "SydneySpring2014"
 },
 {
 "id": 2022,
 "name": "UT Open 2014",
 "country": "JP",
+"startDate": "2014-11-23",
 "webId": "UTOpen2014"
 },
 {
 "id": 2023,
 "name": "MPEI Open 2014",
 "country": "RU",
+"startDate": "2014-11-28",
 "webId": "MPEIOpen2014"
 },
 {
 "id": 2026,
 "name": "Franconia Winter 2014",
 "country": "DE",
+"startDate": "2014-11-29",
 "webId": "FranconiaWinter2014"
 },
 {
 "id": 2030,
 "name": "Cape Town 2014",
 "country": "ZA",
+"startDate": "2014-11-30",
 "webId": "CapeTown2014"
 },
 {
 "id": 2035,
 "name": "Newport Winter Open 2014",
 "country": "US",
+"startDate": "2014-12-06",
 "webId": "NewportWinter2014"
 },
 {
 "id": 2041,
 "name": "Santa Claus Cube Race 2014",
 "country": "PL",
+"startDate": "2014-12-06",
 "webId": "SantaClausRace2014"
 },
 {
 "id": 2070,
 "name": "Huddinge Cube Day 2014",
 "country": "SE",
+"startDate": "2014-12-27",
 "webId": "HuddingeCubeDay2014"
 },
 {
 "id": 2075,
 "name": "Kyushu Open 2014",
 "country": "JP",
+"startDate": "2014-12-28",
 "webId": "KyushuOpen2014"
 },
 {
 "id": 2080,
 "name": "Austin Cubing Limits 2015",
 "country": "US",
+"startDate": "2015-01-03",
 "webId": "AustinCubingLimits2015"
 },
 {
 "id": 2084,
 "name": "Another Fantastic Michigan Competition 2015",
 "country": "US",
+"startDate": "2015-01-10",
 "webId": "AnotherFMC2015"
 },
 {
 "id": 2086,
 "name": "Uppsala Open 2015",
 "country": "SE",
+"startDate": "2015-01-10",
 "webId": "UppsalaOpen2015"
 },
 {
 "id": 2092,
 "name": "Linkub 2015",
 "country": "SE",
+"startDate": "2015-01-17",
 "webId": "Linkub2015"
 },
 {
 "id": 2094,
 "name": "Frankfurt Cube Days 2015",
 "country": "DE",
+"startDate": "2015-01-17",
 "webId": "FrankfurtCubeDays2015"
 },
 {
 "id": 2108,
 "name": "B.O.N.D. Open 2015",
 "country": "SK",
+"startDate": "2015-01-31",
 "webId": "BONDOpen2015"
 },
 {
 "id": 2122,
 "name": "JRCA Kansai Winter 2015",
 "country": "JP",
+"startDate": "2015-02-15",
 "webId": "JRCAKansaiWinter2015"
 },
 {
 "id": 2127,
 "name": "Caltech Winter Open 2015",
 "country": "US",
+"startDate": "2015-02-21",
 "webId": "CaltechWinterOpen2015"
 },
 {
 "id": 2129,
 "name": "Hessen Open 2015",
 "country": "DE",
+"startDate": "2015-02-21",
 "webId": "HessenOpen2015"
 },
 {
 "id": 2130,
 "name": "MAD Cube Weekend 2015",
 "country": "ES",
+"startDate": "2015-02-21",
 "webId": "MADCubeWeekend2015"
 },
 {
 "id": 2133,
 "name": "Phalsbourg Open 2015",
 "country": "FR",
+"startDate": "2015-02-21",
 "webId": "PhalsbourgOpen2015"
 },
 {
 "id": 2141,
 "name": "Waseda Brain Challenge 2015",
 "country": "JP",
+"startDate": "2015-02-28",
 "webId": "WasedaBrainChallenge2015"
 },
 {
 "id": 2145,
 "name": "Harrow Spring 2015",
 "country": "GB",
+"startDate": "2015-02-28",
 "webId": "HarrowSpring2015"
 },
 {
 "id": 2146,
 "name": "Montgròs Open 2015",
 "country": "ES",
+"startDate": "2015-02-28",
 "webId": "MontgrosOpen2015"
 },
 {
 "id": 2164,
 "name": "Norwegian Championship 2015",
 "country": "NO",
+"startDate": "2015-03-14",
 "webId": "NorwegianChampionship2015"
 },
 {
 "id": 2166,
 "name": "Zonhoven Open 2015",
 "country": "BE",
+"startDate": "2015-03-14",
 "webId": "ZonhovenOpen2015"
 },
 {
 "id": 2169,
 "name": "Tunisia Spring Open 2015",
 "country": "TN",
+"startDate": "2015-03-17",
 "webId": "TunisiaSpringOpen2015"
 },
 {
 "id": 2174,
 "name": "Edinburgh Spring 2015",
 "country": "GB",
+"startDate": "2015-03-21",
 "webId": "EdinburghSpring2015"
 },
 {
 "id": 2179,
 "name": "Tokyo Pyraminx Open 2015",
 "country": "JP",
+"startDate": "2015-03-22",
 "webId": "TokyoPyraminxOpen2015"
 },
 {
 "id": 2180,
 "name": "Polish Open 2015",
 "country": "PL",
+"startDate": "2015-03-27",
 "webId": "PolishOpen2015"
 },
 {
 "id": 2182,
 "name": "FMC Europe 2015",
 "country": "XE",
+"startDate": "2015-03-28",
 "webId": "FMCEurope2015"
 },
 {
 "id": 2188,
 "name": "Kansai Open 2015",
 "country": "JP",
+"startDate": "2015-03-28",
 "webId": "KansaiOpen2015"
 },
 {
 "id": 2191,
 "name": "Rumbo a Brasil 2015",
 "country": "CO",
+"startDate": "2015-03-29",
 "webId": "RumboaBrasil2015"
 },
 {
 "id": 2201,
 "name": "Xi'an Cherry Blossom 2015",
 "country": "CN",
+"startDate": "2015-04-04",
 "webId": "XianCherryBlossom2015"
 },
 {
 "id": 2209,
 "name": "Getafe Open 2015",
 "country": "ES",
+"startDate": "2015-04-11",
 "webId": "GetafeOpen2015"
 },
 {
 "id": 2222,
 "name": "Cerbuna Open 2015",
 "country": "ES",
+"startDate": "2015-04-18",
 "webId": "CerbunaOpen2015"
 },
 {
 "id": 2240,
 "name": "Riga Open 2015",
 "country": "LV",
+"startDate": "2015-04-26",
 "webId": "RigaOpen2015"
 },
 {
 "id": 2244,
 "name": "MIT Spring 2015",
 "country": "US",
+"startDate": "2015-05-02",
 "webId": "MITSpring2015"
 },
 {
 "id": 2245,
 "name": "Sydney Autumn 2015",
 "country": "AU",
+"startDate": "2015-05-02",
 "webId": "SydneyAutumn2015"
 },
 {
 "id": 2250,
 "name": "Hungarian Nationals 2015",
 "country": "HU",
+"startDate": "2015-05-02",
 "webId": "HungarianNationals2015"
 },
 {
 "id": 2254,
 "name": "Swedish Decathlon Challenge 2015",
 "country": "SE",
+"startDate": "2015-05-02",
 "webId": "SwedishDecathlonChallenge2015"
 },
 {
 "id": 2269,
 "name": "Serbian Open 2015",
 "country": "RS",
+"startDate": "2015-05-16",
 "webId": "SerbianOpen2015"
 },
 {
 "id": 2270,
 "name": "Nacionales Aquarela SpeedCubing 2015",
 "country": "CO",
+"startDate": "2015-05-16",
 "webId": "AquarelaSpeedcubing2015"
 },
 {
 "id": 2277,
 "name": "CBNBC 2015",
 "country": "BE",
+"startDate": "2015-05-23",
 "webId": "CBNBC2015"
 },
 {
 "id": 2301,
 "name": "HEM MariCubik Open 2015",
 "country": "FR",
+"startDate": "2015-05-31",
 "webId": "MariCubikOpen2015"
 },
 {
 "id": 2308,
 "name": "Canadian Open 2015",
 "country": "CA",
+"startDate": "2015-06-06",
 "webId": "CanadianOpen2015"
 },
 {
 "id": 2315,
 "name": "Cubing Knights 2015",
 "country": "US",
+"startDate": "2015-06-13",
 "webId": "CubingKnights2015"
 },
 {
 "id": 2320,
 "name": "Finnish Open 2015",
 "country": "FI",
+"startDate": "2015-06-13",
 "webId": "FinnishOpen2015"
 },
 {
 "id": 2330,
 "name": "Castellon Open 2015",
 "country": "ES",
+"startDate": "2015-06-20",
 "webId": "CastellonOpen2015"
 },
 {
 "id": 2343,
 "name": "Campeonato Chileno de Invierno 2015",
 "country": "CL",
+"startDate": "2015-06-27",
 "webId": "ChilenoDeInvierno2015"
 },
 {
 "id": 2344,
 "name": "Cannes Open 2015",
 "country": "FR",
+"startDate": "2015-06-27",
 "webId": "CannesOpen2015"
 },
 {
 "id": 2346,
 "name": "Radomsko Cube Theory 2015",
 "country": "PL",
+"startDate": "2015-06-27",
 "webId": "Radomsko2015"
 },
 {
 "id": 2350,
 "name": "Atlantic Open Special 2015",
 "country": "CA",
+"startDate": "2015-07-04",
 "webId": "AtlanticOpenSpecial2015"
 },
 {
 "id": 2352,
 "name": "Archena Open 2015",
 "country": "ES",
+"startDate": "2015-07-04",
 "webId": "ArchenaOpen2015"
 },
 {
 "id": 2354,
 "name": "Colégio IPÊ 2015",
 "country": "BR",
+"startDate": "2015-07-04",
 "webId": "ColegioIpe2015"
 },
 {
 "id": 2355,
 "name": "Croatian Open 2015",
 "country": "HR",
+"startDate": "2015-07-04",
 "webId": "CroatianOpen2015"
 },
 {
 "id": 2356,
 "name": "Franconia Open 2015",
 "country": "DE",
+"startDate": "2015-07-04",
 "webId": "FranconiaOpen2015"
 },
 {
 "id": 2358,
 "name": "Lyon Megaminx Open 2015",
 "country": "FR",
+"startDate": "2015-07-04",
 "webId": "LyonMegaminxOpen2015"
 },
 {
 "id": 2362,
 "name": "Michigan 2015",
 "country": "US",
+"startDate": "2015-07-10",
 "webId": "Michigan2015"
 },
 {
 "id": 2367,
 "name": "TCG & Friends 2015",
 "country": "PE",
+"startDate": "2015-07-11",
 "webId": "TCGAndFriends2015"
 },
 {
 "id": 2374,
 "name": "World Rubik's Cube Championship 2015",
 "country": "BR",
+"startDate": "2015-07-17",
 "webId": "WC2015"
 },
 {
 "id": 2385,
 "name": "JRCA Kansai Summer 2015",
 "country": "JP",
+"startDate": "2015-07-25",
 "webId": "JRCAKansaiSummer2015"
 },
 {
 "id": 2393,
 "name": "US Nationals 2015",
 "country": "US",
+"startDate": "2015-07-31",
 "webId": "USNationals2015"
 },
 {
 "id": 2396,
 "name": "N8W8 Summer 2015",
 "country": "BE",
+"startDate": "2015-08-01",
 "webId": "N8W8Summer2015"
 },
 {
 "id": 2401,
 "name": "Torneo Salitre Plaza 2015",
 "country": "CO",
+"startDate": "2015-08-07",
 "webId": "TorneoSalitrePlaza2015"
 },
 {
 "id": 2415,
 "name": "Vancouver Open Summer 2015",
 "country": "CA",
+"startDate": "2015-08-15",
 "webId": "VancouverOpenSummer2015"
 },
 {
 "id": 2417,
 "name": "Helsinki Blind Weekend 2015",
 "country": "FI",
+"startDate": "2015-08-15",
 "webId": "HelsinkiBlindWeekend2015"
 },
 {
 "id": 2424,
 "name": "Norrkubing 2015",
 "country": "SE",
+"startDate": "2015-08-16",
 "webId": "Norrkubing2015"
 },
 {
 "id": 2425,
 "name": "Cube Camp in Kanazawa 2015",
 "country": "JP",
+"startDate": "2015-08-21",
 "webId": "CubeCampinKanazawa2015"
 },
 {
 "id": 2436,
 "name": "CCC End of Summer 2015",
 "country": "RU",
+"startDate": "2015-08-28",
 "webId": "CCCEndofSummer2015"
 },
 {
 "id": 2449,
 "name": "German Nationals 2015",
 "country": "DE",
+"startDate": "2015-09-05",
 "webId": "GermanNationals2015"
 },
 {
 "id": 2461,
 "name": "Barcelona FME Open 2015",
 "country": "ES",
+"startDate": "2015-09-12",
 "webId": "BarcelonaFMEOpen2015"
 },
 {
 "id": 2462,
 "name": "Champagne Open 2015",
 "country": "FR",
+"startDate": "2015-09-12",
 "webId": "ChampagneOpen2015"
 },
 {
 "id": 2463,
 "name": "I Campeonato de Cubo Mágico de Barueri 2015",
 "country": "BR",
+"startDate": "2015-09-12",
 "webId": "Barueri2015"
 },
 {
 "id": 2469,
 "name": "Hungarian Open 2015",
 "country": "HU",
+"startDate": "2015-09-18",
 "webId": "HungarianOpen2015"
 },
 {
 "id": 2475,
 "name": "Warsaw Cube Masters 2015",
 "country": "PL",
+"startDate": "2015-09-19",
 "webId": "WarsawCubeMasters2015"
 },
 {
 "id": 2476,
 "name": "Japan Open 2015",
 "country": "JP",
+"startDate": "2015-09-21",
 "webId": "JapanOpen2015"
 },
 {
 "id": 2477,
 "name": "Arnold Classic Rubik 2015",
 "country": "ES",
+"startDate": "2015-09-25",
 "webId": "ArnoldClassicRubik2015"
 },
 {
 "id": 2486,
 "name": "Dutch Nationals 2015",
 "country": "NL",
+"startDate": "2015-09-27",
 "webId": "DutchNationals2015"
 },
 {
 "id": 2490,
 "name": "China Championship 2015",
 "country": "CN",
+"startDate": "2015-10-02",
 "webId": "ChinaChampionship2015"
 },
 {
 "id": 2492,
 "name": "Phillips Exeter Cube Day 2015",
 "country": "US",
+"startDate": "2015-10-03",
 "webId": "PhillipsExeterCubeDay2015"
 },
 {
 "id": 2493,
 "name": "Australian Nationals 2015",
 "country": "AU",
+"startDate": "2015-10-03",
 "webId": "AustralianNationals2015"
 },
 {
 "id": 2501,
 "name": "Spanish Championship 2015",
 "country": "ES",
+"startDate": "2015-10-09",
 "webId": "SpanishChampionship2015"
 },
 {
 "id": 2516,
 "name": "Dutch Open 2015",
 "country": "NL",
+"startDate": "2015-10-17",
 "webId": "DutchOpen2015"
 },
 {
 "id": 2517,
 "name": "DYC Rubik Open 2015",
 "country": "FR",
+"startDate": "2015-10-17",
 "webId": "DYCOpen2015"
 },
 {
 "id": 2518,
 "name": "Monterotondo Open 2015",
 "country": "IT",
+"startDate": "2015-10-17",
 "webId": "MonterotondoOpen2015"
 },
 {
 "id": 2519,
 "name": "Finnish Championship 2015",
 "country": "FI",
+"startDate": "2015-10-23",
 "webId": "FinnishChampionship2015"
 },
 {
 "id": 2526,
 "name": "Lexington Fall 2015",
 "country": "US",
+"startDate": "2015-10-24",
 "webId": "LexingtonFall2015"
 },
 {
 "id": 2534,
 "name": "Ural Autumn 2015",
 "country": "RU",
+"startDate": "2015-10-24",
 "webId": "UralAutumn2015"
 },
 {
 "id": 2545,
 "name": "Hasselt Open 2015",
 "country": "BE",
+"startDate": "2015-10-31",
 "webId": "HasseltOpen2015"
 },
 {
 "id": 2551,
 "name": "AZCubing Fall 2015",
 "country": "US",
+"startDate": "2015-11-07",
 "webId": "AZCubingFall2015"
 },
 {
 "id": 2562,
 "name": "UK Rubik's Cube Championship 2015",
 "country": "GB",
+"startDate": "2015-11-07",
 "webId": "UKChampionship2015"
 },
 {
 "id": 2567,
 "name": "Valencia Open 2015",
 "country": "ES",
+"startDate": "2015-11-14",
 "webId": "ValenciaOpen2015"
 },
 {
 "id": 2570,
 "name": "Franconia Winter 2015",
 "country": "DE",
+"startDate": "2015-11-14",
 "webId": "FranconiaWinter2015"
 },
 {
 "id": 2573,
 "name": "Porto Alegre Open 2015",
 "country": "BR",
+"startDate": "2015-11-14",
 "webId": "PortoAlegreOpen2015"
 },
 {
 "id": 2595,
 "name": "Kirkkonummi Open 2015",
 "country": "FI",
+"startDate": "2015-11-28",
 "webId": "KirkkonummiOpen2015"
 },
 {
 "id": 2596,
 "name": "Minyons de Terrassa Open 2015",
 "country": "ES",
+"startDate": "2015-11-28",
 "webId": "MinyonsdeTerrassaOpen2015"
 },
 {
 "id": 2602,
 "name": "Johannesburg Open 2015",
 "country": "ZA",
+"startDate": "2015-11-29",
 "webId": "JohannesburgOpen2015"
 },
 {
 "id": 2609,
 "name": "Santa Claus Cube Race 2015",
 "country": "PL",
+"startDate": "2015-12-05",
 "webId": "SantaClausCubeRace2015"
 },
 {
 "id": 2611,
 "name": "Swedish Championship 2015",
 "country": "SE",
+"startDate": "2015-12-05",
 "webId": "SwedishChampionship2015"
 },
 {
 "id": 2613,
 "name": "Italian Open 2015",
 "country": "IT",
+"startDate": "2015-12-05",
 "webId": "ItalianOpen2015"
 },
 {
 "id": 2617,
 "name": "Cape Town Open 2015",
 "country": "ZA",
+"startDate": "2015-12-06",
 "webId": "CapetownOpen2015"
 },
 {
 "id": 2624,
 "name": "Meguro 3x3 Fest 2015",
 "country": "JP",
+"startDate": "2015-12-13",
 "webId": "Meguro3x3Fest2015"
 },
 {
 "id": 2633,
 "name": "Lyon Christmas Open 2015",
 "country": "FR",
+"startDate": "2015-12-19",
 "webId": "LyonChristmasOpen2015"
 },
 {
 "id": 2646,
 "name": "Kyushu Open 2015",
 "country": "JP",
+"startDate": "2015-12-27",
 "webId": "KyushuOpen2015"
 },
 {
 "id": 2663,
 "name": "Oregon State Alpha 2016",
 "country": "US",
+"startDate": "2016-01-09",
 "webId": "OregonStateAlpha2016"
 },
 {
 "id": 2674,
 "name": "Bandung Open 2016",
 "country": "ID",
+"startDate": "2016-01-16",
 "webId": "BandungOpen2016"
 },
 {
 "id": 2682,
 "name": "Live Your Dream 2016",
 "country": "MX",
+"startDate": "2016-01-23",
 "webId": "LiveYourDream2016"
 },
 {
 "id": 2691,
 "name": "Camarma Open 2016",
 "country": "ES",
+"startDate": "2016-01-30",
 "webId": "CamarmaOpen2016"
 },
 {
 "id": 2693,
 "name": "Sharon Winter 2016",
 "country": "US",
+"startDate": "2016-01-30",
 "webId": "SharonWinter2016"
 },
 {
 "id": 2698,
 "name": "Manchester Open 2016",
 "country": "GB",
+"startDate": "2016-01-30",
 "webId": "ManchesterOpen2016"
 },
 {
 "id": 2705,
 "name": "Peach State Winter 2016",
 "country": "US",
+"startDate": "2016-02-06",
 "webId": "PeachStateWinter2016"
 },
 {
 "id": 2713,
 "name": "Zaragoza Open 2016",
 "country": "ES",
+"startDate": "2016-02-06",
 "webId": "ZaragozaOpen2016"
 },
 {
 "id": 2721,
 "name": "Phalsbourg Winter Open 2016",
 "country": "FR",
+"startDate": "2016-02-13",
 "webId": "PhalsbourgWinterOpen2016"
 },
 {
 "id": 2731,
 "name": "Melrose Winter 2016",
 "country": "US",
+"startDate": "2016-02-20",
 "webId": "MelroseWinter2016"
 },
 {
 "id": 2732,
 "name": "Nyköping Cube Day 2016",
 "country": "SE",
+"startDate": "2016-02-20",
 "webId": "NykopingCubeDay2016"
 },
 {
 "id": 2736,
 "name": "Baku Open 2016",
 "country": "AZ",
+"startDate": "2016-02-21",
 "webId": "BakuOpen2016"
 },
 {
 "id": 2743,
 "name": "Cubéate Weekend 2016",
 "country": "ES",
+"startDate": "2016-02-27",
 "webId": "CubeateWeekend2016"
 },
 {
 "id": 2751,
 "name": "AZCubing Winter 2016",
 "country": "US",
+"startDate": "2016-03-05",
 "webId": "AZCubingWinter2016"
 },
 {
 "id": 2755,
 "name": "Kirkkonummi Open 2016",
 "country": "FI",
+"startDate": "2016-03-05",
 "webId": "KirkkonummiOpen2016"
 },
 {
 "id": 2768,
 "name": "Rome Slam Open 2016",
 "country": "IT",
+"startDate": "2016-03-13",
 "webId": "RomeSlamOpen2016"
 },
 {
 "id": 2776,
 "name": "Cubing Classic 2016",
 "country": "AU",
+"startDate": "2016-03-19",
 "webId": "CubingClassic2016"
 },
 {
 "id": 2779,
 "name": "Kansai Open 2016",
 "country": "JP",
+"startDate": "2016-03-19",
 "webId": "KansaiOpen2016"
 },
 {
 "id": 2785,
 "name": "Qingdao Open 2016",
 "country": "CN",
+"startDate": "2016-03-20",
 "webId": "QingdaoOpen2016"
 },
 {
 "id": 2786,
 "name": "Tulip Open 2016",
 "country": "NL",
+"startDate": "2016-03-20",
 "webId": "TulipOpen2016"
 },
 {
 "id": 2791,
 "name": "Dallas Spring 2016",
 "country": "US",
+"startDate": "2016-03-26",
 "webId": "DallasSpring2016"
 },
 {
 "id": 2800,
 "name": "CBS Open 2016",
 "country": "BR",
+"startDate": "2016-04-02",
 "webId": "CBSOpen2016"
 },
 {
 "id": 2810,
 "name": "Slovenian Open 2016",
 "country": "SI",
+"startDate": "2016-04-02",
 "webId": "SlovenianOpen2016"
 },
 {
 "id": 2812,
 "name": "Xi'an Cherry Blossom 2016",
 "country": "CN",
+"startDate": "2016-04-02",
 "webId": "XianCherryBlossom2016"
 },
 {
 "id": 2813,
 "name": "Apulia Open 2016",
 "country": "IT",
+"startDate": "2016-04-03",
 "webId": "ApuliaOpen2016"
 },
 {
 "id": 2817,
 "name": "Atomic Cubing 2016",
 "country": "US",
+"startDate": "2016-04-09",
 "webId": "AtomicCubing2016"
 },
 {
 "id": 2824,
 "name": "German Open 2016",
 "country": "DE",
+"startDate": "2016-04-09",
 "webId": "GermanOpen2016"
 },
 {
 "id": 2832,
 "name": "OFFA-Meisterschaft 2016",
 "country": "CH",
+"startDate": "2016-04-16",
 "webId": "OFFA2016"
 },
 {
 "id": 2836,
 "name": "Torneo Centro Suba 2016",
 "country": "CO",
+"startDate": "2016-04-16",
 "webId": "TorneoCentroSuba2016"
 },
 {
 "id": 2838,
 "name": "Finnish Open 2016",
 "country": "FI",
+"startDate": "2016-04-16",
 "webId": "FinnishOpen2016"
 },
 {
 "id": 2839,
 "name": "Hungarian Nationals 2016",
 "country": "HU",
+"startDate": "2016-04-16",
 "webId": "HungarianNationals2016"
 },
 {
 "id": 2840,
 "name": "Open Cube Project 2016",
 "country": "FR",
+"startDate": "2016-04-16",
 "webId": "OpenCubeProject2016"
 },
 {
 "id": 2842,
 "name": "Small Cubingitaly 2016",
 "country": "IT",
+"startDate": "2016-04-17",
 "webId": "SmallCubingitaly2016"
 },
 {
 "id": 2844,
 "name": "Alpharetta Open 2016",
 "country": "US",
+"startDate": "2016-04-23",
 "webId": "AlpharettaOpen2016"
 },
 {
 "id": 2857,
 "name": "St. Francis II: GYM 2016",
 "country": "US",
+"startDate": "2016-04-24",
 "webId": "StFrancisIIGYM2016"
 },
 {
 "id": 2858,
 "name": "Greece Spring Open 2016",
 "country": "GR",
+"startDate": "2016-04-25",
 "webId": "GreeceSpringOpen2016"
 },
 {
 "id": 2861,
 "name": "Melbourne Autumn 2016",
 "country": "AU",
+"startDate": "2016-04-30",
 "webId": "MelbourneAutumn2016"
 },
 {
 "id": 2868,
 "name": "French Championship 2016",
 "country": "FR",
+"startDate": "2016-04-30",
 "webId": "France2016"
 },
 {
 "id": 2876,
 "name": "Canarias Open 2016",
 "country": "ES",
+"startDate": "2016-05-07",
 "webId": "CanariasOpen2016"
 },
 {
 "id": 2883,
 "name": "Swedish Decathlon Challenge 2016",
 "country": "SE",
+"startDate": "2016-05-07",
 "webId": "SwedishDecathlonChallenge2016"
 },
 {
 "id": 2893,
 "name": "Albuquerque Spring 2016",
 "country": "US",
+"startDate": "2016-05-14",
 "webId": "AlbuquerqueSpring2016"
 },
 {
 "id": 2901,
 "name": "King's Open 2016",
 "country": "NL",
+"startDate": "2016-05-21",
 "webId": "KingsOpen2016"
 },
 {
 "id": 2913,
 "name": "Slavonic Gymnasium Open 2016",
 "country": "UA",
+"startDate": "2016-05-21",
 "webId": "SlavonicGymnasiumOpen2016"
 },
 {
 "id": 2914,
 "name": "Zurich Open 2016",
 "country": "CH",
+"startDate": "2016-05-21",
 "webId": "ZurichOpen2016"
 },
 {
 "id": 2921,
 "name": "Northeastern Spring 2016",
 "country": "US",
+"startDate": "2016-05-28",
 "webId": "NortheasternSpring2016"
 },
 {
 "id": 2922,
 "name": "Brasília Open 2016",
 "country": "BR",
+"startDate": "2016-05-28",
 "webId": "BrasiliaOpen2016"
 },
 {
 "id": 2924,
 "name": "El Escorial Open 2016",
 "country": "ES",
+"startDate": "2016-05-28",
 "webId": "ElEscorialOpen2016"
 },
 {
 "id": 2931,
 "name": "Florence Rubik's Cube Open 2016",
 "country": "IT",
+"startDate": "2016-05-29",
 "webId": "FlorenceRubiksCubeOpen2016"
 },
 {
 "id": 2944,
 "name": "Taiyuan Open 2016",
 "country": "CN",
+"startDate": "2016-06-05",
 "webId": "TaiyuanOpen2016"
 },
 {
 "id": 2945,
 "name": "Danish Open 2016",
 "country": "DK",
+"startDate": "2016-06-10",
 "webId": "DanishOpen2016"
 },
 {
 "id": 2954,
 "name": "Newmarket Open 2016",
 "country": "CA",
+"startDate": "2016-06-18",
 "webId": "NewmarketOpen2016"
 },
 {
 "id": 2958,
 "name": "Cube of Odd Numbers 2016",
 "country": "CN",
+"startDate": "2016-06-18",
 "webId": "CubeofOddNumbers2016"
 },
 {
 "id": 2959,
 "name": "Doge Open 2016",
 "country": "FI",
+"startDate": "2016-06-18",
 "webId": "DogeOpen2016"
 },
 {
 "id": 2960,
 "name": "Gothenburg Cube Open 2016",
 "country": "SE",
+"startDate": "2016-06-18",
 "webId": "GothenburgOpen2016"
 },
 {
 "id": 2963,
 "name": "Oficina Open 2016",
 "country": "BR",
+"startDate": "2016-06-18",
 "webId": "OficinaOpen2016"
 },
 {
 "id": 2964,
 "name": "Quijote Open 2016",
 "country": "ES",
+"startDate": "2016-06-18",
 "webId": "QuijoteOpen2016"
 },
 {
 "id": 2967,
 "name": "Johannesburg Open 2016",
 "country": "ZA",
+"startDate": "2016-06-19",
 "webId": "JohannesburgOpen2016"
 },
 {
 "id": 2974,
 "name": "Irish Championship 2016",
 "country": "IE",
+"startDate": "2016-06-25",
 "webId": "IrishChampionship2016"
 },
 {
 "id": 2980,
 "name": "West Friesche Open 2016",
 "country": "NL",
+"startDate": "2016-06-26",
 "webId": "WestFriescheOpen2016"
 },
 {
 "id": 2983,
 "name": "Archena Open 2016",
 "country": "ES",
+"startDate": "2016-07-02",
 "webId": "ArchenaOpen2016"
 },
 {
 "id": 2986,
 "name": "Cannes Summer Open 2016",
 "country": "FR",
+"startDate": "2016-07-02",
 "webId": "CannesSummerOpen2016"
 },
 {
 "id": 3001,
 "name": "European Rubik's Cube Championship 2016",
 "country": "CZ",
+"startDate": "2016-07-15",
 "webId": "Euro2016"
 },
 {
 "id": 3013,
 "name": "Aguascalientes Summer 2016",
 "country": "MX",
+"startDate": "2016-07-22",
 "webId": "AguascalientesSummer2016"
 },
 {
 "id": 3014,
 "name": "Brasileiro 2016",
 "country": "BR",
+"startDate": "2016-07-22",
 "webId": "Brasileiro2016"
 },
 {
 "id": 3017,
 "name": "Petoskey Cubing 2016",
 "country": "US",
+"startDate": "2016-07-23",
 "webId": "PetoskeyCubing2016"
 },
 {
 "id": 3028,
 "name": "Rome Summer Open 2016",
 "country": "IT",
+"startDate": "2016-07-24",
 "webId": "RomeSummerOpen2016"
 },
 {
 "id": 3030,
 "name": "Ural Open 2016",
 "country": "RU",
+"startDate": "2016-07-25",
 "webId": "UralOpen2016"
 },
 {
 "id": 3031,
 "name": "US Nationals 2016",
 "country": "US",
+"startDate": "2016-07-29",
 "webId": "USNationals2016"
 },
 {
 "id": 3032,
 "name": "Thessalonicube 2016",
 "country": "GR",
+"startDate": "2016-07-30",
 "webId": "Thessalonicube2016"
 },
 {
 "id": 3039,
 "name": "JRCA Kansai Summer 2016",
 "country": "JP",
+"startDate": "2016-07-31",
 "webId": "JRCAKansaiSummer2016"
 },
 {
 "id": 3040,
 "name": "Milan Summer Open 2016",
 "country": "IT",
+"startDate": "2016-07-31",
 "webId": "MilanSummerOpen2016"
 },
 {
 "id": 3042,
 "name": "Legends of Rubik 2016",
 "country": "VE",
+"startDate": "2016-08-05",
 "webId": "LegendsofRubik2016"
 },
 {
 "id": 3044,
 "name": "Cube Camp in Kanazawa 2016",
 "country": "JP",
+"startDate": "2016-08-05",
 "webId": "CubeCampinKanazawa2016"
 },
 {
 "id": 3045,
 "name": "AZCubing Summer 2016",
 "country": "US",
+"startDate": "2016-08-06",
 "webId": "AZCubingSummer2016"
 },
 {
 "id": 3057,
 "name": "II ETEC 2016",
 "country": "BR",
+"startDate": "2016-08-13",
 "webId": "IIETEC2016"
 },
 {
 "id": 3061,
 "name": "Michigan 2016",
 "country": "US",
+"startDate": "2016-08-13",
 "webId": "Michigan2016"
 },
 {
 "id": 3069,
 "name": "Algers Summer Open 2016",
 "country": "DZ",
+"startDate": "2016-08-20",
 "webId": "AlgersSummerOpen2016"
 },
 {
 "id": 3070,
 "name": "Alicante Open 2016",
 "country": "ES",
+"startDate": "2016-08-20",
 "webId": "AlicanteOpen2016"
 },
 {
 "id": 3077,
 "name": "Australian Nationals 2016",
 "country": "AU",
+"startDate": "2016-08-20",
 "webId": "AustralianNationals2016"
 },
 {
 "id": 3083,
 "name": "The Most Serene Competition 2016",
 "country": "SM",
+"startDate": "2016-08-27",
 "webId": "TheMostSerene2016"
 },
 {
 "id": 3084,
 "name": "August Bank Holiday Competition 2016",
 "country": "GB",
+"startDate": "2016-08-27",
 "webId": "ABHC2016"
 },
 {
 "id": 3085,
 "name": "Dunas Open 2016",
 "country": "BR",
+"startDate": "2016-08-27",
 "webId": "DunasOpen2016"
 },
 {
 "id": 3086,
 "name": "II Masovian Open Płock 2016",
 "country": "PL",
+"startDate": "2016-08-27",
 "webId": "IIMasovianOpenPlock2016"
 },
 {
 "id": 3088,
 "name": "Lima Rubik 2016",
 "country": "PE",
+"startDate": "2016-08-27",
 "webId": "LimaRubik2016"
 },
 {
 "id": 3089,
 "name": "Oregon 2016",
 "country": "US",
+"startDate": "2016-08-27",
 "webId": "Oregon2016"
 },
 {
 "id": 3096,
 "name": "Breda Open 2016",
 "country": "NL",
+"startDate": "2016-09-03",
 "webId": "BredaOpen2016"
 },
 {
 "id": 3098,
 "name": "GLS Cup IV 2016",
 "country": "PL",
+"startDate": "2016-09-03",
 "webId": "GLSCupIV2016"
 },
 {
 "id": 3099,
 "name": "Open Rubik Vall d'Uixó 2016",
 "country": "ES",
+"startDate": "2016-09-03",
 "webId": "OpenRubikVallDuixo2016"
 },
 {
 "id": 3108,
 "name": "Swiss Nationals 2016",
 "country": "CH",
+"startDate": "2016-09-03",
 "webId": "SwissNationals2016"
 },
 {
 "id": 3114,
 "name": "Mason Cubing Challenge 2016",
 "country": "US",
+"startDate": "2016-09-10",
 "webId": "MasonCubingChallenge2016"
 },
 {
 "id": 3119,
 "name": "Champagne Open 2016",
 "country": "FR",
+"startDate": "2016-09-10",
 "webId": "ChampagneOpen2016"
 },
 {
 "id": 3133,
 "name": "Canberra Spring 2016",
 "country": "AU",
+"startDate": "2016-09-24",
 "webId": "CanberraSpring2016"
 },
 {
 "id": 3140,
 "name": "Dutch Nationals 2016",
 "country": "NL",
+"startDate": "2016-10-01",
 "webId": "DutchNationals2016"
 },
 {
 "id": 3143,
 "name": "Guildford Open 2016",
 "country": "GB",
+"startDate": "2016-10-01",
 "webId": "GuildfordOpen2016"
 },
 {
 "id": 3146,
 "name": "Asian Championship 2016",
 "country": "CN",
+"startDate": "2016-10-01",
 "webId": "AsianChampionship2016"
 },
 {
 "id": 3148,
 "name": "German Nationals 2016",
 "country": "DE",
+"startDate": "2016-10-07",
 "webId": "GermanNationals2016"
 },
 {
 "id": 3150,
 "name": "Spanish Championship 2016",
 "country": "ES",
+"startDate": "2016-10-07",
 "webId": "SpanishChampionship2016"
 },
 {
 "id": 3154,
 "name": "GLS Cup V 2016",
 "country": "PL",
+"startDate": "2016-10-08",
 "webId": "GLSCupV2016"
 },
 {
 "id": 3157,
 "name": "Italian Championship 2016",
 "country": "IT",
+"startDate": "2016-10-08",
 "webId": "ItalianChampionship2016"
 },
 {
 "id": 3164,
 "name": "Japan Open 2016",
 "country": "JP",
+"startDate": "2016-10-09",
 "webId": "JapanOpen2016"
 },
 {
 "id": 3168,
 "name": "ÅF Swedish Cube Open 2016",
 "country": "SE",
+"startDate": "2016-10-15",
 "webId": "AFSwedishCubeOpen2016"
 },
 {
 "id": 3171,
 "name": "Porto Alegre Open 2016",
 "country": "BR",
+"startDate": "2016-10-15",
 "webId": "PortoAlegreOpen2016"
 },
 {
 "id": 3175,
 "name": "Speedcube Baja Open 2016",
 "country": "MX",
+"startDate": "2016-10-16",
 "webId": "BajaOpen2016"
 },
 {
 "id": 3177,
 "name": "Dallas Fall 2016",
 "country": "US",
+"startDate": "2016-10-22",
 "webId": "DallasFall2016"
 },
 {
 "id": 3179,
 "name": "Hayward Rubik's Rumble 2016",
 "country": "US",
+"startDate": "2016-10-22",
 "webId": "HaywardRubiksRumble2016"
 },
 {
 "id": 3184,
 "name": "Kjeller Open 2016",
 "country": "NO",
+"startDate": "2016-10-22",
 "webId": "KjellerOpen2016"
 },
 {
 "id": 3188,
 "name": "Ural Autumn 2016",
 "country": "RU",
+"startDate": "2016-10-22",
 "webId": "UralAutumn2016"
 },
 {
 "id": 3191,
 "name": "WLS Jesień 2016",
 "country": "PL",
+"startDate": "2016-10-23",
 "webId": "WLSJesien2016"
 },
 {
 "id": 3193,
 "name": "Hungarian Open 2016",
 "country": "HU",
+"startDate": "2016-10-28",
 "webId": "HungarianOpen2016"
 },
 {
 "id": 3198,
 "name": "Dutch Open 2016",
 "country": "NL",
+"startDate": "2016-10-29",
 "webId": "DutchOpen2016"
 },
 {
 "id": 3200,
 "name": "Taiwan Championship 2016",
 "country": "TW",
+"startDate": "2016-10-29",
 "webId": "TaiwanChampionship2016"
 },
 {
 "id": 3205,
 "name": "UK Championship 2016",
 "country": "GB",
+"startDate": "2016-11-04",
 "webId": "UKChampionship2016"
 },
 {
 "id": 3213,
 "name": "Munich Open 2016",
 "country": "DE",
+"startDate": "2016-11-05",
 "webId": "MunichOpen2016"
 },
 {
 "id": 3214,
 "name": "Phillips Exeter Cube Day 2016",
 "country": "US",
+"startDate": "2016-11-05",
 "webId": "PhillipsExeterCubeDay2016"
 },
 {
 "id": 3221,
 "name": "Chambéry Cube Open 2016",
 "country": "FR",
+"startDate": "2016-11-11",
 "webId": "ChamberyOpen2016"
 },
 {
 "id": 3229,
 "name": "Cariri Open 2016",
 "country": "BR",
+"startDate": "2016-11-12",
 "webId": "CaririOpen2016"
 },
 {
 "id": 3231,
 "name": "Ljubljana Open 2016",
 "country": "SI",
+"startDate": "2016-11-12",
 "webId": "LjubljanaOpen2016"
 },
 {
 "id": 3235,
 "name": "Marista de Cubo Mágico 2016",
 "country": "BR",
+"startDate": "2016-11-18",
 "webId": "Marista2016"
 },
 {
 "id": 3246,
 "name": "Tårnby Cube Træf 2016",
 "country": "DK",
+"startDate": "2016-11-19",
 "webId": "TarnbyCubeTraef2016"
 },
 {
 "id": 3249,
 "name": "Finnish Championship 2016",
 "country": "FI",
+"startDate": "2016-11-25",
 "webId": "FinnishChampionship2016"
 },
 {
 "id": 3251,
 "name": "Andorra 2016",
 "country": "AD",
+"startDate": "2016-11-26",
 "webId": "Andorra2016"
 },
 {
 "id": 3260,
 "name": "Johannesburg 2016",
 "country": "ZA",
+"startDate": "2016-11-27",
 "webId": "Johannesburg2016"
 },
 {
 "id": 3267,
 "name": "Cerbuna Open 2016",
 "country": "ES",
+"startDate": "2016-12-03",
 "webId": "CerbunaOpen2016"
 },
 {
 "id": 3272,
 "name": "PoliMi Open 2016",
 "country": "IT",
+"startDate": "2016-12-03",
 "webId": "PoliMiOpen2016"
 },
 {
 "id": 3276,
 "name": "Athens Winter 2016",
 "country": "US",
+"startDate": "2016-12-04",
 "webId": "AthensWinter2016"
 },
 {
 "id": 3277,
 "name": "Cape Town 2016",
 "country": "ZA",
+"startDate": "2016-12-04",
 "webId": "CapeTown2016"
 },
 {
 "id": 3279,
 "name": "Polish Championship 2016",
 "country": "PL",
+"startDate": "2016-12-09",
 "webId": "PolishChampionship2016"
 },
 {
 "id": 3286,
 "name": "Santa Fe Open 2016",
 "country": "AR",
+"startDate": "2016-12-10",
 "webId": "SantaFeOpen2016"
 },
 {
 "id": 3291,
 "name": "UMass ODS Fall 2016",
 "country": "US",
+"startDate": "2016-12-10",
 "webId": "UMassODSFall2016"
 },
 {
 "id": 3294,
 "name": "Fuenlabrada Open 2016",
 "country": "ES",
+"startDate": "2016-12-10",
 "webId": "FuenlabradaOpen2016"
 },
 {
 "id": 3302,
 "name": "POPS Open 2016",
 "country": "AU",
+"startDate": "2016-12-11",
 "webId": "POPSOpen2016"
 },
 {
 "id": 3304,
 "name": "Weifang Winter 2016",
 "country": "CN",
+"startDate": "2016-12-11",
 "webId": "WeifangWinter2016"
 },
 {
 "id": 3307,
 "name": "Birmingham Open 2016",
 "country": "GB",
+"startDate": "2016-12-17",
 "webId": "BirminghamOpen2016"
 },
 {
 "id": 3310,
 "name": "Opal Open 2016",
 "country": "FR",
+"startDate": "2016-12-17",
 "webId": "OpalOpen2016"
 },
 {
 "id": 3311,
 "name": "Santa Claus Cube Race 2016",
 "country": "PL",
+"startDate": "2016-12-17",
 "webId": "SantaClausCubeRace2016"
 },
 {
 "id": 3326,
 "name": "Kyushu Open 2016",
 "country": "JP",
+"startDate": "2016-12-29",
 "webId": "KyushuOpen2016"
 },
 {
 "id": 3332,
 "name": "Cubelonia 2017",
 "country": "DE",
+"startDate": "2017-01-06",
 "webId": "Cubelonia2017"
 },
 {
 "id": 3333,
 "name": "Americus Open 2017",
 "country": "US",
+"startDate": "2017-01-07",
 "webId": "AmericusOpen2017"
 },
 {
 "id": 3335,
 "name": "Dayton Winter 2017",
 "country": "US",
+"startDate": "2017-01-07",
 "webId": "DaytonWinter2017"
 },
 {
 "id": 3342,
 "name": "Cubers East India Open 2017",
 "country": "IN",
+"startDate": "2017-01-07",
 "webId": "CubersEastIndiaOpen2017"
 },
 {
 "id": 3349,
 "name": "Elisa Kulma Open 2017",
 "country": "FI",
+"startDate": "2017-01-14",
 "webId": "ElisaKulmaOpen2017"
 },
 {
 "id": 3351,
 "name": "Flen New Year's Blind 2017",
 "country": "SE",
+"startDate": "2017-01-14",
 "webId": "FlenNewYearsBlind2017"
 },
 {
 "id": 3355,
 "name": "Rockville Winter 2017",
 "country": "US",
+"startDate": "2017-01-14",
 "webId": "RockvilleWinter2017"
 },
 {
 "id": 3357,
 "name": "Manchester Open 2017",
 "country": "GB",
+"startDate": "2017-01-14",
 "webId": "ManchesterOpen2017"
 },
 {
 "id": 3363,
 "name": "Camarma Open 2017",
 "country": "ES",
+"startDate": "2017-01-21",
 "webId": "CamarmaOpen2017"
 },
 {
 "id": 3370,
 "name": "Ural Winter 2017",
 "country": "RU",
+"startDate": "2017-01-21",
 "webId": "UralWinter2017"
 },
 {
 "id": 3376,
 "name": "Alcalá la Real 2017",
 "country": "ES",
+"startDate": "2017-01-28",
 "webId": "AlcalalaReal2017"
 },
 {
 "id": 3379,
 "name": "Frankfurt Cube Days 2017",
 "country": "DE",
+"startDate": "2017-01-28",
 "webId": "FrankfurtCubeDays2017"
 },
 {
 "id": 3381,
 "name": "Maranhão Open 2017",
 "country": "BR",
+"startDate": "2017-01-28",
 "webId": "Maranhao2017"
 },
 {
 "id": 3388,
 "name": "VI QB'er 2017",
 "country": "NO",
+"startDate": "2017-02-04",
 "webId": "VIQBer2017"
 },
 {
 "id": 3403,
 "name": "Calisay Open 2017",
 "country": "ES",
+"startDate": "2017-02-11",
 "webId": "CalisayOpen2017"
 },
 {
 "id": 3406,
 "name": "Lorena Open 2017",
 "country": "BR",
+"startDate": "2017-02-11",
 "webId": "LorenaOpen2017"
 },
 {
 "id": 3417,
 "name": "Dallas Winter Variation 2017",
 "country": "US",
+"startDate": "2017-02-18",
 "webId": "DallasWinterVariation2017"
 },
 {
 "id": 3422,
 "name": "Virginia Open Winter 2017",
 "country": "US",
+"startDate": "2017-02-18",
 "webId": "VirginiaOpenWinter2017"
 },
 {
 "id": 3433,
 "name": "Capital Cube 2017",
 "country": "VE",
+"startDate": "2017-02-25",
 "webId": "CapitalCube2017"
 },
 {
 "id": 3438,
 "name": "Alzira mueve las piezas 2017",
 "country": "ES",
+"startDate": "2017-02-25",
 "webId": "Alziramuevelaspiezas2017"
 },
 {
 "id": 3445,
 "name": "Veikkola Open 2017",
 "country": "FI",
+"startDate": "2017-02-25",
 "webId": "VeikkolaOpen2017"
 },
 {
 "id": 3452,
 "name": "Tunisia Spring Open 2017",
 "country": "TN",
+"startDate": "2017-02-26",
 "webId": "TunisiaSpringOpen2017"
 },
 {
 "id": 3455,
 "name": "Atlantic Open 2017",
 "country": "CA",
+"startDate": "2017-03-04",
 "webId": "AtlanticOpen2017"
 },
 {
 "id": 3457,
 "name": "Circles Open Spring 2017",
 "country": "JP",
+"startDate": "2017-03-04",
 "webId": "CirclesOpenSpring2017"
 },
 {
 "id": 3460,
 "name": "ODU Big Blue Spring 2017",
 "country": "US",
+"startDate": "2017-03-04",
 "webId": "ODUBigBlueSpring2017"
 },
 {
 "id": 3462,
 "name": "Nacionales Uruguayas UCHI 2017",
 "country": "UY",
+"startDate": "2017-03-04",
 "webId": "NacionalesUruguayasUCHI2017"
 },
 {
 "id": 3464,
 "name": "Peterborough Open 2017",
 "country": "GB",
+"startDate": "2017-03-04",
 "webId": "PeterboroughOpen2017"
 },
 {
 "id": 3471,
 "name": "Anaadyanta Cube Open 2017",
 "country": "IN",
+"startDate": "2017-03-11",
 "webId": "AnaadyantaCubeOpen2017"
 },
 {
 "id": 3486,
 "name": "GLS Cup I 2017",
 "country": "PL",
+"startDate": "2017-03-18",
 "webId": "GLSCupI2017"
 },
 {
 "id": 3493,
 "name": "Michigan Cubing Club Beta 2017",
 "country": "US",
+"startDate": "2017-03-18",
 "webId": "MichiganCubingClubBeta2017"
 },
 {
 "id": 3495,
 "name": "Orange Tech 2017",
 "country": "BR",
+"startDate": "2017-03-18",
 "webId": "OrangeTech2017"
 },
 {
 "id": 3504,
 "name": "Kansai Open 2017",
 "country": "JP",
+"startDate": "2017-03-19",
 "webId": "KansaiOpen2017"
 },
 {
 "id": 3506,
 "name": "Classic City Shenanigans 2017",
 "country": "US",
+"startDate": "2017-03-25",
 "webId": "ClassicCityShenanigans2017"
 },
 {
 "id": 3512,
 "name": "The Hague Open 2017",
 "country": "NL",
+"startDate": "2017-03-25",
 "webId": "TheHagueOpen2017"
 },
 {
 "id": 3513,
 "name": "Classic San Lorenzo v4 2017",
 "country": "AR",
+"startDate": "2017-03-25",
 "webId": "ClassicSanLorenzov42017"
 },
 {
 "id": 3515,
 "name": "Hungarian Nationals 2017",
 "country": "HU",
+"startDate": "2017-03-25",
 "webId": "HungarianNationals2017"
 },
 {
 "id": 3517,
 "name": "Madrid Open 2017",
 "country": "ES",
+"startDate": "2017-03-25",
 "webId": "MadridOpen2017"
 },
 {
 "id": 3530,
 "name": "FMC Europe 2017",
 "country": "XE",
+"startDate": "2017-04-01",
 "webId": "FMCEurope2017"
 },
 {
 "id": 3534,
 "name": "Virginia Open Spring 2017",
 "country": "US",
+"startDate": "2017-04-01",
 "webId": "VirginiaOpenSpring2017"
 },
 {
 "id": 3536,
 "name": "Wiler Würfelfest 2017",
 "country": "CH",
+"startDate": "2017-04-01",
 "webId": "WilerWurfelfest2017"
 },
 {
 "id": 3537,
 "name": "Milan Cube Day 2017",
 "country": "IT",
+"startDate": "2017-04-02",
 "webId": "MilanCubeDay2017"
 },
 {
 "id": 3552,
 "name": "French Championship 2017",
 "country": "FR",
+"startDate": "2017-04-08",
 "webId": "France2017"
 },
 {
 "id": 3555,
 "name": "Manaus Plaza Open 2017",
 "country": "BR",
+"startDate": "2017-04-08",
 "webId": "ManausPlaza2017"
 },
 {
 "id": 3557,
 "name": "SSL 2 Stockholm 2017",
 "country": "SE",
+"startDate": "2017-04-08",
 "webId": "SSL2Stockholm2017"
 },
 {
 "id": 3561,
 "name": "Greece Spring Open 2017",
 "country": "GR",
+"startDate": "2017-04-10",
 "webId": "GreeceSpringOpen2017"
 },
 {
 "id": 3572,
 "name": "Newcastle-under-Lyme Open 2017",
 "country": "GB",
+"startDate": "2017-04-15",
 "webId": "NewcastleunderLyme2017"
 },
 {
 "id": 3573,
 "name": "Novosibirsk Planetarium Open 2017",
 "country": "RU",
+"startDate": "2017-04-15",
 "webId": "NovosibirskPlanetariumOpen2017"
 },
 {
 "id": 3581,
 "name": "Lanzhou Spring 2017",
 "country": "CN",
+"startDate": "2017-04-22",
 "webId": "LanzhouSpring2017"
 },
 {
 "id": 3595,
 "name": "Batam Mini Competition 2017",
 "country": "ID",
+"startDate": "2017-04-23",
 "webId": "BatamMiniCompetition2017"
 },
 {
 "id": 3605,
 "name": "Campeonato de Cubo Xetá 2017",
 "country": "BR",
+"startDate": "2017-04-29",
 "webId": "CampeonatodeCuboXeta2017"
 },
 {
 "id": 3608,
 "name": "German Open 2017",
 "country": "DE",
+"startDate": "2017-04-29",
 "webId": "GermanOpen2017"
 },
 {
 "id": 3612,
 "name": "Swedish Decathlon Challenge 2017",
 "country": "SE",
+"startDate": "2017-04-29",
 "webId": "SwedishDecathlonChallenge2017"
 },
 {
 "id": 3616,
 "name": "Weihai Open 2017",
 "country": "CN",
+"startDate": "2017-04-30",
 "webId": "WeihaiOpen2017"
 },
 {
 "id": 3621,
 "name": "Meguro 2017",
 "country": "JP",
+"startDate": "2017-05-05",
 "webId": "Meguro2017"
 },
 {
 "id": 3622,
 "name": "Dunas Open 2017",
 "country": "BR",
+"startDate": "2017-05-05",
 "webId": "DunasOpen2017"
 },
 {
 "id": 3628,
 "name": "Kaunas Open 2017",
 "country": "LT",
+"startDate": "2017-05-06",
 "webId": "KaunasOpen2017"
 },
 {
 "id": 3630,
 "name": "Murcia 10th Anniversary 2017",
 "country": "ES",
+"startDate": "2017-05-06",
 "webId": "Murcia10thAnniversary2017"
 },
 {
 "id": 3636,
 "name": "Ural Spring 2017",
 "country": "RU",
+"startDate": "2017-05-06",
 "webId": "UralSpring2017"
 },
 {
 "id": 3642,
 "name": "Cubing Comp at Hamilton 2017",
 "country": "US",
+"startDate": "2017-05-13",
 "webId": "CubingCompatHamilton2017"
 },
 {
 "id": 3646,
 "name": "El Escorial Open 2017",
 "country": "ES",
+"startDate": "2017-05-13",
 "webId": "ElEscorialOpen2017"
 },
 {
 "id": 3649,
 "name": "Smart Cube Open 2017",
 "country": "UA",
+"startDate": "2017-05-13",
 "webId": "SmartCubeOpen2017"
 },
 {
 "id": 3654,
 "name": "Danish Open 2017",
 "country": "DK",
+"startDate": "2017-05-19",
 "webId": "DanishOpen2017"
 },
 {
 "id": 3657,
 "name": "South Texas Open 2017",
 "country": "US",
+"startDate": "2017-05-20",
 "webId": "SouthTexasOpen2017"
 },
 {
 "id": 3658,
 "name": "Belgium Summer Open 2017",
 "country": "BE",
+"startDate": "2017-05-20",
 "webId": "BelgiumSummerOpen2017"
 },
 {
 "id": 3666,
 "name": "National Capital Region 2017",
 "country": "CA",
+"startDate": "2017-05-21",
 "webId": "NationalCapitalRegion2017"
 },
 {
 "id": 3670,
 "name": "Swedish Championship 2017",
 "country": "SE",
+"startDate": "2017-05-26",
 "webId": "SwedishChampionship2017"
 },
 {
 "id": 3675,
 "name": "Santa Fe Autumn 2017",
 "country": "AR",
+"startDate": "2017-05-27",
 "webId": "SantaFe2017"
 },
 {
 "id": 3677,
 "name": "Aix-en-Provence Open 2017",
 "country": "FR",
+"startDate": "2017-05-27",
 "webId": "AixenProvenceOpen2017"
 },
 {
 "id": 3678,
 "name": "Eretum Open 2017",
 "country": "IT",
+"startDate": "2017-05-27",
 "webId": "EretumOpen2017"
 },
 {
 "id": 3688,
 "name": "Play Cube 2017",
 "country": "KR",
+"startDate": "2017-05-28",
 "webId": "PlayCube2017"
 },
 {
 "id": 3696,
 "name": "Queen City 2017",
 "country": "US",
+"startDate": "2017-06-03",
 "webId": "QueenCity2017"
 },
 {
 "id": 3698,
 "name": "Classic City Shhhhh 2017",
 "country": "US",
+"startDate": "2017-06-03",
 "webId": "ClassicCityShhhhh2017"
 },
 {
 "id": 3699,
 "name": "Crawley Open 2017",
 "country": "GB",
+"startDate": "2017-06-03",
 "webId": "CrawleyOpen2017"
 },
 {
 "id": 3700,
 "name": "IPM Open 2017",
 "country": "ES",
+"startDate": "2017-06-03",
 "webId": "IPMOpen2017"
 },
 {
 "id": 3702,
 "name": "Hem MariCubik Open 2017",
 "country": "FR",
+"startDate": "2017-06-04",
 "webId": "HemMariCubikOpen2017"
 },
 {
 "id": 3705,
 "name": "Taiwan Blind Day 2017",
 "country": "TW",
+"startDate": "2017-06-04",
 "webId": "TaiwanBlindDay2017"
 },
 {
 "id": 3708,
 "name": "Breda Open 2017",
 "country": "NL",
+"startDate": "2017-06-10",
 "webId": "BredaOpen2017"
 },
 {
 "id": 3709,
 "name": "Hudson Valley Spring 2017",
 "country": "US",
+"startDate": "2017-06-10",
 "webId": "HudsonValleySpring2017"
 },
 {
 "id": 3712,
 "name": "SCC Summer 2017",
 "country": "US",
+"startDate": "2017-06-10",
 "webId": "SCCSummer2017"
 },
 {
 "id": 3716,
 "name": "Berlin Summer Cube Days 2017",
 "country": "DE",
+"startDate": "2017-06-10",
 "webId": "BerlinSummerDays2017"
 },
 {
 "id": 3718,
 "name": "Latin America Cubing Tour - Santiago 2017",
 "country": "CL",
+"startDate": "2017-06-10",
 "webId": "LatAmTourSantiago2017"
 },
 {
 "id": 3723,
 "name": "ZUST Open 2017",
 "country": "CN",
+"startDate": "2017-06-10",
 "webId": "ZUSTOpen2017"
 },
 {
 "id": 3730,
 "name": "UCSD Summer 2017",
 "country": "US",
+"startDate": "2017-06-11",
 "webId": "UCSDSummer2017"
 },
 {
 "id": 3732,
 "name": "Brasileiro 2017",
 "country": "BR",
+"startDate": "2017-06-16",
 "webId": "Brasileiro2017"
 },
 {
 "id": 3740,
 "name": "Plentzia Open 2017",
 "country": "ES",
+"startDate": "2017-06-17",
 "webId": "PlentziaOpen2017"
 },
 {
 "id": 3746,
 "name": "Windsor Classic 2017",
 "country": "US",
+"startDate": "2017-06-24",
 "webId": "WindsorClassic2017"
 },
 {
 "id": 3748,
 "name": "Beijing Open 2017",
 "country": "CN",
+"startDate": "2017-06-24",
 "webId": "BeijingOpen2017"
 },
 {
 "id": 3757,
 "name": "Latin America Cubing Tour - Chía 2017",
 "country": "CO",
+"startDate": "2017-06-28",
 "webId": "LatinAmericaCubingTourChia2017"
 },
 {
 "id": 3760,
 "name": "Latin America Cubing Tour - Mérida 2017",
 "country": "VE",
+"startDate": "2017-07-01",
 "webId": "LatinAmericaCubingTourMerida2017"
 },
 {
 "id": 3762,
 "name": "Valencia Open 2017",
 "country": "ES",
+"startDate": "2017-07-01",
 "webId": "ValenciaOpen2017"
 },
 {
 "id": 3769,
 "name": "Quijote Open 2017",
 "country": "ES",
+"startDate": "2017-07-01",
 "webId": "QuijoteOpen2017"
 },
 {
 "id": 3775,
 "name": "CubingUSA Nationals 2017",
 "country": "US",
+"startDate": "2017-07-07",
 "webId": "CubingUSANationals2017"
 },
 {
 "id": 3781,
 "name": "London Open 2017",
 "country": "GB",
+"startDate": "2017-07-08",
 "webId": "LondonOpen2017"
 },
 {
 "id": 3783,
 "name": "Poznań Side Challenge 2017",
 "country": "PL",
+"startDate": "2017-07-08",
 "webId": "PoznanSideChallenge2017"
 },
 {
 "id": 3784,
 "name": "SESC Gravataí 2017",
 "country": "BR",
+"startDate": "2017-07-08",
 "webId": "SESCGravatai2017"
 },
 {
 "id": 3788,
 "name": "World Rubik's Cube Championship 2017",
 "country": "FR",
+"startDate": "2017-07-13",
 "webId": "WC2017"
 },
 {
 "id": 3790,
 "name": "BOB 2017",
 "country": "BR",
+"startDate": "2017-07-15",
 "webId": "BOB2017"
 },
 {
 "id": 3800,
 "name": "Kansai Summer 2017",
 "country": "JP",
+"startDate": "2017-07-16",
 "webId": "KansaiSummer2017"
 },
 {
 "id": 3803,
 "name": "Cool Toons Guadalajara 2017",
 "country": "MX",
+"startDate": "2017-07-21",
 "webId": "Guadalajara2017"
 },
 {
 "id": 3810,
 "name": "Forgotten Culture Open 2017",
 "country": "BR",
+"startDate": "2017-07-22",
 "webId": "ForgottenCultureOpen2017"
 },
 {
 "id": 3817,
 "name": "China Championship 2017",
 "country": "CN",
+"startDate": "2017-07-28",
 "webId": "ChinaChampionship2017"
 },
 {
 "id": 3818,
 "name": "Korean Championship 2017",
 "country": "KR",
+"startDate": "2017-07-28",
 "webId": "KoreanChampionship2017"
 },
 {
 "id": 3819,
 "name": "SESC Santos 2017",
 "country": "BR",
+"startDate": "2017-07-28",
 "webId": "SESCSantos2017"
 },
 {
 "id": 3821,
 "name": "Tokyo Pyraminx Open 2017",
 "country": "JP",
+"startDate": "2017-07-29",
 "webId": "TokyoPyraminxOpen2017"
 },
 {
 "id": 3822,
 "name": "Acho Open 2017",
 "country": "ES",
+"startDate": "2017-07-29",
 "webId": "AchoOpen2017"
 },
 {
 "id": 3825,
 "name": "ŚLS Zawiercie 2017",
 "country": "PL",
+"startDate": "2017-07-29",
 "webId": "SLSZawiercie2017"
 },
 {
 "id": 3827,
 "name": "Twist and Shout Summer 2017",
 "country": "SE",
+"startDate": "2017-07-29",
 "webId": "TwistandShoutSummer2017"
 },
 {
 "id": 3832,
 "name": "Classic City Summer 2017",
 "country": "US",
+"startDate": "2017-08-05",
 "webId": "ClassicCitySummer2017"
 },
 {
 "id": 3835,
 "name": "Severna Park Summer 2017",
 "country": "US",
+"startDate": "2017-08-05",
 "webId": "SevernaParkSummer2017"
 },
 {
 "id": 3838,
 "name": "GLS Cup IV 2017",
 "country": "PL",
+"startDate": "2017-08-05",
 "webId": "GLSCupIV2017"
 },
 {
 "id": 3842,
 "name": "Weas México 2017",
 "country": "MX",
+"startDate": "2017-08-05",
 "webId": "WeasMexico2017"
 },
 {
 "id": 3846,
 "name": "Cube Camp in Kanazawa 2017",
 "country": "JP",
+"startDate": "2017-08-11",
 "webId": "CubeCampinKanazawa2017"
 },
 {
 "id": 3851,
 "name": "Croatian Open 2017",
 "country": "HR",
+"startDate": "2017-08-12",
 "webId": "CroatianOpen2017"
 },
 {
 "id": 3865,
 "name": "Zwolle Open 2017",
 "country": "NL",
+"startDate": "2017-08-19",
 "webId": "ZwolleOpen2017"
 },
 {
 "id": 3867,
 "name": "Bicho Legal Open 2017",
 "country": "BR",
+"startDate": "2017-08-19",
 "webId": "BichoLegalOpen2017"
 },
 {
 "id": 3882,
 "name": "Ural Open 2017",
 "country": "RU",
+"startDate": "2017-08-25",
 "webId": "UralOpen2017"
 },
 {
 "id": 3891,
 "name": "Spokane Valley Summer 2017",
 "country": "US",
+"startDate": "2017-08-26",
 "webId": "SpokaneValleySummer2017"
 },
 {
 "id": 3893,
 "name": "Wake Up Late 2017",
 "country": "US",
+"startDate": "2017-08-26",
 "webId": "WakeUpLate2017"
 },
 {
 "id": 3894,
 "name": "August Bank Holiday Competition 2017",
 "country": "GB",
+"startDate": "2017-08-26",
 "webId": "ABHC2017"
 },
 {
 "id": 3896,
 "name": "Grand City 2017",
 "country": "ID",
+"startDate": "2017-08-26",
 "webId": "GrandCity2017"
 },
 {
 "id": 3899,
 "name": "Slovakian Open 2017",
 "country": "SK",
+"startDate": "2017-08-26",
 "webId": "SlovakianOpen2017"
 },
 {
 "id": 3905,
 "name": "German Nationals 2017",
 "country": "DE",
+"startDate": "2017-09-01",
 "webId": "GermanNationals2017"
 },
 {
 "id": 3907,
 "name": "Botosani Rubik Open 2017",
 "country": "RO",
+"startDate": "2017-09-02",
 "webId": "BotosaniRubikOpen2017"
 },
 {
 "id": 3908,
 "name": "Happy Winter MDQ 2017",
 "country": "AR",
+"startDate": "2017-09-02",
 "webId": "HappyWinterMDQ2017"
 },
 {
 "id": 3931,
 "name": "Speedcubes Johannesburg 2017",
 "country": "ZA",
+"startDate": "2017-09-10",
 "webId": "Johannesburg2017"
 },
 {
 "id": 3935,
 "name": "Music City Fall 2017",
 "country": "US",
+"startDate": "2017-09-15",
 "webId": "MusicCityFall2017"
 },
 {
 "id": 3937,
 "name": "Polish Open 2017",
 "country": "PL",
+"startDate": "2017-09-15",
 "webId": "PolishOpen2017"
 },
 {
 "id": 3938,
 "name": "Brisbane Winter 2017",
 "country": "AU",
+"startDate": "2017-09-16",
 "webId": "BrisbaneWinter2017"
 },
 {
 "id": 3939,
 "name": "CC El Muelle Rubik Open 2017",
 "country": "ES",
+"startDate": "2017-09-16",
 "webId": "ElMuelleOpen2017"
 },
 {
 "id": 3946,
 "name": "Kirkkonummi Open 2017",
 "country": "FI",
+"startDate": "2017-09-16",
 "webId": "KirkkonummiOpen2017"
 },
 {
 "id": 3948,
 "name": "Monnem City Cubing 2017",
 "country": "DE",
+"startDate": "2017-09-16",
 "webId": "MonnemCityCubing2017"
 },
 {
 "id": 3951,
 "name": "Tembleque Open 2017",
 "country": "ES",
+"startDate": "2017-09-16",
 "webId": "TemblequeOpen2017"
 },
 {
 "id": 3953,
 "name": "Anders Larsson Memorial 2017",
 "country": "SE",
+"startDate": "2017-09-17",
 "webId": "AndersLarssonMemorial2017"
 },
 {
 "id": 3956,
 "name": "Yokohama 2017",
 "country": "JP",
+"startDate": "2017-09-17",
 "webId": "Yokohama2017"
 },
 {
 "id": 3957,
 "name": "Arnold Open 2017",
 "country": "ES",
+"startDate": "2017-09-22",
 "webId": "ArnoldOpen2017"
 },
 {
 "id": 3960,
 "name": "Battle of Waterloo 2017",
 "country": "CA",
+"startDate": "2017-09-23",
 "webId": "BattleofWaterloo2017"
 },
 {
 "id": 3962,
 "name": "Dutch Nationals 2017",
 "country": "NL",
+"startDate": "2017-09-23",
 "webId": "DutchNationals2017"
 },
 {
 "id": 3964,
 "name": "Puget Sound Fall 2017",
 "country": "US",
+"startDate": "2017-09-23",
 "webId": "PugetSoundFall2017"
 },
 {
 "id": 3967,
 "name": "Barby Cube 73 Open Automne 2017",
 "country": "FR",
+"startDate": "2017-09-23",
 "webId": "BarbyCubeAutomne2017"
 },
 {
 "id": 3970,
 "name": "Guildford Open 2017",
 "country": "GB",
+"startDate": "2017-09-23",
 "webId": "GuildfordOpen2017"
 },
 {
 "id": 3977,
 "name": "Feevale NH Open 2017",
 "country": "BR",
+"startDate": "2017-09-29",
 "webId": "FeevaleNHOpen2017"
 },
 {
 "id": 3985,
 "name": "Melgar Summer 2017",
 "country": "CO",
+"startDate": "2017-09-30",
 "webId": "MelgarSummer2017"
 },
 {
 "id": 3986,
 "name": "Prague Open 2017",
 "country": "CZ",
+"startDate": "2017-09-30",
 "webId": "PragueOpen2017"
 },
 {
 "id": 3995,
 "name": "Hefei Open 2017",
 "country": "CN",
+"startDate": "2017-10-05",
 "webId": "HefeiOpen2017"
 },
 {
 "id": 4000,
 "name": "Italian Open 2017",
 "country": "IT",
+"startDate": "2017-10-07",
 "webId": "ItalianOpen2017"
 },
 {
 "id": 4008,
 "name": "Hungarian Open 2017",
 "country": "HU",
+"startDate": "2017-10-13",
 "webId": "HungarianOpen2017"
 },
 {
 "id": 4009,
 "name": "Spanish Championship 2017",
 "country": "ES",
+"startDate": "2017-10-13",
 "webId": "SpanishChampionship2017"
 },
 {
 "id": 4019,
 "name": "Barnaul Open 2017",
 "country": "RU",
+"startDate": "2017-10-14",
 "webId": "BarnaulOpen2017"
 },
 {
 "id": 4025,
 "name": "Suisse Toy Fast Fingers 2017",
 "country": "CH",
+"startDate": "2017-10-14",
 "webId": "SuisseToyFastFingers2017"
 },
 {
 "id": 4027,
 "name": "FMC Americas 2017",
 "country": "XM",
+"startDate": "2017-10-15",
 "webId": "FMCAmericas2017"
 },
 {
 "id": 4031,
 "name": "Taiyuan Autumn 2017",
 "country": "CN",
+"startDate": "2017-10-15",
 "webId": "TaiyuanAutumn2017"
 },
 {
 "id": 4043,
 "name": "Dutch Open 2017",
 "country": "NL",
+"startDate": "2017-10-21",
 "webId": "DutchOpen2017"
 },
 {
 "id": 4045,
 "name": "Guatemala Championship 2017",
 "country": "GT",
+"startDate": "2017-10-21",
 "webId": "GuatemalaChampionship2017"
 },
 {
 "id": 4046,
 "name": "Manaus Plaza Open II 2017",
 "country": "BR",
+"startDate": "2017-10-21",
 "webId": "ManausPlazaOpenII2017"
 },
 {
 "id": 4055,
 "name": "Classic City Spooks 2017",
 "country": "US",
+"startDate": "2017-10-27",
 "webId": "ClassicCitySpooks2017"
 },
 {
 "id": 4058,
 "name": "Toulon Open 2017",
 "country": "FR",
+"startDate": "2017-10-27",
 "webId": "ToulonOpen2017"
 },
 {
 "id": 4059,
 "name": "UK Championship 2017",
 "country": "GB",
+"startDate": "2017-10-27",
 "webId": "UKChampionship2017"
 },
 {
 "id": 4070,
 "name": "U.R.A. Back to School 2017",
 "country": "RO",
+"startDate": "2017-10-28",
 "webId": "URABacktoSchool2017"
 },
 {
 "id": 4076,
 "name": "Suginami Open 2017",
 "country": "JP",
+"startDate": "2017-10-29",
 "webId": "SuginamiOpen2017"
 },
 {
 "id": 4087,
 "name": "Kjeller Open 2017",
 "country": "NO",
+"startDate": "2017-11-04",
 "webId": "KjellerOpen2017"
 },
 {
 "id": 4090,
 "name": "Munich Open 2017",
 "country": "DE",
+"startDate": "2017-11-04",
 "webId": "MunichOpen2017"
 },
 {
 "id": 4092,
 "name": "Porto Alegre Open 2017",
 "country": "BR",
+"startDate": "2017-11-04",
 "webId": "PortoAlegreOpen2017"
 },
 {
 "id": 4095,
 "name": "Villanueva Open 2017",
 "country": "ES",
+"startDate": "2017-11-04",
 "webId": "VillanuevadelaCanadaOpen2017"
 },
 {
 "id": 4104,
 "name": "Rubik's Cube UPN 2017",
 "country": "CO",
+"startDate": "2017-11-11",
 "webId": "RubiksCubeUPN2017"
 },
 {
 "id": 4106,
 "name": "TJHSST Fall 2017",
 "country": "US",
+"startDate": "2017-11-11",
 "webId": "TJHSSTFall2017"
 },
 {
 "id": 4109,
 "name": "Basauri Open 2017",
 "country": "ES",
+"startDate": "2017-11-11",
 "webId": "BasauriOpen2017"
 },
 {
 "id": 4113,
 "name": "Mijas Open 2017",
 "country": "ES",
+"startDate": "2017-11-11",
 "webId": "MijasOpen2017"
 },
 {
 "id": 4122,
 "name": "Finnish Championship 2017",
 "country": "FI",
+"startDate": "2017-11-17",
 "webId": "FinnishChampionship2017"
 },
 {
 "id": 4123,
 "name": "Polish Nationals 2017",
 "country": "PL",
+"startDate": "2017-11-17",
 "webId": "PolishNationals2017"
 },
 {
 "id": 4128,
 "name": "Estância Open 2017",
 "country": "BR",
+"startDate": "2017-11-18",
 "webId": "EstanciaOpen2017"
 },
 {
 "id": 4134,
 "name": "Belgian Open 2017",
 "country": "BE",
+"startDate": "2017-11-18",
 "webId": "BelgianOpen2017"
 },
 {
 "id": 4135,
 "name": "Berkeley Fall 2017",
 "country": "US",
+"startDate": "2017-11-18",
 "webId": "BerkeleyFall2017"
 },
 {
 "id": 4138,
 "name": "Melbourne Cube Days 2017",
 "country": "AU",
+"startDate": "2017-11-18",
 "webId": "MelbourneCubeDays2017"
 },
 {
 "id": 4140,
 "name": "PSKubing 2017",
 "country": "DE",
+"startDate": "2017-11-18",
 "webId": "PSKubing2017"
 },
 {
 "id": 4142,
 "name": "Ural Autumn 2017",
 "country": "RU",
+"startDate": "2017-11-18",
 "webId": "UralAutumn2017"
 },
 {
 "id": 4148,
 "name": "Tuscany Open 2017",
 "country": "IT",
+"startDate": "2017-11-25",
 "webId": "TuscanyOpen2017"
 },
 {
 "id": 4153,
 "name": "Jeju Open 2017",
 "country": "KR",
+"startDate": "2017-11-25",
 "webId": "JejuOpen2017"
 },
 {
 "id": 4155,
 "name": "Kansai Big Cube 2017",
 "country": "JP",
+"startDate": "2017-11-25",
 "webId": "KansaiBigCube2017"
 },
 {
 "id": 4159,
 "name": "Weston-super-Mare Open 2017",
 "country": "GB",
+"startDate": "2017-11-25",
 "webId": "WSMO2017"
 },
 {
 "id": 4173,
 "name": "Brasília Spring 2017",
 "country": "BR",
+"startDate": "2017-12-02",
 "webId": "BrasiliaSpring2017"
 },
 {
 "id": 4174,
 "name": "Dublin Open 2017",
 "country": "IE",
+"startDate": "2017-12-02",
 "webId": "DublinOpen2017"
 },
 {
 "id": 4176,
 "name": "Instituto Nacional Open 2017",
 "country": "CL",
+"startDate": "2017-12-02",
 "webId": "InstitutoNacionalOpen2017"
 },
 {
 "id": 4177,
 "name": "Pécs Open 2017",
 "country": "HU",
+"startDate": "2017-12-02",
 "webId": "PecsOpen2017"
 },
 {
 "id": 4186,
 "name": "Fuenlabrada Open 2017",
 "country": "ES",
+"startDate": "2017-12-08",
 "webId": "FuenlabradaOpen2017"
 },
 {
 "id": 4187,
 "name": "New Zealand Nationals 2017",
 "country": "NZ",
+"startDate": "2017-12-08",
 "webId": "NewZealandNationals2017"
 },
 {
 "id": 4190,
 "name": "Cubic Meltdown 2017",
 "country": "US",
+"startDate": "2017-12-09",
 "webId": "CubicMeltdown2017"
 },
 {
 "id": 4193,
 "name": "North Iowa 2017",
 "country": "US",
+"startDate": "2017-12-09",
 "webId": "NorthIowa2017"
 },
 {
 "id": 4196,
 "name": "TCG Spring 2017",
 "country": "PE",
+"startDate": "2017-12-09",
 "webId": "TCGSpring2017"
 },
 {
 "id": 4199,
 "name": "Classic City 4 Charity 2017",
 "country": "US",
+"startDate": "2017-12-09",
 "webId": "ClassicCity4Charity2017"
 },
 {
 "id": 4213,
 "name": "Liberty Science Center Open 2017",
 "country": "US",
+"startDate": "2017-12-16",
 "webId": "LibertyScience2017"
 },
 {
 "id": 4214,
 "name": "Marathon Open 2017",
 "country": "NL",
+"startDate": "2017-12-16",
 "webId": "MarathonOpen2017"
 },
 {
 "id": 4217,
 "name": "Batam Rainy Speedcubing 2017",
 "country": "ID",
+"startDate": "2017-12-16",
 "webId": "BatamRainySpeedcubing2017"
 },
 {
 "id": 4218,
 "name": "CEFET-MG UAI Bits Open 2017",
 "country": "BR",
+"startDate": "2017-12-16",
 "webId": "CEFETMGUAIBitsOpen2017"
 },
 {
 "id": 4223,
 "name": "Italian Championship 2017",
 "country": "IT",
+"startDate": "2017-12-16",
 "webId": "ItalianChampionship2017"
 },
 {
 "id": 4224,
 "name": "Japan Open 2017",
 "country": "JP",
+"startDate": "2017-12-16",
 "webId": "JapanOpen2017"
 },
 {
 "id": 4227,
 "name": "Swiss Nationals 2017",
 "country": "CH",
+"startDate": "2017-12-16",
 "webId": "SwissNationals2017"
 },
 {
 "id": 4236,
 "name": "Lluís Vives Open 2017",
 "country": "ES",
+"startDate": "2017-12-23",
 "webId": "LluisVivesOpen2017"
 },
 {
 "id": 4248,
 "name": "Kyushu Open 2017",
 "country": "JP",
+"startDate": "2017-12-30",
 "webId": "KyushuOpen2017"
 },
 {
 "id": 4251,
 "name": "Malaysian Cube Championship 2017",
 "country": "MY",
+"startDate": "2017-12-30",
 "webId": "MalaysianCubeChampionship2017"
 },
 {
 "id": 4257,
 "name": "Happy New Year Cubing Dordrecht 2018",
 "country": "NL",
+"startDate": "2018-01-05",
 "webId": "HNYCubingDordrecht2018"
 },
 {
 "id": 4258,
 "name": "Cusco Speedcubing 2018",
 "country": "PE",
+"startDate": "2018-01-06",
 "webId": "CuscoSpeedcubing2018"
 },
 {
 "id": 4260,
 "name": "South East Texas Open 2018",
 "country": "US",
+"startDate": "2018-01-06",
 "webId": "SouthEastTexasOpen2018"
 },
 {
 "id": 4265,
 "name": "Swisscubing Mental Breakdown 2018",
 "country": "CH",
+"startDate": "2018-01-06",
 "webId": "SwisscubingMentalBreakdown2018"
 },
 {
 "id": 4273,
 "name": "PDX Cubing for Causes 2018",
 "country": "US",
+"startDate": "2018-01-13",
 "webId": "PDXCubingforCauses2018"
 },
 {
 "id": 4281,
 "name": "Liechtenstein Open 2018",
 "country": "LI",
+"startDate": "2018-01-13",
 "webId": "LiechtensteinOpen2018"
 },
 {
 "id": 4284,
 "name": "VI QB'er 2018",
 "country": "NO",
+"startDate": "2018-01-13",
 "webId": "VIQBer2018"
 },
 {
 "id": 4290,
 "name": "Cubing Under the Stars 2018",
 "country": "CA",
+"startDate": "2018-01-20",
 "webId": "CubingUndertheStars2018"
 },
 {
 "id": 4293,
 "name": "SCC Winter 2018",
 "country": "US",
+"startDate": "2018-01-20",
 "webId": "SCCWinter2018"
 },
 {
 "id": 4305,
 "name": "Belfort Open 2018",
 "country": "FR",
+"startDate": "2018-01-27",
 "webId": "BelfortOpen2018"
 },
 {
 "id": 4308,
 "name": "Hobart Summer 2018",
 "country": "AU",
+"startDate": "2018-01-27",
 "webId": "HobartSummer2018"
 },
 {
 "id": 4309,
 "name": "North Star Cubing Challenge 2018",
 "country": "US",
+"startDate": "2018-01-27",
 "webId": "NorthStarCubingChallenge2018"
 },
 {
 "id": 4312,
 "name": "Oakville Limited Winter 2018",
 "country": "CA",
+"startDate": "2018-01-27",
 "webId": "OakvilleLimitedWinter2018"
 },
 {
 "id": 4316,
 "name": "Whale Sounds 2018",
 "country": "US",
+"startDate": "2018-01-27",
 "webId": "WhaleSounds2018"
 },
 {
 "id": 4318,
 "name": "Istres Open 2018",
 "country": "FR",
+"startDate": "2018-01-27",
 "webId": "IstresOpen2018"
 },
 {
 "id": 4323,
 "name": "Pecel Cube Weekend 2018",
 "country": "ID",
+"startDate": "2018-01-27",
 "webId": "PecelCubeWeekend2018"
 },
 {
 "id": 4325,
 "name": "Udaan Rubik's Cube Open 2018",
 "country": "IN",
+"startDate": "2018-01-27",
 "webId": "UdaanRubiksCubeOpen2018"
 },
 {
 "id": 4327,
 "name": "Welsh Open 2018",
 "country": "GB",
+"startDate": "2018-01-27",
 "webId": "WelshOpen2018"
 },
 {
 "id": 4338,
 "name": "Spokane Winter 2018",
 "country": "US",
+"startDate": "2018-02-03",
 "webId": "SpokaneWinter2018"
 },
 {
 "id": 4344,
 "name": "Iruña Open 2018",
 "country": "ES",
+"startDate": "2018-02-03",
 "webId": "IrunaOpen2018"
 },
 {
 "id": 4346,
 "name": "Oradea Cubing Open 2018",
 "country": "RO",
+"startDate": "2018-02-03",
 "webId": "OradeaCubingOpen2018"
 },
 {
 "id": 4354,
 "name": "Bulgarian Open 2018",
 "country": "BG",
+"startDate": "2018-02-10",
 "webId": "BulgarianOpen2018"
 },
 {
 "id": 4364,
 "name": "Frankfurt Cube Days 2018",
 "country": "DE",
+"startDate": "2018-02-10",
 "webId": "FrankfurtCubeDays2018"
 },
 {
 "id": 4369,
 "name": "Odd Cubing Day 2018",
 "country": "US",
+"startDate": "2018-02-11",
 "webId": "OddCubingDay2018"
 },
 {
 "id": 4376,
 "name": "Slow N Steady Winter 2018",
 "country": "US",
+"startDate": "2018-02-17",
 "webId": "SlowNSteadyWinter2018"
 },
 {
 "id": 4377,
 "name": "TimerTon 2018",
 "country": "MX",
+"startDate": "2018-02-17",
 "webId": "TimerTon2018"
 },
 {
 "id": 4378,
 "name": "Annuntia Open 2018",
 "country": "BE",
+"startDate": "2018-02-17",
 "webId": "AnnuntiaOpen2018"
 },
 {
 "id": 4379,
 "name": "Croissy Open 2018",
 "country": "FR",
+"startDate": "2018-02-17",
 "webId": "CroissyOpen2018"
 },
 {
 "id": 4380,
 "name": "Cube Factory League Luty 2018",
 "country": "PL",
+"startDate": "2018-02-17",
 "webId": "CubeFactoryLeagueLuty2018"
 },
 {
 "id": 4382,
 "name": "Manchester Open 2018",
 "country": "GB",
+"startDate": "2018-02-17",
 "webId": "ManchesterOpen2018"
 },
 {
 "id": 4383,
 "name": "Ural Winter 2018",
 "country": "RU",
+"startDate": "2018-02-17",
 "webId": "UralWinter2018"
 },
 {
 "id": 4384,
 "name": "Vedruna Balaguer Open 2018",
 "country": "ES",
+"startDate": "2018-02-17",
 "webId": "VedrunaBalaguerOpen2018"
 },
 {
 "id": 4388,
 "name": "Altasierra 2018",
 "country": "ES",
+"startDate": "2018-02-24",
 "webId": "Altasierra2018"
 },
 {
 "id": 4391,
 "name": "CWR Winter 2018",
 "country": "KR",
+"startDate": "2018-02-24",
 "webId": "CWRWinter2018"
 },
 {
 "id": 4394,
 "name": "Georgia Cubers and Friends 2018",
 "country": "US",
+"startDate": "2018-02-24",
 "webId": "GACubers2018"
 },
 {
 "id": 4398,
 "name": "Berkeley Winter 2018",
 "country": "US",
+"startDate": "2018-02-24",
 "webId": "BerkeleyWinter2018"
 },
 {
 "id": 4406,
 "name": "Kobe Open 2018",
 "country": "JP",
+"startDate": "2018-02-25",
 "webId": "KobeOpen2018"
 },
 {
 "id": 4411,
 "name": "Assen Open 2018",
 "country": "NL",
+"startDate": "2018-03-03",
 "webId": "AssenOpen2018"
 },
 {
 "id": 4414,
 "name": "Spring Forward 2018",
 "country": "US",
+"startDate": "2018-03-03",
 "webId": "SpringForward2018"
 },
 {
 "id": 4417,
 "name": "Caracolí Open 2018",
 "country": "CO",
+"startDate": "2018-03-03",
 "webId": "CaracoliOpen2018"
 },
 {
 "id": 4420,
 "name": "Mental Breakdown Germany 2018",
 "country": "DE",
+"startDate": "2018-03-03",
 "webId": "MentalBreakdownGermany2018"
 },
 {
 "id": 4421,
 "name": "Michigan Cubing Club Beta 2018",
 "country": "US",
+"startDate": "2018-03-03",
 "webId": "MichiganCubingClubBeta2018"
 },
 {
 "id": 4428,
 "name": "Desafio de Verão 2018",
 "country": "BR",
+"startDate": "2018-03-04",
 "webId": "DesafiodeVerao2018"
 },
 {
 "id": 4432,
 "name": "Chiawana Cubing 2018",
 "country": "US",
+"startDate": "2018-03-10",
 "webId": "ChiawanaCubing2018"
 },
 {
 "id": 4434,
 "name": "FMC Europe 2018",
 "country": "XE",
+"startDate": "2018-03-10",
 "webId": "FMCEurope2018"
 },
 {
 "id": 4443,
 "name": "Eretum Open 2018",
 "country": "IT",
+"startDate": "2018-03-10",
 "webId": "EretumOpen2018"
 },
 {
 "id": 4444,
 "name": "I Hope It's Solved 2018",
 "country": "CA",
+"startDate": "2018-03-10",
 "webId": "IHopeItsSolved2018"
 },
 {
 "id": 4452,
 "name": "Etec Poá 2018",
 "country": "BR",
+"startDate": "2018-03-17",
 "webId": "EtecPoa2018"
 },
 {
 "id": 4457,
 "name": "Ponikva Open 2018",
 "country": "SI",
+"startDate": "2018-03-17",
 "webId": "PonikvaOpen2018"
 },
 {
 "id": 4460,
 "name": "ASFA Speedcubing 2018",
 "country": "AU",
+"startDate": "2018-03-17",
 "webId": "ASFASpeedcubing2018"
 },
 {
 "id": 4463,
 "name": "Guildford Open 2018",
 "country": "GB",
+"startDate": "2018-03-17",
 "webId": "GuildfordOpen2018"
 },
 {
 "id": 4468,
 "name": "Slovakian Spring 2018",
 "country": "SK",
+"startDate": "2018-03-17",
 "webId": "SlovakianSpring2018"
 },
 {
 "id": 4473,
 "name": "YRCC Open 2018",
 "country": "JP",
+"startDate": "2018-03-18",
 "webId": "YRCCOpen2018"
 },
 {
 "id": 4475,
 "name": "Finnish Open 2018",
 "country": "FI",
+"startDate": "2018-03-23",
 "webId": "FinnishOpen2018"
 },
 {
 "id": 4477,
 "name": "Bacau Easter Open 2018",
 "country": "RO",
+"startDate": "2018-03-24",
 "webId": "BacauEasterOpen2018"
 },
 {
 "id": 4481,
 "name": "Pickering Spring 2018",
 "country": "CA",
+"startDate": "2018-03-24",
 "webId": "PickeringSpring2018"
 },
 {
 "id": 4483,
 "name": "Santa Fe Spring 2018",
 "country": "US",
+"startDate": "2018-03-24",
 "webId": "SantaFeSpring2018"
 },
 {
 "id": 4493,
 "name": "Classic City Closer 2018",
 "country": "US",
+"startDate": "2018-03-25",
 "webId": "ClassicCityCloser2018"
 },
 {
 "id": 4498,
 "name": "Wiler Würfelfest 2018",
 "country": "CH",
+"startDate": "2018-03-25",
 "webId": "WilerWurfelfest2018"
 },
 {
 "id": 4503,
 "name": "AZCubing Spring 2018",
 "country": "US",
+"startDate": "2018-03-31",
 "webId": "AZCubingSpring2018"
 },
 {
 "id": 4504,
 "name": "Charleston Spring 2018",
 "country": "US",
+"startDate": "2018-03-31",
 "webId": "CharlestonSpring2018"
 },
 {
 "id": 4510,
 "name": "Rutgers Spring 2018",
 "country": "US",
+"startDate": "2018-03-31",
 "webId": "RutgersSpring2018"
 },
 {
 "id": 4511,
 "name": "Belgian Easter 2018",
 "country": "BE",
+"startDate": "2018-03-31",
 "webId": "BelgianEaster2018"
 },
 {
 "id": 4512,
 "name": "Budapest Open 2018",
 "country": "HU",
+"startDate": "2018-03-31",
 "webId": "BudapestOpen2018"
 },
 {
 "id": 4515,
 "name": "Kansai Open 2018",
 "country": "JP",
+"startDate": "2018-03-31",
 "webId": "KansaiOpen2018"
 },
 {
 "id": 4519,
 "name": "Royal Corner Twist 2018",
 "country": "SE",
+"startDate": "2018-03-31",
 "webId": "RoyalCornerTwist2018"
 },
 {
 "id": 4520,
 "name": "French Championship 2018",
 "country": "FR",
+"startDate": "2018-03-31",
 "webId": "France2018"
 },
 {
 "id": 4540,
 "name": "La Vall d'Uixó Open 2018",
 "country": "ES",
+"startDate": "2018-04-07",
 "webId": "LaValldUixoOpen2018"
 },
 {
 "id": 4551,
 "name": "Speedcubes Cape Town 2018",
 "country": "ZA",
+"startDate": "2018-04-09",
 "webId": "SpeedcubesCapeTown2018"
 },
 {
 "id": 4552,
 "name": "CubingUSA Southeast Championship 2018",
 "country": "US",
+"startDate": "2018-04-13",
 "webId": "SEChamp2018"
 },
 {
 "id": 4554,
 "name": "Albanian Open 2018",
 "country": "AL",
+"startDate": "2018-04-14",
 "webId": "AlbanianOpen2018"
 },
 {
 "id": 4557,
 "name": "Chanquete Open 2018",
 "country": "ES",
+"startDate": "2018-04-14",
 "webId": "ChanqueteOpen2018"
 },
 {
 "id": 4558,
 "name": "CubeIowa 2018",
 "country": "US",
+"startDate": "2018-04-14",
 "webId": "CubeIA2018"
 },
 {
 "id": 4559,
 "name": "Midcoast Cubing 2018",
 "country": "US",
+"startDate": "2018-04-14",
 "webId": "MidcoastCubing2018"
 },
 {
 "id": 4563,
 "name": "Ecuador Nationals 2018",
 "country": "EC",
+"startDate": "2018-04-14",
 "webId": "EcuadorNationals2018"
 },
 {
 "id": 4565,
 "name": "High Wycombe Open 2018",
 "country": "GB",
+"startDate": "2018-04-14",
 "webId": "HWO2018"
 },
 {
 "id": 4566,
 "name": "Novosibirsk Planetarium Open 2018",
 "country": "RU",
+"startDate": "2018-04-14",
 "webId": "NovosibirskPlanetariumOpen2018"
 },
 {
 "id": 4569,
 "name": "Slovenia Nationals 2018",
 "country": "SI",
+"startDate": "2018-04-14",
 "webId": "SloveniaNationals2018"
 },
 {
 "id": 4571,
 "name": "Tietomaa Open 2018",
 "country": "FI",
+"startDate": "2018-04-14",
 "webId": "TietomaaOpen2018"
 },
 {
 "id": 4576,
 "name": "WFS Cubing Spring 2018",
 "country": "US",
+"startDate": "2018-04-15",
 "webId": "WFSSpring2018"
 },
 {
 "id": 4577,
 "name": "Arnold Classic South America 2018",
 "country": "BR",
+"startDate": "2018-04-21",
 "webId": "ArnoldClassicSouthAmerica2018"
 },
 {
 "id": 4580,
 "name": "Dixon Spring 2018",
 "country": "US",
+"startDate": "2018-04-21",
 "webId": "DixonSpring2018"
 },
 {
 "id": 4585,
 "name": "Puget Sound Spring 2018",
 "country": "US",
+"startDate": "2018-04-21",
 "webId": "PugetSoundSpring2018"
 },
 {
 "id": 4589,
 "name": "Canberra Autumn 2018",
 "country": "AU",
+"startDate": "2018-04-21",
 "webId": "CanberraAutumn2018"
 },
 {
 "id": 4591,
 "name": "German Open 2018",
 "country": "DE",
+"startDate": "2018-04-21",
 "webId": "GermanOpen2018"
 },
 {
 "id": 4593,
 "name": "Madrid Open 2018",
 "country": "ES",
+"startDate": "2018-04-21",
 "webId": "MadridOpen2018"
 },
 {
 "id": 4596,
 "name": "Anjuk Ladang Cube 2018",
 "country": "ID",
+"startDate": "2018-04-22",
 "webId": "AnjukLadangCube2018"
 },
 {
 "id": 4606,
 "name": "Oakville Limited Spring 2018",
 "country": "CA",
+"startDate": "2018-04-28",
 "webId": "OakvilleLimitedSpring2018"
 },
 {
 "id": 4616,
 "name": "Elsass Open 2018",
 "country": "FR",
+"startDate": "2018-04-28",
 "webId": "ElsassOpen2018"
 },
 {
 "id": 4620,
 "name": "U.R.A. Spring of Colors 2018",
 "country": "RO",
+"startDate": "2018-04-28",
 "webId": "URASpringofColors2018"
 },
 {
 "id": 4623,
 "name": "Flag City Spring 2018",
 "country": "US",
+"startDate": "2018-04-29",
 "webId": "FlagCitySpring2018"
 },
 {
 "id": 4628,
 "name": "Wolfpack Quiet Qualifier 2018",
 "country": "US",
+"startDate": "2018-04-29",
 "webId": "WolfpackQuietQualifier2018"
 },
 {
 "id": 4632,
 "name": "Nanjing Spring 2018",
 "country": "CN",
+"startDate": "2018-04-30",
 "webId": "NanjingSpring2018"
 },
 {
 "id": 4637,
 "name": "Riberas del Guadaíra 2018",
 "country": "ES",
+"startDate": "2018-05-05",
 "webId": "RiberasdelGuadaira2018"
 },
 {
 "id": 4641,
 "name": "Tribox Open Spring 2018",
 "country": "JP",
+"startDate": "2018-05-05",
 "webId": "TriboxOpenSpring2018"
 },
 {
 "id": 4642,
 "name": "Yakima Valley Cubing 2018",
 "country": "US",
+"startDate": "2018-05-05",
 "webId": "YakimaValleyCubing2018"
 },
 {
 "id": 4644,
 "name": "II CEFET-MG UAI Bits Open 2018",
 "country": "BR",
+"startDate": "2018-05-05",
 "webId": "IICEFETMGUAIBitsOpen2018"
 },
 {
 "id": 4649,
 "name": "Cube for Cambodia 2018",
 "country": "AU",
+"startDate": "2018-05-06",
 "webId": "CubeforCambodia2018"
 },
 {
 "id": 4650,
 "name": "Qualifornia 2018",
 "country": "US",
+"startDate": "2018-05-06",
 "webId": "Qualifornia2018"
 },
 {
 "id": 4654,
 "name": "Swedish Championship 2018",
 "country": "SE",
+"startDate": "2018-05-11",
 "webId": "SwedishChampionship2018"
 },
 {
 "id": 4656,
 "name": "Atlanta Subdivisions 2018",
 "country": "US",
+"startDate": "2018-05-12",
 "webId": "AtlantaSubdivisions2018"
 },
 {
 "id": 4668,
 "name": "Minnesota Cube Melt 2018",
 "country": "US",
+"startDate": "2018-05-12",
 "webId": "MinnesotaCubeMelt2018"
 },
 {
 "id": 4669,
 "name": "One LY Cube 2018",
 "country": "RU",
+"startDate": "2018-05-12",
 "webId": "OneLYCube2018"
 },
 {
 "id": 4670,
 "name": "Parla Open 2018",
 "country": "ES",
+"startDate": "2018-05-12",
 "webId": "ParlaOpen2018"
 },
 {
 "id": 4674,
 "name": "Zurich Open 2018",
 "country": "CH",
+"startDate": "2018-05-12",
 "webId": "ZurichOpen2018"
 },
 {
 "id": 4675,
 "name": "Play Cube 2018",
 "country": "KR",
+"startDate": "2018-05-13",
 "webId": "PlayCube2018"
 },
 {
 "id": 4677,
 "name": "Arnold Classic Africa 2018",
 "country": "ZA",
+"startDate": "2018-05-18",
 "webId": "ArnoldClassicAfrica2018"
 },
 {
 "id": 4678,
 "name": "CubingUSA Great Lakes Championship 2018",
 "country": "US",
+"startDate": "2018-05-18",
 "webId": "GreatLakesChampionship2018"
 },
 {
 "id": 4679,
 "name": "YJ Fest 2018",
 "country": "RU",
+"startDate": "2018-05-18",
 "webId": "YJFest2018"
 },
 {
 "id": 4682,
 "name": "Inland Empire Spring 2018",
 "country": "US",
+"startDate": "2018-05-19",
 "webId": "InlandEmpireSpring2018"
 },
 {
 "id": 4685,
 "name": "Pyra Pandemonium 2018",
 "country": "US",
+"startDate": "2018-05-19",
 "webId": "PyraPandemonium2018"
 },
 {
 "id": 4686,
 "name": "Breda Open 2018",
 "country": "NL",
+"startDate": "2018-05-19",
 "webId": "BredaOpen2018"
 },
 {
 "id": 4687,
 "name": "National Capital Region 2018",
 "country": "CA",
+"startDate": "2018-05-19",
 "webId": "NationalCapitalRegion2018"
 },
 {
 "id": 4690,
 "name": "Shanghai Love in ECNU 2018",
 "country": "CN",
+"startDate": "2018-05-19",
 "webId": "ShanghaiLoveinECNU2018"
 },
 {
 "id": 4702,
 "name": "Gaston Spring 2018",
 "country": "US",
+"startDate": "2018-05-26",
 "webId": "GastonSpring2018"
 },
 {
 "id": 4706,
 "name": "Baires Centro Open 2018",
 "country": "AR",
+"startDate": "2018-05-26",
 "webId": "BairesCentroOpen2018"
 },
 {
 "id": 4720,
 "name": "Slovakian Cube Day 2018",
 "country": "SK",
+"startDate": "2018-05-27",
 "webId": "SlovakianCubeDay2018"
 },
 {
 "id": 4723,
 "name": "Ukrainian Open 2018",
 "country": "UA",
+"startDate": "2018-06-01",
 "webId": "UkrainianOpen2018"
 },
 {
 "id": 4726,
 "name": "Colegio Arabe Open 2018",
 "country": "CL",
+"startDate": "2018-06-02",
 "webId": "ColegioArabeOpen2018"
 },
 {
 "id": 4730,
 "name": "Oregon State Favorites 2018",
 "country": "US",
+"startDate": "2018-06-02",
 "webId": "OregonStateFavorites2018"
 },
 {
 "id": 4735,
 "name": "CubingUSA Northeast Championship 2018",
 "country": "US",
+"startDate": "2018-06-02",
 "webId": "NortheastChampionship2018"
 },
 {
 "id": 4738,
 "name": "L'Open du Berry 2018",
 "country": "FR",
+"startDate": "2018-06-02",
 "webId": "OpenBerry2018"
 },
 {
 "id": 4741,
 "name": "Schwandorf Open 2018",
 "country": "DE",
+"startDate": "2018-06-02",
 "webId": "SchwandorfOpen2018"
 },
 {
 "id": 4746,
 "name": "Rose City 2018",
 "country": "US",
+"startDate": "2018-06-08",
 "webId": "RoseCity2018"
 },
 {
 "id": 4747,
 "name": "Semey Open 2018",
 "country": "KZ",
+"startDate": "2018-06-08",
 "webId": "SemeyOpen2018"
 },
 {
 "id": 4752,
 "name": "Roma3 Al Cubo 2018",
 "country": "IT",
+"startDate": "2018-06-09",
 "webId": "Roma3AlCubo2018"
 },
 {
 "id": 4756,
 "name": "Dallas Fort Worth 2018",
 "country": "US",
+"startDate": "2018-06-09",
 "webId": "DallasFortWorth2018"
 },
 {
 "id": 4763,
 "name": "Hem MariCubik Open 2018",
 "country": "FR",
+"startDate": "2018-06-10",
 "webId": "HemMariCubikOpen2018"
 },
 {
 "id": 4764,
 "name": "Omiya Bigs 2018",
 "country": "JP",
+"startDate": "2018-06-10",
 "webId": "Omiyabigs2018"
 },
 {
 "id": 4769,
 "name": "Tangkak Perkasa 2018",
 "country": "MY",
+"startDate": "2018-06-14",
 "webId": "TangkakPerkasa2018"
 },
 {
 "id": 4771,
 "name": "CubingUSA Western Championship 2018",
 "country": "US",
+"startDate": "2018-06-15",
 "webId": "WesternChampionship2018"
 },
 {
 "id": 4777,
 "name": "Newmarket Open 2018",
 "country": "CA",
+"startDate": "2018-06-16",
 "webId": "NewmarketOpen2018"
 },
 {
 "id": 4783,
 "name": "Windsor Classic 2018",
 "country": "US",
+"startDate": "2018-06-16",
 "webId": "WindsorClassic2018"
 },
 {
 "id": 4784,
 "name": "El Escorial Open 2018",
 "country": "ES",
+"startDate": "2018-06-16",
 "webId": "ElEscorialOpen2018"
 },
 {
 "id": 4786,
 "name": "Prenacionales Calima Cube 2018",
 "country": "CO",
+"startDate": "2018-06-16",
 "webId": "PrenacionalesCalimaCube2018"
 },
 {
 "id": 4802,
 "name": "Nantes Open 2018",
 "country": "FR",
+"startDate": "2018-06-23",
 "webId": "NantesOpen2018"
 },
 {
 "id": 4805,
 "name": "Veenendaal Open 2018",
 "country": "NL",
+"startDate": "2018-06-23",
 "webId": "VeenendaalOpen2018"
 },
 {
 "id": 4807,
 "name": "Cardinal Bird Fiesta 2018",
 "country": "US",
+"startDate": "2018-06-24",
 "webId": "CardinalBirdFiesta2018"
 },
 {
 "id": 4812,
 "name": "Peru Nationals 2018",
 "country": "PE",
+"startDate": "2018-06-29",
 "webId": "PeruNationals2018"
 },
 {
 "id": 4814,
 "name": "Brisbane Winter 2018",
 "country": "AU",
+"startDate": "2018-06-30",
 "webId": "BrisbaneWinter2018"
 },
 {
 "id": 4815,
 "name": "Central Arkansas Summer 2018",
 "country": "US",
+"startDate": "2018-06-30",
 "webId": "CentralArkansasSummer2018"
 },
 {
 "id": 4816,
 "name": "Crossroads Cubing 2018",
 "country": "US",
+"startDate": "2018-06-30",
 "webId": "CrossroadsCubing2018"
 },
 {
 "id": 4826,
 "name": "Maryland 2018",
 "country": "US",
+"startDate": "2018-06-30",
 "webId": "Maryland2018"
 },
 {
 "id": 4827,
 "name": "Oficina Open 2018",
 "country": "BR",
+"startDate": "2018-06-30",
 "webId": "OficinaOpen2018"
 },
 {
 "id": 4828,
 "name": "Peterborough Open 2018",
 "country": "GB",
+"startDate": "2018-06-30",
 "webId": "PeterboroughOpen2018"
 },
 {
 "id": 4829,
 "name": "Swedish Decathlon Challenge 2018",
 "country": "SE",
+"startDate": "2018-06-30",
 "webId": "SwedishDecathlonChallenge2018"
 },
 {
 "id": 4836,
 "name": "Medan All Events 2018",
 "country": "ID",
+"startDate": "2018-07-06",
 "webId": "MedanAllEvents2018"
 },
 {
 "id": 4838,
 "name": "Dia da Modalidade Skewb 2018",
 "country": "BR",
+"startDate": "2018-07-07",
 "webId": "DMSkewb2018"
 },
 {
 "id": 4841,
 "name": "GLS Cup III 2018",
 "country": "PL",
+"startDate": "2018-07-07",
 "webId": "GLSCupIII2018"
 },
 {
 "id": 4847,
 "name": "Linfen Open 2018",
 "country": "CN",
+"startDate": "2018-07-08",
 "webId": "LinfenOpen2018"
 },
 {
 "id": 4855,
 "name": "GA Cubers Summer Blast 2018",
 "country": "US",
+"startDate": "2018-07-14",
 "webId": "GACubersSummerBlast2018"
 },
 {
 "id": 4859,
 "name": "Virudhunagar KCET Cube Open 2018",
 "country": "IN",
+"startDate": "2018-07-14",
 "webId": "VirudhunagarKCETCubeOpen2018"
 },
 {
 "id": 4863,
 "name": "Cologne Open 2018",
 "country": "DE",
+"startDate": "2018-07-14",
 "webId": "CologneOpen2018"
 },
 {
 "id": 4868,
 "name": "Irish Championship 2018",
 "country": "IE",
+"startDate": "2018-07-14",
 "webId": "IrishChampionship2018"
 },
 {
 "id": 4870,
 "name": "Uzhgorod Summer 2018",
 "country": "UA",
+"startDate": "2018-07-14",
 "webId": "UzhgorodSummer2018"
 },
 {
 "id": 4878,
 "name": "WCA European Championship 2018",
 "country": "ES",
+"startDate": "2018-07-19",
 "webId": "Euro2018"
 },
 {
 "id": 4881,
 "name": "SnoCo Summer 2018",
 "country": "US",
+"startDate": "2018-07-20",
 "webId": "SnoCoSummer2018"
 },
 {
 "id": 4882,
 "name": "Campeonato Brasileiro 2018",
 "country": "BR",
+"startDate": "2018-07-20",
 "webId": "Brasileiro2018"
 },
 {
 "id": 4883,
 "name": "Colombia Nationals 2018",
 "country": "CO",
+"startDate": "2018-07-20",
 "webId": "ColombiaNationals2018"
 },
 {
 "id": 4884,
 "name": "Korean Championship 2018",
 "country": "KR",
+"startDate": "2018-07-20",
 "webId": "KoreanChampionship2018"
 },
 {
 "id": 4886,
 "name": "Battle of Waterloo 2018",
 "country": "CA",
+"startDate": "2018-07-21",
 "webId": "BattleofWaterloo2018"
 },
 {
 "id": 4887,
 "name": "DFW Cubing Fiesta July 2018",
 "country": "US",
+"startDate": "2018-07-21",
 "webId": "DFWCubingFiestaJuly2018"
 },
 {
 "id": 4888,
 "name": "Fredericksburg Summer Open 2018",
 "country": "US",
+"startDate": "2018-07-21",
 "webId": "FredericksburgSummerOpen2018"
 },
 {
 "id": 4889,
 "name": "Holy Toledo Summer 2018",
 "country": "US",
+"startDate": "2018-07-21",
 "webId": "HolyToledoSummer2018"
 },
 {
 "id": 4890,
 "name": "Ixchel 2018",
 "country": "GT",
+"startDate": "2018-07-21",
 "webId": "Ixchel2018"
 },
 {
 "id": 4893,
 "name": "Ekat Summer 2018",
 "country": "RU",
+"startDate": "2018-07-21",
 "webId": "EkatSummer2018"
 },
 {
 "id": 4902,
 "name": "BeCubed Summer 2018",
 "country": "US",
+"startDate": "2018-07-27",
 "webId": "BeCubedSummer2018"
 },
 {
 "id": 4903,
 "name": "Bengaluru Championship 2018",
 "country": "IN",
+"startDate": "2018-07-27",
 "webId": "BengaluruChampionship2018"
 },
 {
 "id": 4904,
 "name": "CubingUSA Nationals 2018",
 "country": "US",
+"startDate": "2018-07-27",
 "webId": "CubingUSANationals2018"
 },
 {
 "id": 4905,
 "name": "Mariupol Open 2018",
 "country": "UA",
+"startDate": "2018-07-27",
 "webId": "MariupolOpen2018"
 },
 {
 "id": 4909,
 "name": "VCP Invierno 2018",
 "country": "AR",
+"startDate": "2018-07-28",
 "webId": "VCPInvierno2018"
 },
 {
 "id": 4922,
 "name": "IV ETEC Jacareí Open 2018",
 "country": "BR",
+"startDate": "2018-08-04",
 "webId": "IVETECJacareiOpen2018"
 },
 {
 "id": 4925,
 "name": "Batam Open 2018",
 "country": "ID",
+"startDate": "2018-08-04",
 "webId": "BatamOpen2018"
 },
 {
 "id": 4926,
 "name": "Franconia Open 2018",
 "country": "DE",
+"startDate": "2018-08-04",
 "webId": "FranconiaOpen2018"
 },
 {
 "id": 4951,
 "name": "Wyoming Jackalope Dash 2018",
 "country": "US",
+"startDate": "2018-08-11",
 "webId": "WyomingJackalopeDash2018"
 },
 {
 "id": 4962,
 "name": "Zwolle Open 2018",
 "country": "NL",
+"startDate": "2018-08-17",
 "webId": "ZwolleOpen2018"
 },
 {
 "id": 4963,
 "name": "Pennsylvania 2018",
 "country": "US",
+"startDate": "2018-08-17",
 "webId": "Pennsylvania2018"
 },
 {
 "id": 4964,
 "name": "WCA Asian Championship 2018",
 "country": "TW",
+"startDate": "2018-08-17",
 "webId": "AsianChampionship2018"
 },
 {
 "id": 4965,
 "name": "AZCubing Summer 2018",
 "country": "US",
+"startDate": "2018-08-18",
 "webId": "AZCubingSummer2018"
 },
 {
 "id": 4972,
 "name": "Bratislava Mental Breakdown 2018",
 "country": "SK",
+"startDate": "2018-08-18",
 "webId": "BratislavaMentalBreakdown2018"
 },
 {
 "id": 4976,
 "name": "GLS Cup IV 2018",
 "country": "PL",
+"startDate": "2018-08-18",
 "webId": "GLSCupIV2018"
 },
 {
 "id": 4987,
 "name": "Canada's Best in the West 2018",
 "country": "CA",
+"startDate": "2018-08-24",
 "webId": "CanadasBestInTheWest2018"
 },
 {
 "id": 4989,
 "name": "Cubing For LLS Fall 2018",
 "country": "US",
+"startDate": "2018-08-25",
 "webId": "CubingForLLSFall2018"
 },
 {
 "id": 4993,
 "name": "August Bank Holiday Competition 2018",
 "country": "GB",
+"startDate": "2018-08-25",
 "webId": "ABHC2018"
 },
 {
 "id": 4996,
 "name": "Cuernavaca Summer 2018",
 "country": "MX",
+"startDate": "2018-08-25",
 "webId": "Cuernavaca2018"
 },
 {
 "id": 5001,
 "name": "Sens Open 2018",
 "country": "FR",
+"startDate": "2018-08-25",
 "webId": "SensOpen2018"
 },
 {
 "id": 5007,
 "name": "Anzan Florencia 2018",
 "country": "CO",
+"startDate": "2018-09-01",
 "webId": "AnzanFlorencia2018"
 },
 {
 "id": 5013,
 "name": "Baia Mare North Open 2018",
 "country": "RO",
+"startDate": "2018-09-01",
 "webId": "BaiaMareNorthOpen2018"
 },
 {
 "id": 5016,
 "name": "Fredrikstad Open 2018",
 "country": "NO",
+"startDate": "2018-09-01",
 "webId": "FredrikstadOpen2018"
 },
 {
 "id": 5017,
 "name": "II Barueri Open 2018",
 "country": "BR",
+"startDate": "2018-09-01",
 "webId": "IIBarueriOpen2018"
 },
 {
 "id": 5019,
 "name": "Swisscubing Cup III 2018",
 "country": "CH",
+"startDate": "2018-09-01",
 "webId": "SwisscubingCupIII2018"
 },
 {
 "id": 5020,
 "name": "Slow N Steady Summer 2018",
 "country": "US",
+"startDate": "2018-09-02",
 "webId": "SlowNSteadySummer2018"
 },
 {
 "id": 5024,
 "name": "German Nationals 2018",
 "country": "DE",
+"startDate": "2018-09-07",
 "webId": "GermanNationals2018"
 },
 {
 "id": 5025,
 "name": "Carolina Season Starter 2018",
 "country": "US",
+"startDate": "2018-09-08",
 "webId": "CarolinaSeasonStarter2018"
 },
 {
 "id": 5026,
 "name": "Connect Community 2018",
 "country": "US",
+"startDate": "2018-09-08",
 "webId": "ConnectCommunity2018"
 },
 {
 "id": 5027,
 "name": "Cubo do João 2018",
 "country": "BR",
+"startDate": "2018-09-08",
 "webId": "CubodoJoao2018"
 },
 {
 "id": 5033,
 "name": "Razorback Fall 2018",
 "country": "US",
+"startDate": "2018-09-08",
 "webId": "RazorbackFall2018"
 },
 {
 "id": 5034,
 "name": "Sofia Autumn 2018",
 "country": "BG",
+"startDate": "2018-09-08",
 "webId": "SofiaAutumn2018"
 },
 {
 "id": 5035,
 "name": "Southern Utah Fall Open 2018",
 "country": "US",
+"startDate": "2018-09-08",
 "webId": "SouthernUtahFallOpen2018"
 },
 {
 "id": 5036,
 "name": "Soweto Spring Open 2018",
 "country": "ZA",
+"startDate": "2018-09-08",
 "webId": "SowetoSpringOpen2018"
 },
 {
 "id": 5038,
 "name": "Champagne Open 2018",
 "country": "FR",
+"startDate": "2018-09-08",
 "webId": "ChampagneOpen2018"
 },
 {
 "id": 5040,
 "name": "Italian Open 2018",
 "country": "IT",
+"startDate": "2018-09-08",
 "webId": "ItalianOpen2018"
 },
 {
 "id": 5043,
 "name": "Saratov Open 2018",
 "country": "RU",
+"startDate": "2018-09-08",
 "webId": "SaratovOpen2018"
 },
 {
 "id": 5051,
 "name": "Hillsboro Open 2018",
 "country": "US",
+"startDate": "2018-09-15",
 "webId": "HillsboroOpen2018"
 },
 {
 "id": 5055,
 "name": "Tohoku 2018",
 "country": "JP",
+"startDate": "2018-09-15",
 "webId": "Tohoku2018"
 },
 {
 "id": 5060,
 "name": "Canarias Open 2018",
 "country": "ES",
+"startDate": "2018-09-15",
 "webId": "CanariasOpen2018"
 },
 {
 "id": 5061,
 "name": "Cube Factory Częstochowa 2018",
 "country": "PL",
+"startDate": "2018-09-15",
 "webId": "CubeFactoryCzestochowa2018"
 },
 {
 "id": 5062,
 "name": "Danish Open 2018",
 "country": "DK",
+"startDate": "2018-09-15",
 "webId": "DanishOpen2018"
 },
 {
 "id": 5066,
 "name": "Manaus Cubo Plaza Open 2018",
 "country": "BR",
+"startDate": "2018-09-15",
 "webId": "ManausCuboPlazaOpen2018"
 },
 {
 "id": 5070,
 "name": "Villa Open 2018",
 "country": "BR",
+"startDate": "2018-09-21",
 "webId": "VillaOpen2018"
 },
 {
 "id": 5072,
 "name": "Swiss Nationals 2018",
 "country": "CH",
+"startDate": "2018-09-21",
 "webId": "SwissNationals2018"
 },
 {
 "id": 5073,
 "name": "Cobb Cubes Again 2018",
 "country": "US",
+"startDate": "2018-09-22",
 "webId": "CobbCubesAgain2018"
 },
 {
 "id": 5074,
 "name": "DFW Cubing Fiesta September 2018",
 "country": "US",
+"startDate": "2018-09-22",
 "webId": "DFWCubingFiestaSeptember2018"
 },
 {
 "id": 5079,
 "name": "Tokyo Pyraminx Returns 2018",
 "country": "JP",
+"startDate": "2018-09-22",
 "webId": "TokyoPyraminxReturns2018"
 },
 {
 "id": 5082,
 "name": "Dutch Nationals 2018",
 "country": "NL",
+"startDate": "2018-09-22",
 "webId": "DutchNationals2018"
 },
 {
 "id": 5086,
 "name": "Stratford-upon-Avon Open 2018",
 "country": "GB",
+"startDate": "2018-09-22",
 "webId": "SUAO2018"
 },
 {
 "id": 5089,
 "name": "Hungarian Open 2018",
 "country": "HU",
+"startDate": "2018-09-28",
 "webId": "HungarianOpen2018"
 },
 {
 "id": 5094,
 "name": "CWR Fall 2018",
 "country": "KR",
+"startDate": "2018-09-29",
 "webId": "CWRFall2018"
 },
 {
 "id": 5098,
 "name": "Arnold Open 2018",
 "country": "ES",
+"startDate": "2018-09-29",
 "webId": "ArnoldOpen2018"
 },
 {
 "id": 5100,
 "name": "Bodocó Open 2018",
 "country": "BR",
+"startDate": "2018-09-29",
 "webId": "Bodoco2018"
 },
 {
 "id": 5102,
 "name": "KJSCE Mumbai Open 2018",
 "country": "IN",
+"startDate": "2018-09-29",
 "webId": "KJSCEMumbaiOpen2018"
 },
 {
 "id": 5104,
 "name": "Salesianos Open 2018",
 "country": "PE",
+"startDate": "2018-09-29",
 "webId": "SalesianosOpen2018"
 },
 {
 "id": 5123,
 "name": "Paris Open 2018",
 "country": "FR",
+"startDate": "2018-10-06",
 "webId": "ParisOpen2018"
 },
 {
 "id": 5124,
 "name": "Siberian Athens 2018",
 "country": "RU",
+"startDate": "2018-10-06",
 "webId": "SiberianAthens2018"
 },
 {
 "id": 5125,
 "name": "Sicily Open 2018",
 "country": "IT",
+"startDate": "2018-10-06",
 "webId": "SicilyOpen2018"
 },
 {
 "id": 5131,
 "name": "Spanish Championship 2018",
 "country": "ES",
+"startDate": "2018-10-12",
 "webId": "Spain2018"
 },
 {
 "id": 5146,
 "name": "Jaén Mountain Cubes 2018",
 "country": "PE",
+"startDate": "2018-10-13",
 "webId": "JaenMountainCubes2018"
 },
 {
 "id": 5148,
 "name": "Martelli Open 2018",
 "country": "AR",
+"startDate": "2018-10-13",
 "webId": "MartelliOpen2018"
 },
 {
 "id": 5155,
 "name": "Tunisia Autumn Open 2018",
 "country": "TN",
+"startDate": "2018-10-15",
 "webId": "TunisiaAutumnOpen2018"
 },
 {
 "id": 5161,
 "name": "Poly Cubed 2018",
 "country": "US",
+"startDate": "2018-10-20",
 "webId": "PolyCubed2018"
 },
 {
 "id": 5166,
 "name": "Criciúma Open 2018",
 "country": "BR",
+"startDate": "2018-10-20",
 "webId": "CriciumaOpen2018"
 },
 {
 "id": 5167,
 "name": "Flag City Fall 2018",
 "country": "US",
+"startDate": "2018-10-20",
 "webId": "FlagCityFall2018"
 },
 {
 "id": 5168,
 "name": "GLS Cup V 2018",
 "country": "PL",
+"startDate": "2018-10-20",
 "webId": "GLSCupV2018"
 },
 {
 "id": 5169,
 "name": "Kjeller Open 2018",
 "country": "NO",
+"startDate": "2018-10-20",
 "webId": "KjellerOpen2018"
 },
 {
 "id": 5170,
 "name": "Oulu Open 2018",
 "country": "FI",
+"startDate": "2018-10-20",
 "webId": "OuluOpen2018"
 },
 {
 "id": 5171,
 "name": "Schoolmark Open 2018",
 "country": "BR",
+"startDate": "2018-10-20",
 "webId": "SchoolmarkOpen2018"
 },
 {
 "id": 5176,
 "name": "Toulon Open 2018",
 "country": "FR",
+"startDate": "2018-10-26",
 "webId": "ToulonOpen2018"
 },
 {
 "id": 5178,
 "name": "Polish Championship 2018",
 "country": "PL",
+"startDate": "2018-10-26",
 "webId": "PolishChampionship2018"
 },
 {
 "id": 5179,
 "name": "UK Championship 2018",
 "country": "GB",
+"startDate": "2018-10-26",
 "webId": "UKC2018"
 },
 {
 "id": 5180,
 "name": "AZCubing Big Cube Brawl 2018",
 "country": "US",
+"startDate": "2018-10-27",
 "webId": "AZCubingBigCubeBrawl2018"
 },
 {
 "id": 5189,
 "name": "Cubing Kazakhstan Nationals 2018",
 "country": "KZ",
+"startDate": "2018-10-27",
 "webId": "KazakhstanNationals2018"
 },
 {
 "id": 5191,
 "name": "III CUBIFMA 2018",
 "country": "BR",
+"startDate": "2018-10-27",
 "webId": "CUBIFMA2018"
 },
 {
 "id": 5194,
 "name": "Munich Open 2018",
 "country": "DE",
+"startDate": "2018-10-27",
 "webId": "MunichOpen2018"
 },
 {
 "id": 5196,
 "name": "Ural Autumn 2018",
 "country": "RU",
+"startDate": "2018-10-27",
 "webId": "UralAutumn2018"
 },
 {
 "id": 5199,
 "name": "Zonhoven Autumn Open 2018",
 "country": "BE",
+"startDate": "2018-10-27",
 "webId": "ZonhovenAutumnOpen2018"
 },
 {
 "id": 5202,
 "name": "Kansai Big Cube 2018",
 "country": "JP",
+"startDate": "2018-10-28",
 "webId": "KansaiBigCube2018"
 },
 {
 "id": 5204,
 "name": "SpeedCubing José Martí 2018",
 "country": "CO",
+"startDate": "2018-11-02",
 "webId": "SpeedCubingJoseMarti2018"
 },
 {
 "id": 5206,
 "name": "Italian Championship 2018",
 "country": "IT",
+"startDate": "2018-11-02",
 "webId": "ItalianChampionship2018"
 },
 {
 "id": 5207,
 "name": "Nordic Championship 2018",
 "country": "SE",
+"startDate": "2018-11-02",
 "webId": "NordicChampionship2018"
 },
 {
 "id": 5217,
 "name": "South Texas Open 2018",
 "country": "US",
+"startDate": "2018-11-03",
 "webId": "SouthTexasOpen2018"
 },
 {
 "id": 5222,
 "name": "German Big Cube Open 2018",
 "country": "DE",
+"startDate": "2018-11-03",
 "webId": "GermanBigCubeOpen2018"
 },
 {
 "id": 5225,
 "name": "Swiss Science Open 2018",
 "country": "CH",
+"startDate": "2018-11-03",
 "webId": "SwissScienceOpen2018"
 },
 {
 "id": 5230,
 "name": "Smart Cube Fest 2018",
 "country": "UA",
+"startDate": "2018-11-09",
 "webId": "SmartCubeFest2018"
 },
 {
 "id": 5232,
 "name": "Atomic Cubing Fall 2018",
 "country": "US",
+"startDate": "2018-11-10",
 "webId": "AtomicCubingFall2018"
 },
 {
 "id": 5237,
 "name": "Meppel Open 2018",
 "country": "NL",
+"startDate": "2018-11-10",
 "webId": "MeppelOpen2018"
 },
 {
 "id": 5242,
 "name": "Viva Vida SBC Open 2018",
 "country": "BR",
+"startDate": "2018-11-10",
 "webId": "VivaVidaSBCOpen2018"
 },
 {
 "id": 5243,
 "name": "Fuengirola Cubea 2018",
 "country": "ES",
+"startDate": "2018-11-10",
 "webId": "FuengirolaCubea2018"
 },
 {
 "id": 5248,
 "name": "Luxembourg Open 2018",
 "country": "LU",
+"startDate": "2018-11-10",
 "webId": "LuxembourgOpen2018"
 },
 {
 "id": 5252,
 "name": "Saitama 2018",
 "country": "JP",
+"startDate": "2018-11-11",
 "webId": "Saitama2018"
 },
 {
 "id": 5261,
 "name": "Macedonia Open 2018",
 "country": "MK",
+"startDate": "2018-11-17",
 "webId": "MacedoniaOpen2018"
 },
 {
 "id": 5262,
 "name": "Project Jastrzębie-Zdrój 2018",
 "country": "PL",
+"startDate": "2018-11-17",
 "webId": "ProjectJastrzebieZdroj2018"
 },
 {
 "id": 5264,
 "name": "SnoCo Fall 2018",
 "country": "US",
+"startDate": "2018-11-17",
 "webId": "SnoCoFall2018"
 },
 {
 "id": 5265,
 "name": "Albacete Open 2018",
 "country": "ES",
+"startDate": "2018-11-17",
 "webId": "AlbaceteOpen2018"
 },
 {
 "id": 5266,
 "name": "Awesome Bruchsal Cubing 2018",
 "country": "DE",
+"startDate": "2018-11-17",
 "webId": "AwesomeBruchsalCubing2018"
 },
 {
 "id": 5268,
 "name": "Brugge Open 2018",
 "country": "BE",
+"startDate": "2018-11-17",
 "webId": "BruggeOpen2018"
 },
 {
 "id": 5278,
 "name": "Kosovo Open 2018",
 "country": "XK",
+"startDate": "2018-11-18",
 "webId": "KosovoOpen2018"
 },
 {
 "id": 5287,
 "name": "Andorra 2018",
 "country": "AD",
+"startDate": "2018-11-24",
 "webId": "Andorra2018"
 },
 {
 "id": 5290,
 "name": "UA Open 2018",
 "country": "CL",
+"startDate": "2018-11-24",
 "webId": "UAOpen2018"
 },
 {
 "id": 5293,
 "name": "Fuenlabrada Open 2018",
 "country": "ES",
+"startDate": "2018-11-24",
 "webId": "FuenlabradaOpen2018"
 },
 {
 "id": 5296,
 "name": "Plata Open Taxco 2018",
 "country": "MX",
+"startDate": "2018-11-24",
 "webId": "Taxco2018"
 },
 {
 "id": 5298,
 "name": "Weston-super-Mare Open 2018",
 "country": "GB",
+"startDate": "2018-11-24",
 "webId": "WSMO2018"
 },
 {
 "id": 5306,
 "name": "Arkansas Cubing Drive 2018",
 "country": "US",
+"startDate": "2018-12-01",
 "webId": "ArkansasCubingDrive2018"
 },
 {
 "id": 5309,
 "name": "Oakville Autumn Limited 2018",
 "country": "CA",
+"startDate": "2018-12-01",
 "webId": "OakvilleAutumnLimited2018"
 },
 {
 "id": 5312,
 "name": "Shaker Fall 2018",
 "country": "US",
+"startDate": "2018-12-01",
 "webId": "ShakerFall2018"
 },
 {
 "id": 5318,
 "name": "GLS Cup Final 2018",
 "country": "PL",
+"startDate": "2018-12-01",
 "webId": "GLSCupFinal2018"
 },
 {
 "id": 5320,
 "name": "Melgar Summer 2018",
 "country": "CO",
+"startDate": "2018-12-01",
 "webId": "MelgarSummer2018"
 },
 {
 "id": 5328,
 "name": "Vancouver Select Winter 2018",
 "country": "CA",
+"startDate": "2018-12-02",
 "webId": "VancouverSelectWinter2018"
 },
 {
 "id": 5336,
 "name": "Liberty Science Center Open 2018",
 "country": "US",
+"startDate": "2018-12-08",
 "webId": "LibertyScience2018"
 },
 {
 "id": 5344,
 "name": "Melbourne Cube Days 2018",
 "country": "AU",
+"startDate": "2018-12-08",
 "webId": "MelbourneCubeDays2018"
 },
 {
 "id": 5345,
 "name": "Nacionales Argentinas 2018",
 "country": "AR",
+"startDate": "2018-12-08",
 "webId": "NacionalesArgentinas2018"
 },
 {
 "id": 5347,
 "name": "Polish Open 2018",
 "country": "PL",
+"startDate": "2018-12-08",
 "webId": "PolishOpen2018"
 },
 {
 "id": 5349,
 "name": "Swisscubing Cup Final 2018",
 "country": "CH",
+"startDate": "2018-12-08",
 "webId": "SwisscubingCupFinal2018"
 },
 {
 "id": 5357,
 "name": "CubingUSA Georgia Championship 2018",
 "country": "US",
+"startDate": "2018-12-14",
 "webId": "GAChamp2018"
 },
 {
 "id": 5364,
 "name": "Saint-Raphaël Winter Open 2018",
 "country": "FR",
+"startDate": "2018-12-15",
 "webId": "StRaphaelWinterOpen2018"
 },
 {
 "id": 5367,
 "name": "Big CubingItaly 2018",
 "country": "IT",
+"startDate": "2018-12-15",
 "webId": "BigCubingItaly2018"
 },
 {
 "id": 5368,
 "name": "Cambridge Open 2018",
 "country": "GB",
+"startDate": "2018-12-15",
 "webId": "CambridgeOpen2018"
 },
 {
 "id": 5373,
 "name": "Metropolitano Monterrey 2018",
 "country": "MX",
+"startDate": "2018-12-15",
 "webId": "MetropolitanoMonterrey2018"
 },
 {
 "id": 5375,
 "name": "Rijswijk Open 2018",
 "country": "NL",
+"startDate": "2018-12-15",
 "webId": "RijswijkOpen2018"
 },
 {
 "id": 5376,
 "name": "Taiwan Championship 2018",
 "country": "TW",
+"startDate": "2018-12-15",
 "webId": "TaiwanChampionship2018"
 },
 {
 "id": 5377,
 "name": "WCA South American Championship 2018",
 "country": "BR",
+"startDate": "2018-12-15",
 "webId": "SouthAmericanChampionship2018"
 },
 {
 "id": 5380,
 "name": "GuateMaya Open 2018",
 "country": "GT",
+"startDate": "2018-12-19",
 "webId": "GuateMayaOpen2018"
 },
 {
 "id": 5388,
 "name": "Japan Championship 2018",
 "country": "JP",
+"startDate": "2018-12-22",
 "webId": "JapanChampionship2018"
 },
 {
 "id": 5391,
 "name": "Taiyuan Winter 2018",
 "country": "CN",
+"startDate": "2018-12-22",
 "webId": "TaiyuanWinter2018"
 },
 {
 "id": 5397,
 "name": "VJTI Mumbai Cube Open 2018",
 "country": "IN",
+"startDate": "2018-12-28",
 "webId": "VJTIMumbaiCubeOpen2018"
 },
 {
 "id": 5407,
 "name": "Fortaleza Open 2019",
 "country": "BR",
+"startDate": "2019-01-04",
 "webId": "Fortaleza2019"
 },
 {
 "id": 5410,
 "name": "Speedcubing Camp Minsk 2019",
 "country": "BY",
+"startDate": "2019-01-04",
 "webId": "SpeedcubingCampMinsk2019"
 },
 {
 "id": 5414,
 "name": "Gauteng Summer 2019",
 "country": "ZA",
+"startDate": "2019-01-05",
 "webId": "GautengSummer2019"
 },
 {
 "id": 5415,
 "name": "Happy New Year Cubing Nijmegen 2019",
 "country": "NL",
+"startDate": "2019-01-05",
 "webId": "HNYCubing2019"
 },
 {
 "id": 5420,
 "name": "UBC Open 2019",
 "country": "CA",
+"startDate": "2019-01-05",
 "webId": "UBCOpen2019"
 },
 {
 "id": 5429,
 "name": "Another Bruin Cube Day 2019",
 "country": "US",
+"startDate": "2019-01-12",
 "webId": "AnotherBruinCubeDay2019"
 },
 {
 "id": 5432,
 "name": "JRCA Kansai Winter 2019",
 "country": "JP",
+"startDate": "2019-01-12",
 "webId": "JRCAKansaiWinter2019"
 },
 {
 "id": 5433,
 "name": "Larnaca Open 2019",
 "country": "CY",
+"startDate": "2019-01-12",
 "webId": "LarnacaOpen2019"
 },
 {
 "id": 5435,
 "name": "Northside Cube Day 2019",
 "country": "AU",
+"startDate": "2019-01-12",
 "webId": "NorthsideCubeDay2019"
 },
 {
 "id": 5437,
 "name": "PDX Cubing for Causes 2019",
 "country": "US",
+"startDate": "2019-01-12",
 "webId": "PDXCubingforCauses2019"
 },
 {
 "id": 5438,
 "name": "Turin Winter Open 2019",
 "country": "IT",
+"startDate": "2019-01-12",
 "webId": "TurinWinterOpen2019"
 },
 {
 "id": 5444,
 "name": "KSF Atyrau City 2019",
 "country": "KZ",
+"startDate": "2019-01-12",
 "webId": "KSFAtyrauCity2019"
 },
 {
 "id": 5448,
 "name": "SPB Muffin Winter 2019",
 "country": "RU",
+"startDate": "2019-01-12",
 "webId": "SPBMuffinWinter2019"
 },
 {
 "id": 5455,
 "name": "VDCA Winter Open 2019",
 "country": "IN",
+"startDate": "2019-01-13",
 "webId": "VDCAWinterOpen2019"
 },
 {
 "id": 5458,
 "name": "Acarajé Open 2019",
 "country": "BR",
+"startDate": "2019-01-15",
 "webId": "PraQueParidade2019"
 },
 {
 "id": 5472,
 "name": "D-City Cubing 2019",
 "country": "CH",
+"startDate": "2019-01-19",
 "webId": "DCityCubing2019"
 },
 {
 "id": 5473,
 "name": "Greece New Year 2019",
 "country": "GR",
+"startDate": "2019-01-19",
 "webId": "GreeceNewYear2019"
 },
 {
 "id": 5475,
 "name": "Oculus Cube Open 2019",
 "country": "IN",
+"startDate": "2019-01-19",
 "webId": "OculusCubeOpen2019"
 },
 {
 "id": 5476,
 "name": "Poções 2019",
 "country": "BR",
+"startDate": "2019-01-19",
 "webId": "Pocoes2019"
 },
 {
 "id": 5478,
 "name": "The Great British Blind Off 2019",
 "country": "GB",
+"startDate": "2019-01-19",
 "webId": "TGBBO2019"
 },
 {
 "id": 5479,
 "name": "Ural Winter 2019",
 "country": "RU",
+"startDate": "2019-01-19",
 "webId": "UralWinter2019"
 },
 {
 "id": 5485,
 "name": "Speedcubes Cape Town 2019",
 "country": "ZA",
+"startDate": "2019-01-20",
 "webId": "SpeedcubesCapeTown2019"
 },
 {
 "id": 5488,
 "name": "YJ Fest Siberia 2019",
 "country": "RU",
+"startDate": "2019-01-25",
 "webId": "YJFestSiberia2019"
 },
 {
 "id": 5499,
 "name": "Istres Open 2019",
 "country": "FR",
+"startDate": "2019-01-26",
 "webId": "IstresOpen2019"
 },
 {
 "id": 5500,
 "name": "Kubkvarna Winter 2019",
 "country": "SE",
+"startDate": "2019-01-26",
 "webId": "KubkvarnaWinter2019"
 },
 {
 "id": 5511,
 "name": "Ayase 2019",
 "country": "JP",
+"startDate": "2019-02-02",
 "webId": "Ayase2019"
 },
 {
 "id": 5513,
 "name": "Dunwoody Day Bash 2019",
 "country": "US",
+"startDate": "2019-02-02",
 "webId": "DunwoodyDayBash2019"
 },
 {
 "id": 5514,
 "name": "Mudd Winter 2019",
 "country": "US",
+"startDate": "2019-02-02",
 "webId": "MuddWinter2019"
 },
 {
 "id": 5516,
 "name": "Return to Toronto 2019",
 "country": "CA",
+"startDate": "2019-02-02",
 "webId": "ReturntoToronto2019"
 },
 {
 "id": 5531,
 "name": "Battle of Virginia Beach Winter 2019",
 "country": "US",
+"startDate": "2019-02-09",
 "webId": "BattleofVirginiaBeachWinter2019"
 },
 {
 "id": 5532,
 "name": "Canada's Wild West 2019",
 "country": "CA",
+"startDate": "2019-02-09",
 "webId": "CanadasWildWest2019"
 },
 {
 "id": 5533,
 "name": "DSF Generalforsamlingen 2019",
 "country": "DK",
+"startDate": "2019-02-09",
 "webId": "DSFGeneralforsamlingen2019"
 },
 {
 "id": 5538,
 "name": "Vinnytsia Open 2019",
 "country": "UA",
+"startDate": "2019-02-09",
 "webId": "VinnytsiaOpen2019"
 },
 {
 "id": 5541,
 "name": "Fontwell Open 2019",
 "country": "GB",
+"startDate": "2019-02-09",
 "webId": "FontwellOpen2019"
 },
 {
 "id": 5542,
 "name": "Izhevsk Winter Cube 2019",
 "country": "RU",
+"startDate": "2019-02-09",
 "webId": "IzhevskWinterCube2019"
 },
 {
 "id": 5544,
 "name": "Medan Lunar New Year 2019",
 "country": "ID",
+"startDate": "2019-02-09",
 "webId": "MedanLunarNewYear2019"
 },
 {
 "id": 5550,
 "name": "FMC Brasil 2019",
 "country": "BR",
+"startDate": "2019-02-10",
 "webId": "FMCBrasil2019"
 },
 {
 "id": 5551,
 "name": "Haarlem Cubing 2019",
 "country": "NL",
+"startDate": "2019-02-10",
 "webId": "HaarlemCubing2019"
 },
 {
 "id": 5553,
 "name": "Saraswati Open 2019",
 "country": "IN",
+"startDate": "2019-02-10",
 "webId": "SaraswatiOpen2019"
 },
 {
 "id": 5561,
 "name": "Glorioso San Carlos 2019",
 "country": "PE",
+"startDate": "2019-02-16",
 "webId": "GloriosoSanCarlos2019"
 },
 {
 "id": 5564,
 "name": "Annuntia Open 2019",
 "country": "BE",
+"startDate": "2019-02-16",
 "webId": "AnnuntiaOpen2019"
 },
 {
 "id": 5566,
 "name": "Bremium Cubing 2019",
 "country": "DE",
+"startDate": "2019-02-16",
 "webId": "BremiumCubing2019"
 },
 {
 "id": 5569,
 "name": "Conde Open 2019",
 "country": "MX",
+"startDate": "2019-02-16",
 "webId": "CondeOpen2019"
 },
 {
 "id": 5570,
 "name": "CubingUSA Northeast Championship 2019",
 "country": "US",
+"startDate": "2019-02-16",
 "webId": "NortheastChampionship2019"
 },
 {
 "id": 5575,
 "name": "Manchester Open 2019",
 "country": "GB",
+"startDate": "2019-02-16",
 "webId": "ManchesterOpen2019"
 },
 {
 "id": 5576,
 "name": "Québec City 2019",
 "country": "CA",
+"startDate": "2019-02-16",
 "webId": "QuebecCity2019"
 },
 {
 "id": 5577,
 "name": "Reno Winter 2019",
 "country": "US",
+"startDate": "2019-02-16",
 "webId": "RenoWinter2019"
 },
 {
 "id": 5583,
 "name": "Santa Barbara Winter 2019",
 "country": "US",
+"startDate": "2019-02-23",
 "webId": "SantaBarbaraWinter2019"
 },
 {
 "id": 5585,
 "name": "Daksh Cube Open 2019",
 "country": "IN",
+"startDate": "2019-02-23",
 "webId": "DakshCubeOpen2019"
 },
 {
 "id": 5587,
 "name": "Osijek Open 2019",
 "country": "HR",
+"startDate": "2019-02-23",
 "webId": "OsijeKOpen2019"
 },
 {
 "id": 5588,
 "name": "Seoul Winter 2019",
 "country": "KR",
+"startDate": "2019-02-23",
 "webId": "SeoulWinter2019"
 },
 {
 "id": 5589,
 "name": "Singapore Cube Championship 2019",
 "country": "SG",
+"startDate": "2019-02-23",
 "webId": "SingaporeChampionship2019"
 },
 {
 "id": 5590,
 "name": "Vedruna Balaguer Open 2019",
 "country": "ES",
+"startDate": "2019-02-23",
 "webId": "VedrunaBalaguerOpen2019"
 },
 {
 "id": 5591,
 "name": "Villeneuve-lès-Avignon Open 2019",
 "country": "FR",
+"startDate": "2019-02-23",
 "webId": "VilleneuvelesAvignonOpen2019"
 },
 {
 "id": 5596,
 "name": "Newton Speedcubing 2019",
 "country": "PE",
+"startDate": "2019-02-24",
 "webId": "NewtonSpeedcubing2019"
 },
 {
 "id": 5604,
 "name": "West Seattle Favorites 2019",
 "country": "US",
+"startDate": "2019-03-02",
 "webId": "WestSeattleFavorites2019"
 },
 {
 "id": 5605,
 "name": "Calabrian Open 2019",
 "country": "IT",
+"startDate": "2019-03-02",
 "webId": "CalabrianOpen2019"
 },
 {
 "id": 5608,
 "name": "Iruña Open 2019",
 "country": "ES",
+"startDate": "2019-03-02",
 "webId": "IrunaOpen2019"
 },
 {
 "id": 5612,
 "name": "Serbian Open 2019",
 "country": "RS",
+"startDate": "2019-03-02",
 "webId": "SerbianOpen2019"
 },
 {
 "id": 5617,
 "name": "Comfalagos Cubing 2019",
 "country": "CO",
+"startDate": "2019-03-03",
 "webId": "ComfalagosCubing2019"
 },
 {
 "id": 5623,
 "name": "Aarhus Spring 2019",
 "country": "DK",
+"startDate": "2019-03-08",
 "webId": "AarhusSpring2019"
 },
 {
 "id": 5624,
 "name": "CubingUSA Oregon Championship 2019",
 "country": "US",
+"startDate": "2019-03-08",
 "webId": "OregonChampionship2019"
 },
 {
 "id": 5629,
 "name": "Hobart Open 2019",
 "country": "AU",
+"startDate": "2019-03-09",
 "webId": "HobartOpen2019"
 },
 {
 "id": 5632,
 "name": "RGIT Cube Open 2019",
 "country": "IN",
+"startDate": "2019-03-09",
 "webId": "RGITCubeOpen2019"
 },
 {
 "id": 5633,
 "name": "Chelles Open 2019",
 "country": "FR",
+"startDate": "2019-03-09",
 "webId": "ChellesOpen2019"
 },
 {
 "id": 5638,
 "name": "Pittsburgh Spring 2019",
 "country": "US",
+"startDate": "2019-03-09",
 "webId": "PittsburghSpring2019"
 },
 {
 "id": 5642,
 "name": "Welsh Open 2019",
 "country": "GB",
+"startDate": "2019-03-09",
 "webId": "WelshOpen2019"
 },
 {
 "id": 5646,
 "name": "Denmark & Friends 2019",
 "country": "DK",
+"startDate": "2019-03-15",
 "webId": "DenmarkFriends2019"
 },
 {
 "id": 5647,
 "name": "CLIP Open 2019",
 "country": "PT",
+"startDate": "2019-03-16",
 "webId": "CLIPOpen2019"
 },
 {
 "id": 5649,
 "name": "Indianapolis Cubes 2019",
 "country": "US",
+"startDate": "2019-03-16",
 "webId": "IndianapolisCubes2019"
 },
 {
 "id": 5652,
 "name": "Oklahoma Spring 2019",
 "country": "US",
+"startDate": "2019-03-16",
 "webId": "OklahomaSpring2019"
 },
 {
 "id": 5653,
 "name": "Please Be Quiet Korea 2019",
 "country": "KR",
+"startDate": "2019-03-16",
 "webId": "PleaseBeQuietKorea2019"
 },
 {
 "id": 5656,
 "name": "Sofia Spring 2019",
 "country": "BG",
+"startDate": "2019-03-16",
 "webId": "SofiaSpring2019"
 },
 {
 "id": 5657,
 "name": "Wolfpack Winter 2019",
 "country": "US",
+"startDate": "2019-03-16",
 "webId": "WolfpackWinter2019"
 },
 {
 "id": 5659,
 "name": "Koalafication Sydney 2019",
 "country": "AU",
+"startDate": "2019-03-16",
 "webId": "KoalaficationSydney2019"
 },
 {
 "id": 5661,
 "name": "Lviv Spring Days 2019",
 "country": "UA",
+"startDate": "2019-03-16",
 "webId": "LvivSpringDays2019"
 },
 {
 "id": 5662,
 "name": "Manaus Cubo Plaza Open 2019",
 "country": "BR",
+"startDate": "2019-03-16",
 "webId": "ManausCuboPlazaOpen2019"
 },
 {
 "id": 5672,
 "name": "Pragyan Cube Open 2019",
 "country": "IN",
+"startDate": "2019-03-17",
 "webId": "PragyanCubeOpen2019"
 },
 {
 "id": 5674,
 "name": "Cube Weekend Sint Michielsgestel 2019",
 "country": "NL",
+"startDate": "2019-03-22",
 "webId": "CubeWeekendStMichielsgestel2019"
 },
 {
 "id": 5676,
 "name": "Downtown Vancouver Spring 2019",
 "country": "CA",
+"startDate": "2019-03-23",
 "webId": "DowntownVancouverSpring2019"
 },
 {
 "id": 5677,
 "name": "FMC Europe 2019",
 "country": "XE",
+"startDate": "2019-03-23",
 "webId": "FMCEurope2019"
 },
 {
 "id": 5680,
 "name": "Torneio de Cubo Mágico EJS 2019",
 "country": "BR",
+"startDate": "2019-03-23",
 "webId": "TorneiodeCuboMagicoEJS2019"
 },
 {
 "id": 5693,
 "name": "Monastir Spring Open 2019",
 "country": "TN",
+"startDate": "2019-03-24",
 "webId": "MonastirSpringOpen2019"
 },
 {
 "id": 5698,
 "name": "Norwegian Championship 2019",
 "country": "NO",
+"startDate": "2019-03-29",
 "webId": "NorwegianChampionship2019"
 },
 {
 "id": 5710,
 "name": "The Last Frontier Open 2019",
 "country": "US",
+"startDate": "2019-03-30",
 "webId": "TheLastFrontierOpen2019"
 },
 {
 "id": 5712,
 "name": "Trinity Valley Open Spring 2019",
 "country": "US",
+"startDate": "2019-03-30",
 "webId": "TrinityValleyOpenSpring2019"
 },
 {
 "id": 5713,
 "name": "Budapest Open 2019",
 "country": "HU",
+"startDate": "2019-03-30",
 "webId": "BudapestOpen2019"
 },
 {
 "id": 5714,
 "name": "Cervantes Cubea 2019",
 "country": "ES",
+"startDate": "2019-03-30",
 "webId": "CervantesCubea2019"
 },
 {
 "id": 5716,
 "name": "Franconia Spring 2019",
 "country": "DE",
+"startDate": "2019-03-30",
 "webId": "FranconiaSpring2019"
 },
 {
 "id": 5718,
 "name": "Le Barcarès Mental Breakdown 2019",
 "country": "FR",
+"startDate": "2019-03-30",
 "webId": "LeBarcaresMB2019"
 },
 {
 "id": 5722,
 "name": "Ibagué Open 2019",
 "country": "CO",
+"startDate": "2019-03-31",
 "webId": "IbagueOpen2019"
 },
 {
 "id": 5724,
 "name": "Please Be Quiet Tokyo 2019",
 "country": "JP",
+"startDate": "2019-03-31",
 "webId": "PleaseBeQuietTokyo2019"
 },
 {
 "id": 5728,
 "name": "8 Wing Limited 2019",
 "country": "CA",
+"startDate": "2019-04-06",
 "webId": "8WingLimited2019"
 },
 {
 "id": 5730,
 "name": "Atomic Cubing Spring 2019",
 "country": "US",
+"startDate": "2019-04-06",
 "webId": "AtomicCubingSpring2019"
 },
 {
 "id": 5732,
 "name": "Copa Lamatepec 2019",
 "country": "SV",
+"startDate": "2019-04-06",
 "webId": "CopaLamatepec2019"
 },
 {
 "id": 5734,
 "name": "Cutory Blossom 2019",
 "country": "KR",
+"startDate": "2019-04-06",
 "webId": "CutoryBlossom2019"
 },
 {
 "id": 5738,
 "name": "Montreal Limited Winter 2019",
 "country": "CA",
+"startDate": "2019-04-06",
 "webId": "MontrealLimitedWinter2019"
 },
 {
 "id": 5744,
 "name": "Dutch Masters 2019",
 "country": "NL",
+"startDate": "2019-04-06",
 "webId": "DutchMasters2019"
 },
 {
 "id": 5746,
 "name": "German Open 2019",
 "country": "DE",
+"startDate": "2019-04-06",
 "webId": "GermanOpen2019"
 },
 {
 "id": 5747,
 "name": "Koalafication Brisbane 2019",
 "country": "AU",
+"startDate": "2019-04-06",
 "webId": "KoalaficationBrisbane2019"
 },
 {
 "id": 5751,
 "name": "Open de Lumes 2019",
 "country": "FR",
+"startDate": "2019-04-06",
 "webId": "OpendeLumes2019"
 },
 {
 "id": 5753,
 "name": "Weihai Open 2019",
 "country": "CN",
+"startDate": "2019-04-06",
 "webId": "WeihaiOpen2019"
 },
 {
 "id": 5758,
 "name": "Indian Nationals 2019",
 "country": "IN",
+"startDate": "2019-04-11",
 "webId": "IndianNationals2019"
 },
 {
 "id": 5760,
 "name": "Burke Mountain Cubing 2019",
 "country": "US",
+"startDate": "2019-04-13",
 "webId": "BurkeMountainCubing2019"
 },
 {
 "id": 5763,
 "name": "Sergio Arboleda 2019",
 "country": "CO",
+"startDate": "2019-04-13",
 "webId": "SergioArboleda2019"
 },
 {
 "id": 5766,
 "name": "Arnold Classic South America 2019",
 "country": "BR",
+"startDate": "2019-04-13",
 "webId": "ArnoldClassicSA2019"
 },
 {
 "id": 5769,
 "name": "Chanquete Open 2019",
 "country": "ES",
+"startDate": "2019-04-13",
 "webId": "ChanqueteOpen2019"
 },
 {
 "id": 5770,
 "name": "Cork Open 2019",
 "country": "IE",
+"startDate": "2019-04-13",
 "webId": "CorkOpen2019"
 },
 {
 "id": 5772,
 "name": "Euskadi Open Portugalete 2019",
 "country": "ES",
+"startDate": "2019-04-13",
 "webId": "EuskadiOpenPortugalete2019"
 },
 {
 "id": 5774,
 "name": "GLS Cup I 2019",
 "country": "PL",
+"startDate": "2019-04-13",
 "webId": "GLSCupI2019"
 },
 {
 "id": 5776,
 "name": "Hamburg International 2019",
 "country": "DE",
+"startDate": "2019-04-13",
 "webId": "HamburgInternational2019"
 },
 {
 "id": 5777,
 "name": "Koalafication Canberra 2019",
 "country": "AU",
+"startDate": "2019-04-13",
 "webId": "KoalaficationCanberra2019"
 },
 {
 "id": 5779,
 "name": "Putra Speedcubing Challenge 2019",
 "country": "MY",
+"startDate": "2019-04-13",
 "webId": "PutraSpeedcubingChallenge2019"
 },
 {
 "id": 5782,
 "name": "Slovenian Nationals 2019",
 "country": "SI",
+"startDate": "2019-04-13",
 "webId": "SlovenianNationals2019"
 },
 {
 "id": 5783,
 "name": "Solving in Sale 2019",
 "country": "AU",
+"startDate": "2019-04-13",
 "webId": "SolvinginSale2019"
 },
 {
 "id": 5784,
 "name": "SSL 2 Skurup 2019",
 "country": "SE",
+"startDate": "2019-04-13",
 "webId": "SSL2Skurup2019"
 },
 {
 "id": 5803,
 "name": "Penn Cube Day Spring 2019",
 "country": "US",
+"startDate": "2019-04-20",
 "webId": "PennCubeDaySpring2019"
 },
 {
 "id": 5804,
 "name": "Rose City 2019",
 "country": "US",
+"startDate": "2019-04-20",
 "webId": "RoseCity2019"
 },
 {
 "id": 5809,
 "name": "Kansai Open 2019",
 "country": "JP",
+"startDate": "2019-04-20",
 "webId": "KansaiOpen2019"
 },
 {
 "id": 5811,
 "name": "Lincoln Open 2019",
 "country": "GB",
+"startDate": "2019-04-20",
 "webId": "LincolnOpen2019"
 },
 {
 "id": 5814,
 "name": "Shanghai Memory Nightmare 2019",
 "country": "CN",
+"startDate": "2019-04-20",
 "webId": "ShanghaiMemoryNightmare2019"
 },
 {
 "id": 5816,
 "name": "YJ Petersburg Special 2019",
 "country": "RU",
+"startDate": "2019-04-20",
 "webId": "YJPetersburgSpecial2019"
 },
 {
 "id": 5817,
 "name": "French Championship 2019",
 "country": "FR",
+"startDate": "2019-04-20",
 "webId": "FrenchChampionship2019"
 },
 {
 "id": 5827,
 "name": "Guelph Side Events 2019",
 "country": "CA",
+"startDate": "2019-04-27",
 "webId": "GuelphSideEvents2019"
 },
 {
 "id": 5838,
 "name": "KMG Spring 2019",
 "country": "DK",
+"startDate": "2019-04-27",
 "webId": "KMGSpring2019"
 },
 {
 "id": 5843,
 "name": "Virginia Qualifier 2019",
 "country": "US",
+"startDate": "2019-04-27",
 "webId": "VirginiaQualifier2019"
 },
 {
 "id": 5844,
 "name": "Vorarlberg Open 2019",
 "country": "AT",
+"startDate": "2019-04-27",
 "webId": "VorarlbergOpen2019"
 },
 {
 "id": 5845,
 "name": "Campus Classic Cape Town 2019",
 "country": "ZA",
+"startDate": "2019-04-28",
 "webId": "CampusClassicCapeTown2019"
 },
 {
 "id": 5846,
 "name": "Cube for Cambodia 2019",
 "country": "AU",
+"startDate": "2019-04-28",
 "webId": "CubeforCambodia2019"
 },
 {
 "id": 5847,
 "name": "Flag City Spring 2019",
 "country": "US",
+"startDate": "2019-04-28",
 "webId": "FlagCitySpring2019"
 },
 {
 "id": 5850,
 "name": "Tribox Open Spring 2019",
 "country": "JP",
+"startDate": "2019-04-28",
 "webId": "TriboxOpenSpring2019"
 },
 {
 "id": 5856,
 "name": "Casal Catalunya Baires Open 2019",
 "country": "AR",
+"startDate": "2019-05-03",
 "webId": "CasalCatalunyaBairesOpen2019"
 },
 {
 "id": 5861,
 "name": "Fraser Valley Spring Open 2019",
 "country": "CA",
+"startDate": "2019-05-04",
 "webId": "FraserValleySpringOpen2019"
 },
 {
 "id": 5864,
 "name": "Koalafication Adelaide 2019",
 "country": "AU",
+"startDate": "2019-05-04",
 "webId": "KoalaficationAdelaide2019"
 },
 {
 "id": 5866,
 "name": "Puget Sound Spring 2019",
 "country": "US",
+"startDate": "2019-05-04",
 "webId": "PugetSoundSpring2019"
 },
 {
 "id": 5871,
 "name": "Etna Open 2019",
 "country": "IT",
+"startDate": "2019-05-04",
 "webId": "EtnaOpen2019"
 },
 {
 "id": 5873,
 "name": "Luga Open 2019",
 "country": "RU",
+"startDate": "2019-05-04",
 "webId": "LugaOpen2019"
 },
 {
 "id": 5874,
 "name": "Perm Open 2019",
 "country": "RU",
+"startDate": "2019-05-04",
 "webId": "PermOpen2019"
 },
 {
 "id": 5883,
 "name": "Lincoln City 2019",
 "country": "US",
+"startDate": "2019-05-11",
 "webId": "LincolnCity2019"
 },
 {
 "id": 5885,
 "name": "Brno Open 2019",
 "country": "CZ",
+"startDate": "2019-05-11",
 "webId": "BrnoOpen2019"
 },
 {
 "id": 5886,
 "name": "Brugge Open 2019",
 "country": "BE",
+"startDate": "2019-05-11",
 "webId": "BruggeOpen2019"
 },
 {
 "id": 5888,
 "name": "Hessen Open 2019",
 "country": "DE",
+"startDate": "2019-05-11",
 "webId": "HessenOpen2019"
 },
 {
 "id": 5892,
 "name": "London Open 2019",
 "country": "GB",
+"startDate": "2019-05-11",
 "webId": "LondonOpen2019"
 },
 {
 "id": 5893,
 "name": "Play Cube X4 2019",
 "country": "KR",
+"startDate": "2019-05-11",
 "webId": "PlayCubeX42019"
 },
 {
 "id": 5898,
 "name": "Arnold Classic Africa 2019",
 "country": "ZA",
+"startDate": "2019-05-17",
 "webId": "ArnoldClassicAfrica2019"
 },
 {
 "id": 5908,
 "name": "Rodo Open 2019",
 "country": "PT",
+"startDate": "2019-05-18",
 "webId": "RodoOpen2019"
 },
 {
 "id": 5910,
 "name": "Arena BSB de Cubo Mágico 2019",
 "country": "BR",
+"startDate": "2019-05-18",
 "webId": "ArenaBSBdeCuboMagico2019"
 },
 {
 "id": 5911,
 "name": "Elsass Open 2019",
 "country": "FR",
+"startDate": "2019-05-18",
 "webId": "ElsassOpen2019"
 },
 {
 "id": 5913,
 "name": "Koalafication Melbourne 2019",
 "country": "AU",
+"startDate": "2019-05-18",
 "webId": "KoalaficationMelbourne2019"
 },
 {
 "id": 5914,
 "name": "National Capital Region 2019",
 "country": "CA",
+"startDate": "2019-05-18",
 "webId": "NationalCapitalRegion2019"
 },
 {
 "id": 5915,
 "name": "Ural Spring 2019",
 "country": "RU",
+"startDate": "2019-05-18",
 "webId": "UralSpring2019"
 },
 {
 "id": 5918,
 "name": "Zurich Open 2019",
 "country": "CH",
+"startDate": "2019-05-18",
 "webId": "ZurichOpen2019"
 },
 {
 "id": 5925,
 "name": "CubingUSA Great Lakes Championship 2019",
 "country": "US",
+"startDate": "2019-05-24",
 "webId": "GreatLakesChampionship2019"
 },
 {
 "id": 5926,
 "name": "Myyrmäki Summer Challenge 2019",
 "country": "FI",
+"startDate": "2019-05-24",
 "webId": "MyyrmakiSummerChallenge2019"
 },
 {
 "id": 5934,
 "name": "Roskilde by Night 2019",
 "country": "DK",
+"startDate": "2019-05-25",
 "webId": "RoskildeByNight2019"
 },
 {
 "id": 5937,
 "name": "Atoutcubes Open 2019",
 "country": "FR",
+"startDate": "2019-05-25",
 "webId": "AtoutcubesOpen2019"
 },
 {
 "id": 5938,
 "name": "Banja Luka Open 2019",
 "country": "BA",
+"startDate": "2019-05-25",
 "webId": "BanjaLukaOpen2019"
 },
 {
 "id": 5941,
 "name": "Koalafication Perth 2019",
 "country": "AU",
+"startDate": "2019-05-25",
 "webId": "KoalaficationPerth2019"
 },
 {
 "id": 5943,
 "name": "Peach State 2019",
 "country": "US",
+"startDate": "2019-05-25",
 "webId": "PeachState2019"
 },
 {
 "id": 5944,
 "name": "Please Be Solved Vancouver 2019",
 "country": "CA",
+"startDate": "2019-05-25",
 "webId": "PleaseBeSolvedVancouver2019"
 },
 {
 "id": 5953,
 "name": "Swedish Championship 2019",
 "country": "SE",
+"startDate": "2019-05-30",
 "webId": "SwedishChampionship2019"
 },
 {
 "id": 5959,
 "name": "Reiwa Anniversary 2019",
 "country": "JP",
+"startDate": "2019-06-01",
 "webId": "ReiwaAnniversary2019"
 },
 {
 "id": 5969,
 "name": "Polish Speedcubing Tour Nowa Słupia 2019",
 "country": "PL",
+"startDate": "2019-06-01",
 "webId": "PSTNowaSlupia2019"
 },
 {
 "id": 5970,
 "name": "Tuzo Clásico 2019",
 "country": "MX",
+"startDate": "2019-06-01",
 "webId": "TuzoClasico2019"
 },
 {
 "id": 5979,
 "name": "Murcia 2019",
 "country": "ES",
+"startDate": "2019-06-08",
 "webId": "Murcia2019"
 },
 {
 "id": 5980,
 "name": "Big Bang Open 2019",
 "country": "GT",
+"startDate": "2019-06-08",
 "webId": "BigBangOpen2019"
 },
 {
 "id": 5981,
 "name": "Breda Open 2019",
 "country": "NL",
+"startDate": "2019-06-08",
 "webId": "BredaOpen2019"
 },
 {
 "id": 5982,
 "name": "GLS Cup II 2019",
 "country": "PL",
+"startDate": "2019-06-08",
 "webId": "GLSCupII2019"
 },
 {
 "id": 5983,
 "name": "High Wycombe Open 2019",
 "country": "GB",
+"startDate": "2019-06-08",
 "webId": "HighWycombeOpen2019"
 },
 {
 "id": 5985,
 "name": "Oficina Open 2019",
 "country": "BR",
+"startDate": "2019-06-08",
 "webId": "OficinaOpen2019"
 },
 {
 "id": 5992,
 "name": "Swiss Nationals 2019",
 "country": "CH",
+"startDate": "2019-06-08",
 "webId": "SwissNationals2019"
 },
 {
 "id": 6004,
 "name": "Utah's California Gull Extravaganza 2019",
 "country": "US",
+"startDate": "2019-06-15",
 "webId": "UtahsCGE2019"
 },
 {
 "id": 6007,
 "name": "FMC 2019",
 "country": "XW",
+"startDate": "2019-06-15",
 "webId": "FMC2019"
 },
 {
 "id": 6008,
 "name": "Malaysia 10th Anniversary Cube Open 2019",
 "country": "MY",
+"startDate": "2019-06-15",
 "webId": "Malaysia10thCubeOpen2019"
 },
 {
 "id": 6013,
 "name": "Hem MariCubik Open 2019",
 "country": "FR",
+"startDate": "2019-06-16",
 "webId": "HemMariCubikOpen2019"
 },
 {
 "id": 6014,
 "name": "Parla Open 2019",
 "country": "ES",
+"startDate": "2019-06-16",
 "webId": "ParlaOpen2019"
 },
 {
 "id": 6022,
 "name": "Newmarket Open 2019",
 "country": "CA",
+"startDate": "2019-06-22",
 "webId": "NewmarketOpen2019"
 },
 {
 "id": 6025,
 "name": "Santa Fe Invierno 2019",
 "country": "AR",
+"startDate": "2019-06-22",
 "webId": "SantaFeInvierno2019"
 },
 {
 "id": 6027,
 "name": "Tokai Open 2019",
 "country": "JP",
+"startDate": "2019-06-22",
 "webId": "TokaiOpen2019"
 },
 {
 "id": 6028,
 "name": "Belgian Solstice 2019",
 "country": "BE",
+"startDate": "2019-06-22",
 "webId": "BelgianSolstice2019"
 },
 {
 "id": 6029,
 "name": "Bulldog Qualifier 2019",
 "country": "US",
+"startDate": "2019-06-22",
 "webId": "BulldogQualifier2019"
 },
 {
 "id": 6030,
 "name": "CCC Qualification Barnaul 2019",
 "country": "RU",
+"startDate": "2019-06-22",
 "webId": "CCCQualificationBarnaul2019"
 },
 {
 "id": 6032,
 "name": "CubingUSA Western Championship 2019",
 "country": "US",
+"startDate": "2019-06-22",
 "webId": "WesternChampionship2019"
 },
 {
 "id": 6034,
 "name": "Irish Championship 2019",
 "country": "IE",
+"startDate": "2019-06-22",
 "webId": "IrishChampionship2019"
 },
 {
 "id": 6036,
 "name": "Minnesota Qualifier 2019",
 "country": "US",
+"startDate": "2019-06-22",
 "webId": "MinnesotaQualifier2019"
 },
 {
 "id": 6037,
 "name": "Northern Virginia Summer 2019",
 "country": "US",
+"startDate": "2019-06-22",
 "webId": "NorthernVirginiaSummer2019"
 },
 {
 "id": 6038,
 "name": "Rhein-Neckar Open 2019",
 "country": "DE",
+"startDate": "2019-06-22",
 "webId": "RheinNeckarOpen2019"
 },
 {
 "id": 6040,
 "name": "Swedish Decathlon Challenge 2019",
 "country": "SE",
+"startDate": "2019-06-22",
 "webId": "SwedishDecathlonChallenge2019"
 },
 {
 "id": 6042,
 "name": "Medan Farewell 2019",
 "country": "ID",
+"startDate": "2019-06-22",
 "webId": "MedanFarewell2019"
 },
 {
 "id": 6045,
 "name": "Cubing Semey Open 2019",
 "country": "KZ",
+"startDate": "2019-06-28",
 "webId": "CubingSemeyOpen2019"
 },
 {
 "id": 6051,
 "name": "Downtown Vancouver Summer 2019",
 "country": "CA",
+"startDate": "2019-06-29",
 "webId": "DowntownVancouverSummer2019"
 },
 {
 "id": 6056,
 "name": "Star Cubing Nijmegen 2019",
 "country": "NL",
+"startDate": "2019-06-29",
 "webId": "StarCubingNijmegen2019"
 },
 {
 "id": 6058,
 "name": "British Summer Open 2019",
 "country": "GB",
+"startDate": "2019-06-29",
 "webId": "BritishSummerOpen2019"
 },
 {
 "id": 6059,
 "name": "Good Old Days Ankara 2019",
 "country": "TR",
+"startDate": "2019-06-29",
 "webId": "GoodOldDaysAnkara2019"
 },
 {
 "id": 6061,
 "name": "NTU Open 2019",
 "country": "SG",
+"startDate": "2019-06-29",
 "webId": "NTUOpen2019"
 },
 {
 "id": 6062,
 "name": "Outokumpu Open 2019",
 "country": "FI",
+"startDate": "2019-06-29",
 "webId": "OutokumpuOpen2019"
 },
 {
 "id": 6064,
 "name": "Swisscubing Cup III 2019",
 "country": "CH",
+"startDate": "2019-06-29",
 "webId": "SwisscubingCupIII2019"
 },
 {
 "id": 6076,
 "name": "Celebes Open 2019",
 "country": "ID",
+"startDate": "2019-07-06",
 "webId": "CelebesOpen2019"
 },
 {
 "id": 6077,
 "name": "Cheste 2019",
 "country": "ES",
+"startDate": "2019-07-06",
 "webId": "Cheste2019"
 },
 {
 "id": 6082,
 "name": "Uberlândia Open 2019",
 "country": "BR",
+"startDate": "2019-07-06",
 "webId": "UberlandiaOpen2019"
 },
 {
 "id": 6087,
 "name": "Linfen Open 2019",
 "country": "CN",
+"startDate": "2019-07-07",
 "webId": "LinfenOpen2019"
 },
 {
 "id": 6090,
 "name": "WCA World Championship 2019",
 "country": "AU",
+"startDate": "2019-07-11",
 "webId": "WC2019"
 },
 {
 "id": 6098,
 "name": "Archena Open 2019",
 "country": "ES",
+"startDate": "2019-07-13",
 "webId": "ArchenaOpen2019"
 },
 {
 "id": 6099,
 "name": "Cubing Heredia 2019",
 "country": "CR",
+"startDate": "2019-07-13",
 "webId": "CubingHeredia2019"
 },
 {
 "id": 6105,
 "name": "Gdańsk Cubing Summer Camp 2019",
 "country": "PL",
+"startDate": "2019-07-15",
 "webId": "GdanskCubingSummerCamp2019"
 },
 {
 "id": 6107,
 "name": "NSK Cubing Fest 2019",
 "country": "RU",
+"startDate": "2019-07-19",
 "webId": "NSKCubingFest2019"
 },
 {
 "id": 6109,
 "name": "3rd Coast Cubing 2019",
 "country": "US",
+"startDate": "2019-07-20",
 "webId": "3rdCoastCubing2019"
 },
 {
 "id": 6115,
 "name": "Cube Camp in Wonju 2019",
 "country": "KR",
+"startDate": "2019-07-20",
 "webId": "CubeCampinWonju2019"
 },
 {
 "id": 6116,
 "name": "Cubo Uai Belo Horizonte Open 2019",
 "country": "BR",
+"startDate": "2019-07-20",
 "webId": "CuboUaiBHOpen2019"
 },
 {
 "id": 6122,
 "name": "La Silla 2019",
 "country": "MX",
+"startDate": "2019-07-20",
 "webId": "LaSilla2019"
 },
 {
 "id": 6129,
 "name": "Canadian Championship 2019",
 "country": "CA",
+"startDate": "2019-07-26",
 "webId": "CanadianChampionship2019"
 },
 {
 "id": 6130,
 "name": "China Championship 2019",
 "country": "CN",
+"startDate": "2019-07-26",
 "webId": "ChinaChampionship2019"
 },
 {
 "id": 6132,
 "name": "BeCubed Summer 2019",
 "country": "US",
+"startDate": "2019-07-27",
 "webId": "BeCubedSummer2019"
 },
 {
 "id": 6135,
 "name": "Jordan Open 2019",
 "country": "JO",
+"startDate": "2019-07-27",
 "webId": "JordanOpen2019"
 },
 {
 "id": 6136,
 "name": "Kurukuru Summer 2019",
 "country": "JP",
+"startDate": "2019-07-27",
 "webId": "KurukuruSummer2019"
 },
 {
 "id": 6142,
 "name": "Big Cubes Sofia 2019",
 "country": "BG",
+"startDate": "2019-07-27",
 "webId": "BigCubesSofia2019"
 },
 {
 "id": 6147,
 "name": "Leeds Open 2019",
 "country": "GB",
+"startDate": "2019-07-27",
 "webId": "LeedsOpen2019"
 },
 {
 "id": 6148,
 "name": "Mestre Álvaro 2019",
 "country": "BR",
+"startDate": "2019-07-27",
 "webId": "MestreAlvaro2019"
 },
 {
 "id": 6150,
 "name": "Planeta do Saber 2.0 2019",
 "country": "BR",
+"startDate": "2019-07-27",
 "webId": "PlanetadoSaber202019"
 },
 {
 "id": 6151,
 "name": "Puy de Dôme Open 2019",
 "country": "FR",
+"startDate": "2019-07-27",
 "webId": "PuydeDomeOpen2019"
 },
 {
 "id": 6152,
 "name": "Quijote Open 2019",
 "country": "ES",
+"startDate": "2019-07-27",
 "webId": "QuijoteOpen2019"
 },
 {
 "id": 6154,
 "name": "SSN Cube Open 2019",
 "country": "IN",
+"startDate": "2019-07-27",
 "webId": "SSNCubeOpen2019"
 },
 {
 "id": 6160,
 "name": "CubingUSA Nationals 2019",
 "country": "US",
+"startDate": "2019-08-01",
 "webId": "CubingUSANationals2019"
 },
 {
 "id": 6161,
 "name": "German Nationals 2019",
 "country": "DE",
+"startDate": "2019-08-02",
 "webId": "GermanNationals2019"
 },
 {
 "id": 6163,
 "name": "Colégio Asther Open 2019",
 "country": "BR",
+"startDate": "2019-08-03",
 "webId": "ColegioAstherOpen2019"
 },
 {
 "id": 6171,
 "name": "SSL 3 Varberg 2019",
 "country": "SE",
+"startDate": "2019-08-03",
 "webId": "SSL3Varberg2019"
 },
 {
 "id": 6178,
 "name": "Michigan 2019",
 "country": "US",
+"startDate": "2019-08-09",
 "webId": "Michigan2019"
 },
 {
 "id": 6181,
 "name": "Puget Sound Summer 2019",
 "country": "US",
+"startDate": "2019-08-10",
 "webId": "PugetSoundSummer2019"
 },
 {
 "id": 6184,
 "name": "GLS Cup III 2019",
 "country": "PL",
+"startDate": "2019-08-10",
 "webId": "GLSCupIII2019"
 },
 {
 "id": 6186,
 "name": "Jönköping Side Events 2019",
 "country": "SE",
+"startDate": "2019-08-10",
 "webId": "JonkopingSideEvents2019"
 },
 {
 "id": 6187,
 "name": "LYN Cubing Days 2019",
 "country": "CH",
+"startDate": "2019-08-10",
 "webId": "LYNCubingDays2019"
 },
 {
 "id": 6190,
 "name": "Sens Open 2019",
 "country": "FR",
+"startDate": "2019-08-10",
 "webId": "SensOpen2019"
 },
 {
 "id": 6196,
 "name": "Cube Camp in Kanazawa 2019",
 "country": "JP",
+"startDate": "2019-08-10",
 "webId": "CubeCampinKanazawa2019"
 },
 {
 "id": 6201,
 "name": "Hoogland Open 2019",
 "country": "NL",
+"startDate": "2019-08-16",
 "webId": "HooglandOpen2019"
 },
 {
 "id": 6202,
 "name": "Indiana 2019",
 "country": "US",
+"startDate": "2019-08-16",
 "webId": "Indiana2019"
 },
 {
 "id": 6203,
 "name": "Indonesian Championship 2019",
 "country": "ID",
+"startDate": "2019-08-16",
 "webId": "IndonesianChampionship2019"
 },
 {
 "id": 6204,
 "name": "Korean Championship 2019",
 "country": "KR",
+"startDate": "2019-08-16",
 "webId": "KoreanChampionship2019"
 },
 {
 "id": 6205,
 "name": "Peru Nationals 2019",
 "country": "PE",
+"startDate": "2019-08-16",
 "webId": "PeruNationals2019"
 },
 {
 "id": 6207,
 "name": "Fão Cube Open 2019",
 "country": "PT",
+"startDate": "2019-08-17",
 "webId": "FaoCubeOpen2019"
 },
 {
 "id": 6208,
 "name": "Gaston Toe Twiddling 2019",
 "country": "US",
+"startDate": "2019-08-17",
 "webId": "GastonToeTwiddling2019"
 },
 {
 "id": 6210,
 "name": "Østerhøj Open 2019",
 "country": "DK",
+"startDate": "2019-08-17",
 "webId": "OsterhojOpen2019"
 },
 {
 "id": 6214,
 "name": "Brasília Winter 2019",
 "country": "BR",
+"startDate": "2019-08-17",
 "webId": "BrasiliaWinter2019"
 },
 {
 "id": 6220,
 "name": "Bay Area Speedcubin' 19 2019",
 "country": "US",
+"startDate": "2019-08-18",
 "webId": "BayAreaSpeedcubin192019"
 },
 {
 "id": 6225,
 "name": "Vancouver Big Cubes Open 2019",
 "country": "CA",
+"startDate": "2019-08-23",
 "webId": "VancouverBigCubesOpen2019"
 },
 {
 "id": 6226,
 "name": "Ukrainian Nationals 2019",
 "country": "UA",
+"startDate": "2019-08-23",
 "webId": "UkrainianNationals2019"
 },
 {
 "id": 6230,
 "name": "Cubing in the 6ix 2019",
 "country": "CA",
+"startDate": "2019-08-24",
 "webId": "Cubinginthe6ix2019"
 },
 {
 "id": 6231,
 "name": "Mishawaka Summer 2019",
 "country": "US",
+"startDate": "2019-08-24",
 "webId": "MishawakaSummer2019"
 },
 {
 "id": 6232,
 "name": "Project Jastrzębie-Zdrój 2019",
 "country": "PL",
+"startDate": "2019-08-24",
 "webId": "ProjectJastrzebieZdroj2019"
 },
 {
 "id": 6236,
 "name": "August Bank Holiday Celebration 2019",
 "country": "GB",
+"startDate": "2019-08-24",
 "webId": "ABHC2019"
 },
 {
 "id": 6238,
 "name": "CCC Qualification Saratov 2019",
 "country": "RU",
+"startDate": "2019-08-24",
 "webId": "CCCQualificationSaratov2019"
 },
 {
 "id": 6240,
 "name": "Eka Cube Days 2019",
 "country": "RU",
+"startDate": "2019-08-24",
 "webId": "EkaCubeDays2019"
 },
 {
 "id": 6244,
 "name": "Sabah Cube Open 2019",
 "country": "MY",
+"startDate": "2019-08-24",
 "webId": "SabahCubeOpen2019"
 },
 {
 "id": 6245,
 "name": "Shenzhen Cubing 10th Anniversary 2019",
 "country": "CN",
+"startDate": "2019-08-24",
 "webId": "Shenzhen10thAnniversary2019"
 },
 {
 "id": 6246,
 "name": "Swisscubing Cup IV 2019",
 "country": "CH",
+"startDate": "2019-08-24",
 "webId": "SwisscubingCupIV2019"
 },
 {
 "id": 6249,
 "name": "Xi'an 10th Anniversary 2019",
 "country": "CN",
+"startDate": "2019-08-24",
 "webId": "Xian10thAnniversary2019"
 },
 {
 "id": 6252,
 "name": "Harold Park Classic 2019",
 "country": "AU",
+"startDate": "2019-08-25",
 "webId": "HaroldParkClassic2019"
 },
 {
 "id": 6255,
 "name": "Yono Summer 2019",
 "country": "JP",
+"startDate": "2019-08-25",
 "webId": "YonoSummer2019"
 },
 {
 "id": 6256,
 "name": "Scuppernong Spectacular 2019",
 "country": "US",
+"startDate": "2019-08-30",
 "webId": "ScuppernongSpectacular2019"
 },
 {
 "id": 6257,
 "name": "AZCubing Summer 2019",
 "country": "US",
+"startDate": "2019-08-31",
 "webId": "AZCubingSummer2019"
 },
 {
 "id": 6262,
 "name": "Please Be Quiet Merdeka 2019",
 "country": "MY",
+"startDate": "2019-08-31",
 "webId": "PleaseBeQuietMerdeka2019"
 },
 {
 "id": 6267,
 "name": "Cubing in Cill Chainnigh 2019",
 "country": "IE",
+"startDate": "2019-08-31",
 "webId": "CubinginCillChainnigh2019"
 },
 {
 "id": 6269,
 "name": "Sofia Autumn 2019",
 "country": "BG",
+"startDate": "2019-08-31",
 "webId": "SofiaAutumn2019"
 },
 {
 "id": 6274,
 "name": "Kansai Summer 2019",
 "country": "JP",
+"startDate": "2019-09-01",
 "webId": "KansaiSummer2019"
 },
 {
 "id": 6280,
 "name": "Spokane Summer 2019",
 "country": "US",
+"startDate": "2019-09-07",
 "webId": "SpokaneSummer2019"
 },
 {
 "id": 6283,
 "name": "Champagne Open 2019",
 "country": "FR",
+"startDate": "2019-09-07",
 "webId": "ChampagneOpen2019"
 },
 {
 "id": 6284,
 "name": "IndalOpen 2019",
 "country": "ES",
+"startDate": "2019-09-07",
 "webId": "IndalOpen2019"
 },
 {
 "id": 6285,
 "name": "Road to IC - Monterotondo 2019",
 "country": "IT",
+"startDate": "2019-09-07",
 "webId": "RoadtoICMonterotondo2019"
 },
 {
 "id": 6288,
 "name": "Swiss Science Open 2019",
 "country": "CH",
+"startDate": "2019-09-07",
 "webId": "SwissScienceOpen2019"
 },
 {
 "id": 6295,
 "name": "Danish Open 2019",
 "country": "DK",
+"startDate": "2019-09-13",
 "webId": "DanishOpen2019"
 },
 {
 "id": 6296,
 "name": "Norrkubing 2019",
 "country": "SE",
+"startDate": "2019-09-13",
 "webId": "Norrkubing2019"
 },
 {
 "id": 6298,
 "name": "Battle of Waterloo 2019",
 "country": "CA",
+"startDate": "2019-09-14",
 "webId": "BattleofWaterloo2019"
 },
 {
 "id": 6301,
 "name": "Iasi Back To Cubing 2019",
 "country": "RO",
+"startDate": "2019-09-14",
 "webId": "IasiBackToCubing2019"
 },
 {
 "id": 6305,
 "name": "Slow N Steady Summer 2019",
 "country": "US",
+"startDate": "2019-09-14",
 "webId": "SlowNSteadySummer2019"
 },
 {
 "id": 6308,
 "name": "CC El Muelle Open 2019",
 "country": "ES",
+"startDate": "2019-09-14",
 "webId": "CCElMuelleOpen2019"
 },
 {
 "id": 6309,
 "name": "Festival Cubero WSC 2019",
 "country": "CO",
+"startDate": "2019-09-14",
 "webId": "FestivalCuberoWSC2019"
 },
 {
 "id": 6310,
 "name": "Manaus Cubo Plaza Open II 2019",
 "country": "BR",
+"startDate": "2019-09-14",
 "webId": "ManausCuboPlazaOpenII2019"
 },
 {
 "id": 6311,
 "name": "Mental Breakdown Germany 2019",
 "country": "DE",
+"startDate": "2019-09-14",
 "webId": "MentalBreakdownGermany2019"
 },
 {
 "id": 6312,
 "name": "Ramenskoe Open 2019",
 "country": "RU",
+"startDate": "2019-09-14",
 "webId": "RamenskoeOpen2019"
 },
 {
 "id": 6313,
 "name": "Yongjun Jakarta Speedcubing 2019",
 "country": "ID",
+"startDate": "2019-09-14",
 "webId": "YongjunJakartaSpeedcubing2019"
 },
 {
 "id": 6316,
 "name": "Merdeka Mind Games 2019",
 "country": "MY",
+"startDate": "2019-09-16",
 "webId": "MerdekaMindGames2019"
 },
 {
 "id": 6318,
 "name": "Hungarian Open 2019",
 "country": "HU",
+"startDate": "2019-09-20",
 "webId": "HungarianOpen2019"
 },
 {
 "id": 6321,
 "name": "Gold Coast Spring 2019",
 "country": "AU",
+"startDate": "2019-09-21",
 "webId": "GoldCoastSpring2019"
 },
 {
 "id": 6323,
 "name": "III Masovian Open 2019",
 "country": "PL",
+"startDate": "2019-09-21",
 "webId": "IIIMasovianOpen2019"
 },
 {
 "id": 6332,
 "name": "Arnold Classic Europe 2019",
 "country": "ES",
+"startDate": "2019-09-21",
 "webId": "ArnoldClassicEurope2019"
 },
 {
 "id": 6333,
 "name": "Ayase Autumn 2019",
 "country": "JP",
+"startDate": "2019-09-21",
 "webId": "AyaseAutumn2019"
 },
 {
 "id": 6335,
 "name": "Dutch Nationals 2019",
 "country": "NL",
+"startDate": "2019-09-21",
 "webId": "DutchNationals2019"
 },
 {
 "id": 6339,
 "name": "Monnem City Cubing 2019",
 "country": "DE",
+"startDate": "2019-09-21",
 "webId": "MonnemCityCubing2019"
 },
 {
 "id": 6340,
 "name": "Road to IC - Bologna 2019",
 "country": "IT",
+"startDate": "2019-09-21",
 "webId": "RoadtoICBologna2019"
 },
 {
 "id": 6341,
 "name": "Schoolmark Open 2019",
 "country": "BR",
+"startDate": "2019-09-21",
 "webId": "SchoolmarkOpen2019"
 },
 {
 "id": 6343,
 "name": "Tassin-la-Demi-Cube Open 2019",
 "country": "FR",
+"startDate": "2019-09-21",
 "webId": "TassinlaDemiCubeOpen2019"
 },
 {
 "id": 6344,
 "name": "UPM Open 2019",
 "country": "ES",
+"startDate": "2019-09-21",
 "webId": "UPMOpen2019"
 },
 {
 "id": 6345,
 "name": "Tohoku 2019",
 "country": "JP",
+"startDate": "2019-09-22",
 "webId": "Tohoku2019"
 },
 {
 "id": 6353,
 "name": "HLC Cube Challenge 2019",
 "country": "IN",
+"startDate": "2019-09-28",
 "webId": "HLCCubeChallenge2019"
 },
 {
 "id": 6356,
 "name": "Santa Barbara Fall 2019",
 "country": "US",
+"startDate": "2019-09-28",
 "webId": "SantaBarbaraFall2019"
 },
 {
 "id": 6358,
 "name": "Belgian Open 2019",
 "country": "BE",
+"startDate": "2019-09-28",
 "webId": "BelgianOpen2019"
 },
 {
 "id": 6363,
 "name": "Fortitude Sydney 2019",
 "country": "AU",
+"startDate": "2019-09-28",
 "webId": "FortitudeSydney2019"
 },
 {
 "id": 6365,
 "name": "ICHB Back To School 2019",
 "country": "RO",
+"startDate": "2019-09-28",
 "webId": "ICHBBackToSchool2019"
 },
 {
 "id": 6367,
 "name": "Prebold Open 2019",
 "country": "SI",
+"startDate": "2019-09-28",
 "webId": "PreboldOpen2019"
 },
 {
 "id": 6368,
 "name": "Santa Fe Primavera 2019",
 "country": "AR",
+"startDate": "2019-09-28",
 "webId": "SantaFePrimavera2019"
 },
 {
 "id": 6369,
 "name": "Sioux Fall 2019",
 "country": "US",
+"startDate": "2019-09-28",
 "webId": "SiouxFall2019"
 },
 {
 "id": 6371,
 "name": "Ural Autumn 2019",
 "country": "RU",
+"startDate": "2019-09-28",
 "webId": "UralAutumn2019"
 },
 {
 "id": 6372,
 "name": "Westcoast Woodvale Weekends 2019",
 "country": "AU",
+"startDate": "2019-09-28",
 "webId": "WestcoastWoodvaleWeekends2019"
 },
 {
 "id": 6377,
 "name": "Shandong Open 2019",
 "country": "CN",
+"startDate": "2019-10-04",
 "webId": "ShandongOpen2019"
 },
 {
 "id": 6380,
 "name": "Chilliwack Cubes Fall 2019",
 "country": "CA",
+"startDate": "2019-10-05",
 "webId": "ChilliwackCubesFall2019"
 },
 {
 "id": 6385,
 "name": "Oklahoma Fall 2019",
 "country": "US",
+"startDate": "2019-10-05",
 "webId": "OklahomaFall2019"
 },
 {
 "id": 6389,
 "name": "Altona Algorithms 2019",
 "country": "AU",
+"startDate": "2019-10-05",
 "webId": "AltonaAlgorithms2019"
 },
 {
 "id": 6390,
 "name": "Bodocó Open 2019",
 "country": "BR",
+"startDate": "2019-10-05",
 "webId": "Bodoco2019"
 },
 {
 "id": 6398,
 "name": "Värnamo Cube Days 2019",
 "country": "SE",
+"startDate": "2019-10-05",
 "webId": "VarnamoCubeDays2019"
 },
 {
 "id": 6405,
 "name": "Spanish Championship 2019",
 "country": "ES",
+"startDate": "2019-10-11",
 "webId": "SpanishChampionship2019"
 },
 {
 "id": 6407,
 "name": "Beaconhouse Malaysia Cube Open 2019",
 "country": "MY",
+"startDate": "2019-10-12",
 "webId": "BeaconhouseMalaysiaCubeOpen2019"
 },
 {
 "id": 6414,
 "name": "Solving Hunger Virginia 2019",
 "country": "US",
+"startDate": "2019-10-12",
 "webId": "SolvingHungerVirginia2019"
 },
 {
 "id": 6419,
 "name": "Dutch Open 2019",
 "country": "NL",
+"startDate": "2019-10-12",
 "webId": "DutchOpen2019"
 },
 {
 "id": 6421,
 "name": "Franconia Fall 2019",
 "country": "DE",
+"startDate": "2019-10-12",
 "webId": "FranconiaFall2019"
 },
 {
 "id": 6422,
 "name": "KubeKids Vila Velha 2019",
 "country": "BR",
+"startDate": "2019-10-12",
 "webId": "KubeKidsVilaVelha2019"
 },
 {
 "id": 6426,
 "name": "Daegu Autumn Open 2019",
 "country": "KR",
+"startDate": "2019-10-13",
 "webId": "DaeguAutumnOpen2019"
 },
 {
 "id": 6436,
 "name": "Etec Cubatão 2019",
 "country": "BR",
+"startDate": "2019-10-19",
 "webId": "EtecCubatao2019"
 },
 {
 "id": 6440,
 "name": "Oregon State Favorites 2019",
 "country": "US",
+"startDate": "2019-10-19",
 "webId": "OregonStateFavorites2019"
 },
 {
 "id": 6443,
 "name": "Shanghai Open 2019",
 "country": "CN",
+"startDate": "2019-10-19",
 "webId": "ShanghaiOpen2019"
 },
 {
 "id": 6446,
 "name": "Trois-Rivieres 2019",
 "country": "CA",
+"startDate": "2019-10-19",
 "webId": "TroisRivieres2019"
 },
 {
 "id": 6450,
 "name": "Paris Open 2019",
 "country": "FR",
+"startDate": "2019-10-19",
 "webId": "ParisOpen2019"
 },
 {
 "id": 6451,
 "name": "Road to IC - Milano 2019",
 "country": "IT",
+"startDate": "2019-10-19",
 "webId": "RoadtoICMilano2019"
 },
 {
 "id": 6454,
 "name": "Swisscubing Cup V 2019",
 "country": "CH",
+"startDate": "2019-10-19",
 "webId": "SwisscubingCupV2019"
 },
 {
 "id": 6456,
 "name": "Cape Town Spring 2019",
 "country": "ZA",
+"startDate": "2019-10-20",
 "webId": "CapeTownSpring2019"
 },
 {
 "id": 6457,
 "name": "Kyoto Open 2019",
 "country": "JP",
+"startDate": "2019-10-20",
 "webId": "KyotoOpen2019"
 },
 {
 "id": 6463,
 "name": "Copper Country Cubing Fall 2019",
 "country": "US",
+"startDate": "2019-10-25",
 "webId": "CopperCountryCubingFall2019"
 },
 {
 "id": 6464,
 "name": "UK Championship 2019",
 "country": "GB",
+"startDate": "2019-10-25",
 "webId": "UKChampionship2019"
 },
 {
 "id": 6472,
 "name": "CCC Qualification Tyumen 2019",
 "country": "RU",
+"startDate": "2019-10-26",
 "webId": "CCCQualificationTyumen2019"
 },
 {
 "id": 6477,
 "name": "German Big Cube Open 2019",
 "country": "DE",
+"startDate": "2019-10-26",
 "webId": "GermanBigCubeOpen2019"
 },
 {
 "id": 6482,
 "name": "Seraing Open 2019",
 "country": "BE",
+"startDate": "2019-10-26",
 "webId": "SeraingOpen2019"
 },
 {
 "id": 6483,
 "name": "Arena Bernô 2 City FM 2019",
 "country": "BR",
+"startDate": "2019-10-27",
 "webId": "ArenaBerno2CityFM2019"
 },
 {
 "id": 6487,
 "name": "Tver EaZyCube Race 2019",
 "country": "RU",
+"startDate": "2019-10-27",
 "webId": "TverEaZyCubeRace2019"
 },
 {
 "id": 6489,
 "name": "Music City Speedsolving 2019",
 "country": "US",
+"startDate": "2019-11-01",
 "webId": "MusicCitySpeedsolving2019"
 },
 {
 "id": 6490,
 "name": "Cube An Dro 2019",
 "country": "FR",
+"startDate": "2019-11-01",
 "webId": "CubeAnDro2019"
 },
 {
 "id": 6491,
 "name": "Italian Championship 2019",
 "country": "IT",
+"startDate": "2019-11-01",
 "webId": "ItalianChampionship2019"
 },
 {
 "id": 6493,
 "name": "Bacau Cubing Fall 2019",
 "country": "RO",
+"startDate": "2019-11-02",
 "webId": "BacauCubingFall2019"
 },
 {
 "id": 6495,
 "name": "Boise 2019",
 "country": "US",
+"startDate": "2019-11-02",
 "webId": "Boise2019"
 },
 {
 "id": 6497,
 "name": "Burke Mountain Fall 2019",
 "country": "US",
+"startDate": "2019-11-02",
 "webId": "BurkeMountainFall2019"
 },
 {
 "id": 6500,
 "name": "South Surrey Side Events 2019",
 "country": "CA",
+"startDate": "2019-11-02",
 "webId": "SouthSurreySideEvents2019"
 },
 {
 "id": 6503,
 "name": "Every Event Éire 2019",
 "country": "IE",
+"startDate": "2019-11-02",
 "webId": "EveryEventEire2019"
 },
 {
 "id": 6504,
 "name": "Kjeller Open 2019",
 "country": "NO",
+"startDate": "2019-11-02",
 "webId": "KjellerOpen2019"
 },
 {
 "id": 6505,
 "name": "Kubekings Villanueva Open 2019",
 "country": "ES",
+"startDate": "2019-11-02",
 "webId": "KubekingsVillanuevaOpen2019"
 },
 {
 "id": 6506,
 "name": "Munich Open 2019",
 "country": "DE",
+"startDate": "2019-11-02",
 "webId": "MunichOpen2019"
 },
 {
 "id": 6508,
 "name": "Smartcube Fest Kyiv 2019",
 "country": "UA",
+"startDate": "2019-11-02",
 "webId": "SmartcubeFestKyiv2019"
 },
 {
 "id": 6511,
 "name": "Japan Championship 2019",
 "country": "JP",
+"startDate": "2019-11-02",
 "webId": "JapanChampionship2019"
 },
 {
 "id": 6512,
 "name": "Cambodia Cubing Championship 2019",
 "country": "KH",
+"startDate": "2019-11-03",
 "webId": "CambodiaCubingChampionship2019"
 },
 {
 "id": 6519,
 "name": "OSU Blind Weekend 2019",
 "country": "US",
+"startDate": "2019-11-08",
 "webId": "OSUBlindWeekend2019"
 },
 {
 "id": 6523,
 "name": "Fort Worth Fall Fiesta 2019",
 "country": "US",
+"startDate": "2019-11-09",
 "webId": "FortWorthFallFiesta2019"
 },
 {
 "id": 6526,
 "name": "TJHSST Fall 2019",
 "country": "US",
+"startDate": "2019-11-09",
 "webId": "TJHSSTFall2019"
 },
 {
 "id": 6531,
 "name": "Flag City Fall 2019",
 "country": "US",
+"startDate": "2019-11-09",
 "webId": "FlagCityFall2019"
 },
 {
 "id": 6532,
 "name": "GLS Cup IV 2019",
 "country": "PL",
+"startDate": "2019-11-09",
 "webId": "GLSCupIV2019"
 },
 {
 "id": 6541,
 "name": "Xlingen Open 2019",
 "country": "CH",
+"startDate": "2019-11-09",
 "webId": "XlingenOpen2019"
 },
 {
 "id": 6542,
 "name": "Barby Cube 2019",
 "country": "FR",
+"startDate": "2019-11-09",
 "webId": "BarbyCube2019"
 },
 {
 "id": 6544,
 "name": "Odd Day in Sydney 2019",
 "country": "AU",
+"startDate": "2019-11-10",
 "webId": "OddDayinSydney2019"
 },
 {
 "id": 6545,
 "name": "Thailand Championship 2019",
 "country": "TH",
+"startDate": "2019-11-15",
 "webId": "ThailandChampionship2019"
 },
 {
 "id": 6546,
 "name": "Austin Fall 2019",
 "country": "US",
+"startDate": "2019-11-16",
 "webId": "AustinFall2019"
 },
 {
 "id": 6548,
 "name": "Bobcat Battle 2019",
 "country": "US",
+"startDate": "2019-11-16",
 "webId": "BobcatBattle2019"
 },
 {
 "id": 6555,
 "name": "SnoCo Fall 2019",
 "country": "US",
+"startDate": "2019-11-16",
 "webId": "SnoCoFall2019"
 },
 {
 "id": 6556,
 "name": "Cubes Masters Zhytomyr 2019",
 "country": "UA",
+"startDate": "2019-11-16",
 "webId": "CubesMastersZhytomyr2019"
 },
 {
 "id": 6557,
 "name": "Fuengirola Cubea 2019",
 "country": "ES",
+"startDate": "2019-11-16",
 "webId": "FuengirolaCubea2019"
 },
 {
 "id": 6561,
 "name": "Martorell Open 2019",
 "country": "ES",
+"startDate": "2019-11-16",
 "webId": "MartorellOpen2019"
 },
 {
 "id": 6568,
 "name": "VSVN Cube Open 2019",
 "country": "IN",
+"startDate": "2019-11-17",
 "webId": "VSVNCubeOpen2019"
 },
 {
 "id": 6571,
 "name": "Malaysia Cube Championship 2019",
 "country": "MY",
+"startDate": "2019-11-22",
 "webId": "MalaysiaCubeChampionship2019"
 },
 {
 "id": 6572,
 "name": "MPEI Open 2019",
 "country": "RU",
+"startDate": "2019-11-22",
 "webId": "MPEIOpen2019"
 },
 {
 "id": 6573,
 "name": "Nacionales Guatemala 2019",
 "country": "GT",
+"startDate": "2019-11-22",
 "webId": "NacionalesGuatemala2019"
 },
 {
 "id": 6574,
 "name": "Tårnby Cube Træf 2019",
 "country": "DK",
+"startDate": "2019-11-22",
 "webId": "TarnbyCubeTraef2019"
 },
 {
 "id": 6575,
 "name": "Carolina Clock 'Stravaganza 2019",
 "country": "US",
+"startDate": "2019-11-23",
 "webId": "CarolinaClockStravaganza2019"
 },
 {
 "id": 6577,
 "name": "III Project Warszawa 2019",
 "country": "PL",
+"startDate": "2019-11-23",
 "webId": "IIIProjectWarszawa2019"
 },
 {
 "id": 6578,
 "name": "Kansai Big Cubes 2019",
 "country": "JP",
+"startDate": "2019-11-23",
 "webId": "KansaiBigCubes2019"
 },
 {
 "id": 6580,
 "name": "Mississippi Capstone 2019",
 "country": "US",
+"startDate": "2019-11-23",
 "webId": "MississippiCapstone2019"
 },
 {
 "id": 6588,
 "name": "Baden-Württemberg Open 2019",
 "country": "DE",
+"startDate": "2019-11-23",
 "webId": "BadenWurttembergOpen2019"
 },
 {
 "id": 6592,
 "name": "I Hope It's Solved Edmonton 2 2019",
 "country": "CA",
+"startDate": "2019-11-23",
 "webId": "IHopeItsSolvedEDM22019"
 },
 {
 "id": 6593,
 "name": "Silent Swap São Paulo 2019",
 "country": "BR",
+"startDate": "2019-11-23",
 "webId": "SilentSwapSaoPaulo2019"
 },
 {
 "id": 6594,
 "name": "Weston-super-Mare Open 2019",
 "country": "GB",
+"startDate": "2019-11-23",
 "webId": "WestonsuperMareOpen2019"
 },
 {
 "id": 6598,
 "name": "Campeonato Brasileiro 2019",
 "country": "BR",
+"startDate": "2019-11-29",
 "webId": "CampeonatoBrasileiro2019"
 },
 {
 "id": 6599,
 "name": "Andorra 2019",
 "country": "AD",
+"startDate": "2019-11-30",
 "webId": "Andorra2019"
 },
 {
 "id": 6600,
 "name": "Cusco Speedcubing III 2019",
 "country": "PE",
+"startDate": "2019-11-30",
 "webId": "CuscoSpeedcubingIII2019"
 },
 {
 "id": 6605,
 "name": "Basauri Open 2019",
 "country": "ES",
+"startDate": "2019-11-30",
 "webId": "BasauriOpen2019"
 },
 {
 "id": 6606,
 "name": "Bremium Winter 2019",
 "country": "DE",
+"startDate": "2019-11-30",
 "webId": "BremiumWinter2019"
 },
 {
 "id": 6608,
 "name": "Kjeller Mental Breakdown 2019",
 "country": "NO",
+"startDate": "2019-11-30",
 "webId": "KjellerMentalBreakdown2019"
 },
 {
 "id": 6611,
 "name": "Bay Area Speedcubin' 21 2019",
 "country": "US",
+"startDate": "2019-12-01",
 "webId": "BayAreaSpeedcubin212019"
 },
 {
 "id": 6612,
 "name": "Lovech Winter 2019",
 "country": "BG",
+"startDate": "2019-12-01",
 "webId": "LovechWinter2019"
 },
 {
 "id": 6617,
 "name": "Santa Claus Cube Race Poland 2019",
 "country": "PL",
+"startDate": "2019-12-06",
 "webId": "SantaClausCubeRace2019"
 },
 {
 "id": 6619,
 "name": "Darwin Open 2019",
 "country": "AU",
+"startDate": "2019-12-07",
 "webId": "DarwinOpen2019"
 },
 {
 "id": 6620,
 "name": "FMC Asia 2019",
 "country": "XA",
+"startDate": "2019-12-07",
 "webId": "FMCAsia2019"
 },
 {
 "id": 6622,
 "name": "Puget Sound NxNxN 2019",
 "country": "US",
+"startDate": "2019-12-07",
 "webId": "PugetSoundNxNxN2019"
 },
 {
 "id": 6629,
 "name": "Frankivsk Open 2019",
 "country": "UA",
+"startDate": "2019-12-07",
 "webId": "FrankivskOpen2019"
 },
 {
 "id": 6633,
 "name": "Nacionales Argentinas 2019",
 "country": "AR",
+"startDate": "2019-12-07",
 "webId": "NacionalesArgentinas2019"
 },
 {
 "id": 6634,
 "name": "Pahang Cube Open 2019",
 "country": "MY",
+"startDate": "2019-12-07",
 "webId": "PahangCubeOpen2019"
 },
 {
 "id": 6635,
 "name": "Pittsburgh Fall 2019",
 "country": "US",
+"startDate": "2019-12-07",
 "webId": "PittsburghFall2019"
 },
 {
 "id": 6638,
 "name": "SSL Final Stockholm 2019",
 "country": "SE",
+"startDate": "2019-12-07",
 "webId": "SSLFinalStockholm2019"
 },
 {
 "id": 6639,
 "name": "Swisscubing Cup Final 2019",
 "country": "CH",
+"startDate": "2019-12-07",
 "webId": "SwisscubingCupFinal2019"
 },
 {
 "id": 6640,
 "name": "Ugine Jeu et Jouet 2019",
 "country": "FR",
+"startDate": "2019-12-07",
 "webId": "UgineJeuetJouet2019"
 },
 {
 "id": 6643,
 "name": "Rijswijk Open 2019",
 "country": "NL",
+"startDate": "2019-12-08",
 "webId": "RijswijkOpen2019"
 },
 {
 "id": 6657,
 "name": "OU Winter 2019",
 "country": "US",
+"startDate": "2019-12-14",
 "webId": "OUWinter2019"
 },
 {
 "id": 6661,
 "name": "Bernô Feet Friendship 2019",
 "country": "BR",
+"startDate": "2019-12-14",
 "webId": "BernoFeetFriendship2019"
 },
 {
 "id": 6663,
 "name": "Clact-On Socks Off 2019",
 "country": "GB",
+"startDate": "2019-12-14",
 "webId": "ClactOnSocksOff2019"
 },
 {
 "id": 6664,
 "name": "Cubing Zacatecas 2019",
 "country": "MX",
+"startDate": "2019-12-14",
 "webId": "CubingZacatecas2019"
 },
 {
 "id": 6667,
 "name": "Hobart Hoedown 2019",
 "country": "AU",
+"startDate": "2019-12-14",
 "webId": "HobartHoedown2019"
 },
 {
 "id": 6669,
 "name": "Mega Minnesota Winter 2019",
 "country": "US",
+"startDate": "2019-12-14",
 "webId": "MegaMinnesotaWinter2019"
 },
 {
 "id": 6673,
 "name": "Speedcub'Eirb Winter Open 2019",
 "country": "FR",
+"startDate": "2019-12-14",
 "webId": "SpeedcubEirbWinterOpen2019"
 },
 {
 "id": 6674,
 "name": "Sydney Open 2019",
 "country": "AU",
+"startDate": "2019-12-14",
 "webId": "SydneyOpen2019"
 },
 {
 "id": 6677,
 "name": "Tirol Open 2019",
 "country": "AT",
+"startDate": "2019-12-14",
 "webId": "TirolOpen2019"
 },
 {
 "id": 6688,
 "name": "Alicante Open 2019",
 "country": "ES",
+"startDate": "2019-12-21",
 "webId": "AlicanteOpen2019"
 },
 {
 "id": 6689,
 "name": "AZCubing Winter 2019",
 "country": "US",
+"startDate": "2019-12-21",
 "webId": "AZCubingWinter2019"
 },
 {
 "id": 6690,
 "name": "Bay Area Speedcubin' 22 2019",
 "country": "US",
+"startDate": "2019-12-21",
 "webId": "BayAreaSpeedcubin222019"
 },
 {
 "id": 6691,
 "name": "Cubers Eve Środa Wielkopolska 2019",
 "country": "PL",
+"startDate": "2019-12-21",
 "webId": "CubersEve2019"
 },
 {
 "id": 6692,
 "name": "Franconia X 2019",
 "country": "DE",
+"startDate": "2019-12-21",
 "webId": "FranconiaX2019"
 },
 {
 "id": 6703,
 "name": "Florida Winter Break 2019",
 "country": "US",
+"startDate": "2019-12-21",
 "webId": "FloridaWinterBreak2019"
 },
 {
 "id": 6709,
 "name": "Wiscube 2019",
 "country": "US",
+"startDate": "2019-12-21",
 "webId": "Wiscube2019"
 },
 {
 "id": 6710,
 "name": "2 Feet of Snow in Montreal 2019",
 "country": "CA",
+"startDate": "2019-12-22",
 "webId": "2FeetofSnowinMontreal2019"
 },
 {
 "id": 6711,
 "name": "Feet Challenge Ukraine 2019",
 "country": "UA",
+"startDate": "2019-12-22",
 "webId": "FeetChallengeUkraine2019"
 },
 {
 "id": 6719,
 "name": "Selangor Cube Open 2019",
 "country": "MY",
+"startDate": "2019-12-27",
 "webId": "SelangorCubeOpen2019"
 },
 {
 "id": 6720,
 "name": "Cubing Korea 2019",
 "country": "KR",
+"startDate": "2019-12-28",
 "webId": "CubingKorea2019"
 },
 {
 "id": 6722,
 "name": "Hiroshima Open 2019",
 "country": "JP",
+"startDate": "2019-12-28",
 "webId": "HiroshimaOpen2019"
 },
 {
 "id": 6726,
 "name": "Brasília Closing 2019",
 "country": "BR",
+"startDate": "2019-12-28",
 "webId": "BrasiliaClosing2019"
 },
 {
 "id": 6729,
 "name": "Surf Coast Cubing 2019",
 "country": "AU",
+"startDate": "2019-12-29",
 "webId": "SurfCoastCubing2019"
 },
 {
 "id": 6731,
 "name": "Small Cheese 2019",
 "country": "US",
+"startDate": "2019-12-30",
 "webId": "SmallCheese2019"
 },
 {
 "id": 6737,
 "name": "Charlotte Winter 2020",
 "country": "US",
+"startDate": "2020-01-04",
 "webId": "CharlotteWinter2020"
 },
 {
 "id": 6740,
 "name": "Södertälje New Year 2020",
 "country": "SE",
+"startDate": "2020-01-04",
 "webId": "SodertaljeNewYear2020"
 },
 {
 "id": 6742,
 "name": "GLS Gdynia 2020",
 "country": "PL",
+"startDate": "2020-01-04",
 "webId": "GLSGdynia2020"
 },
 {
 "id": 6743,
 "name": "Happy New Year Cubing Hoorn 2020",
 "country": "NL",
+"startDate": "2020-01-04",
 "webId": "HappyNewYearCubingHoorn2020"
 },
 {
 "id": 6745,
 "name": "Perth Puzzle Party 2020",
 "country": "AU",
+"startDate": "2020-01-04",
 "webId": "PerthPuzzleParty2020"
 },
 {
 "id": 6747,
 "name": "Salento Cubing Open 2020",
 "country": "IT",
+"startDate": "2020-01-04",
 "webId": "SalentoCubingOpen2020"
 },
 {
 "id": 6749,
 "name": "UBC Open 2020",
 "country": "CA",
+"startDate": "2020-01-04",
 "webId": "UBCOpen2020"
 },
 {
 "id": 6752,
 "name": "Adelaide Summer 2020",
 "country": "AU",
+"startDate": "2020-01-11",
 "webId": "AdelaideSummer2020"
 },
 {
 "id": 6755,
 "name": "Moldova Open 2020",
 "country": "MD",
+"startDate": "2020-01-11",
 "webId": "MoldovaOpen2020"
 },
 {
 "id": 6757,
 "name": "Potomac Speedcubing 2020",
 "country": "US",
+"startDate": "2020-01-11",
 "webId": "PotomacSpeedcubing2020"
 },
 {
 "id": 6758,
 "name": "Elisa Kulma Open 2020",
 "country": "FI",
+"startDate": "2020-01-11",
 "webId": "ElisaKulmaOpen2020"
 },
 {
 "id": 6765,
 "name": "Bay Area Speedcubin' 23 2020",
 "country": "US",
+"startDate": "2020-01-12",
 "webId": "BayAreaSpeedcubin232020"
 },
 {
 "id": 6766,
 "name": "DY Patil Cube Open 2020",
 "country": "IN",
+"startDate": "2020-01-12",
 "webId": "DYPatilCubeOpen2020"
 },
 {
 "id": 6772,
 "name": "UCSD Winter 2020",
 "country": "US",
+"startDate": "2020-01-18",
 "webId": "UCSDWinter2020"
 },
 {
 "id": 6773,
 "name": "Alberta 5th Anniversary 2020",
 "country": "CA",
+"startDate": "2020-01-18",
 "webId": "Alberta5thAnniversary2020"
 },
 {
 "id": 6774,
 "name": "Berlin Winter Cubing 2020",
 "country": "DE",
+"startDate": "2020-01-18",
 "webId": "BerlinWinterCubing2020"
 },
 {
 "id": 6775,
 "name": "Eka Cube Winter 2020",
 "country": "RU",
+"startDate": "2020-01-18",
 "webId": "EkaCubeWinter2020"
 },
 {
 "id": 6776,
 "name": "Guildford Open 2020",
 "country": "GB",
+"startDate": "2020-01-18",
 "webId": "GuildfordOpen2020"
 },
 {
 "id": 6777,
 "name": "Lima Cuberano 2020",
 "country": "PE",
+"startDate": "2020-01-18",
 "webId": "LimaCuberano2020"
 },
 {
 "id": 6779,
 "name": "Minx C-Open-hagen 2020",
 "country": "DK",
+"startDate": "2020-01-18",
 "webId": "MinxCOpenhagen2020"
 },
 {
 "id": 6781,
 "name": "Pequi Open 2020",
 "country": "BR",
+"startDate": "2020-01-18",
 "webId": "PequiOpen2020"
 },
 {
 "id": 6782,
 "name": "Regreso a Clases Bogotá 2020",
 "country": "CO",
+"startDate": "2020-01-18",
 "webId": "RegresoaClasesBogota2020"
 },
 {
 "id": 6784,
 "name": "Summer Kube Boulevard Vila Velha 2020",
 "country": "BR",
+"startDate": "2020-01-18",
 "webId": "SummerKubeVilaVelha2020"
 },
 {
 "id": 6789,
 "name": "Washington Championship 2020",
 "country": "US",
+"startDate": "2020-01-24",
 "webId": "WashingtonChampionship2020"
 },
 {
 "id": 6790,
 "name": "Helsinki Winter Special 2020",
 "country": "FI",
+"startDate": "2020-01-25",
 "webId": "HelsinkiWinterSpecial2020"
 },
 {
 "id": 6796,
 "name": "SacCubing IX 2020",
 "country": "US",
+"startDate": "2020-01-25",
 "webId": "SacCubingIX2020"
 },
 {
 "id": 6798,
 "name": "Melbourne Summer 2020",
 "country": "AU",
+"startDate": "2020-01-25",
 "webId": "MelbourneSummer2020"
 }
 ],
