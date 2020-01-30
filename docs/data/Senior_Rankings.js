@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-30 08:53:59",
+"refreshed": "2020-01-30 08:56:48",
 "events": [
 {
 "id": "333",
@@ -32823,6 +32823,12 @@ rankings =
 "competition": 5591
 },
 {
+"rank": 364,
+"id": "2018COPP02",
+"best": "23.20",
+"competition": 5179
+},
+{
 "rank": 366,
 "id": "2015LEVI01",
 "best": "23.43",
@@ -32943,11 +32949,11 @@ rankings =
 ],
 "estimate": 447,
 "missing": {
-"world": 231,
+"world": 230,
 "continents": {
 "AF": 3,
 "AS": 48,
-"EU": 86,
+"EU": 85,
 "NA": 73,
 "OC": 7,
 "SA": 18
@@ -32972,7 +32978,7 @@ rankings =
 "ES": 16,
 "FI": 1,
 "FR": 9,
-"GB": 2,
+"GB": 1,
 "GT": 0,
 "HR": 0,
 "HU": 1,
@@ -34673,6 +34679,12 @@ rankings =
 "competition": 1509
 },
 {
+"rank": 316,
+"id": "2018COPP02",
+"best": "28.19",
+"competition": 5179
+},
+{
 "rank": 326,
 "id": "2015LOPE29",
 "best": "29.10",
@@ -34846,11 +34858,11 @@ rankings =
 ],
 "estimate": 412,
 "missing": {
-"world": 202,
+"world": 201,
 "continents": {
 "AF": 3,
 "AS": 39,
-"EU": 81,
+"EU": 80,
 "NA": 65,
 "OC": 7,
 "SA": 11
@@ -34875,7 +34887,7 @@ rankings =
 "ES": 16,
 "FI": 1,
 "FR": 9,
-"GB": 2,
+"GB": 1,
 "GT": 0,
 "HR": 0,
 "HU": 1,
@@ -35973,6 +35985,12 @@ rankings =
 "competition": 5642
 },
 {
+"rank": 139,
+"id": "2018COPP02",
+"best": "16.04",
+"competition": 5179
+},
+{
 "rank": 140,
 "id": "2011VOLK01",
 "best": "16.20",
@@ -36233,11 +36251,11 @@ rankings =
 ],
 "estimate": 226,
 "missing": {
-"world": 94,
+"world": 93,
 "continents": {
 "AF": 1,
 "AS": 16,
-"EU": 39,
+"EU": 38,
 "NA": 27,
 "OC": 5,
 "SA": 8
@@ -36260,7 +36278,7 @@ rankings =
 "ES": 10,
 "FI": 0,
 "FR": 2,
-"GB": 1,
+"GB": 0,
 "GT": 0,
 "HU": 1,
 "ID": 0,
@@ -37158,6 +37176,12 @@ rankings =
 "competition": 3512
 },
 {
+"rank": 160,
+"id": "2018COPP02",
+"best": "29.96",
+"competition": 5179
+},
+{
 "rank": 162,
 "id": "2016OLST01",
 "best": "30.25",
@@ -37287,11 +37311,11 @@ rankings =
 ],
 "estimate": 210,
 "missing": {
-"world": 87,
+"world": 86,
 "continents": {
 "AF": 1,
 "AS": 14,
-"EU": 37,
+"EU": 36,
 "NA": 25,
 "OC": 5,
 "SA": 7
@@ -37314,7 +37338,7 @@ rankings =
 "ES": 10,
 "FI": 0,
 "FR": 2,
-"GB": 1,
+"GB": 0,
 "GT": 0,
 "HU": 1,
 "ID": 0,
@@ -41772,6 +41796,16 @@ rankings =
 "333mbf",
 "444",
 "444bf"
+]
+},
+{
+"id": "2018COPP02",
+"name": "Erin Coppin",
+"country": "GB",
+"age": 40,
+"events": [
+"pyram",
+"skewb"
 ]
 },
 {
