@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-01-30 10:12:43",
+"refreshed": "2020-01-30 11:08:19",
 "events": [
 {
 "id": "333",
@@ -3386,6 +3386,13 @@ rankings =
 "competition": 193
 },
 {
+"rank": 1902,
+"id": "2015VIRJ02",
+"best": "2:28.83",
+"age": 50,
+"competition": 2439
+},
+{
 "rank": 1904,
 "id": "2011MICH02",
 "best": "2:29.52",
@@ -3474,11 +3481,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1425,
+"world": 1424,
 "continents": {
 "AF": 35,
 "AS": 347,
-"EU": 489,
+"EU": 488,
 "NA": 387,
 "OC": 54,
 "SA": 140
@@ -3508,7 +3515,7 @@ rankings =
 "ES": 74,
 "FI": 11,
 "FR": 50,
-"GB": 27,
+"GB": 26,
 "GR": 2,
 "GT": 4,
 "HK": 6,
@@ -4587,6 +4594,12 @@ rankings =
 "competition": 193
 },
 {
+"rank": 487,
+"id": "2015VIRJ02",
+"best": "2:28.83",
+"competition": 2439
+},
+{
 "rank": 488,
 "id": "2011MICH02",
 "best": "2:29.52",
@@ -4650,11 +4663,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 347,
+"world": 346,
 "continents": {
 "AF": 7,
 "AS": 81,
-"EU": 115,
+"EU": 114,
 "NA": 98,
 "OC": 18,
 "SA": 33
@@ -4673,7 +4686,7 @@ rankings =
 "ES": 20,
 "FI": 3,
 "FR": 13,
-"GB": 6,
+"GB": 5,
 "GR": 1,
 "HU": 0,
 "ID": 1,
@@ -8636,6 +8649,13 @@ rankings =
 "competition": 216
 },
 {
+"rank": 1790,
+"id": "2015VIRJ02",
+"best": "2:39.97",
+"age": 50,
+"competition": 2439
+},
+{
 "rank": 1797,
 "id": "2018KRIS27",
 "best": "2:44.83",
@@ -8716,11 +8736,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1349,
+"world": 1348,
 "continents": {
 "AF": 35,
 "AS": 303,
-"EU": 472,
+"EU": 471,
 "NA": 378,
 "OC": 51,
 "SA": 137
@@ -8750,7 +8770,7 @@ rankings =
 "ES": 70,
 "FI": 11,
 "FR": 48,
-"GB": 25,
+"GB": 24,
 "GR": 2,
 "GT": 4,
 "HK": 6,
@@ -9795,6 +9815,12 @@ rankings =
 "competition": 216
 },
 {
+"rank": 452,
+"id": "2015VIRJ02",
+"best": "2:39.97",
+"competition": 2439
+},
+{
 "rank": 465,
 "id": "2017GUPT02",
 "best": "3:01.07",
@@ -9848,11 +9874,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 330,
+"world": 329,
 "continents": {
 "AF": 7,
 "AS": 74,
-"EU": 112,
+"EU": 111,
 "NA": 94,
 "OC": 16,
 "SA": 32
@@ -9871,7 +9897,7 @@ rankings =
 "ES": 20,
 "FI": 3,
 "FR": 13,
-"GB": 5,
+"GB": 4,
 "GR": 1,
 "HU": 0,
 "ID": 1,
@@ -12609,6 +12635,13 @@ rankings =
 "competition": 6204
 },
 {
+"rank": 826,
+"id": "2015VIRJ02",
+"best": "1:03.00",
+"age": 50,
+"competition": 2439
+},
+{
 "rank": 832,
 "id": "2009SING03",
 "best": "1:47.28",
@@ -12617,11 +12650,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 484,
+"world": 483,
 "continents": {
 "AF": 12,
 "AS": 83,
-"EU": 187,
+"EU": 186,
 "NA": 145,
 "OC": 28,
 "SA": 42
@@ -12647,7 +12680,7 @@ rankings =
 "ES": 36,
 "FI": 5,
 "FR": 18,
-"GB": 4,
+"GB": 3,
 "GT": 2,
 "HK": 3,
 "HR": 1,
@@ -13252,6 +13285,12 @@ rankings =
 "competition": 6204
 },
 {
+"rank": 209,
+"id": "2015VIRJ02",
+"best": "1:03.00",
+"competition": 2439
+},
+{
 "rank": 211,
 "id": "2009SING03",
 "best": "1:47.28",
@@ -13260,11 +13299,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 120,
+"world": 119,
 "continents": {
 "AF": 5,
 "AS": 16,
-"EU": 51,
+"EU": 50,
 "NA": 30,
 "OC": 8,
 "SA": 12
@@ -13281,7 +13320,7 @@ rankings =
 "ES": 12,
 "FI": 2,
 "FR": 3,
-"GB": 1,
+"GB": 0,
 "ID": 0,
 "IE": 1,
 "IL": 2,
@@ -41628,6 +41667,16 @@ rankings =
 ]
 },
 {
+"id": "2015VIRJ02",
+"name": "Hanif Virji",
+"country": "GB",
+"age": 50,
+"events": [
+"222",
+"333"
+]
+},
+{
 "id": "2008RIJK01",
 "name": "Hanneke Rijks",
 "country": "NL",
@@ -49738,6 +49787,13 @@ rankings =
 "country": "RU",
 "startDate": "2015-08-28",
 "webId": "CCCEndofSummer2015"
+},
+{
+"id": 2439,
+"name": "August Bank Holiday Competition 2015",
+"country": "GB",
+"startDate": "2015-08-29",
+"webId": "AugustBankHolidayCompetition2015"
 },
 {
 "id": 2449,
