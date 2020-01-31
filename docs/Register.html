@@ -8,28 +8,33 @@
     <meta name="author" content="Michael George" />
     <meta name="mobile-web-app-capable" content="yes" />
 
-    <title>Senior Rankings</title>
+    <title>Registration</title>
 
     <link rel="stylesheet" type="text/css" href="css/common-min.css" />
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<style>
+table.registration input, table.registration textarea  {width: 300px;}
+</style>
   </head>
   <body>
     <div class="container">
       <p><img src="img/logo.jpg" alt="alt text" title="logo" /></p>
 
-      <h2 id="senior-rankings">Senior Rankings</h2>
+      <h2 id="senior-rankings">Registration</h2>
 
-      <p>This project started on the SpeedSolving.com forum and provides unofficial rankings for the senior cubing community, produced from official WCA competition results.</p>
+      <p>To have your name added to the <a href="/wca-ipy-www/">Senior Rankings</a> you must complete this form.</p>
 
-<form id="invisible-recaptcha-form" accept-charset="UTF-8" action="http://google.com" method="POST">
+      <p>If this page does not work then please let us know using the contact details at the top of the <a href = "Privacy_Notice.html">privacy policy</a>.</p>
 
-	    <table>
+      <form action="https://usebasin.com/f/91f64aceae97" method="POST">
+        <input type="hidden" name="reference">
+	    <table class = "registration">
 		  <tr>
 		     <td>
 			   Name:
 		     </td>
 		     <td>
                 <input type="text" name="name">
-		      <br/>
 		     </td>
           </tr>
 		  <tr>
@@ -38,7 +43,6 @@
 		     </td>
 		     <td>
                 <input type="email" name="_replyto">
-		      <br/>
 		     </td>
           </tr>
 		  <tr>
@@ -47,7 +51,6 @@
 		     </td>
 		     <td>
                 <input type="text" name="wca_id">
-		      <br/>
 		     </td>
           </tr>
 		  <tr>
@@ -56,7 +59,6 @@
 		     </td>
 		     <td>
                 <input type="date" name="dob">
-		      <br/>
 		     </td>
           </tr>
 		  <tr>
@@ -64,26 +66,13 @@
                Comments:
 		     </td>
 		     <td>
-                <textarea rows="3" cols="50" name="comments"></textarea>
+                <textarea rows="5" cols="35" name="comments"></textarea>
  		     </td>
           </tr>
 	    </table>
-
-	<div class="g-recaptcha" data-sitekey="6LfqW9QUAAAAAEF6rAVswvsyOmxkFu-RO4nD-L-t" data-callback="onSubmit" data-badge="inline" data-size="invisible"></div>
-	<button class="btn btn-primary">Submit</button>
-</form>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-	document.getElementById("invisible-recaptcha-form").addEventListener("submit", function(){
-		event.preventDefault();
-		grecaptcha.reset();
-		grecaptcha.execute();
-	}, false);
-	function onSubmit(token) {
-		document.getElementById("invisible-recaptcha-form").submit();
-	}
-</script>
-
+        <p><button>Submit</button></p>
+        <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
+      </form>
     </div>
   </body>
 </html>
