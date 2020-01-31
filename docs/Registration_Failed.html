@@ -7,7 +7,6 @@
     <meta name="description" content="Senior Rankings" />
     <meta name="author" content="Michael George" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <meta http-equiv="refresh" content="10; URL=/wca-ipy-www/" />
 
     <title>Registration Failed</title>
 
@@ -29,7 +28,13 @@
       <h2 id="senior-rankings">Registration Failed</h2>
 
       <p>Your registration has failed, probably because you did not complete the reCAPTCHA.</p>
-      <p>You will be re-directed to the <a href="/wca-ipy-www/Register.html">registration</a> page in 10 seconds.</p>
+
+      <p>You will be taken back to the registration page in 10 seconds.</p>
     </div>
+
+    <script>
+	  function boing(){history.go(-1);}
+	  setTimeout(boing, 10000);
+    </script>
   </body>
 </html>
