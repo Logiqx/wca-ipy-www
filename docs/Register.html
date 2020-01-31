@@ -10,11 +10,19 @@
 
     <title>Registration</title>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86348435-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-86348435-2');
+    </script>
+
+    <style>table input, table textarea, table div {width: 300px;}</style>
+
     <link rel="stylesheet" type="text/css" href="css/common-min.css" />
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<style>
-table.registration input, table.registration textarea  {width: 300px;}
-</style>
   </head>
   <body>
     <div class="container">
@@ -22,56 +30,44 @@ table.registration input, table.registration textarea  {width: 300px;}
 
       <h2 id="senior-rankings">Registration</h2>
 
-      <p>To have your name added to the <a href="/wca-ipy-www/">Senior Rankings</a> you must complete this form.</p>
+      <p>If you would like your name included in the <a href="/wca-ipy-www/">Senior Rankings</a> then you should complete this form.</p>
 
-      <p>If this page does not work then please let us know using the contact details at the top of the <a href = "Privacy_Notice.html">privacy policy</a>.</p>
+      <p>If you are a member of <a target="_blank" href="https://www.speedsolving.com/">Speedsolving.com</a> then please provide your member name in the comments.</p>
 
-      <form action="https://usebasin.com/f/91f64aceae97" method="POST">
+      <p>If the registration form is not working then please use the contact details at the top of the <a href = "Privacy_Notice.html">privacy policy</a>.</p>
+
+      <form action="https://usebasin.com/f/91f64aceae97" method="post">
         <input type="hidden" name="reference">
-	    <table class = "registration">
+	    <table>
 		  <tr>
-		     <td>
-			   Name:
-		     </td>
-		     <td>
-                <input type="text" name="name">
-		     </td>
+		     <td>Name:</td>
+		     <td><input type="text" name="name"></td>
           </tr>
 		  <tr>
-		     <td>
-			   E-mail:
-		     </td>
-		     <td>
-                <input type="email" name="_replyto">
-		     </td>
+		     <td>E-mail:</td>
+		     <td><input type="email" name="email"></td>
           </tr>
 		  <tr>
-		     <td>
-			   WCA ID:
-		     </td>
-		     <td>
-                <input type="text" name="wca_id">
-		     </td>
+		     <td>WCA ID:</td>
+		     <td><input type="text" name="wca_id"></td>
           </tr>
 		  <tr>
-		     <td>
-			   DOB:
-		     </td>
-		     <td>
-                <input type="date" name="dob">
-		     </td>
+		     <td>DOB:</td>
+		     <td><input type="date" name="dob"></td>
           </tr>
 		  <tr>
-		     <td>
-               Comments:
-		     </td>
-		     <td>
-                <textarea rows="5" cols="35" name="comments"></textarea>
- 		     </td>
+		     <td>Comments:</td>
+		     <td><textarea rows="5" cols="35" name="comments">e.g. Speedsolving member name</textarea></td>
+          </tr>
+		  <tr>
+		     <td></td>
+		     <td><div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div></td>
+          </tr>
+		  <tr>
+		     <td></td>
+		     <td><button>Register</button></td>
           </tr>
 	    </table>
-        <p><button>Submit</button></p>
-        <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
       </form>
     </div>
   </body>
