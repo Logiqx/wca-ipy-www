@@ -19,7 +19,7 @@
       gtag('config', 'UA-86348435-2');
     </script>
 
-    <style>table input, table textarea, table div {width: 300px;}</style>
+    <style>input, textarea {width: 220px;} textarea {resize: none;}</style>
 
     <link rel="stylesheet" type="text/css" href="css/common-min.css" />
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -40,30 +40,29 @@
 
       <form action="https://usebasin.com/f/91f64aceae97" method="post">
         <input type="hidden" name="reference">
+
+        <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
+
 	    <table>
 		  <tr>
-		     <td>Name:</td>
-		     <td><input type="text" name="name" required></td>
+		     <td><label for="name">Name</label></td>
+		     <td><input type="text" id="name" name="name" required></td>
           </tr>
 		  <tr>
-		     <td>E-mail:</td>
-		     <td><input type="email" name="email" required></td>
+		     <td><label for="email">Email</label></td>
+		     <td><input type="email" id="email" name="email" required></td>
           </tr>
 		  <tr>
-		     <td>WCA ID:</td>
-		     <td><input type="text" name="wca_id" required></td>
+		     <td><label for="wca_id">WCA ID</label></td>
+		     <td><input type="text" id="wca_id" name="wca_id" required></td>
           </tr>
 		  <tr>
-		     <td>DOB:</td>
-		     <td><input type="date" name="dob" required></td>
+		     <td><label for="dob">DOB</label></td>
+		     <td><input type="date" id="dob" name="dob" required></td>
           </tr>
 		  <tr>
-		     <td>Comments:</td>
-		     <td><textarea rows="5" cols="35" name="comments"></textarea></td>
-          </tr>
-		  <tr>
-		     <td></td>
-		     <td><div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div></td>
+		     <td><label for="comments">Comments&nbsp;</label></td>
+		     <td><textarea rows="3" id="comments" name="comments"></textarea></td>
           </tr>
 		  <tr>
 		     <td></td>
