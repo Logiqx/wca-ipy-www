@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-01 19:28:08",
+"refreshed": "2020-02-01 20:05:43",
 "events": [
 {
 "id": "333",
@@ -39509,6 +39509,7 @@ rankings =
 "username": "anders",
 "usernum": 1120,
 "age": 50,
+"deceased": "y",
 "events": [
 "222",
 "333",
@@ -41296,6 +41297,7 @@ rankings =
 "username": "TMOY",
 "usernum": 1684,
 "age": 40,
+"deceased": "y",
 "events": [
 "222",
 "333",
