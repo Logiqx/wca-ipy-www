@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-01 04:14:36",
+"refreshed": "2020-02-01 19:07:33",
 "events": [
 {
 "id": "333",
@@ -3482,14 +3482,7 @@ rankings =
 ],
 "missing": {
 "world": 1424,
-"continents": {
-"AF": 35,
-"AS": 347,
-"EU": 488,
-"NA": 387,
-"OC": 54,
-"SA": 140
-},
+"continents": {},
 "countries": {
 "AR": 8,
 "AT": 1,
@@ -4664,14 +4657,7 @@ rankings =
 ],
 "missing": {
 "world": 346,
-"continents": {
-"AF": 7,
-"AS": 81,
-"EU": 114,
-"NA": 98,
-"OC": 18,
-"SA": 33
-},
+"continents": {},
 "countries": {
 "AR": 2,
 "AT": 0,
@@ -5006,13 +4992,7 @@ rankings =
 ],
 "missing": {
 "world": 47,
-"continents": {
-"AS": 13,
-"EU": 13,
-"NA": 13,
-"OC": 1,
-"SA": 6
-},
+"continents": {},
 "countries": {
 "AU": 1,
 "BE": 0,
@@ -5200,13 +5180,7 @@ rankings =
 ],
 "missing": {
 "world": 8,
-"continents": {
-"AS": 2,
-"EU": 2,
-"NA": 3,
-"OC": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "BR": 1,
@@ -5299,12 +5273,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 1,
-"OC": 0
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "CA": 0,
@@ -5330,9 +5299,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "DK": 0
 }
@@ -8737,14 +8704,7 @@ rankings =
 ],
 "missing": {
 "world": 1348,
-"continents": {
-"AF": 35,
-"AS": 303,
-"EU": 471,
-"NA": 378,
-"OC": 51,
-"SA": 137
-},
+"continents": {},
 "countries": {
 "AR": 8,
 "AT": 1,
@@ -9875,14 +9835,7 @@ rankings =
 ],
 "missing": {
 "world": 329,
-"continents": {
-"AF": 7,
-"AS": 74,
-"EU": 111,
-"NA": 94,
-"OC": 16,
-"SA": 32
-},
+"continents": {},
 "countries": {
 "AR": 2,
 "AT": 0,
@@ -10183,13 +10136,7 @@ rankings =
 ],
 "missing": {
 "world": 40,
-"continents": {
-"AS": 10,
-"EU": 13,
-"NA": 10,
-"OC": 0,
-"SA": 6
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "BE": 0,
@@ -10344,13 +10291,7 @@ rankings =
 ],
 "missing": {
 "world": 7,
-"continents": {
-"AS": 1,
-"EU": 2,
-"NA": 3,
-"OC": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "BR": 1,
@@ -10429,12 +10370,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 1,
-"OC": 0
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "CA": 0,
@@ -12651,14 +12587,7 @@ rankings =
 ],
 "missing": {
 "world": 483,
-"continents": {
-"AF": 12,
-"AS": 83,
-"EU": 186,
-"NA": 145,
-"OC": 28,
-"SA": 42
-},
+"continents": {},
 "countries": {
 "AR": 3,
 "AT": 1,
@@ -13300,14 +13229,7 @@ rankings =
 ],
 "missing": {
 "world": 119,
-"continents": {
-"AF": 5,
-"AS": 16,
-"EU": 50,
-"NA": 30,
-"OC": 8,
-"SA": 12
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -13442,12 +13364,7 @@ rankings =
 ],
 "missing": {
 "world": 12,
-"continents": {
-"AS": 2,
-"EU": 8,
-"NA": 1,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "BR": 1,
 "CA": 0,
@@ -13507,10 +13424,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "JP": 0,
@@ -13525,9 +13439,7 @@ rankings =
 "ranks": [],
 "missing": {
 "world": 1,
-"continents": {
-"NA": 1
-},
+"continents": {},
 "countries": {
 "US": 1
 }
@@ -15658,14 +15570,7 @@ rankings =
 ],
 "missing": {
 "world": 443,
-"continents": {
-"AF": 11,
-"AS": 67,
-"EU": 176,
-"NA": 135,
-"OC": 26,
-"SA": 38
-},
+"continents": {},
 "countries": {
 "AR": 3,
 "AT": 1,
@@ -16288,14 +16193,7 @@ rankings =
 ],
 "missing": {
 "world": 110,
-"continents": {
-"AF": 4,
-"AS": 12,
-"EU": 47,
-"NA": 28,
-"OC": 7,
-"SA": 12
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -16423,12 +16321,7 @@ rankings =
 ],
 "missing": {
 "world": 10,
-"continents": {
-"AS": 0,
-"EU": 8,
-"NA": 1,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "BR": 1,
 "CA": 0,
@@ -16482,10 +16375,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "JP": 0,
@@ -16500,9 +16390,7 @@ rankings =
 "ranks": [],
 "missing": {
 "world": 1,
-"continents": {
-"NA": 1
-},
+"continents": {},
 "countries": {
 "US": 1
 }
@@ -17930,14 +17818,7 @@ rankings =
 ],
 "missing": {
 "world": 147,
-"continents": {
-"AF": 2,
-"AS": 24,
-"EU": 68,
-"NA": 41,
-"OC": 2,
-"SA": 11
-},
+"continents": {},
 "countries": {
 "AR": 1,
 "AT": 1,
@@ -18282,14 +18163,7 @@ rankings =
 ],
 "missing": {
 "world": 26,
-"continents": {
-"AF": 0,
-"AS": 4,
-"EU": 15,
-"NA": 6,
-"OC": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "BR": 1,
@@ -18336,9 +18210,7 @@ rankings =
 ],
 "missing": {
 "world": 2,
-"continents": {
-"EU": 2
-},
+"continents": {},
 "countries": {
 "ES": 1,
 "FR": 1,
@@ -19341,14 +19213,7 @@ rankings =
 ],
 "missing": {
 "world": 61,
-"continents": {
-"AF": 2,
-"AS": 13,
-"EU": 26,
-"NA": 15,
-"OC": 1,
-"SA": 5
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -19599,13 +19464,7 @@ rankings =
 ],
 "missing": {
 "world": 11,
-"continents": {
-"AF": 0,
-"AS": 1,
-"EU": 8,
-"NA": 2,
-"OC": 0
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 1,
@@ -19649,9 +19508,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 1
-},
+"continents": {},
 "countries": {
 "FR": 1,
 "SE": 0
@@ -20609,14 +20466,7 @@ rankings =
 ],
 "missing": {
 "world": 57,
-"continents": {
-"AF": 2,
-"AS": 12,
-"EU": 27,
-"NA": 12,
-"OC": 0,
-"SA": 3
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -20843,12 +20693,7 @@ rankings =
 ],
 "missing": {
 "world": 11,
-"continents": {
-"AF": 1,
-"AS": 1,
-"EU": 6,
-"NA": 3
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -20881,9 +20726,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 1
-},
+"continents": {},
 "countries": {
 "ES": 1,
 "SE": 0
@@ -21486,13 +21329,7 @@ rankings =
 ],
 "missing": {
 "world": 19,
-"continents": {
-"AF": 2,
-"AS": 6,
-"EU": 6,
-"NA": 3,
-"SA": 2
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -21635,12 +21472,7 @@ rankings =
 ],
 "missing": {
 "world": 4,
-"continents": {
-"AF": 1,
-"AS": 1,
-"EU": 2,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -21670,9 +21502,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -22154,13 +21984,7 @@ rankings =
 ],
 "missing": {
 "world": 14,
-"continents": {
-"AF": 0,
-"AS": 3,
-"EU": 6,
-"NA": 4,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -22296,10 +22120,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 1,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -22325,9 +22146,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -22609,13 +22428,7 @@ rankings =
 ],
 "missing": {
 "world": 4,
-"continents": {
-"AF": 0,
-"AS": 1,
-"EU": 2,
-"NA": 1,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -22684,10 +22497,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 1,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -23107,13 +22917,7 @@ rankings =
 ],
 "missing": {
 "world": 11,
-"continents": {
-"AF": 0,
-"AS": 4,
-"EU": 4,
-"NA": 3,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -23237,10 +23041,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 1,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -23266,9 +23067,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -23488,13 +23287,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AF": 0,
-"AS": 0,
-"EU": 1,
-"NA": 0,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -23550,10 +23343,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -24205,14 +23995,7 @@ rankings =
 ],
 "missing": {
 "world": 43,
-"continents": {
-"AF": 1,
-"AS": 17,
-"EU": 14,
-"NA": 8,
-"OC": 1,
-"SA": 2
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -24404,12 +24187,7 @@ rankings =
 ],
 "missing": {
 "world": 3,
-"continents": {
-"AS": 0,
-"EU": 2,
-"NA": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "BR": 1,
@@ -24447,10 +24225,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"EU": 0
-},
+"continents": {},
 "countries": {
 "JP": 0,
 "SE": 0
@@ -24471,9 +24246,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0
-},
+"continents": {},
 "countries": {
 "JP": 0
 }
@@ -24492,9 +24265,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0
-},
+"continents": {},
 "countries": {
 "JP": 0
 }
@@ -24772,12 +24543,7 @@ rankings =
 ],
 "missing": {
 "world": 7,
-"continents": {
-"AS": 2,
-"EU": 2,
-"NA": 2,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -24865,11 +24631,7 @@ rankings =
 ],
 "missing": {
 "world": 2,
-"continents": {
-"EU": 1,
-"NA": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "BR": 1,
@@ -24895,9 +24657,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -25495,14 +25255,7 @@ rankings =
 ],
 "missing": {
 "world": 17,
-"continents": {
-"AF": 0,
-"AS": 3,
-"EU": 7,
-"NA": 4,
-"OC": 2,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "AU": 1,
@@ -25668,12 +25421,7 @@ rankings =
 ],
 "missing": {
 "world": 3,
-"continents": {
-"AS": 0,
-"EU": 2,
-"NA": 0,
-"OC": 1
-},
+"continents": {},
 "countries": {
 "AU": 1,
 "CA": 0,
@@ -25704,9 +25452,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -25985,13 +25731,7 @@ rankings =
 ],
 "missing": {
 "world": 7,
-"continents": {
-"AF": 0,
-"AS": 0,
-"EU": 3,
-"NA": 3,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BR": 1,
@@ -26089,11 +25829,7 @@ rankings =
 ],
 "missing": {
 "world": 2,
-"continents": {
-"AS": 0,
-"EU": 2,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "ES": 1,
@@ -27067,13 +26803,7 @@ rankings =
 ],
 "missing": {
 "world": 71,
-"continents": {
-"AF": 0,
-"AS": 13,
-"EU": 28,
-"NA": 25,
-"SA": 6
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -27307,13 +27037,7 @@ rankings =
 ],
 "missing": {
 "world": 15,
-"continents": {
-"AF": 0,
-"AS": 1,
-"EU": 5,
-"NA": 8,
-"SA": 2
-},
+"continents": {},
 "countries": {
 "BR": 1,
 "CA": 0,
@@ -27358,10 +27082,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "IN": 0,
 "US": 1
@@ -27374,9 +27095,7 @@ rankings =
 "ranks": [],
 "missing": {
 "world": 1,
-"continents": {
-"NA": 1
-},
+"continents": {},
 "countries": {
 "US": 1
 }
@@ -28124,13 +27843,7 @@ rankings =
 ],
 "missing": {
 "world": 43,
-"continents": {
-"AF": 0,
-"AS": 8,
-"EU": 21,
-"NA": 12,
-"SA": 3
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -28303,12 +28016,7 @@ rankings =
 ],
 "missing": {
 "world": 8,
-"continents": {
-"AF": 0,
-"AS": 1,
-"EU": 4,
-"NA": 3
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 1,
@@ -28339,9 +28047,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"NA": 0
-},
+"continents": {},
 "countries": {
 "US": 0
 }
@@ -28981,13 +28687,7 @@ rankings =
 ],
 "missing": {
 "world": 36,
-"continents": {
-"AS": 5,
-"EU": 19,
-"NA": 9,
-"OC": 1,
-"SA": 2
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "AU": 1,
@@ -29190,13 +28890,7 @@ rankings =
 ],
 "missing": {
 "world": 5,
-"continents": {
-"AS": 0,
-"EU": 2,
-"NA": 3,
-"OC": 0,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "BR": 0,
@@ -29239,10 +28933,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "BR": 0,
 "KR": 0
@@ -29262,9 +28953,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0
-},
+"continents": {},
 "countries": {
 "KR": 0
 }
@@ -29782,12 +29471,7 @@ rankings =
 ],
 "missing": {
 "world": 18,
-"continents": {
-"AS": 3,
-"EU": 10,
-"NA": 3,
-"SA": 2
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -29965,12 +29649,7 @@ rankings =
 ],
 "missing": {
 "world": 3,
-"continents": {
-"AS": 0,
-"EU": 1,
-"NA": 2,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "BR": 0,
 "CA": 0,
@@ -30012,10 +29691,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "BR": 0,
 "KR": 0
@@ -30035,9 +29711,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0
-},
+"continents": {},
 "countries": {
 "KR": 0
 }
@@ -30493,13 +30167,7 @@ rankings =
 ],
 "missing": {
 "world": 19,
-"continents": {
-"AF": 0,
-"AS": 4,
-"EU": 6,
-"NA": 8,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -30609,10 +30277,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -30638,9 +30303,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -30921,13 +30584,7 @@ rankings =
 ],
 "missing": {
 "world": 8,
-"continents": {
-"AF": 0,
-"AS": 3,
-"EU": 2,
-"NA": 3,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -30995,10 +30652,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -32369,14 +32023,7 @@ rankings =
 ],
 "missing": {
 "world": 230,
-"continents": {
-"AF": 3,
-"AS": 48,
-"EU": 85,
-"NA": 73,
-"OC": 7,
-"SA": 18
-},
+"continents": {},
 "countries": {
 "AR": 1,
 "AT": 0,
@@ -32764,14 +32411,7 @@ rankings =
 ],
 "missing": {
 "world": 55,
-"continents": {
-"AF": 0,
-"AS": 13,
-"EU": 26,
-"NA": 12,
-"OC": 2,
-"SA": 3
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AU": 2,
@@ -32860,11 +32500,7 @@ rankings =
 ],
 "missing": {
 "world": 5,
-"continents": {
-"AS": 3,
-"EU": 1,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "CN": 2,
@@ -32901,11 +32537,7 @@ rankings =
 ],
 "missing": {
 "world": 2,
-"continents": {
-"AS": 1,
-"EU": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "CN": 1,
@@ -32921,9 +32553,7 @@ rankings =
 "ranks": [],
 "missing": {
 "world": 1,
-"continents": {
-"NA": 1
-},
+"continents": {},
 "countries": {
 "US": 1
 }
@@ -34245,14 +33875,7 @@ rankings =
 ],
 "missing": {
 "world": 201,
-"continents": {
-"AF": 3,
-"AS": 39,
-"EU": 80,
-"NA": 65,
-"OC": 7,
-"SA": 11
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AT": 0,
@@ -34626,14 +34249,7 @@ rankings =
 ],
 "missing": {
 "world": 46,
-"continents": {
-"AF": 0,
-"AS": 10,
-"EU": 22,
-"NA": 12,
-"OC": 2,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AR": 0,
 "AU": 2,
@@ -34715,11 +34331,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "KR": 0,
@@ -34753,11 +34365,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 1
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "KR": 0,
@@ -34772,9 +34380,7 @@ rankings =
 "ranks": [],
 "missing": {
 "world": 1,
-"continents": {
-"NA": 1
-},
+"continents": {},
 "countries": {
 "US": 1
 }
@@ -35613,14 +35219,7 @@ rankings =
 ],
 "missing": {
 "world": 93,
-"continents": {
-"AF": 1,
-"AS": 16,
-"EU": 38,
-"NA": 27,
-"OC": 5,
-"SA": 8
-},
+"continents": {},
 "countries": {
 "AR": 1,
 "AT": 0,
@@ -35822,13 +35421,7 @@ rankings =
 ],
 "missing": {
 "world": 20,
-"continents": {
-"AS": 3,
-"EU": 10,
-"NA": 5,
-"OC": 1,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "BR": 1,
@@ -35869,10 +35462,7 @@ rankings =
 ],
 "missing": {
 "world": 1,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "SE": 0,
 "US": 0
@@ -36649,14 +36239,7 @@ rankings =
 ],
 "missing": {
 "world": 86,
-"continents": {
-"AF": 1,
-"AS": 14,
-"EU": 36,
-"NA": 25,
-"OC": 5,
-"SA": 7
-},
+"continents": {},
 "countries": {
 "AR": 1,
 "AT": 0,
@@ -36839,12 +36422,7 @@ rankings =
 ],
 "missing": {
 "world": 17,
-"continents": {
-"AS": 2,
-"EU": 9,
-"NA": 5,
-"OC": 1
-},
+"continents": {},
 "countries": {
 "AU": 0,
 "CA": 0,
@@ -36877,9 +36455,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"NA": 0
-},
+"continents": {},
 "countries": {
 "US": 0
 }
@@ -37316,14 +36892,7 @@ rankings =
 ],
 "missing": {
 "world": 18,
-"continents": {
-"AF": 1,
-"AS": 4,
-"EU": 8,
-"NA": 5,
-"OC": 0,
-"SA": 1
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "AU": 0,
@@ -37435,12 +37004,7 @@ rankings =
 ],
 "missing": {
 "world": 6,
-"continents": {
-"AF": 1,
-"AS": 1,
-"EU": 2,
-"NA": 2
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -37469,9 +37033,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -37833,13 +37395,7 @@ rankings =
 ],
 "missing": {
 "world": 9,
-"continents": {
-"AF": 0,
-"AS": 4,
-"EU": 3,
-"NA": 2,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "BG": 0,
@@ -37936,11 +37492,7 @@ rankings =
 ],
 "missing": {
 "world": 4,
-"continents": {
-"AS": 1,
-"EU": 1,
-"NA": 2
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -37967,9 +37519,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -38175,12 +37725,7 @@ rankings =
 ],
 "missing": {
 "world": 2,
-"continents": {
-"AF": 0,
-"AS": 2,
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "CN": 1,
@@ -38248,10 +37793,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -38274,9 +37816,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -38341,11 +37881,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "CN": 0,
@@ -38390,10 +37926,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -38415,9 +37948,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -38550,11 +38081,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "CN": 0,
@@ -38609,10 +38136,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "DE": 0,
 "GB": 0,
@@ -38634,9 +38158,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -38681,11 +38203,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "CN": 0,
 "DE": 0,
@@ -38715,10 +38233,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "SE": 0,
 "US": 0
@@ -38738,9 +38253,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
@@ -39066,14 +38579,7 @@ rankings =
 ],
 "missing": {
 "world": 7,
-"continents": {
-"AF": 0,
-"AS": 3,
-"EU": 2,
-"NA": 1,
-"OC": 1,
-"SA": 0
-},
+"continents": {},
 "countries": {
 "AT": 0,
 "AU": 0,
@@ -39187,11 +38693,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"AS": 0,
-"EU": 0,
-"NA": 0
-},
+"continents": {},
 "countries": {
 "CA": 0,
 "DE": 0,
@@ -39217,9 +38719,7 @@ rankings =
 ],
 "missing": {
 "world": 0,
-"continents": {
-"EU": 0
-},
+"continents": {},
 "countries": {
 "SE": 0
 }
