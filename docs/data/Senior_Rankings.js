@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-11 18:12:40",
+"refreshed": "2020-02-12 04:13:46",
 "events": [
 {
 "id": "333",
@@ -5969,89 +5969,89 @@ rankings =
 },
 {
 "rank": 136,
+"id": "2016COUL01",
+"best": "20.40",
+"competition": 6819
+},
+{
+"rank": 136,
 "id": "2017BONI01",
 "best": "20.40",
 "competition": 6491
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "1982PETR01",
 "best": "20.48",
 "competition": 157
 },
 {
-"rank": 138,
+"rank": 139,
 "id": "2007CHIM01",
 "best": "20.54",
 "competition": 358
 },
 {
-"rank": 139,
+"rank": 140,
 "id": "2018RYLA01",
 "best": "20.57",
 "competition": 6064
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2008YIMV01",
 "best": "20.67",
 "competition": 6051
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2011ZAKR01",
 "best": "20.71",
 "competition": 3001
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2014ROCH07",
 "best": "20.73",
 "competition": 6544
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2007OEYM01",
 "best": "20.77",
 "age": 50,
 "competition": 6419
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2016POPO02",
 "best": "20.79",
 "age": 50,
 "competition": 4457
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2014DECO01",
 "best": "20.84",
 "competition": 3642
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2014COXN01",
 "best": "20.84",
 "competition": 5074
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2010ZHAN41",
 "best": "21.17",
 "competition": 1340
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2017HART06",
 "best": "21.24",
 "competition": 6594
-},
-{
-"rank": 157,
-"id": "2016COUL01",
-"best": "21.27",
-"competition": 6051
 },
 {
 "rank": 159,
@@ -20348,29 +20348,29 @@ rankings =
 "competition": 4217
 },
 {
-"rank": 135,
+"rank": 134,
+"id": "2016COUL01",
+"best": "3:42.57",
+"competition": 6819
+},
+{
+"rank": 136,
 "id": "2017PHIL09",
 "best": "3:43.65",
 "competition": 5123
 },
 {
-"rank": 136,
+"rank": 137,
 "id": "2004FEDE01",
 "best": "3:44.02",
 "competition": 453
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "2008BERG04",
 "best": "3:45.69",
 "age": 60,
 "competition": 3670
-},
-{
-"rank": 138,
-"id": "2016COUL01",
-"best": "3:46.95",
-"competition": 5861
 },
 {
 "rank": 140,
@@ -27607,8 +27607,8 @@ rankings =
 {
 "rank": 37,
 "id": "2016COUL01",
-"best": "37.34",
-"competition": 6749
+"best": "37.10",
+"competition": 6819
 },
 {
 "rank": 38,
@@ -35566,16 +35566,16 @@ rankings =
 "competition": 4925
 },
 {
-"rank": 183,
-"id": "2005GUST02",
-"best": "22.47",
-"competition": 2086
+"rank": 179,
+"id": "2016COUL01",
+"best": "20.86",
+"competition": 6819
 },
 {
 "rank": 184,
-"id": "2016COUL01",
-"best": "22.63",
-"competition": 6051
+"id": "2005GUST02",
+"best": "22.47",
+"competition": 2086
 },
 {
 "rank": 186,
@@ -36645,15 +36645,15 @@ rankings =
 },
 {
 "rank": 181,
-"id": "2018DITT03",
-"best": "36.55",
-"competition": 5992
+"id": "2016COUL01",
+"best": "36.16",
+"competition": 6819
 },
 {
 "rank": 182,
-"id": "2016COUL01",
-"best": "36.65",
-"competition": 6051
+"id": "2018DITT03",
+"best": "36.55",
+"competition": 5992
 },
 {
 "rank": 185,
@@ -55465,13 +55465,6 @@ rankings =
 "webId": "CasalCatalunyaBairesOpen2019"
 },
 {
-"id": 5861,
-"name": "Fraser Valley Spring Open 2019",
-"country": "CA",
-"startDate": "2019-05-04",
-"webId": "FraserValleySpringOpen2019"
-},
-{
 "id": 5864,
 "name": "Koalafication Adelaide 2019",
 "country": "AU",
@@ -57682,6 +57675,13 @@ rankings =
 "country": "AT",
 "startDate": "2020-02-01",
 "webId": "SalzburgOpen2020"
+},
+{
+"id": 6819,
+"name": "Downtown Vancouver Winter 2020",
+"country": "CA",
+"startDate": "2020-02-08",
+"webId": "DowntownVancouverWinter2020"
 },
 {
 "id": 6820,
