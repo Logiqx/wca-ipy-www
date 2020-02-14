@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-14 04:14:27",
+"refreshed": "2020-02-14 16:41:24",
 "events": [
 {
 "id": "333",
@@ -737,6 +737,12 @@ rankings =
 "id": "2016YEUN02",
 "best": "17.99",
 "competition": 4632
+},
+{
+"rank": 168,
+"id": "2013SUDO01",
+"best": "18.00",
+"competition": 5850
 },
 {
 "rank": 170,
@@ -3493,10 +3499,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1424,
+"world": 1423,
 "continents": {
 "AF": 35,
-"AS": 347,
+"AS": 346,
 "EU": 488,
 "NA": 387,
 "OC": 54,
@@ -3541,7 +3547,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 135,
+"JP": 134,
 "KR": 13,
 "KZ": 6,
 "LT": 0,
@@ -6389,6 +6395,12 @@ rankings =
 "competition": 6436
 },
 {
+"rank": 259,
+"id": "2013SUDO01",
+"best": "24.64",
+"competition": 5388
+},
+{
 "rank": 262,
 "id": "2017SUDA03",
 "best": "24.84",
@@ -8760,10 +8772,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1348,
+"world": 1347,
 "continents": {
 "AF": 35,
-"AS": 303,
+"AS": 302,
 "EU": 471,
 "NA": 378,
 "OC": 51,
@@ -8808,7 +8820,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 127,
+"JP": 126,
 "KR": 11,
 "KZ": 5,
 "LT": 0,
@@ -10807,6 +10819,12 @@ rankings =
 "competition": 779
 },
 {
+"rank": 65,
+"id": "2013SUDO01",
+"best": "4.58",
+"competition": 6511
+},
+{
 "rank": 67,
 "id": "2011LAWR01",
 "best": "4.65",
@@ -12674,10 +12692,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 483,
+"world": 482,
 "continents": {
 "AF": 12,
-"AS": 83,
+"AS": 82,
 "EU": 186,
 "NA": 145,
 "OC": 28,
@@ -12715,7 +12733,7 @@ rankings =
 "IN": 13,
 "IT": 12,
 "JM": 0,
-"JP": 20,
+"JP": 19,
 "KR": 2,
 "KZ": 2,
 "MN": 0,
@@ -14114,6 +14132,12 @@ rankings =
 "id": "2016UMET02",
 "best": "8.09",
 "competition": 5511
+},
+{
+"rank": 122,
+"id": "2013SUDO01",
+"best": "8.14",
+"competition": 6511
 },
 {
 "rank": 123,
@@ -15681,10 +15705,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 443,
+"world": 442,
 "continents": {
 "AF": 11,
-"AS": 67,
+"AS": 66,
 "EU": 176,
 "NA": 135,
 "OC": 26,
@@ -15722,7 +15746,7 @@ rankings =
 "IN": 4,
 "IT": 12,
 "JM": 0,
-"JP": 19,
+"JP": 18,
 "KR": 2,
 "KZ": 2,
 "MN": 0,
@@ -17085,6 +17109,12 @@ rankings =
 "competition": 6419
 },
 {
+"rank": 108,
+"id": "2013SUDO01",
+"best": "1:23.21",
+"competition": 6255
+},
+{
 "rank": 109,
 "id": "2013ANTI01",
 "best": "1:23.25",
@@ -17953,10 +17983,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 147,
+"world": 146,
 "continents": {
 "AF": 2,
-"AS": 24,
+"AS": 23,
 "EU": 68,
 "NA": 41,
 "OC": 2,
@@ -17989,7 +18019,7 @@ rankings =
 "IL": 1,
 "IN": 3,
 "IT": 5,
-"JP": 10,
+"JP": 9,
 "KR": 2,
 "KZ": 1,
 "LV": 1,
@@ -18824,6 +18854,12 @@ rankings =
 "competition": 6689
 },
 {
+"rank": 85,
+"id": "2013SUDO01",
+"best": "1:31.56",
+"competition": 6255
+},
+{
 "rank": 86,
 "id": "2015GOSL01",
 "best": "1:32.23",
@@ -19364,10 +19400,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 61,
+"world": 60,
 "continents": {
 "AF": 2,
-"AS": 13,
+"AS": 12,
 "EU": 26,
 "NA": 15,
 "OC": 1,
@@ -19398,7 +19434,7 @@ rankings =
 "IL": 1,
 "IN": 0,
 "IT": 0,
-"JP": 7,
+"JP": 6,
 "KR": 2,
 "LV": 1,
 "MN": 0,
@@ -21879,6 +21915,12 @@ rankings =
 "competition": 6561
 },
 {
+"rank": 30,
+"id": "2013SUDO01",
+"best": "4:29.54",
+"competition": 6255
+},
+{
 "rank": 31,
 "id": "2017HART06",
 "best": "4:30.43",
@@ -22189,10 +22231,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 14,
+"world": 13,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 6,
 "NA": 4,
 "SA": 1
@@ -22213,7 +22255,7 @@ rankings =
 "HR": 0,
 "HU": 0,
 "IT": 0,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "LV": 1,
 "MY": 0,
@@ -22496,6 +22538,12 @@ rankings =
 "competition": 5320
 },
 {
+"rank": 21,
+"id": "2013SUDO01",
+"best": "4:44.65",
+"competition": 6255
+},
+{
 "rank": 22,
 "id": "2010SOHT01",
 "best": "4:49.46",
@@ -22650,10 +22698,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 4,
+"world": 3,
 "continents": {
 "AF": 0,
-"AS": 1,
+"AS": 0,
 "EU": 2,
 "NA": 1,
 "SA": 0
@@ -22671,7 +22719,7 @@ rankings =
 "FR": 1,
 "GB": 0,
 "HR": 0,
-"JP": 1,
+"JP": 0,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -23002,6 +23050,12 @@ rankings =
 "competition": 2462
 },
 {
+"rank": 48,
+"id": "2013SUDO01",
+"best": "8:53.64",
+"competition": 5252
+},
+{
 "rank": 49,
 "id": "2009KOTT01",
 "best": "9:02.96",
@@ -23148,10 +23202,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 11,
+"world": 10,
 "continents": {
 "AF": 0,
-"AS": 4,
+"AS": 3,
 "EU": 4,
 "NA": 3,
 "SA": 0
@@ -23172,7 +23226,7 @@ rankings =
 "HR": 0,
 "HU": 0,
 "IT": 0,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "LV": 1,
 "MY": 0,
@@ -24076,6 +24130,12 @@ rankings =
 "competition": 2180
 },
 {
+"rank": 101,
+"id": "2013SUDO01",
+"best": "5:34.55",
+"competition": 6255
+},
+{
 "rank": 103,
 "id": "2018KORO08",
 "best": "5:41.68",
@@ -24246,10 +24306,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 43,
+"world": 42,
 "continents": {
 "AF": 1,
-"AS": 17,
+"AS": 16,
 "EU": 14,
 "NA": 8,
 "OC": 1,
@@ -24273,7 +24333,7 @@ rankings =
 "ID": 1,
 "IN": 2,
 "IT": 0,
-"JP": 4,
+"JP": 3,
 "KR": 0,
 "MN": 0,
 "MX": 1,
@@ -30280,6 +30340,12 @@ rankings =
 "competition": 3150
 },
 {
+"rank": 33,
+"id": "2013SUDO01",
+"best": "2:35.08",
+"competition": 6255
+},
+{
 "rank": 35,
 "id": "2009ZBIE01",
 "best": "2:43.05",
@@ -30541,10 +30607,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 19,
+"world": 18,
 "continents": {
 "AF": 0,
-"AS": 4,
+"AS": 3,
 "EU": 6,
 "NA": 8,
 "SA": 1
@@ -30563,7 +30629,7 @@ rankings =
 "FR": 1,
 "GB": 0,
 "IT": 0,
-"JP": 3,
+"JP": 2,
 "KR": 0,
 "KZ": 1,
 "MX": 1,
@@ -30864,6 +30930,12 @@ rankings =
 "competition": 5433
 },
 {
+"rank": 30,
+"id": "2013SUDO01",
+"best": "2:45.51",
+"competition": 6255
+},
+{
 "rank": 31,
 "id": "2012HINO01",
 "best": "2:48.85",
@@ -30969,10 +31041,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 8,
+"world": 7,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 2,
 "NA": 3,
 "SA": 0
@@ -30989,7 +31061,7 @@ rankings =
 "FR": 0,
 "GB": 0,
 "IT": 0,
-"JP": 3,
+"JP": 2,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -37202,6 +37274,12 @@ rankings =
 "competition": 5266
 },
 {
+"rank": 45,
+"id": "2013SUDO01",
+"best": "50.25",
+"competition": 6255
+},
+{
 "rank": 46,
 "id": "2007DOUT01",
 "best": "51.05",
@@ -37394,10 +37472,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 18,
+"world": 17,
 "continents": {
 "AF": 1,
-"AS": 4,
+"AS": 3,
 "EU": 8,
 "NA": 5,
 "OC": 0,
@@ -37420,7 +37498,7 @@ rankings =
 "ID": 0,
 "IN": 0,
 "IT": 1,
-"JP": 3,
+"JP": 2,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -37757,6 +37835,12 @@ rankings =
 "competition": 5751
 },
 {
+"rank": 40,
+"id": "2013SUDO01",
+"best": "1:03.16",
+"competition": 6255
+},
+{
 "rank": 41,
 "id": "2010HAMA03",
 "best": "1:04.81",
@@ -37911,10 +37995,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 9,
+"world": 8,
 "continents": {
 "AF": 0,
-"AS": 4,
+"AS": 3,
 "EU": 3,
 "NA": 2,
 "SA": 0
@@ -37935,7 +38019,7 @@ rankings =
 "ID": 0,
 "IN": 0,
 "IT": 0,
-"JP": 3,
+"JP": 2,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -46465,6 +46549,22 @@ rankings =
 "age": 80,
 "events": [
 "333"
+]
+},
+{
+"id": "2013SUDO01",
+"name": "Yoshimi Sudo (須藤良実)",
+"country": "JP",
+"age": 40,
+"events": [
+"222",
+"333",
+"333bf",
+"444",
+"666",
+"777",
+"minx",
+"sq1"
 ]
 },
 {
