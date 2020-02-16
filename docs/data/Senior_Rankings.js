@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-16 15:51:36",
+"refreshed": "2020-02-16 16:53:36",
 "events": [
 {
 "id": "333",
@@ -11614,14 +11614,14 @@ rankings =
 "competition": 5883
 },
 {
-"rank": 254,
+"rank": 253,
 "id": "2018COOK04",
 "best": "7.06",
 "age": 50,
 "competition": 6674
 },
 {
-"rank": 255,
+"rank": 254,
 "id": "2017JANS02",
 "best": "7.09",
 "competition": 6638
@@ -14152,25 +14152,25 @@ rankings =
 "competition": 3379
 },
 {
-"rank": 112,
+"rank": 111,
 "id": "2014ROCH07",
 "best": "7.85",
 "competition": 6252
 },
 {
-"rank": 115,
+"rank": 114,
 "id": "2018FENI01",
 "best": "7.95",
 "competition": 6280
 },
 {
-"rank": 116,
+"rank": 115,
 "id": "2015NICH04",
 "best": "7.99",
 "competition": 5770
 },
 {
-"rank": 116,
+"rank": 115,
 "id": "2015KIMH04",
 "best": "7.99",
 "competition": 6204
