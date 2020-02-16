@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-16 04:14:19",
+"refreshed": "2020-02-16 09:52:40",
 "events": [
 {
 "id": "333",
@@ -1153,6 +1153,12 @@ rankings =
 "id": "2017ISSL02",
 "best": "21.08",
 "competition": 5017
+},
+{
+"rank": 288,
+"id": "2017SAWA01",
+"best": "21.08",
+"competition": 5959
 },
 {
 "rank": 290,
@@ -3499,10 +3505,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1423,
+"world": 1422,
 "continents": {
 "AF": 35,
-"AS": 346,
+"AS": 345,
 "EU": 488,
 "NA": 387,
 "OC": 54,
@@ -3547,7 +3553,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 134,
+"JP": 133,
 "KR": 13,
 "KZ": 6,
 "LT": 0,
@@ -6530,6 +6536,12 @@ rankings =
 },
 {
 "rank": 302,
+"id": "2017SAWA01",
+"best": "26.28",
+"competition": 5959
+},
+{
+"rank": 302,
 "id": "2003LEEJ01",
 "best": "26.28",
 "competition": 6090
@@ -8772,10 +8784,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1347,
+"world": 1346,
 "continents": {
 "AF": 35,
-"AS": 302,
+"AS": 301,
 "EU": 471,
 "NA": 378,
 "OC": 51,
@@ -8820,7 +8832,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 126,
+"JP": 125,
 "KR": 11,
 "KZ": 5,
 "LT": 0,
@@ -12001,6 +12013,12 @@ rankings =
 "competition": 6777
 },
 {
+"rank": 405,
+"id": "2017SAWA01",
+"best": "9.80",
+"competition": 4473
+},
+{
 "rank": 409,
 "id": "2018SCHE08",
 "best": "9.88",
@@ -12692,10 +12710,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 482,
+"world": 481,
 "continents": {
 "AF": 12,
-"AS": 82,
+"AS": 81,
 "EU": 186,
 "NA": 145,
 "OC": 28,
@@ -12733,7 +12751,7 @@ rankings =
 "IN": 13,
 "IT": 12,
 "JM": 0,
-"JP": 19,
+"JP": 18,
 "KR": 2,
 "KZ": 2,
 "MN": 0,
@@ -15114,6 +15132,12 @@ rankings =
 "competition": 6238
 },
 {
+"rank": 411,
+"id": "2017SAWA01",
+"best": "15.17",
+"competition": 4473
+},
+{
 "rank": 416,
 "id": "2015REYN07",
 "best": "15.32",
@@ -15705,10 +15729,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 442,
+"world": 441,
 "continents": {
 "AF": 11,
-"AS": 66,
+"AS": 65,
 "EU": 176,
 "NA": 135,
 "OC": 26,
@@ -15746,7 +15770,7 @@ rankings =
 "IN": 4,
 "IT": 12,
 "JM": 0,
-"JP": 18,
+"JP": 17,
 "KR": 2,
 "KZ": 2,
 "MN": 0,
@@ -17188,6 +17212,12 @@ rankings =
 "competition": 6285
 },
 {
+"rank": 127,
+"id": "2017SAWA01",
+"best": "1:27.08",
+"competition": 5959
+},
+{
 "rank": 130,
 "id": "2015LIJI02",
 "best": "1:28.18",
@@ -17983,10 +18013,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 146,
+"world": 145,
 "continents": {
 "AF": 2,
-"AS": 23,
+"AS": 22,
 "EU": 68,
 "NA": 41,
 "OC": 2,
@@ -18019,7 +18049,7 @@ rankings =
 "IL": 1,
 "IN": 3,
 "IT": 5,
-"JP": 9,
+"JP": 8,
 "KR": 2,
 "KZ": 1,
 "LV": 1,
@@ -18909,6 +18939,12 @@ rankings =
 "competition": 5959
 },
 {
+"rank": 95,
+"id": "2017SAWA01",
+"best": "1:34.67",
+"competition": 5959
+},
+{
 "rank": 96,
 "id": "2015DISI01",
 "best": "1:34.92",
@@ -19400,10 +19436,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 60,
+"world": 59,
 "continents": {
 "AF": 2,
-"AS": 12,
+"AS": 11,
 "EU": 26,
 "NA": 15,
 "OC": 1,
@@ -19434,7 +19470,7 @@ rankings =
 "IL": 1,
 "IN": 0,
 "IT": 0,
-"JP": 6,
+"JP": 5,
 "KR": 2,
 "LV": 1,
 "MN": 0,
@@ -20317,6 +20353,12 @@ rankings =
 "competition": 6446
 },
 {
+"rank": 116,
+"id": "2017SAWA01",
+"best": "3:16.62",
+"competition": 6333
+},
+{
 "rank": 118,
 "id": "2018SCHU17",
 "best": "3:24.29",
@@ -20674,10 +20716,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 57,
+"world": 56,
 "continents": {
 "AF": 2,
-"AS": 12,
+"AS": 11,
 "EU": 27,
 "NA": 12,
 "OC": 0,
@@ -20705,7 +20747,7 @@ rankings =
 "ID": 1,
 "IN": 1,
 "IT": 2,
-"JP": 6,
+"JP": 5,
 "KR": 0,
 "KZ": 1,
 "LV": 1,
@@ -22073,6 +22115,12 @@ rankings =
 "competition": 6244
 },
 {
+"rank": 60,
+"id": "2017SAWA01",
+"best": "6:13.07",
+"competition": 6255
+},
+{
 "rank": 62,
 "id": "2015KIMH04",
 "best": "6:15.98",
@@ -22231,10 +22279,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 13,
+"world": 12,
 "continents": {
 "AF": 0,
-"AS": 2,
+"AS": 1,
 "EU": 6,
 "NA": 4,
 "SA": 1
@@ -22255,7 +22303,7 @@ rankings =
 "HR": 0,
 "HU": 0,
 "IT": 0,
-"JP": 1,
+"JP": 0,
 "KR": 0,
 "LV": 1,
 "MY": 0,
@@ -23019,6 +23067,12 @@ rankings =
 "competition": 5843
 },
 {
+"rank": 41,
+"id": "2017SAWA01",
+"best": "8:19.20",
+"competition": 5959
+},
+{
 "rank": 42,
 "id": "2007CINO01",
 "best": "8:28.73",
@@ -23202,10 +23256,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 10,
+"world": 9,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 4,
 "NA": 3,
 "SA": 0
@@ -23226,7 +23280,7 @@ rankings =
 "HR": 0,
 "HU": 0,
 "IT": 0,
-"JP": 1,
+"JP": 0,
 "KR": 0,
 "LV": 1,
 "MY": 0,
@@ -30328,6 +30382,12 @@ rankings =
 "competition": 5375
 },
 {
+"rank": 30,
+"id": "2017SAWA01",
+"best": "2:24.05",
+"competition": 6255
+},
+{
 "rank": 31,
 "id": "2012HINO01",
 "best": "2:28.65",
@@ -30607,10 +30667,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 18,
+"world": 17,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 6,
 "NA": 8,
 "SA": 1
@@ -30629,7 +30689,7 @@ rankings =
 "FR": 1,
 "GB": 0,
 "IT": 0,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "KZ": 1,
 "MX": 1,
@@ -30911,6 +30971,12 @@ rankings =
 "competition": 6367
 },
 {
+"rank": 26,
+"id": "2017SAWA01",
+"best": "2:39.92",
+"competition": 6255
+},
+{
 "rank": 27,
 "id": "2007HUGH01",
 "best": "2:40.57",
@@ -31041,10 +31107,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 7,
+"world": 6,
 "continents": {
 "AF": 0,
-"AS": 2,
+"AS": 1,
 "EU": 2,
 "NA": 3,
 "SA": 0
@@ -31061,7 +31127,7 @@ rankings =
 "FR": 0,
 "GB": 0,
 "IT": 0,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -31206,6 +31272,12 @@ rankings =
 "best": "4.48",
 "age": 50,
 "competition": 6344
+},
+{
+"rank": 12,
+"id": "2017SAWA01",
+"best": "4.65",
+"competition": 6511
 },
 {
 "rank": 13,
@@ -32495,10 +32567,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 230,
+"world": 229,
 "continents": {
 "AF": 3,
-"AS": 48,
+"AS": 47,
 "EU": 85,
 "NA": 73,
 "OC": 7,
@@ -32534,7 +32606,7 @@ rankings =
 "IT": 6,
 "JM": 0,
 "JO": 0,
-"JP": 10,
+"JP": 9,
 "KR": 1,
 "KZ": 2,
 "MX": 2,
@@ -33089,6 +33161,12 @@ rankings =
 "id": "2017LAWR04",
 "best": "5.91",
 "competition": 6463
+},
+{
+"rank": 6,
+"id": "2017SAWA01",
+"best": "6.42",
+"competition": 6511
 },
 {
 "rank": 7,
@@ -34377,10 +34455,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 201,
+"world": 200,
 "continents": {
 "AF": 3,
-"AS": 39,
+"AS": 38,
 "EU": 80,
 "NA": 65,
 "OC": 7,
@@ -34415,7 +34493,7 @@ rankings =
 "IN": 6,
 "IT": 4,
 "JM": 0,
-"JP": 10,
+"JP": 9,
 "KR": 1,
 "KZ": 2,
 "MX": 1,
@@ -35348,6 +35426,12 @@ rankings =
 "competition": 4585
 },
 {
+"rank": 93,
+"id": "2017SAWA01",
+"best": "12.12",
+"competition": 5959
+},
+{
 "rank": 95,
 "id": "2010ANDE01",
 "best": "12.33",
@@ -35757,10 +35841,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 93,
+"world": 92,
 "continents": {
 "AF": 1,
-"AS": 16,
+"AS": 15,
 "EU": 38,
 "NA": 27,
 "OC": 5,
@@ -35791,7 +35875,7 @@ rankings =
 "IL": 1,
 "IN": 3,
 "IT": 4,
-"JP": 2,
+"JP": 1,
 "KR": 1,
 "KZ": 1,
 "MX": 1,
@@ -36359,6 +36443,12 @@ rankings =
 "competition": 4763
 },
 {
+"rank": 71,
+"id": "2017SAWA01",
+"best": "16.61",
+"competition": 5959
+},
+{
 "rank": 73,
 "id": "2013HUBH01",
 "best": "17.08",
@@ -36799,10 +36889,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 86,
+"world": 85,
 "continents": {
 "AF": 1,
-"AS": 14,
+"AS": 13,
 "EU": 36,
 "NA": 25,
 "OC": 5,
@@ -36833,7 +36923,7 @@ rankings =
 "IL": 1,
 "IN": 2,
 "IT": 3,
-"JP": 2,
+"JP": 1,
 "KR": 1,
 "KZ": 1,
 "MX": 1,
@@ -37118,6 +37208,12 @@ rankings =
 "id": "2005KOSE01",
 "best": "23.09",
 "competition": 2179
+},
+{
+"rank": 13,
+"id": "2017SAWA01",
+"best": "23.47",
+"competition": 5959
 },
 {
 "rank": 14,
@@ -37472,10 +37568,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 17,
+"world": 16,
 "continents": {
 "AF": 1,
-"AS": 3,
+"AS": 2,
 "EU": 8,
 "NA": 5,
 "OC": 0,
@@ -37498,7 +37594,7 @@ rankings =
 "ID": 0,
 "IN": 0,
 "IT": 1,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -37761,6 +37857,12 @@ rankings =
 "competition": 6332
 },
 {
+"rank": 22,
+"id": "2017SAWA01",
+"best": "43.68",
+"competition": 6255
+},
+{
 "rank": 23,
 "id": "2007CINO01",
 "best": "44.14",
@@ -37995,10 +38097,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 8,
+"world": 7,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 3,
 "NA": 2,
 "SA": 0
@@ -38019,7 +38121,7 @@ rankings =
 "ID": 0,
 "IN": 0,
 "IT": 0,
-"JP": 2,
+"JP": 1,
 "KR": 0,
 "MY": 0,
 "NL": 0,
@@ -42050,6 +42152,24 @@ rankings =
 "333oh",
 "444",
 "555"
+]
+},
+{
+"id": "2017SAWA01",
+"name": "Hiroshi Sawakuri (澤栗宏司)",
+"country": "JP",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"666",
+"777",
+"minx",
+"pyram",
+"skewb",
+"sq1"
 ]
 },
 {
