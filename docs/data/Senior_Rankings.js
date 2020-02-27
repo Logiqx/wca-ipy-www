@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-02-26 04:14:22",
+"refreshed": "2020-02-27 04:14:34",
 "events": [
 {
 "id": "333",
@@ -2524,120 +2524,120 @@ rankings =
 "competition": 3438
 },
 {
-"rank": 950,
+"rank": 948,
+"id": "2019JARM01",
+"best": "45.67",
+"competition": 6874
+},
+{
+"rank": 951,
 "id": "2017PEHJ01",
 "best": "45.79",
 "competition": 6090
 },
 {
-"rank": 953,
+"rank": 954,
 "id": "2018CHOD01",
 "best": "46.07",
 "competition": 6691
 },
 {
-"rank": 956,
+"rank": 957,
 "id": "2014KIPR02",
 "best": "46.27",
 "competition": 3077
 },
 {
-"rank": 960,
+"rank": 961,
 "id": "2017HAGN01",
 "best": "46.62",
 "competition": 5170
 },
 {
-"rank": 969,
+"rank": 970,
 "id": "2007SANC01",
 "best": "47.18",
 "competition": 435
 },
 {
-"rank": 971,
+"rank": 972,
 "id": "2017CART07",
 "best": "47.27",
 "competition": 4059
 },
 {
-"rank": 972,
+"rank": 973,
 "id": "2010TARA01",
 "best": "47.33",
 "competition": 2436
 },
 {
-"rank": 974,
+"rank": 975,
 "id": "2017RIBB02",
 "best": "47.35",
 "competition": 3827
 },
 {
-"rank": 986,
+"rank": 987,
 "id": "2017SAIT01",
 "best": "47.90",
 "competition": 5959
 },
 {
-"rank": 991,
+"rank": 992,
 "id": "2016BREW04",
 "best": "48.05",
 "competition": 6090
 },
 {
-"rank": 993,
+"rank": 994,
 "id": "2018DITT03",
 "best": "48.13",
 "competition": 6639
 },
 {
-"rank": 997,
+"rank": 998,
 "id": "2018HALL06",
 "best": "48.36",
 "competition": 5306
 },
 {
-"rank": 999,
+"rank": 1000,
 "id": "2009ESPU01",
 "best": "48.58",
 "age": 50,
 "competition": 1856
 },
 {
-"rank": 1002,
+"rank": 1003,
 "id": "2019BOWE05",
 "best": "48.87",
 "competition": 6321
 },
 {
-"rank": 1003,
+"rank": 1004,
 "id": "2018PRIK02",
 "best": "48.89",
 "competition": 6240
 },
 {
-"rank": 1007,
+"rank": 1008,
 "id": "2009LARS02",
 "best": "49.34",
 "age": 50,
 "competition": 3953
 },
 {
-"rank": 1009,
+"rank": 1010,
 "id": "2018LUMS01",
 "best": "49.46",
 "competition": 5019
 },
 {
-"rank": 1014,
+"rank": 1015,
 "id": "2018HENN04",
 "best": "49.77",
 "competition": 5591
-},
-{
-"rank": 1016,
-"id": "2019JARM01",
-"best": "49.96",
-"competition": 6798
 },
 {
 "rank": 1020,
@@ -58049,13 +58049,6 @@ rankings =
 "webId": "SacCubingIX2020"
 },
 {
-"id": 6798,
-"name": "Melbourne Summer 2020",
-"country": "AU",
-"startDate": "2020-01-25",
-"webId": "MelbourneSummer2020"
-},
-{
 "id": 6801,
 "name": "Popular 'n Blind Flen 2020",
 "country": "SE",
@@ -58208,6 +58201,13 @@ rankings =
 "country": "AR",
 "startDate": "2020-02-22",
 "webId": "HernandoSummer2020"
+},
+{
+"id": 6874,
+"name": "Bendigo Cube Blitz 2020",
+"country": "AU",
+"startDate": "2020-02-23",
+"webId": "BendigoCubeBlitz2020"
 },
 {
 "id": 6876,
