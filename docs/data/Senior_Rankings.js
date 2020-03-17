@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-03-16 04:14:20",
+"refreshed": "2020-03-17 04:14:49",
 "events": [
 {
 "id": "333",
@@ -24758,7 +24758,7 @@ rankings =
 "rank": 2,
 "id": "2015CLAR13",
 "best": "2:05.86",
-"competition": 6935
+"competition": 6931
 },
 {
 "rank": 3,
@@ -27005,7 +27005,7 @@ rankings =
 "rank": 113,
 "id": "2015ADAM03",
 "best": "45.81",
-"competition": 6935
+"competition": 6931
 },
 {
 "rank": 115,
@@ -58386,7 +58386,7 @@ rankings =
 "webId": "CambridgeChallenge2020"
 },
 {
-"id": 6935,
+"id": 6931,
 "name": "Manchester Open 2020",
 "country": "GB",
 "startDate": "2020-03-14",
