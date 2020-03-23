@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-03-22 04:14:20",
+"refreshed": "2020-03-23 04:14:58",
 "events": [
 {
 "id": "333",
@@ -7044,177 +7044,177 @@ rankings =
 "competition": 4477
 },
 {
-"rank": 487,
+"rank": 484,
+"id": "2018KORO08",
+"best": "32.72",
+"competition": 6932
+},
+{
+"rank": 488,
 "id": "2008BRUN01",
 "best": "32.84",
 "competition": 283
 },
 {
-"rank": 493,
+"rank": 494,
 "id": "2018GILL07",
 "best": "33.01",
 "age": 50,
 "competition": 6345
 },
 {
-"rank": 494,
+"rank": 495,
 "id": "2018NIED02",
 "best": "33.03",
 "competition": 5019
 },
 {
-"rank": 495,
+"rank": 496,
 "id": "2016LEWI07",
 "best": "33.05",
 "competition": 3935
 },
 {
-"rank": 497,
+"rank": 498,
 "id": "2008BERG04",
 "best": "33.10",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 499,
+"rank": 500,
 "id": "2019IWAS01",
 "best": "33.14",
 "age": 50,
 "competition": 5959
 },
 {
-"rank": 506,
+"rank": 507,
 "id": "2014CURR01",
 "best": "33.46",
 "competition": 2021
 },
 {
-"rank": 509,
+"rank": 510,
 "id": "2018SANG01",
 "best": "33.61",
 "age": 50,
 "competition": 6358
 },
 {
-"rank": 511,
+"rank": 512,
 "id": "2008MOYE01",
 "best": "33.63",
 "competition": 539
 },
 {
-"rank": 511,
+"rank": 512,
 "id": "2016DEXT02",
 "best": "33.63",
 "age": 50,
 "competition": 5913
 },
 {
-"rank": 513,
+"rank": 514,
 "id": "2018SALM01",
 "best": "33.65",
 "competition": 6823
 },
 {
-"rank": 513,
+"rank": 514,
 "id": "2014SANT22",
 "best": "33.65",
 "competition": 3732
 },
 {
-"rank": 516,
+"rank": 517,
 "id": "2003LARS01",
 "best": "33.74",
 "age": 50,
 "competition": 1812
 },
 {
-"rank": 520,
+"rank": 521,
 "id": "2018JOHN29",
 "best": "33.90",
 "age": 50,
 "competition": 4815
 },
 {
-"rank": 522,
+"rank": 523,
 "id": "2018BATE02",
 "best": "33.98",
 "competition": 6464
 },
 {
-"rank": 523,
+"rank": 524,
 "id": "2004MASA01",
 "best": "34.13",
 "age": 50,
 "competition": 5714
 },
 {
-"rank": 527,
+"rank": 528,
 "id": "2017BROW09",
 "best": "34.21",
 "age": 50,
 "competition": 5437
 },
 {
-"rank": 531,
+"rank": 532,
 "id": "2017JANS02",
 "best": "34.30",
 "competition": 6398
 },
 {
-"rank": 532,
+"rank": 533,
 "id": "2016GALE02",
 "best": "34.33",
 "competition": 4443
 },
 {
-"rank": 534,
+"rank": 535,
 "id": "2007MART03",
 "best": "34.36",
 "competition": 347
 },
 {
-"rank": 539,
+"rank": 540,
 "id": "2015PLOW01",
 "best": "34.51",
 "competition": 3143
 },
 {
-"rank": 539,
+"rank": 540,
 "id": "2006HYAK01",
 "best": "34.51",
 "age": 50,
 "competition": 82
 },
 {
-"rank": 542,
+"rank": 543,
 "id": "2005PERE01",
 "best": "34.60",
 "age": 50,
 "competition": 2567
 },
 {
-"rank": 545,
+"rank": 546,
 "id": "2011HUBB02",
 "best": "34.64",
 "competition": 1498
 },
 {
-"rank": 548,
+"rank": 549,
 "id": "2011DEWA01",
 "best": "34.68",
 "competition": 944
 },
 {
-"rank": 548,
+"rank": 549,
 "id": "2019LEOD01",
 "best": "34.68",
 "competition": 6147
-},
-{
-"rank": 552,
-"id": "2018KORO08",
-"best": "34.74",
-"competition": 6809
 },
 {
 "rank": 554,
@@ -58439,6 +58439,13 @@ rankings =
 "country": "GB",
 "startDate": "2020-03-14",
 "webId": "ManchesterOpen2020"
+},
+{
+"id": 6932,
+"name": "SPB Muffin 2020",
+"country": "RU",
+"startDate": "2020-03-14",
+"webId": "SPBMuffin2020"
 }
 ],
 "countries": [
