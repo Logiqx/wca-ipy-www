@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-04-06 04:14:38",
+"refreshed": "2020-04-07 04:14:22",
 "events": [
 {
 "id": "333",
@@ -58718,7 +58718,7 @@ rankings =
 },
 {
 "id": "KP",
-"name": "Democratic People’s Republic of Korea",
+"name": "Democratic People's Republic of Korea",
 "continent": "AS"
 },
 {
@@ -58865,11 +58865,6 @@ rankings =
 "id": "HT",
 "name": "Haiti",
 "continent": "NA"
-},
-{
-"id": "VA",
-"name": "Holy See",
-"continent": "EU"
 },
 {
 "id": "HN",
@@ -59500,6 +59495,11 @@ rankings =
 "id": "VU",
 "name": "Vanuatu",
 "continent": "OC"
+},
+{
+"id": "VA",
+"name": "Vatican City",
+"continent": "EU"
 },
 {
 "id": "VE",
