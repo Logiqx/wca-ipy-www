@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-05-22 08:12:39",
+"refreshed": "2020-05-22 14:25:10",
 "events": [
 {
 "id": "333",
@@ -768,6 +768,12 @@ rankings =
 "id": "2015DISI01",
 "best": "18.08",
 "competition": 3513
+},
+{
+"rank": 174,
+"id": "2014PAVI02",
+"best": "18.10",
+"competition": 6214
 },
 {
 "rank": 174,
@@ -3532,14 +3538,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 1420,
+"world": 1419,
 "continents": {
 "AF": 35,
 "AS": 345,
 "EU": 486,
 "NA": 387,
 "OC": 54,
-"SA": 140
+"SA": 139
 },
 "countries": {
 "AR": 8,
@@ -3548,7 +3554,7 @@ rankings =
 "BA": 1,
 "BE": 10,
 "BG": 1,
-"BR": 98,
+"BR": 97,
 "BY": 3,
 "CA": 60,
 "CH": 15,
@@ -6557,6 +6563,12 @@ rankings =
 },
 {
 "rank": 287,
+"id": "2014PAVI02",
+"best": "25.64",
+"competition": 6214
+},
+{
+"rank": 287,
 "id": "2014ZELT01",
 "best": "25.64",
 "competition": 3108
@@ -8854,14 +8866,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 1344,
+"world": 1343,
 "continents": {
 "AF": 35,
 "AS": 301,
 "EU": 469,
 "NA": 378,
 "OC": 51,
-"SA": 137
+"SA": 136
 },
 "countries": {
 "AR": 8,
@@ -8870,7 +8882,7 @@ rankings =
 "BA": 1,
 "BE": 9,
 "BG": 0,
-"BR": 95,
+"BR": 94,
 "BY": 3,
 "CA": 58,
 "CH": 14,
@@ -11815,6 +11827,12 @@ rankings =
 "competition": 1870
 },
 {
+"rank": 298,
+"id": "2014PAVI02",
+"best": "7.77",
+"competition": 6436
+},
+{
 "rank": 300,
 "id": "2012HAMA02",
 "best": "7.78",
@@ -12810,14 +12828,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 480,
+"world": 479,
 "continents": {
 "AF": 12,
 "AS": 81,
 "EU": 185,
 "NA": 145,
 "OC": 28,
-"SA": 42
+"SA": 41
 },
 "countries": {
 "AR": 3,
@@ -12826,7 +12844,7 @@ rankings =
 "BA": 1,
 "BE": 2,
 "BG": 0,
-"BR": 30,
+"BR": 29,
 "BY": 1,
 "CA": 19,
 "CH": 11,
@@ -15105,6 +15123,12 @@ rankings =
 "competition": 6405
 },
 {
+"rank": 353,
+"id": "2014PAVI02",
+"best": "13.23",
+"competition": 6436
+},
+{
 "rank": 355,
 "id": "2015BEUK01",
 "best": "13.29",
@@ -15848,14 +15872,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 440,
+"world": 439,
 "continents": {
 "AF": 11,
 "AS": 65,
 "EU": 175,
 "NA": 135,
 "OC": 26,
-"SA": 38
+"SA": 37
 },
 "countries": {
 "AR": 3,
@@ -15864,7 +15888,7 @@ rankings =
 "BA": 1,
 "BE": 2,
 "BG": 0,
-"BR": 28,
+"BR": 27,
 "BY": 1,
 "CA": 17,
 "CH": 10,
@@ -17574,6 +17598,12 @@ rankings =
 "competition": 5888
 },
 {
+"rank": 182,
+"id": "2014PAVI02",
+"best": "1:40.77",
+"competition": 6214
+},
+{
 "rank": 184,
 "id": "2019SZYM02",
 "best": "1:40.95",
@@ -18145,14 +18175,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 144,
+"world": 143,
 "continents": {
 "AF": 2,
 "AS": 22,
 "EU": 67,
 "NA": 41,
 "OC": 2,
-"SA": 11
+"SA": 10
 },
 "countries": {
 "AR": 1,
@@ -18161,7 +18191,7 @@ rankings =
 "BA": 1,
 "BE": 1,
 "BG": 0,
-"BR": 9,
+"BR": 8,
 "CA": 7,
 "CH": 4,
 "CL": 0,
@@ -19391,6 +19421,12 @@ rankings =
 "competition": 595
 },
 {
+"rank": 166,
+"id": "2014PAVI02",
+"best": "2:02.74",
+"competition": 6214
+},
+{
 "rank": 168,
 "id": "2008BERG04",
 "best": "2:07.10",
@@ -19580,14 +19616,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 60,
+"world": 59,
 "continents": {
 "AF": 2,
 "AS": 11,
 "EU": 26,
 "NA": 16,
 "OC": 1,
-"SA": 5
+"SA": 4
 },
 "countries": {
 "AR": 0,
@@ -19595,7 +19631,7 @@ rankings =
 "AU": 0,
 "BE": 1,
 "BG": 0,
-"BR": 5,
+"BR": 4,
 "CA": 3,
 "CH": 2,
 "CN": 3,
@@ -24511,6 +24547,12 @@ rankings =
 "competition": 1674
 },
 {
+"rank": 135,
+"id": "2014PAVI02",
+"best": "8:12.79",
+"competition": 6593
+},
+{
 "rank": 136,
 "id": "2004MCGA01",
 "best": "8:43.22",
@@ -24569,21 +24611,21 @@ rankings =
 }
 ],
 "missing": {
-"world": 42,
+"world": 41,
 "continents": {
 "AF": 1,
 "AS": 16,
 "EU": 14,
 "NA": 8,
 "OC": 1,
-"SA": 2
+"SA": 1
 },
 "countries": {
 "AR": 0,
 "AT": 0,
 "AU": 0,
 "BA": 1,
-"BR": 2,
+"BR": 1,
 "CA": 3,
 "CN": 9,
 "DE": 1,
@@ -25311,6 +25353,12 @@ rankings =
 },
 {
 "rank": 4,
+"id": "2014PAVI02",
+"best": "24",
+"competition": 6314
+},
+{
+"rank": 4,
 "id": "2013HUBH01",
 "best": "24",
 "age": 50,
@@ -25871,19 +25919,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 18,
+"world": 17,
 "continents": {
 "AF": 0,
 "AS": 3,
 "EU": 8,
 "NA": 4,
 "OC": 2,
-"SA": 1
+"SA": 0
 },
 "countries": {
 "AT": 0,
 "AU": 1,
-"BR": 1,
+"BR": 0,
 "CA": 0,
 "CN": 2,
 "CO": 0,
@@ -26104,6 +26152,12 @@ rankings =
 "id": "2017LAWR04",
 "best": "28.00",
 "competition": 6090
+},
+{
+"rank": 3,
+"id": "2014PAVI02",
+"best": "28.67",
+"competition": 6885
 },
 {
 "rank": 3,
@@ -26361,17 +26415,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 7,
+"world": 6,
 "continents": {
 "AF": 0,
 "AS": 0,
 "EU": 3,
 "NA": 3,
-"SA": 1
+"SA": 0
 },
 "countries": {
 "AT": 0,
-"BR": 1,
+"BR": 0,
 "CA": 0,
 "DE": 0,
 "ES": 1,
@@ -36021,6 +36075,12 @@ rankings =
 "competition": 5911
 },
 {
+"rank": 175,
+"id": "2014PAVI02",
+"best": "19.63",
+"competition": 6214
+},
+{
 "rank": 176,
 "id": "2006NORS01",
 "best": "20.12",
@@ -36153,14 +36213,14 @@ rankings =
 }
 ],
 "missing": {
-"world": 92,
+"world": 91,
 "continents": {
 "AF": 1,
 "AS": 15,
 "EU": 38,
 "NA": 27,
 "OC": 5,
-"SA": 8
+"SA": 7
 },
 "countries": {
 "AR": 1,
@@ -36168,7 +36228,7 @@ rankings =
 "AU": 3,
 "BA": 1,
 "BG": 0,
-"BR": 6,
+"BR": 5,
 "BY": 1,
 "CA": 4,
 "CH": 1,
@@ -37204,17 +37264,23 @@ rankings =
 "id": "2008ERSK01",
 "best": "51.10",
 "competition": 1657
+},
+{
+"rank": 212,
+"id": "2014PAVI02",
+"best": "1:42.86",
+"competition": 6214
 }
 ],
 "missing": {
-"world": 85,
+"world": 84,
 "continents": {
 "AF": 1,
 "AS": 13,
 "EU": 36,
 "NA": 25,
 "OC": 5,
-"SA": 7
+"SA": 6
 },
 "countries": {
 "AR": 1,
@@ -37222,7 +37288,7 @@ rankings =
 "AU": 3,
 "BA": 1,
 "BG": 0,
-"BR": 5,
+"BR": 4,
 "BY": 1,
 "CA": 4,
 "CH": 1,
@@ -40135,6 +40201,22 @@ rankings =
 "events": [
 "222",
 "333"
+]
+},
+{
+"id": "2014PAVI02",
+"name": "Anderson Alessandro Pavia",
+"country": "BR",
+"username": "andersonaap",
+"usernum": 29753,
+"age": 40,
+"events": [
+"222",
+"333",
+"333bf",
+"333fm",
+"444",
+"skewb"
 ]
 },
 {
@@ -57055,6 +57137,13 @@ rankings =
 "webId": "YongjunJakartaSpeedcubing2019"
 },
 {
+"id": 6314,
+"name": "Arena Bernô City FM 2019",
+"country": "BR",
+"startDate": "2019-09-15",
+"webId": "ArenaBernoCityFM2019"
+},
+{
 "id": 6316,
 "name": "Merdeka Mind Games 2019",
 "country": "MY",
@@ -58355,6 +58444,13 @@ rankings =
 "country": "IN",
 "startDate": "2020-02-23",
 "webId": "SaraswatiOpen2020"
+},
+{
+"id": 6885,
+"name": "Desafio Brasileiro de Verão 2020",
+"country": "BR",
+"startDate": "2020-02-29",
+"webId": "DesafioBrasileirodeVerao2020"
 },
 {
 "id": 6887,
