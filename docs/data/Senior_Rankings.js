@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-06-06 17:31:05",
+"refreshed": "2020-06-06 18:38:16",
 "events": [
 {
 "id": "333",
@@ -1039,13 +1039,13 @@ rankings =
 "competition": 6225
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2014HARD01",
 "best": "20.40",
 "competition": 2475
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2019CHIE01",
 "best": "20.41",
 "competition": 6545
@@ -1416,25 +1416,25 @@ rankings =
 "competition": 590
 },
 {
-"rank": 369,
+"rank": 370,
 "id": "2013AKGL01",
 "best": "23.14",
 "competition": 6872
 },
 {
-"rank": 371,
+"rank": 372,
 "id": "2012DESO02",
 "best": "23.17",
 "competition": 3017
 },
 {
-"rank": 371,
+"rank": 372,
 "id": "2008CIRN01",
 "best": "23.17",
 "competition": 3001
 },
 {
-"rank": 374,
+"rank": 375,
 "id": "2011HAYS02",
 "best": "23.19",
 "age": 60,
@@ -6566,31 +6566,31 @@ rankings =
 "competition": 6848
 },
 {
-"rank": 238,
+"rank": 237,
 "id": "2019CHIE01",
 "best": "23.64",
 "competition": 6545
 },
 {
-"rank": 240,
+"rank": 239,
 "id": "2005PARI01",
 "best": "23.70",
 "competition": 435
 },
 {
-"rank": 241,
+"rank": 240,
 "id": "2005JOKS01",
 "best": "23.71",
 "competition": 192
 },
 {
-"rank": 243,
+"rank": 242,
 "id": "2012ANGD01",
 "best": "23.80",
 "competition": 4925
 },
 {
-"rank": 243,
+"rank": 242,
 "id": "2015PAVI02",
 "best": "23.80",
 "competition": 3552
@@ -14595,7 +14595,7 @@ rankings =
 "competition": 6491
 },
 {
-"rank": 97,
+"rank": 96,
 "id": "2016CORD01",
 "best": "7.58",
 "competition": 5104
@@ -18115,7 +18115,7 @@ rankings =
 "competition": 2611
 },
 {
-"rank": 196,
+"rank": 195,
 "id": "2018SCHU17",
 "best": "1:43.50",
 "competition": 6421
@@ -24856,7 +24856,7 @@ rankings =
 "competition": 2396
 },
 {
-"rank": 84,
+"rank": 83,
 "id": "2006GALE01",
 "best": "4:08.01",
 "competition": 5248
