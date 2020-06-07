@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-06-07 04:14:42",
+"refreshed": "2020-06-07 17:43:19",
 "events": [
 {
 "id": "333",
@@ -1524,7 +1524,7 @@ rankings =
 "competition": 6436
 },
 {
-"rank": 407,
+"rank": 406,
 "id": "2018SACH03",
 "best": "23.90",
 "age": 50,
@@ -6984,19 +6984,19 @@ rankings =
 "competition": 6190
 },
 {
-"rank": 371,
+"rank": 370,
 "id": "2018CHAR14",
 "best": "28.12",
 "competition": 5937
 },
 {
-"rank": 374,
+"rank": 373,
 "id": "2017ARQU01",
 "best": "28.23",
 "competition": 6205
 },
 {
-"rank": 375,
+"rank": 374,
 "id": "2016YEUN02",
 "best": "28.24",
 "competition": 6443
@@ -11977,19 +11977,19 @@ rankings =
 "competition": 3817
 },
 {
-"rank": 235,
+"rank": 234,
 "id": "2013MESA01",
 "best": "6.83",
 "competition": 2836
 },
 {
-"rank": 236,
+"rank": 235,
 "id": "2018BAUE04",
 "best": "6.84",
 "competition": 6506
 },
 {
-"rank": 237,
+"rank": 236,
 "id": "2007FEKE01",
 "best": "6.86",
 "competition": 1035
@@ -36252,7 +36252,7 @@ rankings =
 "competition": 6405
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2008LIDS01",
 "best": "10.08",
 "competition": 3557
@@ -36276,13 +36276,13 @@ rankings =
 "competition": 4251
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2006STAD01",
 "best": "10.28",
 "competition": 4498
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2011SALA06",
 "best": "10.31",
 "age": 50,
@@ -37429,26 +37429,26 @@ rankings =
 "competition": 3031
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2017PEHJ01",
 "best": "17.83",
 "competition": 6719
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2013MESA01",
 "best": "17.95",
 "competition": 2270
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2016FRIS02",
 "best": "18.13",
 "age": 50,
 "competition": 6339
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2017MART70",
 "best": "18.23",
 "competition": 4585
