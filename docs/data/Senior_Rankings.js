@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-06-10 04:14:39",
+"refreshed": "2020-06-10 06:56:35",
 "events": [
 {
 "id": "333",
@@ -1441,6 +1441,12 @@ rankings =
 "competition": 6090
 },
 {
+"rank": 375,
+"id": "2018TAHO01",
+"best": "23.22",
+"competition": 6372
+},
+{
 "rank": 380,
 "id": "2017UEDA02",
 "best": "23.31",
@@ -1805,20 +1811,20 @@ rankings =
 "competition": 5888
 },
 {
-"rank": 534,
+"rank": 535,
 "id": "2019KUCA01",
 "best": "27.98",
 "age": 50,
 "competition": 6849
 },
 {
-"rank": 537,
+"rank": 538,
 "id": "2019KASU01",
 "best": "28.06",
 "competition": 5809
 },
 {
-"rank": 537,
+"rank": 538,
 "id": "2017JANS02",
 "best": "28.06",
 "competition": 5953
@@ -3667,11 +3673,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1459,
+"world": 1458,
 "continents": {
 "AF": 35,
 "AS": 351,
-"EU": 494,
+"EU": 493,
 "NA": 385,
 "OC": 57,
 "SA": 136
@@ -3700,7 +3706,7 @@ rankings =
 "EE": 2,
 "ES": 73,
 "FI": 11,
-"FR": 49,
+"FR": 48,
 "GB": 27,
 "GR": 2,
 "GT": 4,
@@ -6952,6 +6958,12 @@ rankings =
 "competition": 6853
 },
 {
+"rank": 360,
+"id": "2018TAHO01",
+"best": "27.90",
+"competition": 6372
+},
+{
 "rank": 363,
 "id": "2013MESA01",
 "best": "27.93",
@@ -9167,11 +9179,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1383,
+"world": 1382,
 "continents": {
 "AF": 35,
 "AS": 306,
-"EU": 476,
+"EU": 475,
 "NA": 377,
 "OC": 54,
 "SA": 134
@@ -9200,7 +9212,7 @@ rankings =
 "EE": 2,
 "ES": 69,
 "FI": 11,
-"FR": 47,
+"FR": 46,
 "GB": 25,
 "GR": 2,
 "GT": 4,
@@ -12166,7 +12178,7 @@ rankings =
 "competition": 5918
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2018TURN03",
 "best": "7.70",
 "competition": 5583
@@ -12178,19 +12190,19 @@ rankings =
 "competition": 1870
 },
 {
-"rank": 301,
+"rank": 299,
 "id": "2014PAVI02",
 "best": "7.77",
 "competition": 6436
 },
 {
-"rank": 302,
+"rank": 300,
 "id": "2012HAMA02",
 "best": "7.78",
 "competition": 1363
 },
 {
-"rank": 304,
+"rank": 303,
 "id": "2007DIAZ01",
 "best": "7.80",
 "competition": 281
@@ -14906,46 +14918,46 @@ rankings =
 "competition": 6464
 },
 {
-"rank": 179,
+"rank": 180,
 "id": "2003LARS01",
 "best": "9.07",
 "age": 50,
 "competition": 2367
 },
 {
-"rank": 180,
+"rank": 181,
 "id": "2018COOK04",
 "best": "9.08",
 "age": 50,
 "competition": 6674
 },
 {
-"rank": 181,
+"rank": 182,
 "id": "2008ERSK01",
 "best": "9.10",
 "competition": 1283
 },
 {
-"rank": 182,
+"rank": 183,
 "id": "2012MUNO03",
 "best": "9.12",
 "competition": 3376
 },
 {
-"rank": 183,
+"rank": 184,
 "id": "2010PLAZ01",
 "best": "9.13",
 "competition": 3403
 },
 {
-"rank": 183,
+"rank": 184,
 "id": "2017TAKA02",
 "best": "9.13",
 "age": 50,
 "competition": 6722
 },
 {
-"rank": 186,
+"rank": 187,
 "id": "2005PELL01",
 "best": "9.16",
 "competition": 1162
@@ -14957,7 +14969,7 @@ rankings =
 "competition": 4000
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "2008YIMV01",
 "best": "9.24",
 "competition": 5420
@@ -24836,6 +24848,12 @@ rankings =
 "competition": 6635
 },
 {
+"rank": 74,
+"id": "2018TAHO01",
+"best": "3:29.71",
+"competition": 6372
+},
+{
 "rank": 75,
 "id": "2012HAMA02",
 "best": "3:37.78",
@@ -25104,11 +25122,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 41,
+"world": 40,
 "continents": {
 "AF": 1,
 "AS": 16,
-"EU": 14,
+"EU": 13,
 "NA": 8,
 "OC": 1,
 "SA": 1
@@ -25125,7 +25143,7 @@ rankings =
 "DK": 1,
 "EE": 1,
 "ES": 2,
-"FR": 3,
+"FR": 2,
 "GB": 0,
 "HU": 0,
 "ID": 1,
@@ -27327,37 +27345,37 @@ rankings =
 "competition": 6457
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2016AMBE02",
 "best": "34.97",
 "competition": 5194
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2017PHIL09",
 "best": "35.30",
 "competition": 5123
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2007HOLM02",
 "best": "35.52",
 "competition": 970
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2006MATH01",
 "best": "35.63",
 "competition": 926
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2010HAMA03",
 "best": "35.71",
 "competition": 990
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2005KOCZ01",
 "best": "36.04",
 "competition": 2108
@@ -46931,6 +46949,16 @@ rankings =
 "333oh",
 "444",
 "skewb"
+]
+},
+{
+"id": "2018TAHO01",
+"name": "Stephane Tahon",
+"country": "FR",
+"age": 40,
+"events": [
+"333",
+"333bf"
 ]
 },
 {
