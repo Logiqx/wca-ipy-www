@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-06-28 04:14:20",
+"refreshed": "2020-06-28 09:51:36",
 "events": [
 {
 "id": "333",
@@ -2662,6 +2662,13 @@ rankings =
 "competition": 3827
 },
 {
+"rank": 999,
+"id": "2018OTSU02",
+"best": "47.45",
+"age": 50,
+"competition": 6136
+},
+{
 "rank": 1010,
 "id": "2017SAIT01",
 "best": "47.90",
@@ -3673,10 +3680,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1458,
+"world": 1457,
 "continents": {
 "AF": 35,
-"AS": 351,
+"AS": 350,
 "EU": 493,
 "NA": 385,
 "OC": 57,
@@ -3721,7 +3728,7 @@ rankings =
 "IT": 21,
 "JM": 0,
 "JO": 0,
-"JP": 135,
+"JP": 134,
 "KR": 13,
 "KZ": 6,
 "LT": 0,
@@ -4443,6 +4450,12 @@ rankings =
 "competition": 2960
 },
 {
+"rank": 211,
+"id": "2018OTSU02",
+"best": "47.45",
+"competition": 6136
+},
+{
 "rank": 215,
 "id": "2009ESPU01",
 "best": "48.58",
@@ -4928,10 +4941,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 346,
+"world": 345,
 "continents": {
 "AF": 6,
-"AS": 81,
+"AS": 80,
 "EU": 115,
 "NA": 97,
 "OC": 18,
@@ -4962,7 +4975,7 @@ rankings =
 "IR": 5,
 "IT": 6,
 "JM": 0,
-"JP": 35,
+"JP": 34,
 "KR": 2,
 "MX": 1,
 "NG": 0,
@@ -8172,6 +8185,13 @@ rankings =
 "competition": 3819
 },
 {
+"rank": 941,
+"id": "2018OTSU02",
+"best": "55.09",
+"age": 50,
+"competition": 5388
+},
+{
 "rank": 949,
 "id": "2017WARD09",
 "best": "55.86",
@@ -9179,10 +9199,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1382,
+"world": 1381,
 "continents": {
 "AF": 35,
-"AS": 306,
+"AS": 305,
 "EU": 475,
 "NA": 377,
 "OC": 54,
@@ -9227,7 +9247,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 127,
+"JP": 126,
 "KR": 11,
 "KZ": 5,
 "LT": 0,
@@ -9922,6 +9942,12 @@ rankings =
 "competition": 3819
 },
 {
+"rank": 199,
+"id": "2018OTSU02",
+"best": "55.09",
+"competition": 5388
+},
+{
 "rank": 202,
 "id": "2020ROND01",
 "best": "56.32",
@@ -10384,10 +10410,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 329,
+"world": 328,
 "continents": {
 "AF": 6,
-"AS": 74,
+"AS": 73,
 "EU": 111,
 "NA": 93,
 "OC": 16,
@@ -10418,7 +10444,7 @@ rankings =
 "IR": 5,
 "IT": 5,
 "JM": 0,
-"JP": 35,
+"JP": 34,
 "KR": 2,
 "MX": 1,
 "NG": 0,
@@ -47612,6 +47638,15 @@ rankings =
 "333",
 "444",
 "sq1"
+]
+},
+{
+"id": "2018OTSU02",
+"name": "Toshiyuki Otsuka (大塚俊之)",
+"country": "JP",
+"age": 50,
+"events": [
+"333"
 ]
 },
 {
