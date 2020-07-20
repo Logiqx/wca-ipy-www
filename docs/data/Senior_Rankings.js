@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-07-19 04:14:23",
+"refreshed": "2020-07-20 04:13:46",
 "events": [
 {
 "id": "333",
@@ -56260,7 +56260,7 @@ rankings =
 "name": "Acarajé Open 2019",
 "country": "BR",
 "startDate": "2019-01-15",
-"webId": "PraQueParidade2019"
+"webId": "AcarajeOpen2019"
 },
 {
 "id": 5472,
