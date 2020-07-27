@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-07-26 04:14:38",
+"refreshed": "2020-07-27 04:14:21",
 "events": [
 {
 "id": "333",
@@ -11511,7 +11511,7 @@ rankings =
 "rank": 112,
 "id": "2017ASMU01",
 "best": "5.27",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 117,
@@ -14601,7 +14601,7 @@ rankings =
 "rank": 86,
 "id": "2017ASMU01",
 "best": "7.38",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 89,
@@ -17684,7 +17684,7 @@ rankings =
 "rank": 84,
 "id": "2017ASMU01",
 "best": "1:14.99",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 85,
@@ -19493,7 +19493,7 @@ rankings =
 "rank": 71,
 "id": "2017ASMU01",
 "best": "1:23.64",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 73,
@@ -20882,7 +20882,7 @@ rankings =
 "rank": 83,
 "id": "2017ASMU01",
 "best": "2:48.01",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 84,
@@ -25561,7 +25561,7 @@ rankings =
 "rank": 16,
 "id": "2017ASMU01",
 "best": "2:08.40",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 17,
@@ -27722,7 +27722,7 @@ rankings =
 "rank": 127,
 "id": "2017ASMU01",
 "best": "49.55",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 128,
@@ -28983,7 +28983,7 @@ rankings =
 "rank": 117,
 "id": "2017ASMU01",
 "best": "1:01.86",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 118,
@@ -32543,7 +32543,7 @@ rankings =
 "rank": 85,
 "id": "2017ASMU01",
 "best": "8.14",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 87,
@@ -34315,7 +34315,7 @@ rankings =
 "rank": 48,
 "id": "2017ASMU01",
 "best": "10.49",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 49,
@@ -36404,7 +36404,7 @@ rankings =
 "rank": 86,
 "id": "2017ASMU01",
 "best": "11.24",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 87,
@@ -37636,7 +37636,7 @@ rankings =
 "rank": 119,
 "id": "2017ASMU01",
 "best": "21.43",
-"competition": 7136
+"competition": 7137
 },
 {
 "rank": 120,
@@ -59595,7 +59595,7 @@ rankings =
 "webId": "SPBMuffin2020"
 },
 {
-"id": 7136,
+"id": 7137,
 "name": "Lonely Denmark 2020",
 "country": "DK",
 "startDate": "2020-07-11",
