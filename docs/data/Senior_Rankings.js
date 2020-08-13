@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-08-12 04:14:10",
+"refreshed": "2020-08-13 04:15:08",
 "events": [
 {
 "id": "333",
@@ -6953,28 +6953,28 @@ rankings =
 "competition": 6493
 },
 {
-"rank": 357,
+"rank": 356,
+"id": "2018TAHO01",
+"best": "27.74",
+"competition": 7150
+},
+{
+"rank": 358,
 "id": "2015HUNT01",
 "best": "27.86",
 "competition": 5730
 },
 {
-"rank": 359,
+"rank": 360,
 "id": "2009DELM02",
 "best": "27.88",
 "competition": 1261
 },
 {
-"rank": 360,
+"rank": 361,
 "id": "2017TABA02",
 "best": "27.90",
 "competition": 6858
-},
-{
-"rank": 360,
-"id": "2018TAHO01",
-"best": "27.90",
-"competition": 6374
 },
 {
 "rank": 363,
@@ -7194,332 +7194,332 @@ rankings =
 },
 {
 "rank": 444,
+"id": "2017CHAR16",
+"best": "30.90",
+"competition": 7150
+},
+{
+"rank": 445,
 "id": "2019OGAY01",
 "best": "30.91",
 "competition": 6542
 },
 {
-"rank": 448,
+"rank": 449,
 "id": "2009KISS01",
 "best": "31.02",
 "competition": 1009
 },
 {
-"rank": 454,
+"rank": 455,
 "id": "2018BART01",
 "best": "31.35",
 "competition": 6791
 },
 {
-"rank": 455,
+"rank": 456,
 "id": "2017LACH01",
 "best": "31.36",
 "competition": 3666
 },
 {
-"rank": 456,
+"rank": 457,
 "id": "2015REGE02",
 "best": "31.55",
 "competition": 5596
 },
 {
-"rank": 457,
+"rank": 458,
 "id": "2016KELL07",
 "best": "31.56",
 "competition": 3422
 },
 {
-"rank": 457,
+"rank": 458,
 "id": "2019KUCA01",
 "best": "31.56",
 "age": 50,
 "competition": 6933
 },
 {
-"rank": 461,
+"rank": 462,
 "id": "2013MORA10",
 "best": "31.61",
 "competition": 3977
 },
 {
-"rank": 463,
+"rank": 464,
 "id": "2017MART70",
 "best": "31.67",
 "competition": 5264
 },
 {
-"rank": 465,
+"rank": 466,
 "id": "2011MAUD01",
 "best": "31.72",
 "competition": 1303
 },
 {
-"rank": 466,
+"rank": 467,
 "id": "2004FRED02",
 "best": "31.73",
 "competition": 136
 },
 {
-"rank": 468,
+"rank": 469,
 "id": "2018SMIT42",
 "best": "31.79",
 "age": 50,
 "competition": 6387
 },
 {
-"rank": 475,
+"rank": 476,
 "id": "2004MCGA01",
 "best": "32.03",
 "age": 50,
 "competition": 8
 },
 {
-"rank": 479,
+"rank": 480,
 "id": "2013LEIS01",
 "best": "32.15",
 "competition": 4059
 },
 {
-"rank": 481,
+"rank": 482,
 "id": "2015TAYL04",
 "best": "32.18",
 "age": 50,
 "competition": 5812
 },
 {
-"rank": 482,
+"rank": 483,
 "id": "2007YULH01",
 "best": "32.19",
 "competition": 5894
 },
 {
-"rank": 483,
+"rank": 484,
 "id": "2017DAOU01",
 "best": "32.22",
 "competition": 4559
 },
 {
-"rank": 488,
+"rank": 489,
 "id": "2015JIJI02",
 "best": "32.42",
 "competition": 3616
 },
 {
-"rank": 490,
+"rank": 491,
 "id": "2014FRON02",
 "best": "32.62",
 "competition": 4477
 },
 {
-"rank": 493,
+"rank": 494,
 "id": "2018KORO08",
 "best": "32.72",
 "competition": 6962
 },
 {
-"rank": 498,
+"rank": 499,
 "id": "2008BRUN01",
 "best": "32.84",
 "competition": 283
 },
 {
-"rank": 504,
+"rank": 505,
 "id": "2018GILL07",
 "best": "33.01",
 "age": 50,
 "competition": 6347
 },
 {
-"rank": 505,
+"rank": 506,
 "id": "2018NIED02",
 "best": "33.03",
 "competition": 5019
 },
 {
-"rank": 507,
+"rank": 508,
 "id": "2016LEWI07",
 "best": "33.05",
 "competition": 3935
 },
 {
-"rank": 509,
+"rank": 510,
 "id": "2008BERG04",
 "best": "33.10",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 511,
+"rank": 512,
 "id": "2019IWAS01",
 "best": "33.14",
 "age": 50,
 "competition": 5961
 },
 {
-"rank": 513,
+"rank": 514,
 "id": "2019RAPE01",
 "best": "33.30",
 "competition": 6843
 },
 {
-"rank": 518,
+"rank": 519,
 "id": "2014CURR01",
 "best": "33.46",
 "competition": 2021
 },
 {
-"rank": 523,
+"rank": 524,
 "id": "2018SANG01",
 "best": "33.61",
 "age": 50,
 "competition": 6360
 },
 {
-"rank": 525,
+"rank": 526,
 "id": "2008MOYE01",
 "best": "33.63",
 "competition": 539
 },
 {
-"rank": 525,
+"rank": 526,
 "id": "2016DEXT02",
 "best": "33.63",
 "age": 50,
 "competition": 5914
 },
 {
-"rank": 527,
+"rank": 528,
 "id": "2018SALM01",
 "best": "33.65",
 "competition": 6825
 },
 {
-"rank": 527,
+"rank": 528,
 "id": "2014SANT22",
 "best": "33.65",
 "competition": 3732
 },
 {
-"rank": 530,
+"rank": 531,
 "id": "2003LARS01",
 "best": "33.74",
 "age": 50,
 "competition": 1812
 },
 {
-"rank": 534,
+"rank": 535,
 "id": "2018JOHN29",
 "best": "33.90",
 "age": 50,
 "competition": 4815
 },
 {
-"rank": 536,
+"rank": 537,
 "id": "2018BATE02",
 "best": "33.98",
 "competition": 6466
 },
 {
-"rank": 537,
+"rank": 538,
 "id": "2004MASA01",
 "best": "34.13",
 "age": 50,
 "competition": 5714
 },
 {
-"rank": 541,
+"rank": 542,
 "id": "2017BROW09",
 "best": "34.21",
 "age": 50,
 "competition": 5437
 },
 {
-"rank": 545,
+"rank": 546,
 "id": "2017JANS02",
 "best": "34.30",
 "competition": 6400
 },
 {
-"rank": 546,
+"rank": 547,
 "id": "2016GALE02",
 "best": "34.33",
 "competition": 4443
 },
 {
-"rank": 548,
+"rank": 549,
 "id": "2007MART03",
 "best": "34.36",
 "competition": 347
 },
 {
-"rank": 551,
+"rank": 552,
 "id": "2018KWAR01",
 "best": "34.46",
 "age": 50,
 "competition": 6860
 },
 {
-"rank": 554,
+"rank": 555,
 "id": "2015PLOW01",
 "best": "34.51",
 "competition": 3143
 },
 {
-"rank": 554,
+"rank": 555,
 "id": "2006HYAK01",
 "best": "34.51",
 "age": 50,
 "competition": 82
 },
 {
-"rank": 557,
+"rank": 558,
 "id": "2005PERE01",
 "best": "34.60",
 "age": 50,
 "competition": 2567
 },
 {
-"rank": 559,
+"rank": 560,
 "id": "2011HUBB02",
 "best": "34.64",
 "competition": 1498
 },
 {
-"rank": 563,
+"rank": 564,
 "id": "2011DEWA01",
 "best": "34.68",
 "competition": 944
 },
 {
-"rank": 563,
+"rank": 564,
 "id": "2019LEOD01",
 "best": "34.68",
 "competition": 6149
 },
 {
-"rank": 567,
+"rank": 568,
 "id": "2017ROSS10",
 "best": "34.75",
 "age": 50,
 "competition": 6370
 },
 {
-"rank": 572,
+"rank": 573,
 "id": "2015GIRO01",
 "best": "34.84",
 "competition": 5202
 },
 {
-"rank": 573,
+"rank": 574,
 "id": "2003SCHE01",
 "best": "34.85",
 "competition": 1343
-},
-{
-"rank": 573,
-"id": "2017CHAR16",
-"best": "34.85",
-"competition": 6747
 },
 {
 "rank": 576,
@@ -59104,13 +59104,6 @@ rankings =
 "webId": "HappyNewYearCubingHoorn2020"
 },
 {
-"id": 6747,
-"name": "Perth Puzzle Party 2020",
-"country": "AU",
-"startDate": "2020-01-04",
-"webId": "PerthPuzzleParty2020"
-},
-{
 "id": 6749,
 "name": "Salento Cubing Open 2020",
 "country": "IT",
@@ -59641,6 +59634,13 @@ rankings =
 "country": "PL",
 "startDate": "2020-08-08",
 "webId": "BrizZonPoznanSideOpen2020"
+},
+{
+"id": 7150,
+"name": "Perth Late Night 2020",
+"country": "AU",
+"startDate": "2020-08-09",
+"webId": "PerthLateNight2020"
 }
 ],
 "countries": [
