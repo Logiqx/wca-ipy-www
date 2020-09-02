@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-09-02 09:15:47",
+"refreshed": "2020-09-02 17:49:57",
 "events": [
 {
 "id": "333",
@@ -11484,6 +11484,13 @@ rankings =
 "competition": 6209
 },
 {
+"rank": 101,
+"id": "2018WIRZ01",
+"best": "5.02",
+"age": 50,
+"competition": 6841
+},
+{
 "rank": 104,
 "id": "2010MART02",
 "best": "5.19",
@@ -13274,11 +13281,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 498,
+"world": 497,
 "continents": {
 "AF": 13,
 "AS": 83,
-"EU": 189,
+"EU": 188,
 "NA": 144,
 "OC": 28,
 "SA": 40
@@ -13293,7 +13300,7 @@ rankings =
 "BR": 28,
 "BY": 1,
 "CA": 19,
-"CH": 11,
+"CH": 10,
 "CL": 2,
 "CN": 34,
 "CO": 3,
@@ -13415,6 +13422,12 @@ rankings =
 "id": "2004LUIS03",
 "best": "4.92",
 "competition": 5243
+},
+{
+"rank": 16,
+"id": "2018WIRZ01",
+"best": "5.02",
+"competition": 6841
 },
 {
 "rank": 20,
@@ -13942,11 +13955,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 119,
+"world": 118,
 "continents": {
 "AF": 5,
 "AS": 16,
-"EU": 49,
+"EU": 48,
 "NA": 30,
 "OC": 8,
 "SA": 11
@@ -13957,7 +13970,7 @@ rankings =
 "AU": 6,
 "BR": 10,
 "CA": 2,
-"CH": 3,
+"CH": 2,
 "CN": 5,
 "CZ": 1,
 "DE": 6,
@@ -14596,6 +14609,13 @@ rankings =
 "id": "2018GRAG01",
 "best": "7.34",
 "competition": 5237
+},
+{
+"rank": 85,
+"id": "2018WIRZ01",
+"best": "7.35",
+"age": 50,
+"competition": 6248
 },
 {
 "rank": 86,
@@ -16377,11 +16397,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 454,
+"world": 453,
 "continents": {
 "AF": 12,
 "AS": 66,
-"EU": 179,
+"EU": 178,
 "NA": 134,
 "OC": 26,
 "SA": 36
@@ -16396,7 +16416,7 @@ rankings =
 "BR": 26,
 "BY": 1,
 "CA": 17,
-"CH": 10,
+"CH": 9,
 "CL": 2,
 "CN": 30,
 "CO": 2,
@@ -16524,6 +16544,12 @@ rankings =
 "id": "2015BOSW01",
 "best": "7.27",
 "competition": 6955
+},
+{
+"rank": 17,
+"id": "2018WIRZ01",
+"best": "7.35",
+"competition": 6248
 },
 {
 "rank": 19,
@@ -17026,11 +17052,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 109,
+"world": 108,
 "continents": {
 "AF": 4,
 "AS": 12,
-"EU": 47,
+"EU": 46,
 "NA": 28,
 "OC": 7,
 "SA": 11
@@ -17041,7 +17067,7 @@ rankings =
 "AU": 5,
 "BR": 10,
 "CA": 1,
-"CH": 3,
+"CH": 2,
 "CN": 4,
 "CZ": 1,
 "DE": 6,
@@ -45908,6 +45934,15 @@ rankings =
 "clock",
 "pyram",
 "sq1"
+]
+},
+{
+"id": "2018WIRZ01",
+"name": "Olivier Wirz",
+"country": "CH",
+"age": 50,
+"events": [
+"222"
 ]
 },
 {
