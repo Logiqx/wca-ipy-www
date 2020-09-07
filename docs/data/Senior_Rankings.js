@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-09-07 10:55:32",
+"refreshed": "2020-09-07 11:28:57",
 "events": [
 {
 "id": "333",
@@ -1359,6 +1359,12 @@ rankings =
 "id": "2015REYN07",
 "best": "22.55",
 "competition": 4878
+},
+{
+"rank": 344,
+"id": "2016ARCH01",
+"best": "22.58",
+"competition": 3396
 },
 {
 "rank": 345,
@@ -3693,12 +3699,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1456,
+"world": 1455,
 "continents": {
 "AF": 35,
 "AS": 350,
 "EU": 493,
-"NA": 384,
+"NA": 383,
 "OC": 57,
 "SA": 136
 },
@@ -3773,7 +3779,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 295,
+"US": 294,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -7016,6 +7022,12 @@ rankings =
 },
 {
 "rank": 366,
+"id": "2016ARCH01",
+"best": "27.96",
+"competition": 4610
+},
+{
+"rank": 366,
 "id": "2014PLUM01",
 "best": "27.96",
 "competition": 4138
@@ -9231,12 +9243,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1380,
+"world": 1379,
 "continents": {
 "AF": 35,
 "AS": 305,
 "EU": 475,
-"NA": 376,
+"NA": 375,
 "OC": 54,
 "SA": 134
 },
@@ -9311,7 +9323,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 289,
+"US": 288,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -12073,6 +12085,12 @@ rankings =
 },
 {
 "rank": 236,
+"id": "2016ARCH01",
+"best": "6.86",
+"competition": 3396
+},
+{
+"rank": 236,
 "id": "2007FEKE01",
 "best": "6.86",
 "competition": 1035
@@ -13319,12 +13337,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 495,
+"world": 494,
 "continents": {
 "AF": 13,
 "AS": 83,
 "EU": 187,
-"NA": 143,
+"NA": 142,
 "OC": 28,
 "SA": 40
 },
@@ -13384,7 +13402,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 117,
+"US": 116,
 "UY": 1,
 "VE": 3,
 "ZA": 10
@@ -15294,6 +15312,12 @@ rankings =
 "competition": 6154
 },
 {
+"rank": 250,
+"id": "2016ARCH01",
+"best": "10.39",
+"competition": 4610
+},
+{
 "rank": 251,
 "id": "2011VOLK01",
 "best": "10.40",
@@ -16447,12 +16471,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 451,
+"world": 450,
 "continents": {
 "AF": 12,
 "AS": 66,
 "EU": 177,
-"NA": 133,
+"NA": 132,
 "OC": 26,
 "SA": 36
 },
@@ -16512,7 +16536,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 109,
+"US": 108,
 "UY": 1,
 "VE": 2,
 "ZA": 10
@@ -18589,6 +18613,12 @@ rankings =
 "competition": 1644
 },
 {
+"rank": 304,
+"id": "2016ARCH01",
+"best": "2:38.68",
+"competition": 4610
+},
+{
 "rank": 305,
 "id": "2017BAIR03",
 "best": "2:38.72",
@@ -18785,12 +18815,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 146,
+"world": 145,
 "continents": {
 "AF": 2,
 "AS": 22,
 "EU": 69,
-"NA": 40,
+"NA": 39,
 "OC": 2,
 "SA": 10
 },
@@ -18842,7 +18872,7 @@ rankings =
 "SI": 0,
 "TH": 0,
 "UA": 0,
-"US": 30,
+"US": 29,
 "VE": 1,
 "ZA": 2
 }
@@ -33261,6 +33291,12 @@ rankings =
 "competition": 2974
 },
 {
+"rank": 223,
+"id": "2016ARCH01",
+"best": "13.19",
+"competition": 3396
+},
+{
 "rank": 224,
 "id": "2016COUL01",
 "best": "13.28",
@@ -33706,12 +33742,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 233,
+"world": 232,
 "continents": {
 "AF": 3,
 "AS": 49,
 "EU": 83,
-"NA": 72,
+"NA": 71,
 "OC": 7,
 "SA": 18
 },
@@ -33764,7 +33800,7 @@ rankings =
 "TH": 0,
 "TN": 0,
 "UA": 0,
-"US": 60,
+"US": 59,
 "ZA": 2
 }
 }
@@ -34973,6 +35009,12 @@ rankings =
 },
 {
 "rank": 162,
+"id": "2016ARCH01",
+"best": "16.13",
+"competition": 3396
+},
+{
+"rank": 162,
 "id": "2016STIN01",
 "best": "16.13",
 "age": 50,
@@ -35644,12 +35686,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 202,
+"world": 201,
 "continents": {
 "AF": 3,
 "AS": 39,
 "EU": 77,
-"NA": 64,
+"NA": 63,
 "OC": 7,
 "SA": 11
 },
@@ -35701,7 +35743,7 @@ rankings =
 "TH": 0,
 "TN": 0,
 "UA": 0,
-"US": 53,
+"US": 52,
 "ZA": 2
 }
 }
@@ -41779,6 +41821,18 @@ rankings =
 "events": [
 "333bf",
 "444bf"
+]
+},
+{
+"id": "2016ARCH01",
+"name": "Chris Archer",
+"country": "US",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"pyram"
 ]
 },
 {
@@ -53115,6 +53169,13 @@ rankings =
 "webId": "VIQBer2017"
 },
 {
+"id": 3396,
+"name": "For The Love Of Cubing 2017",
+"country": "US",
+"startDate": "2017-02-11",
+"webId": "ForTheLoveOfCubing2017"
+},
+{
 "id": 3403,
 "name": "Calisay Open 2017",
 "country": "ES",
@@ -55038,6 +55099,13 @@ rankings =
 "country": "CA",
 "startDate": "2018-04-28",
 "webId": "OakvilleLimitedSpring2018"
+},
+{
+"id": 4610,
+"name": "Sunny Showdown 2018",
+"country": "US",
+"startDate": "2018-04-28",
+"webId": "SunnyShowdown2018"
 },
 {
 "id": 4616,
