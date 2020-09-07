@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-09-07 11:28:57",
+"refreshed": "2020-09-07 12:44:28",
 "events": [
 {
 "id": "333",
@@ -720,6 +720,12 @@ rankings =
 "id": "2019URAN02",
 "best": "17.64",
 "competition": 5961
+},
+{
+"rank": 160,
+"id": "2017KRUG04",
+"best": "17.65",
+"competition": 6656
 },
 {
 "rank": 164,
@@ -3699,12 +3705,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1455,
+"world": 1454,
 "continents": {
 "AF": 35,
 "AS": 350,
 "EU": 493,
-"NA": 383,
+"NA": 382,
 "OC": 57,
 "SA": 136
 },
@@ -3779,7 +3785,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 294,
+"US": 293,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -6155,6 +6161,12 @@ rankings =
 "id": "2017WEST02",
 "best": "19.40",
 "competition": 5748
+},
+{
+"rank": 112,
+"id": "2017KRUG04",
+"best": "19.47",
+"competition": 6656
 },
 {
 "rank": 113,
@@ -9243,12 +9255,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1379,
+"world": 1378,
 "continents": {
 "AF": 35,
 "AS": 305,
 "EU": 475,
-"NA": 375,
+"NA": 374,
 "OC": 54,
 "SA": 134
 },
@@ -9323,7 +9335,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 288,
+"US": 287,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -12445,6 +12457,12 @@ rankings =
 "competition": 5710
 },
 {
+"rank": 347,
+"id": "2017KRUG04",
+"best": "8.46",
+"competition": 6656
+},
+{
 "rank": 350,
 "id": "2015HAGE04",
 "best": "8.54",
@@ -13337,12 +13355,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 494,
+"world": 493,
 "continents": {
 "AF": 13,
 "AS": 83,
 "EU": 187,
-"NA": 142,
+"NA": 141,
 "OC": 28,
 "SA": 40
 },
@@ -13402,7 +13420,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 116,
+"US": 115,
 "UY": 1,
 "VE": 3,
 "ZA": 10
@@ -15387,6 +15405,12 @@ rankings =
 },
 {
 "rank": 272,
+"id": "2017KRUG04",
+"best": "10.73",
+"competition": 6656
+},
+{
+"rank": 272,
 "id": "2017THOR05",
 "best": "10.73",
 "competition": 6506
@@ -16471,12 +16495,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 450,
+"world": 449,
 "continents": {
 "AF": 12,
 "AS": 66,
 "EU": 177,
-"NA": 132,
+"NA": 131,
 "OC": 26,
 "SA": 36
 },
@@ -16536,7 +16560,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 108,
+"US": 107,
 "UY": 1,
 "VE": 2,
 "ZA": 10
@@ -17634,6 +17658,12 @@ rankings =
 "best": "1:03.75",
 "age": 50,
 "competition": 4569
+},
+{
+"rank": 48,
+"id": "2017KRUG04",
+"best": "1:03.92",
+"competition": 6656
 },
 {
 "rank": 50,
@@ -18815,12 +18845,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 145,
+"world": 144,
 "continents": {
 "AF": 2,
 "AS": 22,
 "EU": 69,
-"NA": 39,
+"NA": 38,
 "OC": 2,
 "SA": 10
 },
@@ -18872,7 +18902,7 @@ rankings =
 "SI": 0,
 "TH": 0,
 "UA": 0,
-"US": 29,
+"US": 28,
 "VE": 1,
 "ZA": 2
 }
@@ -19479,6 +19509,12 @@ rankings =
 "best": "1:09.87",
 "age": 50,
 "competition": 4569
+},
+{
+"rank": 41,
+"id": "2017KRUG04",
+"best": "1:10.46",
+"competition": 6656
 },
 {
 "rank": 42,
@@ -20269,12 +20305,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 61,
+"world": 60,
 "continents": {
 "AF": 2,
 "AS": 11,
 "EU": 27,
-"NA": 16,
+"NA": 15,
 "OC": 1,
 "SA": 4
 },
@@ -20323,7 +20359,7 @@ rankings =
 "SI": 0,
 "TH": 0,
 "UA": 0,
-"US": 13,
+"US": 12,
 "ZA": 2
 }
 }
@@ -20721,6 +20757,12 @@ rankings =
 "id": "2012MENG02",
 "best": "1:58.28",
 "competition": 2354
+},
+{
+"rank": 21,
+"id": "2017KRUG04",
+"best": "1:59.34",
+"competition": 6656
 },
 {
 "rank": 22,
@@ -21570,12 +21612,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 57,
+"world": 56,
 "continents": {
 "AF": 2,
 "AS": 11,
 "EU": 28,
-"NA": 12,
+"NA": 11,
 "OC": 0,
 "SA": 3
 },
@@ -21619,7 +21661,7 @@ rankings =
 "SG": 0,
 "SI": 0,
 "TH": 0,
-"US": 11,
+"US": 10,
 "ZA": 2
 }
 }
@@ -21966,6 +22008,12 @@ rankings =
 "id": "2016CRUZ16",
 "best": "2:06.40",
 "competition": 6784
+},
+{
+"rank": 17,
+"id": "2017KRUG04",
+"best": "2:06.58",
+"competition": 6656
 },
 {
 "rank": 18,
@@ -22469,12 +22517,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 19,
+"world": 18,
 "continents": {
 "AF": 2,
 "AS": 6,
 "EU": 6,
-"NA": 3,
+"NA": 2,
 "SA": 2
 },
 "countries": {
@@ -22510,7 +22558,7 @@ rankings =
 "SE": 0,
 "SG": 0,
 "TH": 0,
-"US": 2,
+"US": 1,
 "ZA": 2
 }
 }
@@ -22805,6 +22853,12 @@ rankings =
 "id": "2016AMBE02",
 "best": "4:12.19",
 "competition": 5783
+},
+{
+"rank": 23,
+"id": "2017KRUG04",
+"best": "4:12.52",
+"competition": 6656
 },
 {
 "rank": 24,
@@ -23179,12 +23233,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 14,
+"world": 13,
 "continents": {
 "AF": 0,
 "AS": 1,
 "EU": 7,
-"NA": 5,
+"NA": 4,
 "SA": 1
 },
 "countries": {
@@ -23213,7 +23267,7 @@ rankings =
 "PT": 0,
 "RU": 1,
 "SE": 0,
-"US": 5,
+"US": 4,
 "ZA": 0
 }
 }
@@ -33554,6 +33608,12 @@ rankings =
 "competition": 357
 },
 {
+"rank": 326,
+"id": "2017KRUG04",
+"best": "19.23",
+"competition": 5308
+},
+{
 "rank": 331,
 "id": "2017WEST02",
 "best": "19.55",
@@ -33742,12 +33802,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 232,
+"world": 231,
 "continents": {
 "AF": 3,
 "AS": 49,
 "EU": 83,
-"NA": 71,
+"NA": 70,
 "OC": 7,
 "SA": 18
 },
@@ -33800,7 +33860,7 @@ rankings =
 "TH": 0,
 "TN": 0,
 "UA": 0,
-"US": 59,
+"US": 58,
 "ZA": 2
 }
 }
@@ -35299,6 +35359,12 @@ rankings =
 "competition": 3177
 },
 {
+"rank": 243,
+"id": "2017KRUG04",
+"best": "20.31",
+"competition": 5308
+},
+{
 "rank": 244,
 "id": "2018KOHL03",
 "best": "20.44",
@@ -35686,12 +35752,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 201,
+"world": 200,
 "continents": {
 "AF": 3,
 "AS": 39,
 "EU": 77,
-"NA": 63,
+"NA": 62,
 "OC": 7,
 "SA": 11
 },
@@ -35743,7 +35809,7 @@ rankings =
 "TH": 0,
 "TN": 0,
 "UA": 0,
-"US": 52,
+"US": 51,
 "ZA": 2
 }
 }
@@ -43983,6 +44049,20 @@ rankings =
 "555",
 "pyram",
 "skewb"
+]
+},
+{
+"id": "2017KRUG04",
+"name": "Jason Krug",
+"country": "US",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"666",
+"pyram"
 ]
 },
 {
@@ -56389,6 +56469,13 @@ rankings =
 "webId": "ArkansasCubingDrive2018"
 },
 {
+"id": 5308,
+"name": "Indianapolis Fall 2018",
+"country": "US",
+"startDate": "2018-12-01",
+"webId": "IndianapolisFall2018"
+},
+{
 "id": 5309,
 "name": "Oakville Autumn Limited 2018",
 "country": "CA",
@@ -59292,6 +59379,13 @@ rankings =
 "country": "US",
 "startDate": "2019-12-14",
 "webId": "GACubersFeetFest2019"
+},
+{
+"id": 6656,
+"name": "Indianapolis Cubes Winter 2019",
+"country": "US",
+"startDate": "2019-12-14",
+"webId": "IndianapolisCubesWinter2019"
 },
 {
 "id": 6659,
