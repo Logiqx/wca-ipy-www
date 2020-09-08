@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-09-08 04:14:22",
+"refreshed": "2020-09-08 09:32:13",
 "events": [
 {
 "id": "333",
@@ -1167,6 +1167,12 @@ rankings =
 "competition": 6092
 },
 {
+"rank": 284,
+"id": "2016REIM01",
+"best": "20.88",
+"competition": 6775
+},
+{
 "rank": 286,
 "id": "2014KUDO02",
 "best": "20.93",
@@ -1465,20 +1471,26 @@ rankings =
 "competition": 6374
 },
 {
-"rank": 381,
+"rank": 382,
 "id": "2017UEDA02",
 "best": "23.31",
 "competition": 5388
 },
 {
 "rank": 383,
+"id": "2019NGUY29",
+"best": "23.35",
+"competition": 6300
+},
+{
+"rank": 384,
 "id": "2018FAUS02",
 "best": "23.38",
 "age": 60,
 "competition": 4746
 },
 {
-"rank": 383,
+"rank": 384,
 "id": "2019BLAC02",
 "best": "23.38",
 "age": 50,
@@ -2257,6 +2269,13 @@ rankings =
 "competition": 5899
 },
 {
+"rank": 740,
+"id": "2019GOKE01",
+"best": "34.63",
+"age": 50,
+"competition": 6527
+},
+{
 "rank": 744,
 "id": "2017NOVA05",
 "best": "34.75",
@@ -2451,6 +2470,12 @@ rankings =
 "id": "2017THOR05",
 "best": "39.46",
 "competition": 6640
+},
+{
+"rank": 845,
+"id": "2018BUSC01",
+"best": "39.55",
+"competition": 5872
 },
 {
 "rank": 847,
@@ -3711,12 +3736,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1453,
+"world": 1449,
 "continents": {
 "AF": 35,
 "AS": 350,
-"EU": 492,
-"NA": 382,
+"EU": 491,
+"NA": 379,
 "OC": 57,
 "SA": 136
 },
@@ -3729,7 +3754,7 @@ rankings =
 "BG": 1,
 "BR": 95,
 "BY": 3,
-"CA": 60,
+"CA": 58,
 "CH": 15,
 "CL": 7,
 "CN": 107,
@@ -3756,7 +3781,7 @@ rankings =
 "IL": 7,
 "IN": 51,
 "IR": 9,
-"IT": 21,
+"IT": 20,
 "JM": 0,
 "JO": 0,
 "JP": 134,
@@ -3791,7 +3816,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 293,
+"US": 292,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -4331,6 +4356,12 @@ rankings =
 "id": "2016BERK01",
 "best": "34.59",
 "competition": 5899
+},
+{
+"rank": 148,
+"id": "2019GOKE01",
+"best": "34.63",
+"competition": 6527
 },
 {
 "rank": 153,
@@ -4978,12 +5009,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 344,
+"world": 343,
 "continents": {
 "AF": 6,
 "AS": 80,
 "EU": 115,
-"NA": 96,
+"NA": 95,
 "OC": 18,
 "SA": 29
 },
@@ -5030,7 +5061,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 79,
+"US": 78,
 "VE": 1,
 "ZA": 3
 }
@@ -6952,6 +6983,12 @@ rankings =
 "competition": 5368
 },
 {
+"rank": 335,
+"id": "2019NGUY29",
+"best": "27.03",
+"competition": 6300
+},
+{
 "rank": 337,
 "id": "2017MEGA01",
 "best": "27.05",
@@ -7000,6 +7037,12 @@ rankings =
 "best": "27.69",
 "age": 50,
 "competition": 6493
+},
+{
+"rank": 355,
+"id": "2016REIM01",
+"best": "27.69",
+"competition": 6142
 },
 {
 "rank": 357,
@@ -7673,6 +7716,13 @@ rankings =
 "competition": 4113
 },
 {
+"rank": 631,
+"id": "2019GOKE01",
+"best": "37.67",
+"age": 50,
+"competition": 6351
+},
+{
 "rank": 632,
 "id": "2010PLAZ01",
 "best": "37.73",
@@ -7985,14 +8035,20 @@ rankings =
 "competition": 5911
 },
 {
-"rank": 773,
+"rank": 772,
+"id": "2018BUSC01",
+"best": "44.77",
+"competition": 5872
+},
+{
+"rank": 774,
 "id": "2019GARD02",
 "best": "44.85",
 "age": 50,
 "competition": 6258
 },
 {
-"rank": 777,
+"rank": 776,
 "id": "2015BEUK01",
 "best": "45.12",
 "competition": 3260
@@ -9267,12 +9323,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 1377,
+"world": 1373,
 "continents": {
 "AF": 35,
 "AS": 305,
-"EU": 474,
-"NA": 374,
+"EU": 473,
+"NA": 371,
 "OC": 54,
 "SA": 134
 },
@@ -9285,7 +9341,7 @@ rankings =
 "BG": 0,
 "BR": 93,
 "BY": 3,
-"CA": 59,
+"CA": 57,
 "CH": 14,
 "CL": 7,
 "CN": 97,
@@ -9312,7 +9368,7 @@ rankings =
 "IL": 7,
 "IN": 31,
 "IR": 9,
-"IT": 20,
+"IT": 19,
 "JM": 0,
 "JO": 0,
 "JP": 126,
@@ -9347,7 +9403,7 @@ rankings =
 "TW": 2,
 "TZ": 1,
 "UA": 4,
-"US": 287,
+"US": 286,
 "UY": 3,
 "UZ": 0,
 "VE": 8,
@@ -9770,6 +9826,12 @@ rankings =
 "id": "2009JOHN07",
 "best": "36.86",
 "competition": 599
+},
+{
+"rank": 112,
+"id": "2019GOKE01",
+"best": "37.67",
+"competition": 6351
 },
 {
 "rank": 121,
@@ -10484,12 +10546,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 327,
+"world": 326,
 "continents": {
 "AF": 6,
 "AS": 73,
 "EU": 111,
-"NA": 92,
+"NA": 91,
 "OC": 16,
 "SA": 29
 },
@@ -10536,7 +10598,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 76,
+"US": 75,
 "VE": 1,
 "ZA": 3
 }
@@ -11595,6 +11657,12 @@ rankings =
 "competition": 7137
 },
 {
+"rank": 115,
+"id": "2016REIM01",
+"best": "5.30",
+"competition": 6775
+},
+{
 "rank": 117,
 "id": "2009JARU02",
 "best": "5.31",
@@ -12166,6 +12234,13 @@ rankings =
 "id": "2010WENS01",
 "best": "6.95",
 "competition": 6246
+},
+{
+"rank": 252,
+"id": "2019GOKE01",
+"best": "6.99",
+"age": 50,
+"competition": 6351
 },
 {
 "rank": 254,
@@ -13172,7 +13247,13 @@ rankings =
 "competition": 1431
 },
 {
-"rank": 705,
+"rank": 703,
+"id": "2018BUSC01",
+"best": "22.35",
+"competition": 5872
+},
+{
+"rank": 706,
 "id": "2012BOWE01",
 "best": "22.55",
 "age": 70,
@@ -13373,12 +13454,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 492,
+"world": 489,
 "continents": {
 "AF": 13,
 "AS": 83,
-"EU": 186,
-"NA": 141,
+"EU": 185,
+"NA": 139,
 "OC": 28,
 "SA": 40
 },
@@ -13391,7 +13472,7 @@ rankings =
 "BG": 0,
 "BR": 28,
 "BY": 1,
-"CA": 19,
+"CA": 18,
 "CH": 10,
 "CL": 2,
 "CN": 34,
@@ -13413,7 +13494,7 @@ rankings =
 "IL": 2,
 "IN": 15,
 "IR": 3,
-"IT": 12,
+"IT": 11,
 "JM": 0,
 "JP": 18,
 "KR": 2,
@@ -13438,7 +13519,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 115,
+"US": 114,
 "UY": 1,
 "VE": 3,
 "ZA": 10
@@ -13647,6 +13728,12 @@ rankings =
 "id": "2008RIJK01",
 "best": "6.80",
 "competition": 3817
+},
+{
+"rank": 49,
+"id": "2019GOKE01",
+"best": "6.99",
+"competition": 6351
 },
 {
 "rank": 50,
@@ -14047,12 +14134,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 118,
+"world": 117,
 "continents": {
 "AF": 5,
 "AS": 16,
 "EU": 48,
-"NA": 30,
+"NA": 29,
 "OC": 8,
 "SA": 11
 },
@@ -14091,7 +14178,7 @@ rankings =
 "SK": 1,
 "TN": 1,
 "TZ": 1,
-"US": 27,
+"US": 26,
 "ZA": 2
 }
 }
@@ -15239,6 +15326,19 @@ rankings =
 "id": "2017CHAR16",
 "best": "9.72",
 "competition": 6092
+},
+{
+"rank": 219,
+"id": "2016REIM01",
+"best": "9.78",
+"competition": 5933
+},
+{
+"rank": 219,
+"id": "2019GOKE01",
+"best": "9.78",
+"age": 50,
+"competition": 6351
 },
 {
 "rank": 219,
@@ -16394,6 +16494,12 @@ rankings =
 "competition": 3819
 },
 {
+"rank": 726,
+"id": "2018BUSC01",
+"best": "43.05",
+"competition": 5872
+},
+{
 "rank": 731,
 "id": "2018SUZU02",
 "best": "44.48",
@@ -16519,12 +16625,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 448,
+"world": 445,
 "continents": {
 "AF": 12,
 "AS": 66,
-"EU": 176,
-"NA": 131,
+"EU": 175,
+"NA": 129,
 "OC": 26,
 "SA": 36
 },
@@ -16537,7 +16643,7 @@ rankings =
 "BG": 0,
 "BR": 26,
 "BY": 1,
-"CA": 17,
+"CA": 16,
 "CH": 9,
 "CL": 2,
 "CN": 30,
@@ -16559,7 +16665,7 @@ rankings =
 "IL": 2,
 "IN": 5,
 "IR": 3,
-"IT": 12,
+"IT": 11,
 "JM": 0,
 "JP": 17,
 "KR": 2,
@@ -16584,7 +16690,7 @@ rankings =
 "TN": 1,
 "TZ": 1,
 "UA": 0,
-"US": 107,
+"US": 106,
 "UY": 1,
 "VE": 2,
 "ZA": 10
@@ -16744,6 +16850,12 @@ rankings =
 "id": "2018SMIT42",
 "best": "9.63",
 "competition": 6659
+},
+{
+"rank": 38,
+"id": "2019GOKE01",
+"best": "9.78",
+"competition": 6351
 },
 {
 "rank": 39,
@@ -17174,12 +17286,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 108,
+"world": 107,
 "continents": {
 "AF": 4,
 "AS": 12,
 "EU": 46,
-"NA": 28,
+"NA": 27,
 "OC": 7,
 "SA": 11
 },
@@ -17217,7 +17329,7 @@ rankings =
 "SK": 1,
 "TN": 1,
 "TZ": 1,
-"US": 26,
+"US": 25,
 "ZA": 2
 }
 }
@@ -18195,6 +18307,13 @@ rankings =
 "competition": 595
 },
 {
+"rank": 164,
+"id": "2019GOKE01",
+"best": "1:36.96",
+"age": 50,
+"competition": 6527
+},
+{
 "rank": 165,
 "id": "2018SMIT42",
 "best": "1:37.06",
@@ -18513,6 +18632,12 @@ rankings =
 "id": "2004CONN01",
 "best": "2:00.75",
 "competition": 886
+},
+{
+"rank": 250,
+"id": "2016REIM01",
+"best": "2:04.83",
+"competition": 6021
 },
 {
 "rank": 251,
@@ -18869,12 +18994,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 144,
+"world": 142,
 "continents": {
 "AF": 2,
 "AS": 22,
 "EU": 69,
-"NA": 38,
+"NA": 36,
 "OC": 2,
 "SA": 10
 },
@@ -18886,7 +19011,7 @@ rankings =
 "BE": 1,
 "BG": 0,
 "BR": 8,
-"CA": 7,
+"CA": 6,
 "CH": 4,
 "CL": 0,
 "CN": 6,
@@ -18926,7 +19051,7 @@ rankings =
 "SI": 0,
 "TH": 0,
 "UA": 0,
-"US": 28,
+"US": 27,
 "VE": 1,
 "ZA": 2
 }
@@ -19025,6 +19150,12 @@ rankings =
 "id": "2005ISHI01",
 "best": "1:35.65",
 "competition": 817
+},
+{
+"rank": 23,
+"id": "2019GOKE01",
+"best": "1:36.96",
+"competition": 6527
 },
 {
 "rank": 24,
@@ -19234,12 +19365,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 25,
+"world": 24,
 "continents": {
 "AF": 0,
 "AS": 4,
 "EU": 15,
-"NA": 5,
+"NA": 4,
 "OC": 0,
 "SA": 1
 },
@@ -19265,7 +19396,7 @@ rankings =
 "RU": 2,
 "SE": 0,
 "SI": 0,
-"US": 5,
+"US": 4,
 "ZA": 0
 }
 }
@@ -21421,6 +21552,13 @@ rankings =
 "competition": 6286
 },
 {
+"rank": 157,
+"id": "2019GOKE01",
+"best": "3:59.34",
+"age": 50,
+"competition": 6351
+},
+{
 "rank": 158,
 "id": "2018GRAG01",
 "best": "3:59.68",
@@ -21636,12 +21774,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 56,
+"world": 55,
 "continents": {
 "AF": 2,
 "AS": 11,
 "EU": 28,
-"NA": 11,
+"NA": 10,
 "OC": 0,
 "SA": 3
 },
@@ -21685,7 +21823,7 @@ rankings =
 "SG": 0,
 "SI": 0,
 "TH": 0,
-"US": 10,
+"US": 9,
 "ZA": 2
 }
 }
@@ -21816,6 +21954,12 @@ rankings =
 "competition": 5016
 },
 {
+"rank": 27,
+"id": "2019GOKE01",
+"best": "3:59.34",
+"competition": 6351
+},
+{
 "rank": 29,
 "id": "2006NORS01",
 "best": "4:16.00",
@@ -21883,12 +22027,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 12,
+"world": 11,
 "continents": {
 "AF": 1,
 "AS": 1,
 "EU": 7,
-"NA": 3
+"NA": 2
 },
 "countries": {
 "CA": 0,
@@ -21905,7 +22049,7 @@ rankings =
 "RU": 2,
 "SE": 0,
 "SI": 0,
-"US": 3,
+"US": 2,
 "ZA": 1
 }
 }
@@ -28257,6 +28401,12 @@ rankings =
 "competition": 6337
 },
 {
+"rank": 200,
+"id": "2016REIM01",
+"best": "1:39.62",
+"competition": 6775
+},
+{
 "rank": 203,
 "id": "2009NEEL01",
 "best": "1:40.51",
@@ -28328,12 +28478,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 71,
+"world": 70,
 "continents": {
 "AF": 0,
 "AS": 13,
 "EU": 27,
-"NA": 24,
+"NA": 23,
 "SA": 5
 },
 "countries": {
@@ -28342,7 +28492,7 @@ rankings =
 "BE": 1,
 "BG": 0,
 "BR": 4,
-"CA": 3,
+"CA": 2,
 "CH": 1,
 "CN": 9,
 "CO": 0,
@@ -29836,6 +29986,12 @@ rankings =
 "competition": 6745
 },
 {
+"rank": 32,
+"id": "2016REIM01",
+"best": "14.45",
+"competition": 6919
+},
+{
 "rank": 33,
 "id": "2008COUR01",
 "best": "14.69",
@@ -30303,11 +30459,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 38,
+"world": 37,
 "continents": {
 "AS": 6,
 "EU": 18,
-"NA": 10,
+"NA": 9,
 "OC": 1,
 "SA": 2
 },
@@ -30318,7 +30474,7 @@ rankings =
 "BE": 2,
 "BG": 0,
 "BR": 2,
-"CA": 2,
+"CA": 1,
 "CN": 1,
 "CO": 0,
 "DE": 5,
@@ -30789,6 +30945,12 @@ rankings =
 "competition": 964
 },
 {
+"rank": 36,
+"id": "2016REIM01",
+"best": "18.16",
+"competition": 6919
+},
+{
 "rank": 37,
 "id": "2013COPP01",
 "best": "18.46",
@@ -31123,18 +31285,18 @@ rankings =
 }
 ],
 "missing": {
-"world": 19,
+"world": 18,
 "continents": {
 "AS": 3,
 "EU": 9,
-"NA": 4,
+"NA": 3,
 "SA": 2
 },
 "countries": {
 "AT": 0,
 "BG": 0,
 "BR": 2,
-"CA": 2,
+"CA": 1,
 "CN": 1,
 "CO": 0,
 "DE": 1,
@@ -31733,6 +31895,13 @@ rankings =
 "competition": 6311
 },
 {
+"rank": 59,
+"id": "2019GOKE01",
+"best": "3:41.02",
+"age": 50,
+"competition": 6039
+},
+{
 "rank": 60,
 "id": "2004CONN01",
 "best": "3:45.34",
@@ -31813,6 +31982,12 @@ rankings =
 "competition": 5309
 },
 {
+"rank": 80,
+"id": "2016REIM01",
+"best": "5:37.08",
+"competition": 6919
+},
+{
 "rank": 82,
 "id": "2009JOHN07",
 "best": "5:42.46",
@@ -31865,19 +32040,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 16,
+"world": 14,
 "continents": {
 "AF": 0,
 "AS": 2,
 "EU": 6,
-"NA": 7,
+"NA": 5,
 "SA": 1
 },
 "countries": {
 "AT": 0,
 "BG": 0,
 "BR": 1,
-"CA": 2,
+"CA": 1,
 "CN": 0,
 "CO": 0,
 "DE": 0,
@@ -31897,7 +32072,7 @@ rankings =
 "PT": 0,
 "RU": 1,
 "SE": 0,
-"US": 5,
+"US": 4,
 "ZA": 0
 }
 }
@@ -31961,6 +32136,12 @@ rankings =
 "competition": 6955
 },
 {
+"rank": 10,
+"id": "2019GOKE01",
+"best": "3:41.02",
+"competition": 6039
+},
+{
 "rank": 11,
 "id": "2015REYN07",
 "best": "4:35.23",
@@ -31993,11 +32174,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1,
+"world": 0,
 "continents": {
 "AF": 0,
 "EU": 0,
-"NA": 1
+"NA": 0
 },
 "countries": {
 "CA": 0,
@@ -32007,7 +32188,7 @@ rankings =
 "IT": 0,
 "NL": 0,
 "SE": 0,
-"US": 1,
+"US": 0,
 "ZA": 0
 }
 }
@@ -33017,6 +33198,12 @@ rankings =
 "competition": 6452
 },
 {
+"rank": 128,
+"id": "2016REIM01",
+"best": "9.39",
+"competition": 6775
+},
+{
 "rank": 129,
 "id": "2010WENS01",
 "best": "9.51",
@@ -33850,12 +34037,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 231,
+"world": 230,
 "continents": {
 "AF": 3,
 "AS": 49,
 "EU": 83,
-"NA": 70,
+"NA": 69,
 "OC": 7,
 "SA": 18
 },
@@ -33868,7 +34055,7 @@ rankings =
 "BG": 0,
 "BR": 10,
 "BY": 1,
-"CA": 9,
+"CA": 8,
 "CH": 4,
 "CN": 23,
 "CO": 3,
@@ -34747,6 +34934,12 @@ rankings =
 "best": "11.66",
 "age": 50,
 "competition": 2613
+},
+{
+"rank": 70,
+"id": "2016REIM01",
+"best": "11.66",
+"competition": 6775
 },
 {
 "rank": 72,
@@ -35800,12 +35993,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 200,
+"world": 199,
 "continents": {
 "AF": 3,
 "AS": 39,
 "EU": 77,
-"NA": 62,
+"NA": 61,
 "OC": 7,
 "SA": 11
 },
@@ -35818,7 +36011,7 @@ rankings =
 "BG": 0,
 "BR": 8,
 "BY": 1,
-"CA": 9,
+"CA": 8,
 "CH": 4,
 "CN": 17,
 "CO": 2,
@@ -37167,6 +37360,12 @@ rankings =
 "competition": 2633
 },
 {
+"rank": 209,
+"id": "2016REIM01",
+"best": "29.67",
+"competition": 6021
+},
+{
 "rank": 212,
 "id": "2017CREA01",
 "best": "30.46",
@@ -37225,12 +37424,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 95,
+"world": 94,
 "continents": {
 "AF": 1,
 "AS": 15,
 "EU": 38,
-"NA": 27,
+"NA": 26,
 "OC": 6,
 "SA": 7
 },
@@ -37242,7 +37441,7 @@ rankings =
 "BG": 0,
 "BR": 5,
 "BY": 1,
-"CA": 4,
+"CA": 3,
 "CH": 1,
 "CN": 9,
 "CO": 1,
@@ -38210,6 +38409,12 @@ rankings =
 "competition": 1630
 },
 {
+"rank": 176,
+"id": "2016REIM01",
+"best": "32.20",
+"competition": 6021
+},
+{
 "rank": 177,
 "id": "2017GUER16",
 "best": "32.48",
@@ -38317,12 +38522,12 @@ rankings =
 }
 ],
 "missing": {
-"world": 88,
+"world": 87,
 "continents": {
 "AF": 1,
 "AS": 13,
 "EU": 36,
-"NA": 25,
+"NA": 24,
 "OC": 6,
 "SA": 6
 },
@@ -38334,7 +38539,7 @@ rankings =
 "BG": 0,
 "BR": 4,
 "BY": 1,
-"CA": 4,
+"CA": 3,
 "CH": 1,
 "CN": 8,
 "CO": 1,
@@ -42595,6 +42800,22 @@ rankings =
 ]
 },
 {
+"id": "2016REIM01",
+"name": "Denis Reimer",
+"country": "CA",
+"age": 40,
+"events": [
+"222",
+"333",
+"333oh",
+"444",
+"clock",
+"minx",
+"pyram",
+"skewb"
+]
+},
+{
 "id": "2018SCHE08",
 "name": "Denis Scheehl",
 "country": "FR",
@@ -43789,6 +44010,15 @@ rankings =
 ]
 },
 {
+"id": "2019NGUY29",
+"name": "Huy Nguyen",
+"country": "CA",
+"age": 40,
+"events": [
+"333"
+]
+},
+{
 "id": "2015KIMH04",
 "name": "Hyunjo Kim (김현조)",
 "country": "KR",
@@ -44886,6 +45116,19 @@ rankings =
 "age": 40,
 "events": [
 "333"
+]
+},
+{
+"id": "2019GOKE01",
+"name": "Kerry Go",
+"country": "US",
+"age": 50,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"minx"
 ]
 },
 {
@@ -48340,6 +48583,16 @@ rankings =
 "pyram",
 "skewb",
 "sq1"
+]
+},
+{
+"id": "2018BUSC01",
+"name": "Vincenzo Buscemi",
+"country": "IT",
+"age": 40,
+"events": [
+"222",
+"333"
 ]
 },
 {
@@ -57810,6 +58063,13 @@ rankings =
 "webId": "ZurichOpen2019"
 },
 {
+"id": 5933,
+"name": "Foothills Final Fight 2019",
+"country": "CA",
+"startDate": "2019-05-25",
+"webId": "FoothillsFinalFight2019"
+},
+{
 "id": 5938,
 "name": "Atoutcubes Open 2019",
 "country": "FR",
@@ -57955,6 +58215,13 @@ rankings =
 "country": "ES",
 "startDate": "2019-06-16",
 "webId": "ParlaOpen2019"
+},
+{
+"id": 6021,
+"name": "CubingUSA Northwest Championship 2019",
+"country": "US",
+"startDate": "2019-06-21",
+"webId": "NorthwestChampionship2019"
 },
 {
 "id": 6024,
@@ -58221,6 +58488,13 @@ rankings =
 "country": "JP",
 "startDate": "2019-07-27",
 "webId": "KurukuruSummer2019"
+},
+{
+"id": 6142,
+"name": "Sherwood Park Summer 2019",
+"country": "CA",
+"startDate": "2019-07-27",
+"webId": "SherwoodParkSummer2019"
 },
 {
 "id": 6143,
@@ -58762,6 +59036,13 @@ rankings =
 "webId": "Tohoku2019"
 },
 {
+"id": 6351,
+"name": "Clash at Carlisle Fall 2019",
+"country": "US",
+"startDate": "2019-09-28",
+"webId": "ClashatCarlisleFall2019"
+},
+{
 "id": 6355,
 "name": "HLC Cube Challenge 2019",
 "country": "IN",
@@ -59145,6 +59426,13 @@ rankings =
 "country": "US",
 "startDate": "2019-11-09",
 "webId": "FortWorthFallFiesta2019"
+},
+{
+"id": 6527,
+"name": "No Place For DNF Fall 2019",
+"country": "US",
+"startDate": "2019-11-09",
+"webId": "NoPlaceForDNFFall2019"
 },
 {
 "id": 6528,
@@ -60104,6 +60392,13 @@ rankings =
 "country": "NL",
 "startDate": "2020-02-29",
 "webId": "StarCubingNijmegen2020"
+},
+{
+"id": 6919,
+"name": "Calgary Side Events 2020",
+"country": "CA",
+"startDate": "2020-03-07",
+"webId": "CalgarySideEvents2020"
 },
 {
 "id": 6923,
