@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-09-13 04:14:38",
+"refreshed": "2020-09-14 04:13:49",
 "events": [
 {
 "id": "333",
@@ -6345,16 +6345,16 @@ rankings =
 "competition": 6066
 },
 {
-"rank": 145,
+"rank": 144,
+"id": "2011ZAKR01",
+"best": "20.63",
+"competition": 7164
+},
+{
+"rank": 146,
 "id": "2008YIMV01",
 "best": "20.67",
 "competition": 6053
-},
-{
-"rank": 147,
-"id": "2011ZAKR01",
-"best": "20.71",
-"competition": 3001
 },
 {
 "rank": 149,
@@ -14589,8 +14589,8 @@ rankings =
 {
 "rank": 43,
 "id": "2014PACE01",
-"best": "6.59",
-"competition": 5775
+"best": "6.55",
+"competition": 7164
 },
 {
 "rank": 44,
@@ -26951,15 +26951,15 @@ rankings =
 },
 {
 "rank": 9,
+"id": "2015REYN07",
+"best": "34",
+"competition": 7165
+},
+{
+"rank": 10,
 "id": "1982PETR01",
 "best": "36",
 "competition": 1108
-},
-{
-"rank": 9,
-"id": "2015REYN07",
-"best": "36",
-"competition": 6153
 },
 {
 "rank": 11,
@@ -27182,58 +27182,59 @@ rankings =
 },
 {
 "rank": 17,
+"id": "2015REYN07",
+"best": "34.33",
+"age": 50,
+"competition": 7165
+},
+{
+"rank": 17,
 "id": "2014ISHI01",
 "best": "34.33",
 "competition": 5724
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2017KITA01",
 "best": "35.67",
 "competition": 6335
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2005KOCZ01",
 "best": "35.67",
 "competition": 4265
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2009TIRA01",
 "best": "35.67",
 "competition": 1966
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2004ROUX01",
 "best": "36.67",
 "competition": 3788
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2007CINO01",
 "best": "37.67",
 "competition": 5458
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2012ADRI01",
 "best": "38.00",
 "competition": 1302
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2006NORS01",
 "best": "38.00",
 "age": 50,
 "competition": 1863
-},
-{
-"rank": 23,
-"id": "2015REYN07",
-"best": "38.00",
-"competition": 6009
 },
 {
 "rank": 26,
@@ -27433,30 +27434,36 @@ rankings =
 },
 {
 "rank": 7,
+"id": "2015REYN07",
+"best": "34.33",
+"competition": 7165
+},
+{
+"rank": 8,
 "id": "2006NORS01",
 "best": "38.00",
 "competition": 1863
 },
 {
-"rank": 8,
+"rank": 9,
 "id": "2003DENN01",
 "best": "40.00",
 "competition": 2277
 },
 {
-"rank": 9,
+"rank": 10,
 "id": "2015RIVE05",
 "best": "44.67",
 "competition": 6466
 },
 {
-"rank": 10,
+"rank": 11,
 "id": "2008MATS04",
 "best": "47.33",
 "competition": 3846
 },
 {
-"rank": 11,
+"rank": 12,
 "id": "2015GOSL01",
 "best": "48.33",
 "competition": 4904
@@ -60525,6 +60532,20 @@ rankings =
 "country": "DK",
 "startDate": "2020-09-04",
 "webId": "DanishChampionship2020"
+},
+{
+"id": 7164,
+"name": "Gdańsk Open 2020",
+"country": "PL",
+"startDate": "2020-09-12",
+"webId": "GdanskOpen2020"
+},
+{
+"id": 7165,
+"name": "Only FMC 2020",
+"country": "FR",
+"startDate": "2020-09-12",
+"webId": "OnlyFMC2020"
 }
 ],
 "countries": [
