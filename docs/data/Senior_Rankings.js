@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-10-04 04:14:39",
+"refreshed": "2020-10-04 09:36:10",
 "events": [
 {
 "id": "333",
@@ -2813,6 +2813,12 @@ rankings =
 },
 {
 "rank": 1061,
+"id": "2019NYLE01",
+"best": "51.01",
+"competition": 6511
+},
+{
+"rank": 1062,
 "id": "2011BEMB01",
 "best": "51.02",
 "competition": 1377
@@ -3742,11 +3748,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1449,
+"world": 1448,
 "continents": {
 "AF": 35,
 "AS": 350,
-"EU": 491,
+"EU": 490,
 "NA": 379,
 "OC": 57,
 "SA": 136
@@ -3811,7 +3817,7 @@ rankings =
 "RO": 14,
 "RS": 1,
 "RU": 40,
-"SE": 27,
+"SE": 26,
 "SG": 2,
 "SI": 1,
 "SK": 2,
@@ -8466,7 +8472,13 @@ rankings =
 "competition": 4723
 },
 {
-"rank": 1037,
+"rank": 1036,
+"id": "2019NYLE01",
+"best": "1:01.93",
+"competition": 6511
+},
+{
+"rank": 1038,
 "id": "2018NICH04",
 "best": "1:02.00",
 "competition": 4510
@@ -9335,11 +9347,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1373,
+"world": 1372,
 "continents": {
 "AF": 35,
 "AS": 305,
-"EU": 473,
+"EU": 472,
 "NA": 371,
 "OC": 54,
 "SA": 134
@@ -9404,7 +9416,7 @@ rankings =
 "RO": 14,
 "RS": 1,
 "RU": 39,
-"SE": 26,
+"SE": 25,
 "SG": 2,
 "SI": 1,
 "SK": 2,
@@ -13245,7 +13257,13 @@ rankings =
 "competition": 3962
 },
 {
-"rank": 695,
+"rank": 692,
+"id": "2019NYLE01",
+"best": "21.16",
+"competition": 6511
+},
+{
+"rank": 696,
 "id": "2017HART11",
 "best": "21.40",
 "age": 50,
@@ -13466,11 +13484,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 489,
+"world": 488,
 "continents": {
 "AF": 13,
 "AS": 83,
-"EU": 185,
+"EU": 184,
 "NA": 139,
 "OC": 28,
 "SA": 40
@@ -13523,7 +13541,7 @@ rankings =
 "RO": 7,
 "RS": 2,
 "RU": 13,
-"SE": 8,
+"SE": 7,
 "SG": 1,
 "SI": 1,
 "SK": 1,
@@ -16427,6 +16445,12 @@ rankings =
 "competition": 5397
 },
 {
+"rank": 647,
+"id": "2019NYLE01",
+"best": "30.52",
+"competition": 5955
+},
+{
 "rank": 659,
 "id": "2019HERN07",
 "best": "32.58",
@@ -16637,11 +16661,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 445,
+"world": 444,
 "continents": {
 "AF": 12,
 "AS": 66,
-"EU": 175,
+"EU": 174,
 "NA": 129,
 "OC": 26,
 "SA": 36
@@ -16694,7 +16718,7 @@ rankings =
 "RO": 7,
 "RS": 1,
 "RU": 12,
-"SE": 8,
+"SE": 7,
 "SG": 0,
 "SI": 1,
 "SK": 1,
@@ -33978,6 +34002,12 @@ rankings =
 "competition": 6206
 },
 {
+"rank": 393,
+"id": "2019NYLE01",
+"best": "26.04",
+"competition": 6511
+},
+{
 "rank": 398,
 "id": "2018MORE06",
 "best": "27.06",
@@ -34056,11 +34086,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 230,
+"world": 229,
 "continents": {
 "AF": 3,
 "AS": 49,
-"EU": 83,
+"EU": 82,
 "NA": 69,
 "OC": 7,
 "SA": 18
@@ -34108,7 +34138,7 @@ rankings =
 "PT": 0,
 "RO": 0,
 "RU": 12,
-"SE": 4,
+"SE": 3,
 "SG": 0,
 "SI": 1,
 "TH": 0,
@@ -35808,6 +35838,12 @@ rankings =
 "competition": 357
 },
 {
+"rank": 314,
+"id": "2019NYLE01",
+"best": "27.43",
+"competition": 6511
+},
+{
 "rank": 318,
 "id": "2017VRIE02",
 "best": "27.71",
@@ -36012,11 +36048,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 199,
+"world": 198,
 "continents": {
 "AF": 3,
 "AS": 39,
-"EU": 77,
+"EU": 76,
 "NA": 61,
 "OC": 7,
 "SA": 11
@@ -36063,7 +36099,7 @@ rankings =
 "PT": 0,
 "RO": 0,
 "RU": 11,
-"SE": 4,
+"SE": 3,
 "SG": 0,
 "SI": 1,
 "TH": 0,
@@ -43057,6 +43093,17 @@ rankings =
 "events": [
 "222",
 "333"
+]
+},
+{
+"id": "2019NYLE01",
+"name": "Emma Nylén",
+"country": "SE",
+"age": 40,
+"events": [
+"222",
+"333",
+"pyram"
 ]
 },
 {
@@ -59431,6 +59478,13 @@ rankings =
 "country": "UA",
 "startDate": "2019-11-02",
 "webId": "SmartcubeFestKyiv2019"
+},
+{
+"id": 6511,
+"name": "SSL 4 Sundsvall 2019",
+"country": "SE",
+"startDate": "2019-11-02",
+"webId": "SSL4Sundsvall2019"
 },
 {
 "id": 6513,
