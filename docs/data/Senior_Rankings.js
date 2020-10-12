@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-10-12 04:14:28",
+"refreshed": "2020-10-12 10:33:34",
 "events": [
 {
 "id": "333",
@@ -1937,7 +1937,13 @@ rankings =
 "competition": 4620
 },
 {
-"rank": 584,
+"rank": 583,
+"id": "2018ANDE13",
+"best": "29.28",
+"competition": 6803
+},
+{
+"rank": 583,
 "id": "2008MOYE01",
 "best": "29.28",
 "competition": 539
@@ -1957,13 +1963,13 @@ rankings =
 "competition": 2567
 },
 {
-"rank": 595,
+"rank": 596,
 "id": "2018NIED02",
 "best": "29.62",
 "competition": 5019
 },
 {
-"rank": 597,
+"rank": 598,
 "id": "2006HYAK01",
 "best": "29.66",
 "age": 50,
@@ -3748,11 +3754,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1448,
+"world": 1447,
 "continents": {
 "AF": 35,
 "AS": 350,
-"EU": 490,
+"EU": 489,
 "NA": 379,
 "OC": 57,
 "SA": 136
@@ -3817,7 +3823,7 @@ rankings =
 "RO": 14,
 "RS": 1,
 "RU": 40,
-"SE": 26,
+"SE": 25,
 "SG": 2,
 "SI": 1,
 "SK": 2,
@@ -7613,6 +7619,12 @@ rankings =
 "competition": 6149
 },
 {
+"rank": 567,
+"id": "2018ANDE13",
+"best": "34.71",
+"competition": 6042
+},
+{
 "rank": 569,
 "id": "2017ROSS10",
 "best": "34.75",
@@ -9347,11 +9359,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 1372,
+"world": 1371,
 "continents": {
 "AF": 35,
 "AS": 305,
-"EU": 472,
+"EU": 471,
 "NA": 371,
 "OC": 54,
 "SA": 134
@@ -9416,7 +9428,7 @@ rankings =
 "RO": 14,
 "RS": 1,
 "RU": 39,
-"SE": 25,
+"SE": 24,
 "SG": 2,
 "SI": 1,
 "SK": 2,
@@ -12094,12 +12106,18 @@ rankings =
 },
 {
 "rank": 209,
+"id": "2018ANDE13",
+"best": "6.57",
+"competition": 6640
+},
+{
+"rank": 211,
 "id": "2017WEST02",
 "best": "6.58",
 "competition": 4138
 },
 {
-"rank": 209,
+"rank": 211,
 "id": "2009KOTT01",
 "best": "6.58",
 "competition": 1078
@@ -13484,11 +13502,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 488,
+"world": 487,
 "continents": {
 "AF": 13,
 "AS": 83,
-"EU": 184,
+"EU": 183,
 "NA": 139,
 "OC": 28,
 "SA": 40
@@ -13541,7 +13559,7 @@ rankings =
 "RO": 7,
 "RS": 2,
 "RU": 13,
-"SE": 7,
+"SE": 6,
 "SG": 1,
 "SI": 1,
 "SK": 1,
@@ -15027,16 +15045,22 @@ rankings =
 "competition": 557
 },
 {
-"rank": 137,
+"rank": 136,
 "id": "2013TORO01",
 "best": "8.36",
 "competition": 3718
 },
 {
-"rank": 137,
+"rank": 136,
 "id": "2012MORI01",
 "best": "8.36",
 "competition": 4473
+},
+{
+"rank": 138,
+"id": "2018ANDE13",
+"best": "8.39",
+"competition": 6640
 },
 {
 "rank": 139,
@@ -16661,11 +16685,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 444,
+"world": 443,
 "continents": {
 "AF": 12,
 "AS": 66,
-"EU": 174,
+"EU": 173,
 "NA": 129,
 "OC": 26,
 "SA": 36
@@ -16718,7 +16742,7 @@ rankings =
 "RO": 7,
 "RS": 1,
 "RU": 12,
-"SE": 7,
+"SE": 6,
 "SG": 0,
 "SI": 1,
 "SK": 1,
@@ -18873,10 +18897,16 @@ rankings =
 "competition": 254
 },
 {
-"rank": 318,
+"rank": 317,
 "id": "2017FIND02",
 "best": "2:45.85",
 "competition": 6456
+},
+{
+"rank": 318,
+"id": "2018ANDE13",
+"best": "2:46.68",
+"competition": 6803
 },
 {
 "rank": 320,
@@ -19030,11 +19060,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 142,
+"world": 141,
 "continents": {
 "AF": 2,
 "AS": 22,
-"EU": 69,
+"EU": 68,
 "NA": 36,
 "OC": 2,
 "SA": 10
@@ -33278,7 +33308,13 @@ rankings =
 "competition": 6895
 },
 {
-"rank": 137,
+"rank": 136,
+"id": "2018ANDE13",
+"best": "10.13",
+"competition": 6640
+},
+{
+"rank": 136,
 "id": "2009KOTT01",
 "best": "10.13",
 "competition": 1185
@@ -34086,11 +34122,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 229,
+"world": 228,
 "continents": {
 "AF": 3,
 "AS": 49,
-"EU": 82,
+"EU": 81,
 "NA": 69,
 "OC": 7,
 "SA": 18
@@ -34138,7 +34174,7 @@ rankings =
 "PT": 0,
 "RO": 0,
 "RU": 12,
-"SE": 3,
+"SE": 2,
 "SG": 0,
 "SI": 1,
 "TH": 0,
@@ -35041,52 +35077,52 @@ rankings =
 "competition": 6776
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2017RAMI36",
 "best": "12.32",
 "competition": 4996
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2012PLAC01",
 "best": "12.35",
 "competition": 3678
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2003LARS01",
 "best": "12.64",
 "age": 50,
 "competition": 1631
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2005GUST01",
 "best": "12.71",
 "competition": 608
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2018SMIT42",
 "best": "12.77",
 "age": 50,
 "competition": 6659
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2012DESO02",
 "best": "12.78",
 "competition": 2308
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2015GOSL01",
 "best": "12.79",
 "age": 50,
 "competition": 6859
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2006KASP02",
 "best": "12.88",
 "competition": 5564
@@ -35096,6 +35132,12 @@ rankings =
 "id": "2018SEMO01",
 "best": "12.99",
 "competition": 6165
+},
+{
+"rank": 100,
+"id": "2018ANDE13",
+"best": "13.06",
+"competition": 6640
 },
 {
 "rank": 101,
@@ -36048,11 +36090,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 198,
+"world": 197,
 "continents": {
 "AF": 3,
 "AS": 39,
-"EU": 76,
+"EU": 75,
 "NA": 61,
 "OC": 7,
 "SA": 11
@@ -36099,7 +36141,7 @@ rankings =
 "PT": 0,
 "RO": 0,
 "RU": 11,
-"SE": 3,
+"SE": 2,
 "SG": 0,
 "SI": 1,
 "TH": 0,
@@ -37069,10 +37111,16 @@ rankings =
 "competition": 6614
 },
 {
-"rank": 103,
+"rank": 102,
 "id": "2015LOPE29",
 "best": "12.40",
 "competition": 6559
+},
+{
+"rank": 104,
+"id": "2018ANDE13",
+"best": "12.51",
+"competition": 6042
 },
 {
 "rank": 105,
@@ -37485,11 +37533,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 94,
+"world": 93,
 "continents": {
 "AF": 1,
 "AS": 15,
-"EU": 38,
+"EU": 37,
 "NA": 26,
 "OC": 6,
 "SA": 7
@@ -37528,7 +37576,7 @@ rankings =
 "PL": 4,
 "PT": 0,
 "RU": 4,
-"SE": 3,
+"SE": 2,
 "SG": 0,
 "UA": 0,
 "US": 22,
@@ -38310,6 +38358,12 @@ rankings =
 "competition": 5569
 },
 {
+"rank": 126,
+"id": "2018ANDE13",
+"best": "22.48",
+"competition": 6042
+},
+{
 "rank": 127,
 "id": "2015REYE08",
 "best": "22.52",
@@ -38589,11 +38643,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 87,
+"world": 86,
 "continents": {
 "AF": 1,
 "AS": 13,
-"EU": 36,
+"EU": 35,
 "NA": 24,
 "OC": 6,
 "SA": 6
@@ -38632,7 +38686,7 @@ rankings =
 "PL": 4,
 "PT": 0,
 "RU": 4,
-"SE": 2,
+"SE": 1,
 "SG": 0,
 "UA": 0,
 "US": 20,
@@ -43030,6 +43084,19 @@ rankings =
 "age": 50,
 "events": [
 "333"
+]
+},
+{
+"id": "2018ANDE13",
+"name": "Edvin Andersson",
+"country": "SE",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"pyram",
+"skewb"
 ]
 },
 {
