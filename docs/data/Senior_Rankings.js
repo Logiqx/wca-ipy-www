@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-11-17 04:14:08",
+"refreshed": "2020-11-17 12:41:01",
 "events": [
 {
 "id": "333",
@@ -1584,6 +1584,13 @@ rankings =
 "id": "2019POLL04",
 "best": "24.29",
 "competition": 6645
+},
+{
+"rank": 425,
+"id": "2018FUNO01",
+"best": "24.42",
+"age": 50,
+"competition": 4641
 },
 {
 "rank": 427,
@@ -3754,10 +3761,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1447,
+"world": 1446,
 "continents": {
 "AF": 35,
-"AS": 350,
+"AS": 349,
 "EU": 489,
 "NA": 379,
 "OC": 57,
@@ -3802,7 +3809,7 @@ rankings =
 "IT": 20,
 "JM": 0,
 "JO": 0,
-"JP": 134,
+"JP": 133,
 "KR": 13,
 "KZ": 6,
 "LT": 0,
@@ -4108,18 +4115,24 @@ rankings =
 },
 {
 "rank": 67,
+"id": "2018FUNO01",
+"best": "24.42",
+"competition": 4641
+},
+{
+"rank": 68,
 "id": "2005GUST02",
 "best": "24.48",
 "competition": 2611
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2010NAKA01",
 "best": "24.65",
 "competition": 1595
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2016DEXT02",
 "best": "24.68",
 "competition": 5914
@@ -5027,10 +5040,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 343,
+"world": 342,
 "continents": {
 "AF": 6,
-"AS": 80,
+"AS": 79,
 "EU": 115,
 "NA": 95,
 "OC": 18,
@@ -5061,7 +5074,7 @@ rankings =
 "IR": 5,
 "IT": 6,
 "JM": 0,
-"JP": 34,
+"JP": 33,
 "KR": 2,
 "MX": 1,
 "NG": 0,
@@ -7445,7 +7458,7 @@ rankings =
 "competition": 283
 },
 {
-"rank": 506,
+"rank": 505,
 "id": "2018GILL07",
 "best": "33.01",
 "age": 50,
@@ -7456,6 +7469,13 @@ rankings =
 "id": "2018NIED02",
 "best": "33.03",
 "competition": 5019
+},
+{
+"rank": 508,
+"id": "2018FUNO01",
+"best": "33.04",
+"age": 50,
+"competition": 4641
 },
 {
 "rank": 509,
@@ -9359,10 +9379,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1371,
+"world": 1370,
 "continents": {
 "AF": 35,
-"AS": 305,
+"AS": 304,
 "EU": 471,
 "NA": 371,
 "OC": 54,
@@ -9407,7 +9427,7 @@ rankings =
 "IT": 19,
 "JM": 0,
 "JO": 0,
-"JP": 126,
+"JP": 125,
 "KR": 11,
 "KZ": 5,
 "LT": 0,
@@ -9742,10 +9762,16 @@ rankings =
 "competition": 5812
 },
 {
-"rank": 80,
+"rank": 79,
 "id": "2018GILL07",
 "best": "33.01",
 "competition": 6347
+},
+{
+"rank": 80,
+"id": "2018FUNO01",
+"best": "33.04",
+"competition": 4641
 },
 {
 "rank": 81,
@@ -10582,10 +10608,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 326,
+"world": 325,
 "continents": {
 "AF": 6,
-"AS": 73,
+"AS": 72,
 "EU": 111,
 "NA": 91,
 "OC": 16,
@@ -10616,7 +10642,7 @@ rankings =
 "IR": 5,
 "IT": 5,
 "JM": 0,
-"JP": 34,
+"JP": 33,
 "KR": 2,
 "MX": 1,
 "NG": 0,
@@ -45172,6 +45198,15 @@ rankings =
 "222",
 "333",
 "pyram"
+]
+},
+{
+"id": "2018FUNO01",
+"name": "Kazuhisa Funo (布能数久)",
+"country": "JP",
+"age": 50,
+"events": [
+"333"
 ]
 },
 {
