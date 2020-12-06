@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-12-05 04:14:42",
+"refreshed": "2020-12-06 04:14:07",
 "events": [
 {
 "id": "333",
@@ -20435,16 +20435,16 @@ rankings =
 },
 {
 "rank": 194,
+"id": "2017GEES01",
+"best": "2:35.78",
+"competition": 7200
+},
+{
+"rank": 195,
 "id": "2007DOUT01",
 "best": "2:35.84",
 "age": 50,
 "competition": 5828
-},
-{
-"rank": 195,
-"id": "2017GEES01",
-"best": "2:40.64",
-"competition": 6621
 },
 {
 "rank": 196,
@@ -59876,13 +59876,6 @@ rankings =
 "webId": "SantaClausCubeRace2019"
 },
 {
-"id": 6621,
-"name": "Darwin Open 2019",
-"country": "AU",
-"startDate": "2019-12-07",
-"webId": "DarwinOpen2019"
-},
-{
 "id": 6622,
 "name": "FMC Asia 2019",
 "country": "XA",
@@ -60742,6 +60735,13 @@ rankings =
 "country": "AU",
 "startDate": "2020-11-14",
 "webId": "SpeedySouthPerth2020"
+},
+{
+"id": 7200,
+"name": "Darwin Open 2020",
+"country": "AU",
+"startDate": "2020-12-05",
+"webId": "DarwinOpen2020"
 }
 ],
 "countries": [
