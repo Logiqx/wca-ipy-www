@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2020-12-26 04:15:05",
+"refreshed": "2020-12-27 04:14:08",
 "events": [
 {
 "id": "333",
@@ -1373,108 +1373,108 @@ rankings =
 "competition": 6559
 },
 {
-"rank": 343,
+"rank": 342,
+"id": "2017UEDA02",
+"best": "22.47",
+"competition": 7210
+},
+{
+"rank": 344,
 "id": "2015REYN07",
 "best": "22.55",
 "competition": 4878
 },
 {
-"rank": 345,
+"rank": 346,
 "id": "2016ARCH01",
 "best": "22.58",
 "competition": 3396
 },
 {
-"rank": 346,
+"rank": 347,
 "id": "2013MESA01",
 "best": "22.59",
 "competition": 2836
 },
 {
-"rank": 350,
+"rank": 351,
 "id": "2017TABA02",
 "best": "22.68",
 "competition": 6858
 },
 {
-"rank": 352,
+"rank": 353,
 "id": "2015HUNT01",
 "best": "22.72",
 "competition": 5867
 },
 {
-"rank": 353,
+"rank": 354,
 "id": "2012ADRI01",
 "best": "22.78",
 "competition": 2567
 },
 {
-"rank": 359,
+"rank": 360,
 "id": "2010SOHT01",
 "best": "22.91",
 "competition": 6192
 },
 {
-"rank": 362,
+"rank": 363,
 "id": "2013MESZ01",
 "best": "23.00",
 "competition": 4512
 },
 {
-"rank": 362,
+"rank": 363,
 "id": "2017CREA01",
 "best": "23.00",
 "age": 50,
 "competition": 5499
 },
 {
-"rank": 364,
+"rank": 365,
 "id": "2015REGE02",
 "best": "23.01",
 "competition": 5596
 },
 {
-"rank": 366,
+"rank": 367,
 "id": "2017ARQU01",
 "best": "23.06",
 "competition": 6207
 },
 {
-"rank": 369,
+"rank": 370,
 "id": "2009DELM02",
 "best": "23.09",
 "competition": 590
 },
 {
-"rank": 371,
+"rank": 372,
 "id": "2013AKGL01",
 "best": "23.14",
 "competition": 6877
 },
 {
-"rank": 373,
+"rank": 374,
 "id": "2012DESO02",
 "best": "23.17",
 "competition": 3017
 },
 {
-"rank": 373,
+"rank": 374,
 "id": "2008CIRN01",
 "best": "23.17",
 "competition": 3001
 },
 {
-"rank": 376,
+"rank": 377,
 "id": "2011HAYS02",
 "best": "23.19",
 "age": 60,
 "competition": 6092
-},
-{
-"rank": 382,
-"id": "2017UEDA02",
-"best": "23.31",
-"competition": 5388
 },
 {
 "rank": 383,
@@ -6891,76 +6891,76 @@ rankings =
 "competition": 2070
 },
 {
-"rank": 292,
+"rank": 291,
+"id": "2017UEDA02",
+"best": "25.57",
+"competition": 7210
+},
+{
+"rank": 293,
 "id": "2006MATH01",
 "best": "25.62",
 "competition": 1092
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2014PAVI02",
 "best": "25.64",
 "competition": 6216
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2014ZELT01",
 "best": "25.64",
 "competition": 3108
 },
 {
-"rank": 296,
+"rank": 297,
 "id": "2018GRAG01",
 "best": "25.67",
 "competition": 6421
 },
 {
-"rank": 297,
+"rank": 298,
 "id": "2015LOPE29",
 "best": "25.72",
 "competition": 6100
 },
 {
-"rank": 299,
+"rank": 300,
 "id": "2010MILB01",
 "best": "25.89",
 "competition": 1224
 },
 {
-"rank": 301,
+"rank": 302,
 "id": "2008ERSK01",
 "best": "25.97",
 "competition": 1657
 },
 {
-"rank": 302,
+"rank": 303,
 "id": "2006MIYA01",
 "best": "25.98",
 "competition": 1983
 },
 {
-"rank": 303,
+"rank": 304,
 "id": "2009ZBIE01",
 "best": "25.99",
 "competition": 6907
 },
 {
-"rank": 305,
+"rank": 306,
 "id": "2017THOR06",
 "best": "26.08",
 "competition": 5169
 },
 {
-"rank": 309,
+"rank": 310,
 "id": "2013AKGL01",
 "best": "26.15",
 "competition": 6877
-},
-{
-"rank": 311,
-"id": "2017UEDA02",
-"best": "26.20",
-"competition": 5252
 },
 {
 "rank": 314,
@@ -60788,6 +60788,13 @@ rankings =
 "country": "AU",
 "startDate": "2020-12-12",
 "webId": "TurnAroundTassie2020"
+},
+{
+"id": 7210,
+"name": "Welcome Back Ayase Winter 2020",
+"country": "JP",
+"startDate": "2020-12-26",
+"webId": "WelcomeBackAyaseWinter2020"
 }
 ],
 "countries": [
