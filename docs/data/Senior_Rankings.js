@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-01-17 04:14:35",
+"refreshed": "2021-01-18 04:14:40",
 "events": [
 {
 "id": "333",
@@ -10805,30 +10805,30 @@ rankings =
 "competition": 381
 },
 {
-"rank": 33,
+"rank": 32,
+"id": "2016ZEMD01",
+"best": "1:14.76",
+"competition": 7228
+},
+{
+"rank": 34,
 "id": "2013COLL02",
 "best": "1:15.87",
 "age": 70,
 "competition": 1982
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2008JINZ01",
 "best": "1:16.10",
 "age": 80,
 "competition": 4690
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2015LIMA20",
 "best": "1:21.24",
 "competition": 3788
-},
-{
-"rank": 37,
-"id": "2016ZEMD01",
-"best": "1:24.54",
-"competition": 7203
 },
 {
 "rank": 39,
@@ -60795,6 +60795,13 @@ rankings =
 "country": "JP",
 "startDate": "2020-12-26",
 "webId": "WelcomeBackAyaseWinter2020"
+},
+{
+"id": 7228,
+"name": "Adelaide Twin Saturday 2021",
+"country": "AU",
+"startDate": "2021-01-16",
+"webId": "AdelaideTwinSaturday2021"
 }
 ],
 "countries": [
