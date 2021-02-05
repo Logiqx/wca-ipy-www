@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-02-04 04:14:30",
+"refreshed": "2021-02-05 04:14:31",
 "events": [
 {
 "id": "333",
@@ -917,40 +917,40 @@ rankings =
 },
 {
 "rank": 212,
+"id": "2018TAHO01",
+"best": "19.09",
+"competition": 7241
+},
+{
+"rank": 212,
 "id": "2020TSUC01",
 "best": "19.09",
 "competition": 6851
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2005ASPE01",
 "best": "19.11",
 "competition": 844
 },
 {
-"rank": 216,
+"rank": 217,
 "id": "2014KIZU01",
 "best": "19.20",
 "competition": 6547
 },
 {
-"rank": 219,
+"rank": 220,
 "id": "2010POLJ01",
 "best": "19.25",
 "competition": 1150
 },
 {
-"rank": 222,
+"rank": 223,
 "id": "2017GRIS03",
 "best": "19.41",
 "age": 50,
 "competition": 6766
-},
-{
-"rank": 224,
-"id": "2018TAHO01",
-"best": "19.45",
-"competition": 7194
 },
 {
 "rank": 225,
@@ -6648,138 +6648,138 @@ rankings =
 },
 {
 "rank": 227,
+"id": "2018TAHO01",
+"best": "23.15",
+"competition": 7241
+},
+{
+"rank": 228,
 "id": "2017GRIS03",
 "best": "23.23",
 "age": 50,
 "competition": 6766
 },
 {
-"rank": 228,
+"rank": 229,
 "id": "2004FEDE01",
 "best": "23.27",
 "competition": 550
 },
 {
-"rank": 228,
+"rank": 229,
 "id": "2005ISHI01",
 "best": "23.27",
 "age": 50,
 "competition": 405
 },
 {
-"rank": 231,
+"rank": 232,
 "id": "2018HOSH02",
 "best": "23.33",
 "competition": 6276
 },
 {
-"rank": 232,
+"rank": 233,
 "id": "2005CHEN02",
 "best": "23.36",
 "competition": 170
 },
 {
-"rank": 233,
+"rank": 234,
 "id": "2005AKUZ01",
 "best": "23.46",
 "age": 50,
 "competition": 5388
 },
 {
-"rank": 234,
+"rank": 235,
 "id": "2005PELL01",
 "best": "23.49",
 "competition": 969
 },
 {
-"rank": 234,
+"rank": 235,
 "id": "2007FEKE01",
 "best": "23.49",
 "competition": 1035
 },
 {
-"rank": 236,
+"rank": 237,
 "id": "2015REYE08",
 "best": "23.51",
 "competition": 4483
 },
 {
-"rank": 237,
+"rank": 238,
 "id": "2020TSUC01",
 "best": "23.55",
 "competition": 6851
 },
 {
-"rank": 239,
+"rank": 240,
 "id": "2019CHIE01",
 "best": "23.64",
 "competition": 6547
 },
 {
-"rank": 241,
+"rank": 242,
 "id": "2005PARI01",
 "best": "23.70",
 "competition": 435
 },
 {
-"rank": 242,
+"rank": 243,
 "id": "2005JOKS01",
 "best": "23.71",
 "competition": 192
 },
 {
-"rank": 244,
+"rank": 245,
 "id": "2012ANGD01",
 "best": "23.80",
 "competition": 4925
 },
 {
-"rank": 244,
+"rank": 245,
 "id": "2015PAVI02",
 "best": "23.80",
 "competition": 3552
 },
 {
-"rank": 247,
+"rank": 248,
 "id": "2014KUDO02",
 "best": "23.83",
 "competition": 2611
 },
 {
-"rank": 248,
+"rank": 249,
 "id": "2010POLJ01",
 "best": "23.84",
 "competition": 1150
 },
 {
-"rank": 249,
+"rank": 250,
 "id": "2004BOSS01",
 "best": "23.86",
 "competition": 366
 },
 {
-"rank": 250,
+"rank": 251,
 "id": "2018FENI01",
 "best": "23.87",
 "competition": 6557
 },
 {
-"rank": 252,
+"rank": 253,
 "id": "2016EVAN04",
 "best": "23.93",
 "competition": 5179
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2007KOLL01",
 "best": "24.01",
 "competition": 5207
-},
-{
-"rank": 256,
-"id": "2018TAHO01",
-"best": "24.14",
-"competition": 7194
 },
 {
 "rank": 257,
@@ -60810,13 +60810,6 @@ rankings =
 "webId": "VeenendaalOpen2020"
 },
 {
-"id": 7194,
-"name": "Speedy South Perth 2020",
-"country": "AU",
-"startDate": "2020-11-14",
-"webId": "SpeedySouthPerth2020"
-},
-{
 "id": 7205,
 "name": "Darwin Open 2020",
 "country": "AU",
@@ -60857,6 +60850,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-01-23",
 "webId": "MelbourneSummer2021"
+},
+{
+"id": 7241,
+"name": "Showground Showdown 2021",
+"country": "AU",
+"startDate": "2021-01-30",
+"webId": "ShowgroundShowdown2021"
 }
 ],
 "countries": [
