@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-02-28 04:14:28",
+"refreshed": "2021-03-01 04:14:55",
 "events": [
 {
 "id": "333",
