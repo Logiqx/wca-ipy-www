@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-04-02 04:14:24",
+"refreshed": "2021-04-02 12:48:55",
 "events": [
 {
 "id": "333",
@@ -987,6 +987,12 @@ rankings =
 "id": "2011LUCI01",
 "best": "19.66",
 "competition": 6544
+},
+{
+"rank": 233,
+"id": "2014JEON06",
+"best": "19.77",
+"competition": 2117
 },
 {
 "rank": 235,
@@ -3762,10 +3768,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1447,
+"world": 1446,
 "continents": {
 "AF": 35,
-"AS": 349,
+"AS": 348,
 "EU": 489,
 "NA": 379,
 "OC": 57,
@@ -3811,7 +3817,7 @@ rankings =
 "JM": 0,
 "JO": 0,
 "JP": 133,
-"KR": 13,
+"KR": 12,
 "KZ": 6,
 "LT": 0,
 "LV": 2,
@@ -6468,6 +6474,12 @@ rankings =
 "id": "2015SPAD01",
 "best": "21.31",
 "competition": 6287
+},
+{
+"rank": 170,
+"id": "2014JEON06",
+"best": "21.39",
+"competition": 2117
 },
 {
 "rank": 171,
@@ -9394,10 +9406,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1371,
+"world": 1370,
 "continents": {
 "AF": 35,
-"AS": 304,
+"AS": 303,
 "EU": 471,
 "NA": 371,
 "OC": 54,
@@ -9443,7 +9455,7 @@ rankings =
 "JM": 0,
 "JO": 0,
 "JP": 125,
-"KR": 11,
+"KR": 10,
 "KZ": 5,
 "LT": 0,
 "LV": 2,
@@ -28352,6 +28364,12 @@ rankings =
 "competition": 571
 },
 {
+"rank": 140,
+"id": "2014JEON06",
+"best": "53.37",
+"competition": 2117
+},
+{
 "rank": 141,
 "id": "2006STAD01",
 "best": "53.67",
@@ -28655,10 +28673,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 70,
+"world": 69,
 "continents": {
 "AF": 0,
-"AS": 13,
+"AS": 12,
 "EU": 27,
 "NA": 23,
 "SA": 5
@@ -28685,7 +28703,7 @@ rankings =
 "IN": 1,
 "IT": 0,
 "JP": 1,
-"KR": 1,
+"KR": 0,
 "KZ": 1,
 "MN": 0,
 "MX": 2,
@@ -29643,6 +29661,12 @@ rankings =
 "competition": 135
 },
 {
+"rank": 134,
+"id": "2014JEON06",
+"best": "1:16.23",
+"competition": 2117
+},
+{
 "rank": 135,
 "id": "2007YULH01",
 "best": "1:17.64",
@@ -29746,10 +29770,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 42,
+"world": 41,
 "continents": {
 "AF": 0,
-"AS": 8,
+"AS": 7,
 "EU": 19,
 "NA": 12,
 "SA": 3
@@ -29775,7 +29799,7 @@ rankings =
 "IN": 1,
 "IT": 0,
 "JP": 1,
-"KR": 1,
+"KR": 0,
 "MN": 0,
 "MX": 2,
 "MY": 0,
@@ -32944,6 +32968,12 @@ rankings =
 "competition": 3462
 },
 {
+"rank": 25,
+"id": "2014JEON06",
+"best": "5.69",
+"competition": 2117
+},
+{
 "rank": 26,
 "id": "2005KOSE01",
 "best": "5.89",
@@ -34232,10 +34262,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 229,
+"world": 228,
 "continents": {
 "AF": 3,
-"AS": 49,
+"AS": 48,
 "EU": 81,
 "NA": 69,
 "OC": 7,
@@ -34272,7 +34302,7 @@ rankings =
 "JM": 0,
 "JO": 0,
 "JP": 9,
-"KR": 1,
+"KR": 0,
 "KZ": 2,
 "MX": 2,
 "MY": 0,
@@ -34899,6 +34929,12 @@ rankings =
 "id": "2013ANTI01",
 "best": "7.74",
 "competition": 3040
+},
+{
+"rank": 18,
+"id": "2014JEON06",
+"best": "7.76",
+"competition": 2117
 },
 {
 "rank": 19,
@@ -36200,10 +36236,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 198,
+"world": 197,
 "continents": {
 "AF": 3,
-"AS": 39,
+"AS": 38,
 "EU": 75,
 "NA": 61,
 "OC": 7,
@@ -36239,7 +36275,7 @@ rankings =
 "IT": 4,
 "JM": 0,
 "JP": 9,
-"KR": 1,
+"KR": 0,
 "KZ": 2,
 "MX": 1,
 "MY": 0,
@@ -36924,6 +36960,12 @@ rankings =
 "id": "2012PLAC01",
 "best": "7.08",
 "competition": 2842
+},
+{
+"rank": 33,
+"id": "2014JEON06",
+"best": "7.26",
+"competition": 2117
 },
 {
 "rank": 34,
@@ -37649,10 +37691,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 93,
+"world": 92,
 "continents": {
 "AF": 1,
-"AS": 15,
+"AS": 14,
 "EU": 37,
 "NA": 26,
 "OC": 5,
@@ -37684,7 +37726,7 @@ rankings =
 "IN": 3,
 "IT": 4,
 "JP": 1,
-"KR": 1,
+"KR": 0,
 "KZ": 1,
 "MX": 1,
 "MY": 0,
@@ -38003,6 +38045,12 @@ rankings =
 "id": "2017LAWR04",
 "best": "9.30",
 "competition": 6465
+},
+{
+"rank": 17,
+"id": "2014JEON06",
+"best": "9.54",
+"competition": 2117
 },
 {
 "rank": 18,
@@ -38765,10 +38813,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 86,
+"world": 85,
 "continents": {
 "AF": 1,
-"AS": 13,
+"AS": 12,
 "EU": 35,
 "NA": 24,
 "OC": 5,
@@ -38800,7 +38848,7 @@ rankings =
 "IN": 2,
 "IT": 3,
 "JP": 1,
-"KR": 1,
+"KR": 0,
 "KZ": 1,
 "MX": 1,
 "MY": 0,
@@ -44937,6 +44985,18 @@ rankings =
 "333mbf",
 "333oh",
 "444bf"
+]
+},
+{
+"id": "2014JEON06",
+"name": "Jinwoong Jeon",
+"country": "KR",
+"age": 40,
+"events": [
+"333",
+"333oh",
+"pyram",
+"skewb"
 ]
 },
 {
@@ -52156,6 +52216,13 @@ rankings =
 "country": "SK",
 "startDate": "2015-01-31",
 "webId": "BONDOpen2015"
+},
+{
+"id": 2117,
+"name": "Winter Cube Anniversary 2015",
+"country": "KR",
+"startDate": "2015-02-07",
+"webId": "WinterCubeAnniversary2015"
 },
 {
 "id": 2122,
