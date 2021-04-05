@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-04-04 04:14:35",
+"refreshed": "2021-04-05 04:14:48",
 "events": [
 {
 "id": "333",
@@ -813,116 +813,116 @@ rankings =
 "competition": 1035
 },
 {
-"rank": 184,
+"rank": 183,
+"id": "2018TAHO01",
+"best": "18.25",
+"competition": 7254
+},
+{
+"rank": 185,
 "id": "2012LUKE01",
 "best": "18.33",
 "competition": 6092
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2017HART06",
 "best": "18.50",
 "competition": 6596
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2018PRAT13",
 "best": "18.50",
 "competition": 5867
 },
 {
-"rank": 189,
+"rank": 190,
 "id": "2018GUTI13",
 "best": "18.51",
 "competition": 4878
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "1982FRID01",
 "best": "18.52",
 "competition": 16
 },
 {
-"rank": 191,
+"rank": 192,
 "id": "2008MATS04",
 "best": "18.55",
 "competition": 1453
 },
 {
-"rank": 194,
+"rank": 195,
 "id": "2015REYE08",
 "best": "18.68",
 "competition": 4483
 },
 {
-"rank": 195,
+"rank": 196,
 "id": "2010ZHAN41",
 "best": "18.71",
 "competition": 1340
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2014COXN01",
 "best": "18.75",
 "competition": 4887
 },
 {
-"rank": 199,
+"rank": 200,
 "id": "2018HOSH02",
 "best": "18.77",
 "competition": 6724
 },
 {
-"rank": 200,
+"rank": 201,
 "id": "2012MUNO03",
 "best": "18.78",
 "competition": 4388
 },
 {
-"rank": 202,
+"rank": 203,
 "id": "2015SPAD01",
 "best": "18.89",
 "competition": 6287
 },
 {
-"rank": 203,
+"rank": 204,
 "id": "2003BARR01",
 "best": "18.94",
 "competition": 1678
 },
 {
-"rank": 206,
+"rank": 207,
 "id": "2012ANGD01",
 "best": "19.00",
 "competition": 5589
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2018CUME02",
 "best": "19.05",
 "competition": 6596
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2005PARI01",
 "best": "19.05",
 "competition": 721
 },
 {
-"rank": 211,
+"rank": 212,
 "id": "2004ZIJD01",
 "best": "19.08",
 "age": 50,
 "competition": 1147
 },
 {
-"rank": 212,
-"id": "2018TAHO01",
-"best": "19.09",
-"competition": 7241
-},
-{
-"rank": 212,
+"rank": 213,
 "id": "2020TSUC01",
 "best": "19.09",
 "competition": 6851
@@ -6446,223 +6446,223 @@ rankings =
 "competition": 1223
 },
 {
-"rank": 163,
+"rank": 160,
+"id": "2018TAHO01",
+"best": "21.00",
+"competition": 7254
+},
+{
+"rank": 164,
 "id": "2010ZHAN41",
 "best": "21.17",
 "competition": 1340
 },
 {
-"rank": 165,
+"rank": 166,
 "id": "2017HART06",
 "best": "21.24",
 "competition": 6596
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2007HOLM02",
 "best": "21.28",
 "competition": 903
 },
 {
-"rank": 168,
+"rank": 169,
 "id": "2018CUME02",
 "best": "21.30",
 "competition": 6596
 },
 {
-"rank": 169,
+"rank": 170,
 "id": "2015SPAD01",
 "best": "21.31",
 "competition": 6287
 },
 {
-"rank": 170,
+"rank": 171,
 "id": "2014JEON06",
 "best": "21.39",
 "competition": 2117
 },
 {
-"rank": 171,
+"rank": 172,
 "id": "2003BARR01",
 "best": "21.44",
 "competition": 1678
 },
 {
-"rank": 172,
+"rank": 173,
 "id": "2016BORR02",
 "best": "21.49",
 "competition": 6814
 },
 {
-"rank": 174,
+"rank": 175,
 "id": "2017KOST06",
 "best": "21.52",
 "competition": 6574
 },
 {
-"rank": 177,
+"rank": 178,
 "id": "2012HAMA02",
 "best": "21.60",
 "competition": 3748
 },
 {
-"rank": 178,
+"rank": 179,
 "id": "2011YOSH01",
 "best": "21.61",
 "competition": 6029
 },
 {
-"rank": 182,
+"rank": 183,
 "id": "2012SCHM07",
 "best": "21.86",
 "competition": 1623
 },
 {
-"rank": 184,
+"rank": 185,
 "id": "2013BRYA02",
 "best": "21.96",
 "competition": 6227
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2012MUNO03",
 "best": "22.07",
 "competition": 4637
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2014KIZU01",
 "best": "22.07",
 "competition": 6547
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "2005SHIM02",
 "best": "22.11",
 "age": 50,
 "competition": 6513
 },
 {
-"rank": 194,
+"rank": 195,
 "id": "2019ROCH03",
 "best": "22.26",
 "competition": 7208
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2014HARD01",
 "best": "22.37",
 "competition": 1602
 },
 {
-"rank": 199,
+"rank": 200,
 "id": "2016LECO01",
 "best": "22.39",
 "competition": 5818
 },
 {
-"rank": 202,
+"rank": 203,
 "id": "2006ALBA01",
 "best": "22.46",
 "competition": 1342
 },
 {
-"rank": 203,
+"rank": 204,
 "id": "2009ZHAN33",
 "best": "22.47",
 "age": 50,
 "competition": 1383
 },
 {
-"rank": 204,
+"rank": 205,
 "id": "2014NIET01",
 "best": "22.48",
 "competition": 3675
 },
 {
-"rank": 205,
+"rank": 206,
 "id": "2017WILK03",
 "best": "22.49",
 "competition": 5082
 },
 {
-"rank": 206,
+"rank": 207,
 "id": "2004ZIJD01",
 "best": "22.50",
 "age": 50,
 "competition": 1147
 },
 {
-"rank": 207,
+"rank": 208,
 "id": "2011LUCI01",
 "best": "22.51",
 "competition": 5752
 },
 {
-"rank": 208,
+"rank": 209,
 "id": "2003GOLJ01",
 "best": "22.52",
 "competition": 16
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2015PARK24",
 "best": "22.57",
 "competition": 5712
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2008MATS04",
 "best": "22.57",
 "competition": 1187
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2012LUKE01",
 "best": "22.60",
 "competition": 6692
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2016MUTH05",
 "best": "22.63",
 "competition": 6570
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "1982FRID01",
 "best": "22.66",
 "competition": 16
 },
 {
-"rank": 222,
+"rank": 223,
 "id": "2015DISI01",
 "best": "23.10",
 "competition": 3675
 },
 {
-"rank": 224,
+"rank": 225,
 "id": "2016CRUZ16",
 "best": "23.12",
 "competition": 6784
 },
 {
-"rank": 224,
+"rank": 225,
 "id": "2005GUST02",
 "best": "23.12",
 "competition": 1100
 },
 {
-"rank": 226,
+"rank": 227,
 "id": "2014WICK01",
 "best": "23.13",
 "competition": 2030
-},
-{
-"rank": 227,
-"id": "2018TAHO01",
-"best": "23.15",
-"competition": 7241
 },
 {
 "rank": 228,
@@ -60912,18 +60912,18 @@ rankings =
 "webId": "MelbourneSummer2021"
 },
 {
-"id": 7241,
-"name": "Showground Showdown 2021",
-"country": "AU",
-"startDate": "2021-01-30",
-"webId": "ShowgroundShowdown2021"
-},
-{
 "id": 7248,
 "name": "Barwon Cube for the Kids 2021",
 "country": "AU",
 "startDate": "2021-03-14",
 "webId": "BarwonCubefortheKids2021"
+},
+{
+"id": 7254,
+"name": "Craigie Cube-Off 2021",
+"country": "AU",
+"startDate": "2021-03-28",
+"webId": "CraigieCubeOff2021"
 },
 {
 "id": 7257,
