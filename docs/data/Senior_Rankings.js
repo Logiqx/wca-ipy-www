@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-04-05 04:14:48",
+"refreshed": "2021-04-06 04:14:04",
 "events": [
 {
 "id": "333",
@@ -22313,21 +22313,21 @@ rankings =
 },
 {
 "rank": 9,
+"id": "2010STAS01",
+"best": "1:54.28",
+"competition": 7262
+},
+{
+"rank": 10,
 "id": "2014DECO01",
 "best": "1:55.31",
 "competition": 5180
 },
 {
-"rank": 10,
+"rank": 11,
 "id": "2016UMET02",
 "best": "1:55.36",
 "competition": 5851
-},
-{
-"rank": 11,
-"id": "2010STAS01",
-"best": "1:55.69",
-"competition": 6109
 },
 {
 "rank": 12,
@@ -60931,6 +60931,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-03-28",
 "webId": "SydneyReOpenSunday2021"
+},
+{
+"id": 7262,
+"name": "Ural Spring 2021",
+"country": "RU",
+"startDate": "2021-04-04",
+"webId": "UralSpring2021"
 }
 ],
 "countries": [
