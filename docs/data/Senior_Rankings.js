@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-04-11 04:13:57",
+"refreshed": "2021-04-12 04:14:15",
 "events": [
 {
 "id": "333",
@@ -1599,189 +1599,189 @@ rankings =
 "competition": 6645
 },
 {
-"rank": 427,
+"rank": 426,
+"id": "2017CHAR16",
+"best": "24.39",
+"competition": 7265
+},
+{
+"rank": 428,
 "id": "2018FUNO01",
 "best": "24.42",
 "age": 50,
 "competition": 4641
 },
 {
-"rank": 429,
+"rank": 430,
 "id": "2017MELN01",
 "best": "24.50",
 "competition": 4957
 },
 {
-"rank": 432,
+"rank": 433,
 "id": "2010NAKA01",
 "best": "24.65",
 "age": 50,
 "competition": 1595
 },
 {
-"rank": 434,
+"rank": 435,
 "id": "2018CHAR14",
 "best": "24.75",
 "competition": 5287
 },
 {
-"rank": 436,
+"rank": 437,
 "id": "2017TAKA02",
 "best": "24.80",
 "age": 50,
 "competition": 4964
 },
 {
-"rank": 440,
+"rank": 441,
 "id": "2018GILD01",
 "best": "24.93",
 "age": 50,
 "competition": 5368
 },
 {
-"rank": 448,
+"rank": 449,
 "id": "2018KORO08",
 "best": "25.36",
 "competition": 6811
 },
 {
-"rank": 451,
+"rank": 452,
 "id": "2018GAMB01",
 "best": "25.42",
 "competition": 4377
 },
 {
-"rank": 452,
+"rank": 453,
 "id": "2016GALE02",
 "best": "25.43",
 "competition": 4000
 },
 {
-"rank": 461,
+"rank": 462,
 "id": "2016STIN01",
 "best": "25.71",
 "age": 50,
 "competition": 6705
 },
 {
-"rank": 462,
+"rank": 463,
 "id": "2016KELL07",
 "best": "25.76",
 "competition": 3788
 },
 {
-"rank": 463,
+"rank": 464,
 "id": "2004MASA01",
 "best": "25.77",
 "age": 50,
 "competition": 1966
 },
 {
-"rank": 465,
+"rank": 466,
 "id": "2012KREI01",
 "best": "25.85",
 "age": 60,
 "competition": 4905
 },
 {
-"rank": 466,
+"rank": 467,
 "id": "2019MEDI04",
 "best": "25.86",
 "competition": 6407
 },
 {
-"rank": 467,
+"rank": 468,
 "id": "2017MART70",
 "best": "25.89",
 "competition": 5805
 },
 {
-"rank": 468,
+"rank": 469,
 "id": "2009COST02",
 "best": "25.91",
 "competition": 3057
 },
 {
-"rank": 470,
+"rank": 471,
 "id": "2017BAIR03",
 "best": "25.95",
 "competition": 6767
 },
 {
-"rank": 476,
+"rank": 477,
 "id": "2018COOK04",
 "best": "26.25",
 "age": 50,
 "competition": 7257
 },
 {
-"rank": 478,
+"rank": 479,
 "id": "2018BART01",
 "best": "26.27",
 "competition": 6897
 },
 {
-"rank": 480,
+"rank": 481,
 "id": "2004FRED02",
 "best": "26.30",
 "competition": 136
 },
 {
-"rank": 481,
+"rank": 482,
 "id": "2017LACH01",
 "best": "26.31",
 "competition": 3666
 },
 {
-"rank": 484,
+"rank": 485,
 "id": "2003LARS01",
 "best": "26.35",
 "age": 50,
 "competition": 1557
 },
 {
-"rank": 487,
+"rank": 488,
 "id": "2018SANG01",
 "best": "26.46",
 "age": 50,
 "competition": 6030
 },
 {
-"rank": 493,
+"rank": 494,
 "id": "2008BERG04",
 "best": "26.62",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 497,
+"rank": 498,
 "id": "2008GARC11",
 "best": "26.77",
 "competition": 514
 },
 {
-"rank": 503,
+"rank": 504,
 "id": "2008BRUN01",
 "best": "26.93",
 "competition": 283
 },
 {
-"rank": 504,
+"rank": 505,
 "id": "2011MAUD01",
 "best": "26.94",
 "competition": 1303
 },
 {
-"rank": 507,
+"rank": 508,
 "id": "2006LOUI01",
 "best": "27.06",
 "competition": 277
-},
-{
-"rank": 508,
-"id": "2017CHAR16",
-"best": "27.12",
-"competition": 6374
 },
 {
 "rank": 509,
@@ -60938,6 +60938,13 @@ rankings =
 "country": "RU",
 "startDate": "2021-04-04",
 "webId": "UralSpring2021"
+},
+{
+"id": 7265,
+"name": "Solving in Sale 2021",
+"country": "AU",
+"startDate": "2021-04-10",
+"webId": "SolvinginSale2021"
 }
 ],
 "countries": [
