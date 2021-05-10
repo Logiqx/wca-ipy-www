@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-05-09 04:14:21",
+"refreshed": "2021-05-10 04:14:19",
 "events": [
 {
 "id": "333",
@@ -7965,10 +7965,10 @@ rankings =
 "competition": 6491
 },
 {
-"rank": 699,
+"rank": 698,
 "id": "2019JARM01",
-"best": "40.66",
-"competition": 7208
+"best": "40.62",
+"competition": 7281
 },
 {
 "rank": 706,
@@ -30068,7 +30068,7 @@ rankings =
 "competition": 1924
 },
 {
-"rank": 7,
+"rank": 8,
 "id": "2004MASA01",
 "best": "7.90",
 "age": 50,
@@ -30997,13 +30997,13 @@ rankings =
 "competition": 2945
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2015HARR03",
 "best": "8.72",
 "competition": 5025
 },
 {
-"rank": 6,
+"rank": 7,
 "id": "2004MASA01",
 "best": "9.10",
 "age": 50,
@@ -60973,6 +60973,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-04-17",
 "webId": "AltonaAlgorithmsAttempt22021"
+},
+{
+"id": 7281,
+"name": "Turning in Townsville 2021",
+"country": "AU",
+"startDate": "2021-05-08",
+"webId": "TurninginTownsville2021"
 }
 ],
 "countries": [
