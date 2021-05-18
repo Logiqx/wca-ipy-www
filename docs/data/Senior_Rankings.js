@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-05-17 04:14:25",
+"refreshed": "2021-05-18 04:14:18",
 "events": [
 {
 "id": "333",
@@ -34117,11 +34117,11 @@ rankings =
 "competition": 2751
 },
 {
-"rank": 362,
+"rank": 356,
 "id": "2017KUMI01",
-"best": "21.90",
+"best": "21.44",
 "age": 70,
-"competition": 5189
+"competition": 7284
 },
 {
 "rank": 370,
@@ -34598,9 +34598,9 @@ rankings =
 {
 "rank": 74,
 "id": "2017KUMI01",
-"best": "21.90",
+"best": "21.44",
 "age": 70,
-"competition": 5189
+"competition": 7284
 },
 {
 "rank": 77,
@@ -34738,11 +34738,11 @@ rankings =
 "competition": 1752
 },
 {
-"rank": 5,
+"rank": 4,
 "id": "2017KUMI01",
-"best": "21.90",
+"best": "21.44",
 "age": 70,
-"competition": 5189
+"competition": 7284
 },
 {
 "rank": 6,
@@ -34807,8 +34807,8 @@ rankings =
 {
 "rank": 3,
 "id": "2017KUMI01",
-"best": "21.90",
-"competition": 5189
+"best": "21.44",
+"competition": 7284
 },
 {
 "rank": 5,
@@ -56978,13 +56978,6 @@ rankings =
 "webId": "AZCubingBigCubeBrawl2018"
 },
 {
-"id": 5189,
-"name": "Cubing Kazakhstan Nationals 2018",
-"country": "KZ",
-"startDate": "2018-10-27",
-"webId": "KazakhstanNationals2018"
-},
-{
 "id": 5191,
 "name": "III CUBIFMA 2018",
 "country": "BR",
@@ -60980,6 +60973,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-05-08",
 "webId": "TurninginTownsville2021"
+},
+{
+"id": 7284,
+"name": "Barnaul Open 2021",
+"country": "RU",
+"startDate": "2021-05-15",
+"webId": "BarnaulOpen2021"
 }
 ],
 "countries": [
