@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-05-30 04:13:59",
+"refreshed": "2021-05-31 04:15:04",
 "events": [
 {
 "id": "333",
@@ -7509,11 +7509,11 @@ rankings =
 "competition": 283
 },
 {
-"rank": 508,
+"rank": 505,
 "id": "2018COOK04",
-"best": "32.97",
+"best": "32.90",
 "age": 50,
-"competition": 7257
+"competition": 7299
 },
 {
 "rank": 510,
@@ -9821,8 +9821,8 @@ rankings =
 {
 "rank": 81,
 "id": "2018COOK04",
-"best": "32.97",
-"competition": 7257
+"best": "32.90",
+"competition": 7299
 },
 {
 "rank": 83,
@@ -61043,6 +61043,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-05-23",
 "webId": "MarrickvilleAutumnSunday2021"
+},
+{
+"id": 7299,
+"name": "Newcastle Autumn 2021",
+"country": "AU",
+"startDate": "2021-05-30",
+"webId": "NewcastleAutumn2021"
 }
 ],
 "countries": [
