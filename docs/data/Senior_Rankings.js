@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-07-01 04:14:35",
+"refreshed": "2021-07-01 11:20:07",
 "events": [
 {
 "id": "333",
@@ -1508,6 +1508,13 @@ rankings =
 "best": "23.38",
 "age": 50,
 "competition": 6791
+},
+{
+"rank": 393,
+"id": "2016BARI03",
+"best": "23.59",
+"age": 50,
+"competition": 6827
 },
 {
 "rank": 394,
@@ -3051,6 +3058,12 @@ rankings =
 "competition": 3198
 },
 {
+"rank": 1209,
+"id": "2018SACC02",
+"best": "58.87",
+"competition": 6027
+},
+{
 "rank": 1215,
 "id": "2013ROUS02",
 "best": "59.38",
@@ -3353,6 +3366,13 @@ rankings =
 "competition": 6137
 },
 {
+"rank": 1496,
+"id": "2018BONA03",
+"best": "1:15.63",
+"age": 50,
+"competition": 6027
+},
+{
 "rank": 1498,
 "id": "2014ESPA04",
 "best": "1:15.73",
@@ -3384,6 +3404,12 @@ rankings =
 "id": "2019ALVA14",
 "best": "1:17.17",
 "competition": 6346
+},
+{
+"rank": 1531,
+"id": "2017SACC01",
+"best": "1:17.71",
+"competition": 4030
 },
 {
 "rank": 1532,
@@ -3774,17 +3800,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 1446,
+"world": 1442,
 "continents": {
 "AF": 35,
 "AS": 348,
-"EU": 489,
+"EU": 488,
 "NA": 379,
 "OC": 57,
-"SA": 136
+"SA": 133
 },
 "countries": {
-"AR": 8,
+"AR": 5,
 "AT": 1,
 "AU": 48,
 "BA": 1,
@@ -3807,7 +3833,7 @@ rankings =
 "EE": 2,
 "ES": 73,
 "FI": 11,
-"FR": 48,
+"FR": 47,
 "GB": 27,
 "GR": 2,
 "GT": 4,
@@ -4101,6 +4127,12 @@ rankings =
 "id": "2019BLAC02",
 "best": "23.38",
 "competition": 6791
+},
+{
+"rank": 58,
+"id": "2016BARI03",
+"best": "23.59",
+"competition": 6827
 },
 {
 "rank": 59,
@@ -4819,10 +4851,16 @@ rankings =
 "competition": 4260
 },
 {
-"rank": 347,
+"rank": 346,
 "id": "2017WALL07",
 "best": "1:14.86",
 "competition": 6042
+},
+{
+"rank": 350,
+"id": "2018BONA03",
+"best": "1:15.63",
+"competition": 6027
 },
 {
 "rank": 351,
@@ -5066,17 +5104,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 342,
+"world": 340,
 "continents": {
 "AF": 6,
 "AS": 79,
-"EU": 115,
+"EU": 114,
 "NA": 95,
 "OC": 18,
-"SA": 29
+"SA": 28
 },
 "countries": {
-"AR": 2,
+"AR": 1,
 "AT": 0,
 "AU": 13,
 "BE": 2,
@@ -5089,7 +5127,7 @@ rankings =
 "DK": 4,
 "ES": 20,
 "FI": 3,
-"FR": 13,
+"FR": 12,
 "GB": 5,
 "GR": 1,
 "HU": 0,
@@ -6846,6 +6884,13 @@ rankings =
 "id": "2017SUDA03",
 "best": "24.84",
 "competition": 6724
+},
+{
+"rank": 272,
+"id": "2016BARI03",
+"best": "24.88",
+"age": 50,
+"competition": 6827
 },
 {
 "rank": 274,
@@ -8733,6 +8778,12 @@ rankings =
 "competition": 3433
 },
 {
+"rank": 1188,
+"id": "2018SACC02",
+"best": "1:13.00",
+"competition": 6027
+},
+{
 "rank": 1190,
 "id": "2017KUMI01",
 "best": "1:13.19",
@@ -9090,6 +9141,12 @@ rankings =
 "competition": 6346
 },
 {
+"rank": 1480,
+"id": "2017SACC01",
+"best": "1:35.78",
+"competition": 4030
+},
+{
 "rank": 1503,
 "id": "2013BINI01",
 "best": "1:37.45",
@@ -9194,10 +9251,17 @@ rankings =
 "competition": 1196
 },
 {
-"rank": 1623,
+"rank": 1622,
 "id": "2019TEBC01",
 "best": "1:50.99",
 "competition": 5499
+},
+{
+"rank": 1626,
+"id": "2018BONA03",
+"best": "1:51.24",
+"age": 50,
+"competition": 6027
 },
 {
 "rank": 1630,
@@ -9424,17 +9488,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 1370,
+"world": 1366,
 "continents": {
 "AF": 35,
 "AS": 303,
-"EU": 471,
+"EU": 470,
 "NA": 371,
 "OC": 54,
-"SA": 134
+"SA": 131
 },
 "countries": {
-"AR": 8,
+"AR": 5,
 "AT": 1,
 "AU": 45,
 "BA": 1,
@@ -9457,7 +9521,7 @@ rankings =
 "EE": 2,
 "ES": 69,
 "FI": 11,
-"FR": 46,
+"FR": 45,
 "GB": 25,
 "GR": 2,
 "GT": 4,
@@ -9641,6 +9705,12 @@ rankings =
 "id": "2005AKUZ01",
 "best": "23.46",
 "competition": 5388
+},
+{
+"rank": 33,
+"id": "2016BARI03",
+"best": "24.88",
+"competition": 6827
 },
 {
 "rank": 34,
@@ -10529,11 +10599,17 @@ rankings =
 "competition": 313
 },
 {
-"rank": 396,
+"rank": 395,
 "id": "2009SING03",
 "best": "1:50.87",
 "age": 60,
 "competition": 1196
+},
+{
+"rank": 397,
+"id": "2018BONA03",
+"best": "1:51.24",
+"competition": 6027
 },
 {
 "rank": 398,
@@ -10665,17 +10741,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 325,
+"world": 323,
 "continents": {
 "AF": 6,
 "AS": 72,
-"EU": 111,
+"EU": 110,
 "NA": 91,
 "OC": 16,
-"SA": 29
+"SA": 28
 },
 "countries": {
-"AR": 2,
+"AR": 1,
 "AT": 0,
 "AU": 11,
 "BE": 1,
@@ -10688,7 +10764,7 @@ rankings =
 "DK": 4,
 "ES": 20,
 "FI": 3,
-"FR": 13,
+"FR": 12,
 "GB": 4,
 "GR": 1,
 "HU": 0,
@@ -13458,6 +13534,12 @@ rankings =
 "competition": 6800
 },
 {
+"rank": 766,
+"id": "2017SACC01",
+"best": "29.26",
+"competition": 5153
+},
+{
 "rank": 769,
 "id": "2019FRAT01",
 "best": "29.68",
@@ -13598,17 +13680,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 488,
+"world": 487,
 "continents": {
 "AF": 13,
 "AS": 83,
 "EU": 183,
 "NA": 139,
 "OC": 28,
-"SA": 40
+"SA": 39
 },
 "countries": {
-"AR": 3,
+"AR": 2,
 "AT": 1,
 "AU": 25,
 "BA": 1,
@@ -16662,6 +16744,12 @@ rankings =
 "competition": 3740
 },
 {
+"rank": 707,
+"id": "2017SACC01",
+"best": "37.68",
+"competition": 5153
+},
+{
 "rank": 716,
 "id": "2009ESPU01",
 "best": "38.85",
@@ -16800,17 +16888,17 @@ rankings =
 }
 ],
 "missing": {
-"world": 444,
+"world": 443,
 "continents": {
 "AF": 12,
 "AS": 66,
 "EU": 173,
 "NA": 129,
 "OC": 26,
-"SA": 36
+"SA": 35
 },
 "countries": {
-"AR": 3,
+"AR": 2,
 "AT": 1,
 "AU": 23,
 "BA": 1,
@@ -42464,6 +42552,16 @@ rankings =
 ]
 },
 {
+"id": "2017SACC01",
+"name": "Carolina Sacco",
+"country": "AR",
+"age": 40,
+"events": [
+"222",
+"333"
+]
+},
+{
 "id": "2018KWAR01",
 "name": "Cecelia Kwartler",
 "country": "US",
@@ -45993,6 +46091,15 @@ rankings =
 ]
 },
 {
+"id": "2018BONA03",
+"name": "Marcelo Bonazzola",
+"country": "AR",
+"age": 50,
+"events": [
+"333"
+]
+},
+{
 "id": "2013ANTI01",
 "name": "Marco Antinori",
 "country": "IT",
@@ -47323,6 +47430,15 @@ rankings =
 "222",
 "333",
 "333bf"
+]
+},
+{
+"id": "2016BARI03",
+"name": "Philippe Bariod",
+"country": "FR",
+"age": 50,
+"events": [
+"333"
 ]
 },
 {
@@ -48957,6 +49073,15 @@ rankings =
 "events": [
 "222",
 "pyram"
+]
+},
+{
+"id": "2018SACC02",
+"name": "Valeria Sacco",
+"country": "AR",
+"age": 40,
+"events": [
+"333"
 ]
 },
 {
@@ -55031,6 +55156,13 @@ rankings =
 "webId": "FMCAmericas2017"
 },
 {
+"id": 4030,
+"name": "Santa Fe Cubing Spring 2017",
+"country": "AR",
+"startDate": "2017-10-15",
+"webId": "SantaFeCubingSpring2017"
+},
+{
 "id": 4031,
 "name": "Taiyuan Autumn 2017",
 "country": "CN",
@@ -56982,6 +57114,13 @@ rankings =
 "country": "AR",
 "startDate": "2018-10-13",
 "webId": "MartelliOpen2018"
+},
+{
+"id": 5153,
+"name": "Santa Fe Cubing Spring 2018",
+"country": "AR",
+"startDate": "2018-10-14",
+"webId": "SantaFeCubingSpring2018"
 },
 {
 "id": 5155,
@@ -60629,6 +60768,13 @@ rankings =
 "country": "GB",
 "startDate": "2020-02-08",
 "webId": "FontwellOpen2020"
+},
+{
+"id": 6827,
+"name": "Savoie Open 2020",
+"country": "FR",
+"startDate": "2020-02-08",
+"webId": "SavoieOpen2020"
 },
 {
 "id": 6841,
