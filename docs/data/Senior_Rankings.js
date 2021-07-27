@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-07-26 04:14:16",
+"refreshed": "2021-07-27 04:14:05",
 "events": [
 {
 "id": "333",
@@ -1536,55 +1536,55 @@ rankings =
 "competition": 5074
 },
 {
-"rank": 398,
+"rank": 397,
+"id": "2019KUCA01",
+"best": "23.72",
+"age": 50,
+"competition": 7341
+},
+{
+"rank": 399,
 "id": "2013MORA10",
 "best": "23.73",
 "competition": 4092
 },
 {
-"rank": 399,
+"rank": 400,
 "id": "2010WENS01",
 "best": "23.74",
 "competition": 6193
 },
 {
-"rank": 400,
+"rank": 401,
 "id": "2004MCGA01",
 "best": "23.75",
 "age": 50,
 "competition": 8
 },
 {
-"rank": 402,
+"rank": 403,
 "id": "2009ZBIE01",
 "best": "23.77",
 "competition": 5025
 },
 {
-"rank": 404,
+"rank": 405,
 "id": "2014BRED01",
 "best": "23.82",
 "competition": 4087
 },
 {
-"rank": 406,
+"rank": 407,
 "id": "2005VALD02",
 "best": "23.84",
 "age": 50,
 "competition": 367
 },
 {
-"rank": 406,
+"rank": 407,
 "id": "2005UGEL01",
 "best": "23.84",
 "competition": 53
-},
-{
-"rank": 408,
-"id": "2019KUCA01",
-"best": "23.85",
-"age": 50,
-"competition": 7329
 },
 {
 "rank": 410,
@@ -4141,22 +4141,22 @@ rankings =
 "competition": 5074
 },
 {
-"rank": 60,
+"rank": 59,
+"id": "2019KUCA01",
+"best": "23.72",
+"competition": 7341
+},
+{
+"rank": 61,
 "id": "2004MCGA01",
 "best": "23.75",
 "competition": 8
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2005VALD02",
 "best": "23.84",
 "competition": 367
-},
-{
-"rank": 62,
-"id": "2019KUCA01",
-"best": "23.85",
-"competition": 7329
 },
 {
 "rank": 63,
@@ -61368,6 +61368,13 @@ rankings =
 "country": "US",
 "startDate": "2021-07-18",
 "webId": "No333FriscoAM2021"
+},
+{
+"id": 7341,
+"name": "Copper Country Cubing Summer 2021",
+"country": "US",
+"startDate": "2021-07-24",
+"webId": "CopperCountryCubingSummer2021"
 }
 ],
 "countries": [
