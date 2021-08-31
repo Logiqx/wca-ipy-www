@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-08-30 04:14:50",
+"refreshed": "2021-08-31 04:14:43",
 "events": [
 {
 "id": "333",
@@ -34138,111 +34138,111 @@ rankings =
 },
 {
 "rank": 208,
+"id": "2018CHOD01",
+"best": "12.24",
+"competition": 7382
+},
+{
+"rank": 209,
 "id": "2014RIEM01",
 "best": "12.27",
 "competition": 3406
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2008YIMV01",
 "best": "12.45",
 "competition": 6054
 },
 {
-"rank": 211,
+"rank": 212,
 "id": "2014KIPR02",
 "best": "12.46",
 "competition": 2861
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2004CONN01",
 "best": "12.47",
 "competition": 595
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2014NIET01",
 "best": "12.50",
 "competition": 6028
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2015ADAM03",
 "best": "12.50",
 "competition": 4159
 },
 {
-"rank": 215,
+"rank": 216,
 "id": "2012MUNO03",
 "best": "12.65",
 "competition": 3150
 },
 {
-"rank": 216,
+"rank": 217,
 "id": "2015HASU01",
 "best": "12.70",
 "competition": 2732
 },
 {
-"rank": 219,
+"rank": 220,
 "id": "2015LOPE29",
 "best": "12.87",
 "competition": 4557
 },
 {
-"rank": 220,
+"rank": 221,
 "id": "2010MART02",
 "best": "12.93",
 "competition": 1302
 },
 {
-"rank": 221,
+"rank": 222,
 "id": "2016BALA16",
 "best": "12.95",
 "competition": 4512
 },
 {
-"rank": 225,
+"rank": 226,
 "id": "2005KOCZ01",
 "best": "13.09",
 "competition": 2974
 },
 {
-"rank": 226,
+"rank": 227,
 "id": "2016ARCH01",
 "best": "13.19",
 "competition": 3396
 },
 {
-"rank": 227,
+"rank": 228,
 "id": "2016COUL01",
 "best": "13.28",
 "competition": 6383
 },
 {
-"rank": 231,
+"rank": 232,
 "id": "2016GREE02",
 "best": "13.43",
 "competition": 3177
 },
 {
-"rank": 235,
+"rank": 236,
 "id": "2017NOVA05",
 "best": "13.50",
 "competition": 6313
 },
 {
-"rank": 236,
+"rank": 237,
 "id": "2016GOSL01",
 "best": "13.55",
 "competition": 4055
-},
-{
-"rank": 238,
-"id": "2018CHOD01",
-"best": "13.64",
-"competition": 6695
 },
 {
 "rank": 241,
@@ -36400,53 +36400,53 @@ rankings =
 "competition": 5381
 },
 {
-"rank": 282,
+"rank": 280,
+"id": "2018CHOD01",
+"best": "23.07",
+"competition": 7382
+},
+{
+"rank": 283,
 "id": "2017MART70",
 "best": "23.28",
 "competition": 5868
 },
 {
-"rank": 282,
+"rank": 283,
 "id": "2018LUMS01",
 "best": "23.28",
 "competition": 5073
 },
 {
-"rank": 291,
+"rank": 292,
 "id": "2005VANH02",
 "best": "23.85",
 "age": 50,
 "competition": 1506
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2009FREN03",
 "best": "23.89",
 "competition": 357
 },
 {
-"rank": 296,
+"rank": 297,
 "id": "2017HAGN01",
 "best": "24.25",
 "competition": 5171
 },
 {
-"rank": 298,
+"rank": 299,
 "id": "2015PRAT08",
 "best": "24.59",
 "competition": 2751
 },
 {
-"rank": 299,
+"rank": 300,
 "id": "2017TABA02",
 "best": "24.70",
 "competition": 6283
-},
-{
-"rank": 303,
-"id": "2018CHOD01",
-"best": "25.28",
-"competition": 7316
 },
 {
 "rank": 307,
@@ -60867,13 +60867,6 @@ rankings =
 "webId": "BayAreaSpeedcubin222019"
 },
 {
-"id": 6695,
-"name": "Cubers Eve Środa Wielkopolska 2019",
-"country": "PL",
-"startDate": "2019-12-21",
-"webId": "CubersEve2019"
-},
-{
 "id": 6696,
 "name": "Franconia X 2019",
 "country": "DE",
@@ -61740,6 +61733,13 @@ rankings =
 "country": "SE",
 "startDate": "2021-08-14",
 "webId": "WelcomeBackAgainJkpg2021"
+},
+{
+"id": 7382,
+"name": "Szczytno Open 2021",
+"country": "PL",
+"startDate": "2021-08-28",
+"webId": "SzczytnoOpen2021"
 }
 ],
 "countries": [
