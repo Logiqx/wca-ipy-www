@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-02 04:14:29",
+"refreshed": "2021-09-03 04:14:36",
 "events": [
 {
 "id": "333",
@@ -46958,7 +46958,7 @@ rankings =
 },
 {
 "id": "2017GRIS03",
-"name": "Mauricio de Jesus Hernandez Grisalez",
+"name": "Mauricio de Jesus Hernandez Grizalez",
 "country": "CO",
 "age": 50,
 "events": [
