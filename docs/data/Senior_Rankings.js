@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-09 04:14:23",
+"refreshed": "2021-09-10 04:14:37",
 "events": [
 {
 "id": "333",
@@ -2600,113 +2600,113 @@ rankings =
 "competition": 6515
 },
 {
-"rank": 901,
+"rank": 897,
+"id": "2018CHOD01",
+"best": "41.48",
+"competition": 7393
+},
+{
+"rank": 902,
 "id": "2015STOP01",
 "best": "42.00",
 "competition": 5940
 },
 {
-"rank": 903,
+"rank": 904,
 "id": "2019HICK05",
 "best": "42.10",
 "age": 50,
 "competition": 6506
 },
 {
-"rank": 905,
+"rank": 906,
 "id": "2020ROND01",
 "best": "42.15",
 "age": 50,
 "competition": 6746
 },
 {
-"rank": 907,
+"rank": 908,
 "id": "2018LAMU01",
 "best": "42.24",
 "competition": 6845
 },
 {
-"rank": 912,
+"rank": 913,
 "id": "2017SHEI04",
 "best": "42.47",
 "age": 50,
 "competition": 5044
 },
 {
-"rank": 918,
+"rank": 919,
 "id": "2009ROKI01",
 "best": "42.75",
 "age": 50,
 "competition": 3179
 },
 {
-"rank": 919,
+"rank": 920,
 "id": "2018HARR01",
 "best": "42.76",
 "age": 50,
 "competition": 5358
 },
 {
-"rank": 920,
+"rank": 921,
 "id": "2017RAMI36",
 "best": "42.84",
 "competition": 4997
 },
 {
-"rank": 923,
+"rank": 924,
 "id": "2009NEEL01",
 "best": "42.89",
 "age": 60,
 "competition": 5633
 },
 {
-"rank": 927,
+"rank": 928,
 "id": "2018PERE36",
 "best": "43.19",
 "competition": 4878
 },
 {
-"rank": 930,
+"rank": 931,
 "id": "2016KUHL01",
 "best": "43.32",
 "competition": 6509
 },
 {
-"rank": 937,
+"rank": 938,
 "id": "2017BRAD02",
 "best": "43.69",
 "competition": 4649
 },
 {
-"rank": 938,
+"rank": 939,
 "id": "2017HEIM01",
 "best": "43.74",
 "competition": 3818
 },
 {
-"rank": 942,
+"rank": 943,
 "id": "2012RONK01",
 "best": "43.97",
 "age": 50,
 "competition": 6762
 },
 {
-"rank": 950,
+"rank": 951,
 "id": "2015PRAT08",
 "best": "44.14",
 "competition": 2751
 },
 {
-"rank": 953,
+"rank": 954,
 "id": "2019VELL03",
 "best": "44.22",
 "competition": 6614
-},
-{
-"rank": 960,
-"id": "2018CHOD01",
-"best": "44.69",
-"competition": 7316
 },
 {
 "rank": 963,
@@ -8359,36 +8359,36 @@ rankings =
 "competition": 5044
 },
 {
-"rank": 831,
+"rank": 830,
+"id": "2018CHOD01",
+"best": "47.63",
+"competition": 7393
+},
+{
+"rank": 832,
 "id": "2004STEE01",
 "best": "47.71",
 "age": 50,
 "competition": 118
 },
 {
-"rank": 832,
+"rank": 833,
 "id": "2018TEEM01",
 "best": "47.72",
 "competition": 6515
 },
 {
-"rank": 835,
+"rank": 836,
 "id": "2012CANT01",
 "best": "47.93",
 "age": 50,
 "competition": 3001
 },
 {
-"rank": 836,
+"rank": 837,
 "id": "2020NAMJ01",
 "best": "48.07",
 "competition": 6808
-},
-{
-"rank": 838,
-"id": "2018CHOD01",
-"best": "48.09",
-"competition": 6928
 },
 {
 "rank": 839,
@@ -61747,6 +61747,13 @@ rankings =
 "country": "SE",
 "startDate": "2021-09-04",
 "webId": "FlenStoraManschetten2021"
+},
+{
+"id": 7393,
+"name": "September Speedcubing Tour Naprawa 2021",
+"country": "PL",
+"startDate": "2021-09-04",
+"webId": "SSTNaprawa2021"
 },
 {
 "id": 7394,
