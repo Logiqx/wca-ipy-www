@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-13 04:14:24",
+"refreshed": "2021-09-14 04:14:07",
 "events": [
 {
 "id": "333",
@@ -18681,66 +18681,66 @@ rankings =
 "competition": 7176
 },
 {
-"rank": 154,
+"rank": 152,
+"id": "2018TAHO01",
+"best": "1:31.76",
+"competition": 7398
+},
+{
+"rank": 155,
 "id": "2015KIMH04",
 "best": "1:32.12",
 "competition": 6118
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2008KOVA01",
 "best": "1:32.16",
 "competition": 2839
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2017MANC05",
 "best": "1:32.84",
 "competition": 5291
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2008GOUB01",
 "best": "1:33.16",
 "competition": 1134
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2009JARU02",
 "best": "1:34.00",
 "competition": 940
 },
 {
-"rank": 160,
+"rank": 161,
 "id": "2012POOT01",
 "best": "1:34.72",
 "competition": 2980
 },
 {
-"rank": 162,
+"rank": 163,
 "id": "2012WING01",
 "best": "1:34.81",
 "competition": 2663
 },
 {
-"rank": 163,
+"rank": 164,
 "id": "2019BLAC02",
 "best": "1:35.47",
 "age": 50,
 "competition": 6793
 },
 {
-"rank": 165,
+"rank": 166,
 "id": "2005ISHI01",
 "best": "1:35.65",
 "age": 50,
 "competition": 817
-},
-{
-"rank": 166,
-"id": "2018TAHO01",
-"best": "1:36.15",
-"competition": 7333
 },
 {
 "rank": 167,
@@ -61761,6 +61761,13 @@ rankings =
 "country": "SE",
 "startDate": "2021-09-05",
 "webId": "FlenLillaManschetten2021"
+},
+{
+"id": 7398,
+"name": "Rockingham Rapid 2021",
+"country": "AU",
+"startDate": "2021-09-12",
+"webId": "RockinghamRapid2021"
 }
 ],
 "countries": [
