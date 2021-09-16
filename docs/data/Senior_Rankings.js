@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-15 04:14:07",
+"refreshed": "2021-09-16 04:14:37",
 "events": [
 {
 "id": "333",
@@ -30417,25 +30417,25 @@ rankings =
 "competition": 4248
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2015HARR03",
 "best": "6.96",
 "competition": 5026
 },
 {
-"rank": 4,
+"rank": 5,
 "id": "2010MART02",
 "best": "7.03",
 "competition": 1223
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2010ANDE01",
 "best": "7.20",
 "competition": 2945
 },
 {
-"rank": 6,
+"rank": 7,
 "id": "2004FERN01",
 "best": "7.27",
 "competition": 1924
