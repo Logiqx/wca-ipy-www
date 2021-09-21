@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-20 04:14:28",
+"refreshed": "2021-09-21 04:14:27",
 "events": [
 {
 "id": "333",
@@ -25738,53 +25738,53 @@ rankings =
 },
 {
 "rank": 65,
+"id": "2018TAHO01",
+"best": "3:12.41",
+"competition": 7402
+},
+{
+"rank": 66,
 "id": "2018SANG01",
 "best": "3:14.90",
 "age": 50,
 "competition": 6815
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2017ROSS10",
 "best": "3:21.09",
 "age": 50,
 "competition": 6636
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2003POCH01",
 "best": "3:24.91",
 "competition": 3379
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2009PARE02",
 "best": "3:25.71",
 "competition": 675
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2012DESO02",
 "best": "3:27.69",
 "competition": 3061
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2018GRAG01",
 "best": "3:29.05",
 "competition": 5552
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2010COAT01",
 "best": "3:29.59",
 "competition": 6638
-},
-{
-"rank": 74,
-"id": "2018TAHO01",
-"best": "3:29.71",
-"competition": 6375
 },
 {
 "rank": 75,
@@ -60118,13 +60118,6 @@ rankings =
 "webId": "UralAutumn2019"
 },
 {
-"id": 6375,
-"name": "Westcoast Woodvale Weekends 2019",
-"country": "AU",
-"startDate": "2019-09-28",
-"webId": "WestcoastWoodvaleWeekends2019"
-},
-{
 "id": 6380,
 "name": "Shandong Open 2019",
 "country": "CN",
@@ -61768,6 +61761,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-09-12",
 "webId": "RockinghamRapid2021"
+},
+{
+"id": 7402,
+"name": "Slow Down Swanbourne 2021",
+"country": "AU",
+"startDate": "2021-09-19",
+"webId": "SlowDownSwanbourne2021"
 }
 ],
 "countries": [
