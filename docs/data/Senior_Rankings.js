@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-09-27 04:14:51",
+"refreshed": "2021-09-28 04:14:51",
 "events": [
 {
 "id": "333",
@@ -25842,16 +25842,16 @@ rankings =
 "competition": 2983
 },
 {
-"rank": 91,
+"rank": 90,
+"id": "2018GORN01",
+"best": "4:38.54",
+"competition": 7399
+},
+{
+"rank": 92,
 "id": "2003DENN01",
 "best": "4:47.58",
 "competition": 382
-},
-{
-"rank": 94,
-"id": "2018GORN01",
-"best": "5:03.23",
-"competition": 5612
 },
 {
 "rank": 95,
@@ -58417,13 +58417,6 @@ rankings =
 "webId": "IrunaOpen2019"
 },
 {
-"id": 5612,
-"name": "Polish Speedcubing Tour Mielec 2019",
-"country": "PL",
-"startDate": "2019-03-02",
-"webId": "PolishSpeedcubingTourMielec2019"
-},
-{
 "id": 5613,
 "name": "Serbian Open 2019",
 "country": "RS",
@@ -61761,6 +61754,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-09-12",
 "webId": "RockinghamRapid2021"
+},
+{
+"id": 7399,
+"name": "September Speedcubing Tour Kielce 2021",
+"country": "PL",
+"startDate": "2021-09-18",
+"webId": "SSTKielce2021"
 },
 {
 "id": 7402,
