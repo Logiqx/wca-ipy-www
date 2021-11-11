@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-11-10 04:13:51",
+"refreshed": "2021-11-11 04:14:38",
 "events": [
 {
 "id": "333",
@@ -25752,22 +25752,22 @@ rankings =
 "competition": 2691
 },
 {
-"rank": 26,
+"rank": 25,
+"id": "2015HARR03",
+"best": "1:39.18",
+"competition": 7445
+},
+{
+"rank": 27,
 "id": "2003AKIM01",
 "best": "1:44.61",
 "competition": 578
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2009TIRA01",
 "best": "1:44.69",
 "competition": 1532
-},
-{
-"rank": 28,
-"id": "2015HARR03",
-"best": "1:47.82",
-"competition": 6741
 },
 {
 "rank": 29,
@@ -30735,10 +30735,10 @@ rankings =
 "competition": 4248
 },
 {
-"rank": 4,
+"rank": 3,
 "id": "2015HARR03",
-"best": "6.96",
-"competition": 5026
+"best": "6.24",
+"competition": 7445
 },
 {
 "rank": 5,
@@ -31658,18 +31658,24 @@ rankings =
 "ranks": [
 {
 "rank": 1,
+"id": "2017HART11",
+"best": "18.59",
+"competition": 7445
+},
+{
+"rank": 2,
 "id": "2009ESPU01",
 "best": "36.24",
 "competition": 3810
 },
 {
-"rank": 2,
+"rank": 3,
 "id": "2011SEOK01",
 "best": "1:12.02",
 "competition": 6118
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2011YANG13",
 "best": "2:04.91",
 "age": 70,
@@ -31727,21 +31733,21 @@ rankings =
 },
 {
 "rank": 4,
+"id": "2015HARR03",
+"best": "7.94",
+"competition": 7445
+},
+{
+"rank": 5,
 "id": "2004FERN01",
 "best": "8.18",
 "competition": 1501
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2010ANDE01",
 "best": "8.26",
 "competition": 2945
-},
-{
-"rank": 6,
-"id": "2015HARR03",
-"best": "8.72",
-"competition": 5026
 },
 {
 "rank": 7,
@@ -32480,18 +32486,24 @@ rankings =
 "ranks": [
 {
 "rank": 1,
+"id": "2017HART11",
+"best": "23.76",
+"competition": 7445
+},
+{
+"rank": 2,
 "id": "2009ESPU01",
 "best": "40.98",
 "competition": 3810
 },
 {
-"rank": 2,
+"rank": 3,
 "id": "2011SEOK01",
 "best": "1:19.28",
 "competition": 6118
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2011YANG13",
 "best": "2:54.12",
 "age": 70,
@@ -62330,6 +62342,13 @@ rankings =
 "country": "US",
 "startDate": "2021-11-06",
 "webId": "Missoula2021"
+},
+{
+"id": 7445,
+"name": "GA Cubers Quiet Quarrel 2021",
+"country": "US",
+"startDate": "2021-11-07",
+"webId": "GACubersQuietQuarrel2021"
 }
 ],
 "countries": [
