@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-11-12 04:14:00",
+"refreshed": "2021-11-13 04:14:27",
 "events": [
 {
 "id": "333",
@@ -31317,77 +31317,83 @@ rankings =
 },
 {
 "rank": 130,
+"id": "2018DITT03",
+"best": "42.42",
+"competition": 7441
+},
+{
+"rank": 131,
 "id": "2013MORA02",
 "best": "42.52",
 "competition": 1501
 },
 {
-"rank": 133,
+"rank": 134,
 "id": "2017TABA02",
 "best": "45.12",
 "competition": 4682
 },
 {
-"rank": 134,
+"rank": 135,
 "id": "2005KOCZ01",
 "best": "47.08",
 "competition": 1798
 },
 {
-"rank": 135,
+"rank": 136,
 "id": "2010HEIL02",
 "best": "48.69",
 "competition": 1022
 },
 {
-"rank": 136,
+"rank": 137,
 "id": "2018GRAG01",
 "best": "49.62",
 "competition": 5552
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "2007DOUT01",
 "best": "50.00",
 "age": 50,
 "competition": 1413
 },
 {
-"rank": 140,
+"rank": 141,
 "id": "2018COOK04",
 "best": "54.98",
 "age": 50,
 "competition": 6392
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2016LASC01",
 "best": "55.03",
 "competition": 4591
 },
 {
-"rank": 142,
+"rank": 143,
 "id": "2021HUGO01",
 "best": "57.13",
 "age": 50,
 "competition": 7437
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2016ODEG01",
 "best": "1:11.15",
 "age": 50,
 "competition": 2817
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2011SEOK01",
 "best": "1:12.02",
 "age": 60,
 "competition": 6118
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2011YANG13",
 "best": "2:04.91",
 "age": 70,
@@ -49622,6 +49628,7 @@ rankings =
 "events": [
 "222",
 "333",
+"clock",
 "pyram",
 "skewb"
 ]
@@ -62335,6 +62342,13 @@ rankings =
 "country": "DE",
 "startDate": "2021-11-06",
 "webId": "GermanMiniOpenA2021"
+},
+{
+"id": 7441,
+"name": "Ticino Open Saturday 2021",
+"country": "CH",
+"startDate": "2021-11-06",
+"webId": "TicinoOpenSaturday2021"
 },
 {
 "id": 7444,
