@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-11-22 04:13:48",
+"refreshed": "2021-11-23 04:13:52",
 "events": [
 {
 "id": "333",
@@ -4360,76 +4360,76 @@ rankings =
 "competition": 7297
 },
 {
-"rank": 107,
+"rank": 106,
+"id": "2017CHAR16",
+"best": "27.99",
+"competition": 7466
+},
+{
+"rank": 108,
 "id": "2017BROW09",
 "best": "28.12",
 "competition": 4881
 },
 {
-"rank": 109,
+"rank": 110,
 "id": "2017ROSS10",
 "best": "28.61",
 "competition": 6872
 },
 {
-"rank": 111,
+"rank": 112,
 "id": "2004LUIS03",
 "best": "29.06",
 "competition": 3267
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2013BRAN01",
 "best": "29.14",
 "competition": 1431
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2019AGUE01",
 "best": "29.14",
 "competition": 7435
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2021HUGO01",
 "best": "29.23",
 "competition": 7437
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2019SLES02",
 "best": "29.25",
 "competition": 7406
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2019IWAS01",
 "best": "29.47",
 "competition": 6336
 },
 {
-"rank": 119,
+"rank": 120,
 "id": "2019MARI22",
 "best": "29.53",
 "competition": 7353
 },
 {
-"rank": 120,
+"rank": 121,
 "id": "2005PERE01",
 "best": "29.58",
 "competition": 2567
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2006HYAK01",
 "best": "29.66",
 "competition": 82
-},
-{
-"rank": 124,
-"id": "2017CHAR16",
-"best": "29.73",
-"competition": 7419
 },
 {
 "rank": 125,
@@ -6532,77 +6532,77 @@ rankings =
 },
 {
 "rank": 146,
+"id": "2018TAHO01",
+"best": "20.52",
+"competition": 7466
+},
+{
+"rank": 147,
 "id": "2007CHIM01",
 "best": "20.54",
 "competition": 358
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2018RYLA01",
 "best": "20.57",
 "competition": 6067
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2011ZAKR01",
 "best": "20.63",
 "competition": 7171
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2008YIMV01",
 "best": "20.67",
 "competition": 6054
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2014ROCH07",
 "best": "20.73",
 "competition": 6547
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2007OEYM01",
 "best": "20.77",
 "age": 50,
 "competition": 6422
 },
 {
-"rank": 157,
+"rank": 158,
 "id": "2016POPO02",
 "best": "20.79",
 "age": 50,
 "competition": 4457
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2019ROCH03",
 "best": "20.80",
 "competition": 7295
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2014DECO01",
 "best": "20.84",
 "competition": 3642
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2014COXN01",
 "best": "20.84",
 "competition": 5075
 },
 {
-"rank": 164,
+"rank": 165,
 "id": "2010MART02",
 "best": "20.97",
 "competition": 1223
-},
-{
-"rank": 165,
-"id": "2018TAHO01",
-"best": "21.00",
-"competition": 7256
 },
 {
 "rank": 170,
@@ -62223,13 +62223,6 @@ rankings =
 "webId": "BarwonCubefortheKids2021"
 },
 {
-"id": 7256,
-"name": "Craigie Cube-Off 2021",
-"country": "AU",
-"startDate": "2021-03-28",
-"webId": "CraigieCubeOff2021"
-},
-{
 "id": 7259,
 "name": "Sydney Re-Open Sunday 2021",
 "country": "AU",
@@ -62592,6 +62585,13 @@ rankings =
 "country": "DE",
 "startDate": "2021-11-20",
 "webId": "GermanSideEvents2021"
+},
+{
+"id": 7466,
+"name": "Puzzling Pinjarra 2021",
+"country": "AU",
+"startDate": "2021-11-21",
+"webId": "PuzzlingPinjarra2021"
 }
 ],
 "countries": [
