@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-11-25 04:14:37",
+"refreshed": "2021-11-26 04:13:53",
 "events": [
 {
 "id": "333",
@@ -28627,22 +28627,22 @@ rankings =
 },
 {
 "rank": 48,
+"id": "2019BLAC02",
+"best": "31.72",
+"age": 50,
+"competition": 7461
+},
+{
+"rank": 49,
 "id": "2012MORI01",
 "best": "31.81",
 "competition": 3956
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2015NICH04",
 "best": "32.02",
 "competition": 6780
-},
-{
-"rank": 50,
-"id": "2019BLAC02",
-"best": "32.29",
-"age": 50,
-"competition": 7432
 },
 {
 "rank": 51,
@@ -29474,15 +29474,15 @@ rankings =
 },
 {
 "rank": 7,
-"id": "2011WRIG01",
-"best": "31.81",
-"competition": 6597
+"id": "2019BLAC02",
+"best": "31.72",
+"competition": 7461
 },
 {
 "rank": 8,
-"id": "2019BLAC02",
-"best": "32.29",
-"competition": 7432
+"id": "2011WRIG01",
+"best": "31.81",
+"competition": 6597
 },
 {
 "rank": 9,
@@ -62578,6 +62578,13 @@ rankings =
 "country": "US",
 "startDate": "2021-11-20",
 "webId": "SlowNSteadyFall2021"
+},
+{
+"id": 7461,
+"name": "SnoCo Goes Back to Square-1 2021",
+"country": "US",
+"startDate": "2021-11-20",
+"webId": "SnoCoGoesBacktoSquare12021"
 },
 {
 "id": 7463,
