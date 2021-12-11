@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-12-10 04:14:41",
+"refreshed": "2021-12-11 04:14:09",
 "events": [
 {
 "id": "333",
@@ -18068,16 +18068,16 @@ rankings =
 "ranks": [
 {
 "rank": 1,
-"id": "2005SUSE01",
-"best": "40.73",
-"competition": 6258
+"id": "2003BRUC01",
+"best": "40.02",
+"age": 50,
+"competition": 7486
 },
 {
 "rank": 2,
-"id": "2003BRUC01",
-"best": "41.23",
-"age": 50,
-"competition": 6759
+"id": "2005SUSE01",
+"best": "40.73",
+"competition": 6258
 },
 {
 "rank": 3,
@@ -19669,8 +19669,8 @@ rankings =
 {
 "rank": 1,
 "id": "2003BRUC01",
-"best": "41.23",
-"competition": 6759
+"best": "40.02",
+"competition": 7486
 },
 {
 "rank": 2,
@@ -62647,6 +62647,13 @@ rankings =
 "country": "CA",
 "startDate": "2021-12-05",
 "webId": "WelcomeBackLevis2021"
+},
+{
+"id": 7486,
+"name": "AUA Open 2021",
+"country": "AM",
+"startDate": "2021-12-10",
+"webId": "AUAOpen2021"
 }
 ],
 "countries": [
