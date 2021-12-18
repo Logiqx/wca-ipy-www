@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-12-17 04:14:22",
+"refreshed": "2021-12-18 04:14:08",
 "events": [
 {
 "id": "333",
@@ -26165,52 +26165,52 @@ rankings =
 },
 {
 "rank": 98,
+"id": "2019BLAC02",
+"best": "5:16.34",
+"age": 50,
+"competition": 7496
+},
+{
+"rank": 99,
 "id": "2003ZBOR02",
 "best": "5:18.05",
 "competition": 2180
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2013SUDO01",
 "best": "5:34.55",
 "competition": 6258
 },
 {
-"rank": 104,
+"rank": 105,
 "id": "2018KORO08",
 "best": "5:41.68",
 "competition": 6813
 },
 {
-"rank": 105,
+"rank": 106,
 "id": "2005AKUZ01",
 "best": "5:45.31",
 "competition": 161
 },
 {
-"rank": 108,
+"rank": 109,
 "id": "2015LOPE29",
 "best": "5:47.50",
 "competition": 6560
 },
 {
-"rank": 109,
+"rank": 110,
 "id": "2009ZBIE01",
 "best": "5:49.71",
 "competition": 6609
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2016LEEM01",
 "best": "5:55.24",
 "competition": 5735
-},
-{
-"rank": 113,
-"id": "2019BLAC02",
-"best": "5:57.70",
-"age": 50,
-"competition": 7408
 },
 {
 "rank": 114,
@@ -26542,10 +26542,10 @@ rankings =
 "competition": 4855
 },
 {
-"rank": 21,
+"rank": 19,
 "id": "2019BLAC02",
-"best": "5:57.70",
-"competition": 7408
+"best": "5:16.34",
+"competition": 7496
 },
 {
 "rank": 22,
@@ -62674,6 +62674,13 @@ rankings =
 "country": "AU",
 "startDate": "2021-12-11",
 "webId": "Perth10YearAnniversary2021"
+},
+{
+"id": 7496,
+"name": "Richmond Open A 2021",
+"country": "CA",
+"startDate": "2021-12-11",
+"webId": "RichmondOpenA2021"
 },
 {
 "id": 7497,
