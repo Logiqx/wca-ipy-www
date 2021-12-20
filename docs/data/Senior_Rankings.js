@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2021-12-19 04:14:07",
+"refreshed": "2021-12-20 04:14:41",
 "events": [
 {
 "id": "333",
@@ -36134,17 +36134,17 @@ rankings =
 "competition": 5739
 },
 {
-"rank": 57,
-"id": "2015BOSW01",
-"best": "11.07",
-"competition": 4551
+"rank": 56,
+"id": "2019KUCA01",
+"best": "10.98",
+"age": 50,
+"competition": 7510
 },
 {
 "rank": 58,
-"id": "2019KUCA01",
-"best": "11.09",
-"age": 50,
-"competition": 7468
+"id": "2015BOSW01",
+"best": "11.07",
+"competition": 4551
 },
 {
 "rank": 59,
@@ -37401,8 +37401,8 @@ rankings =
 {
 "rank": 10,
 "id": "2019KUCA01",
-"best": "11.09",
-"competition": 7468
+"best": "10.98",
+"competition": 7510
 },
 {
 "rank": 11,
@@ -62688,6 +62688,13 @@ rankings =
 "country": "JP",
 "startDate": "2021-12-11",
 "webId": "TokaiWinterAM2021"
+},
+{
+"id": 7510,
+"name": "Sioux Falls Winter 2021",
+"country": "US",
+"startDate": "2021-12-18",
+"webId": "SiouxFallsWinter2021"
 }
 ],
 "countries": [
