@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-01-11 04:14:43",
+"refreshed": "2022-01-11 09:54:03",
 "events": [
 {
 "id": "333",
@@ -193,6 +193,12 @@ rankings =
 "id": "2013MORA02",
 "best": "13.09",
 "competition": 4784
+},
+{
+"rank": 36,
+"id": "2017GAFF04",
+"best": "13.12",
+"competition": 7236
 },
 {
 "rank": 37,
@@ -3868,19 +3874,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 1446,
+"world": 1445,
 "continents": {
 "AF": 35,
 "AS": 351,
 "EU": 488,
 "NA": 379,
-"OC": 57,
+"OC": 56,
 "SA": 134
 },
 "countries": {
 "AR": 5,
 "AT": 1,
-"AU": 48,
+"AU": 47,
 "BA": 1,
 "BE": 10,
 "BG": 1,
@@ -6245,6 +6251,12 @@ rankings =
 "id": "2008KOVA01",
 "best": "17.24",
 "competition": 5090
+},
+{
+"rank": 64,
+"id": "2017GAFF04",
+"best": "17.25",
+"competition": 7527
 },
 {
 "rank": 65,
@@ -9678,19 +9690,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 1371,
+"world": 1370,
 "continents": {
 "AF": 35,
 "AS": 306,
 "EU": 471,
 "NA": 371,
-"OC": 54,
+"OC": 53,
 "SA": 132
 },
 "countries": {
 "AR": 5,
 "AT": 1,
-"AU": 45,
+"AU": 44,
 "BA": 1,
 "BE": 9,
 "BG": 0,
@@ -12467,6 +12479,12 @@ rankings =
 "competition": 1143
 },
 {
+"rank": 194,
+"id": "2017GAFF04",
+"best": "6.26",
+"competition": 7236
+},
+{
 "rank": 196,
 "id": "2005PELL01",
 "best": "6.27",
@@ -13980,19 +13998,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 488,
+"world": 487,
 "continents": {
 "AF": 13,
 "AS": 83,
 "EU": 182,
 "NA": 139,
-"OC": 28,
+"OC": 27,
 "SA": 41
 },
 "countries": {
 "AR": 3,
 "AT": 1,
-"AU": 25,
+"AU": 24,
 "BA": 1,
 "BE": 2,
 "BG": 0,
@@ -15718,6 +15736,12 @@ rankings =
 "competition": 3031
 },
 {
+"rank": 173,
+"id": "2017GAFF04",
+"best": "8.88",
+"competition": 7236
+},
+{
 "rank": 174,
 "id": "2017MANC05",
 "best": "8.89",
@@ -17268,19 +17292,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 444,
+"world": 443,
 "continents": {
 "AF": 12,
 "AS": 66,
 "EU": 172,
 "NA": 129,
-"OC": 26,
+"OC": 25,
 "SA": 37
 },
 "countries": {
 "AR": 3,
 "AT": 1,
-"AU": 23,
+"AU": 22,
 "BA": 1,
 "BE": 2,
 "BG": 0,
@@ -18824,6 +18848,12 @@ rankings =
 "competition": 4863
 },
 {
+"rank": 126,
+"id": "2017GAFF04",
+"best": "1:23.14",
+"competition": 7236
+},
+{
 "rank": 127,
 "id": "2013SUDO01",
 "best": "1:23.21",
@@ -19750,19 +19780,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 144,
+"world": 143,
 "continents": {
 "AF": 2,
 "AS": 24,
 "EU": 69,
 "NA": 35,
-"OC": 2,
+"OC": 1,
 "SA": 10
 },
 "countries": {
 "AR": 1,
 "AT": 1,
-"AU": 1,
+"AU": 0,
 "BA": 1,
 "BE": 1,
 "BG": 0,
@@ -20896,6 +20926,12 @@ rankings =
 "competition": 1678
 },
 {
+"rank": 133,
+"id": "2017GAFF04",
+"best": "1:40.61",
+"competition": 7236
+},
+{
 "rank": 135,
 "id": "2018SANG01",
 "best": "1:41.05",
@@ -21308,19 +21344,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 64,
+"world": 63,
 "continents": {
 "AF": 2,
 "AS": 13,
 "EU": 28,
 "NA": 15,
-"OC": 1,
+"OC": 0,
 "SA": 4
 },
 "countries": {
 "AR": 0,
 "AT": 0,
-"AU": 1,
+"AU": 0,
 "BE": 1,
 "BG": 0,
 "BR": 4,
@@ -21734,6 +21770,12 @@ rankings =
 "id": "2015GEOR02",
 "best": "1:45.97",
 "competition": 6597
+},
+{
+"rank": 14,
+"id": "2017GAFF04",
+"best": "1:46.36",
+"competition": 7527
 },
 {
 "rank": 15,
@@ -22684,19 +22726,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 58,
+"world": 57,
 "continents": {
 "AF": 2,
 "AS": 12,
 "EU": 29,
 "NA": 10,
-"OC": 1,
+"OC": 0,
 "SA": 3
 },
 "countries": {
 "AR": 0,
 "AT": 0,
-"AU": 1,
+"AU": 0,
 "BG": 0,
 "BR": 3,
 "CA": 1,
@@ -23080,6 +23122,12 @@ rankings =
 "id": "2010HEIL02",
 "best": "1:59.64",
 "competition": 5717
+},
+{
+"rank": 15,
+"id": "2017GAFF04",
+"best": "1:59.85",
+"competition": 7527
 },
 {
 "rank": 16,
@@ -23614,7 +23662,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 20,
+"world": 19,
 "continents": {
 "AF": 2,
 "AS": 7,
@@ -24002,6 +24050,12 @@ rankings =
 "competition": 6258
 },
 {
+"rank": 30,
+"id": "2017GAFF04",
+"best": "4:26.60",
+"competition": 7527
+},
+{
 "rank": 31,
 "id": "2009TIRA01",
 "best": "4:29.26",
@@ -24348,7 +24402,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 14,
+"world": 13,
 "continents": {
 "AF": 0,
 "AS": 1,
@@ -25071,6 +25125,12 @@ rankings =
 "competition": 5267
 },
 {
+"rank": 26,
+"id": "2017GAFF04",
+"best": "6:29.99",
+"competition": 7527
+},
+{
 "rank": 27,
 "id": "2010SOHT01",
 "best": "6:43.81",
@@ -25375,7 +25435,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 11,
+"world": 10,
 "continents": {
 "AF": 0,
 "AS": 2,
@@ -25663,6 +25723,12 @@ rankings =
 "competition": 5962
 },
 {
+"rank": 18,
+"id": "2017GAFF04",
+"best": "6:42.02",
+"competition": 7527
+},
+{
 "rank": 19,
 "id": "2010HEIL02",
 "best": "6:49.50",
@@ -25774,7 +25840,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 2,
+"world": 1,
 "continents": {
 "AF": 0,
 "AS": 0,
@@ -32960,6 +33026,12 @@ rankings =
 "competition": 4893
 },
 {
+"rank": 8,
+"id": "2017GAFF04",
+"best": "1:36.44",
+"competition": 7527
+},
+{
 "rank": 9,
 "id": "2007CHIM01",
 "best": "1:37.55",
@@ -33430,7 +33502,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 17,
+"world": 16,
 "continents": {
 "AF": 0,
 "AS": 3,
@@ -33643,6 +33715,12 @@ rankings =
 "id": "2010WENS01",
 "best": "1:44.83",
 "competition": 4836
+},
+{
+"rank": 6,
+"id": "2017GAFF04",
+"best": "1:45.07",
+"competition": 7527
 },
 {
 "rank": 7,
@@ -33909,7 +33987,7 @@ rankings =
 }
 ],
 "missing": {
-"world": 8,
+"world": 7,
 "continents": {
 "AF": 0,
 "AS": 2,
@@ -35435,6 +35513,12 @@ rankings =
 "competition": 6512
 },
 {
+"rank": 408,
+"id": "2017GAFF04",
+"best": "26.98",
+"competition": 7236
+},
+{
 "rank": 409,
 "id": "2018MORE06",
 "best": "27.06",
@@ -35507,19 +35591,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 229,
+"world": 228,
 "continents": {
 "AF": 3,
 "AS": 49,
 "EU": 80,
 "NA": 69,
-"OC": 7,
+"OC": 6,
 "SA": 19
 },
 "countries": {
 "AR": 1,
 "AT": 0,
-"AU": 6,
+"AU": 5,
 "BA": 1,
 "BE": 1,
 "BG": 0,
@@ -37395,6 +37479,12 @@ rankings =
 "competition": 3277
 },
 {
+"rank": 347,
+"id": "2017GAFF04",
+"best": "29.61",
+"competition": 7236
+},
+{
 "rank": 349,
 "id": "2017WEST02",
 "best": "30.23",
@@ -37567,19 +37657,19 @@ rankings =
 }
 ],
 "missing": {
-"world": 198,
+"world": 197,
 "continents": {
 "AF": 3,
 "AS": 39,
 "EU": 74,
 "NA": 61,
-"OC": 7,
+"OC": 6,
 "SA": 12
 },
 "countries": {
 "AR": 0,
 "AT": 0,
-"AU": 6,
+"AU": 5,
 "BA": 1,
 "BE": 1,
 "BG": 0,
@@ -49631,6 +49721,22 @@ rankings =
 "age": 40,
 "events": [
 "333"
+]
+},
+{
+"id": "2017GAFF04",
+"name": "Samuel Michael Gaffney",
+"country": "AU",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"666",
+"777",
+"minx",
+"pyram"
 ]
 },
 {
@@ -63172,6 +63278,13 @@ rankings =
 "country": "IT",
 "startDate": "2022-01-02",
 "webId": "BolognaNewYear2022"
+},
+{
+"id": 7527,
+"name": "Northside Duology Part 1 2022",
+"country": "AU",
+"startDate": "2022-01-07",
+"webId": "NorthsideDuologyPart12022"
 }
 ],
 "countries": [
