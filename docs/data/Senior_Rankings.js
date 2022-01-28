@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-01-28 04:14:24",
+"refreshed": "2022-01-28 20:50:26",
 "events": [
 {
 "id": "333",
@@ -43356,7 +43356,7 @@ rankings =
 "id": "2005JOKS01",
 "name": "Adam Joks",
 "country": "PL",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -43365,7 +43365,7 @@ rankings =
 "id": "2018NICH04",
 "name": "Adam Nichols",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -43374,7 +43374,7 @@ rankings =
 "id": "2010ESTE02",
 "name": "Adelina Estevao",
 "country": "AU",
-"age": 80,
+"age": 90,
 "events": [
 "333"
 ]
@@ -43415,7 +43415,7 @@ rankings =
 "country": "RO",
 "username": "Adi Rosu",
 "usernum": 28814,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43433,7 +43433,7 @@ rankings =
 "id": "2007DIAZ01",
 "name": "Agustín Díaz Morón",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43480,7 +43480,7 @@ rankings =
 "id": "2011CORM02",
 "name": "Alain Cormier",
 "country": "CA",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -43564,7 +43564,7 @@ rankings =
 "id": "2014MELZ01",
 "name": "Amnon Melzer",
 "country": "ZA",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -43677,7 +43677,7 @@ rankings =
 "id": "2017HEIM01",
 "name": "Andreas Heimdal",
 "country": "NO",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -43705,7 +43705,7 @@ rankings =
 "id": "2015ARAU05",
 "name": "André Luiz de Araujo",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -43755,7 +43755,7 @@ rankings =
 "id": "2004FEDE01",
 "name": "Angelo Federico",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43797,7 +43797,7 @@ rankings =
 "id": "2016BLAN13",
 "name": "Antonio Gallardo Blanco",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43818,7 +43818,7 @@ rankings =
 "id": "2015CECC02",
 "name": "Antonio Marcos Cecchini",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43861,7 +43861,7 @@ rankings =
 "id": "2004BOSS01",
 "name": "Arjan Bosse",
 "country": "NL",
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "444",
@@ -43895,7 +43895,7 @@ rankings =
 "id": "2018LOVE02",
 "name": "Aroldo Andres Tachon Lovera",
 "country": "VE",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -43904,7 +43904,7 @@ rankings =
 "id": "2018FENI01",
 "name": "Ashley Feniello",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -43966,7 +43966,7 @@ rankings =
 "id": "2017ROQU02",
 "name": "Bartolomeu Bueno Roque",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -44035,7 +44035,7 @@ rankings =
 "country": "US",
 "username": "BillB",
 "usernum": 1677,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -44052,7 +44052,7 @@ rankings =
 "country": "US",
 "username": "Bill",
 "usernum": 60,
-"age": 60,
+"age": 70,
 "events": [
 "333",
 "333bf",
@@ -44063,7 +44063,7 @@ rankings =
 "id": "2005BURT01",
 "name": "Bob Burton Sr.",
 "country": "US",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -44116,7 +44116,7 @@ rankings =
 "country": "US",
 "username": "cuBerBruce",
 "usernum": 176,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -44147,7 +44147,7 @@ rankings =
 "id": "2019ALVA14",
 "name": "Bryant Borrego Alvarado",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -44192,7 +44192,7 @@ rankings =
 "country": "US",
 "username": "CarlBrannen",
 "usernum": 16483,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -44214,7 +44214,7 @@ rankings =
 "id": "2019KILL01",
 "name": "Carlos Magno Kill",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44235,7 +44235,7 @@ rankings =
 "id": "2009JOYC01",
 "name": "Carol Joyce",
 "country": "CA",
-"age": 50,
+"age": 60,
 "events": [
 "pyram"
 ]
@@ -44244,7 +44244,7 @@ rankings =
 "id": "2017SACC01",
 "name": "Carolina Sacco",
 "country": "AR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -44305,7 +44305,7 @@ rankings =
 "id": "2009ZHAN33",
 "name": "Chaoxu Zhang (张朝旭)",
 "country": "CN",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -44314,7 +44314,7 @@ rankings =
 "id": "2009JARU02",
 "name": "Chatchawan Jaruwattanakun (ชัชวาลย์ จารุวัฒนกุล)",
 "country": "TH",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44336,7 +44336,7 @@ rankings =
 "id": "2016ARCH01",
 "name": "Chris Archer",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44357,7 +44357,7 @@ rankings =
 "id": "2005PELL01",
 "name": "Chris Pelley",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44485,7 +44485,7 @@ rankings =
 "country": "CA",
 "username": "OldSlowCuber",
 "usernum": 15216,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44556,7 +44556,7 @@ rankings =
 "country": "US",
 "username": "MadFurai",
 "usernum": 20156,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -44565,7 +44565,7 @@ rankings =
 "id": "2007MART03",
 "name": "Constante Marte",
 "country": "PH",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -44594,7 +44594,7 @@ rankings =
 "id": "2009SING03",
 "name": "Daljit Singh",
 "country": "US",
-"age": 60,
+"age": 70,
 "events": [
 "222",
 "333",
@@ -44618,7 +44618,7 @@ rankings =
 "country": "ZA",
 "username": "danievil",
 "usernum": 47495,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -44772,7 +44772,7 @@ rankings =
 "id": "2009FREN03",
 "name": "Dave French",
 "country": "CA",
-"age": 40,
+"age": 60,
 "events": [
 "pyram"
 ]
@@ -44800,7 +44800,7 @@ rankings =
 "country": "SG",
 "username": "Cubewerkz",
 "usernum": 20466,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44817,7 +44817,7 @@ rankings =
 "country": "US",
 "username": "david3x3x3",
 "usernum": 16,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -44929,7 +44929,7 @@ rankings =
 "id": "2009NEWH02",
 "name": "David Newhall",
 "country": "US",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -44979,7 +44979,7 @@ rankings =
 "id": "2012SING03",
 "name": "David Singmaster",
 "country": "US",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -45063,7 +45063,7 @@ rankings =
 "id": "2012OTAN01",
 "name": "Diego Millán Otón",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "333bf",
 "333mbf",
@@ -45075,7 +45075,7 @@ rankings =
 "id": "2016AMBE02",
 "name": "Dieter Amberger",
 "country": "AT",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45164,7 +45164,7 @@ rankings =
 "id": "1982VALD01",
 "name": "Eduardo Valdivia Chacon",
 "country": "PE",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -45186,7 +45186,7 @@ rankings =
 "id": "2013MESA01",
 "name": "Edwin Armando Gaitán Mesa",
 "country": "CO",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45204,7 +45204,7 @@ rankings =
 "id": "2011MICH01",
 "name": "Egon Micheelsen",
 "country": "DK",
-"age": 90,
+"age": 100,
 "events": [
 "333"
 ]
@@ -45213,7 +45213,7 @@ rankings =
 "id": "2009OKED01",
 "name": "Eiji Okeda (桶田英次)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -45294,7 +45294,7 @@ rankings =
 "country": "US",
 "username": "Henry007c",
 "usernum": 28761,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45324,7 +45324,7 @@ rankings =
 "country": "US",
 "username": "brunson",
 "usernum": 1030,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45427,7 +45427,7 @@ rankings =
 "id": "2017RAMI36",
 "name": "Ernesto Torres Ortiz Ramírez",
 "country": "MX",
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "pyram"
@@ -45437,7 +45437,7 @@ rankings =
 "id": "2005VALD02",
 "name": "Ernie Valdés",
 "country": "US",
-"age": 50,
+"age": 60,
 "events": [
 "333",
 "333bf",
@@ -45448,7 +45448,7 @@ rankings =
 "id": "2011DEWA01",
 "name": "Erry Dewanatha",
 "country": "ID",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -45474,7 +45474,7 @@ rankings =
 "id": "2009CERP01",
 "name": "Evaldo Cerpe",
 "country": "BR",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -45492,7 +45492,7 @@ rankings =
 "id": "2015SKAC02",
 "name": "Evgeny Skachkov",
 "country": "RU",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45539,7 +45539,7 @@ rankings =
 "id": "2016FOOJ01",
 "name": "Foo Yim Sheung (傅艶嫦)",
 "country": "HK",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -45593,7 +45593,7 @@ rankings =
 "id": "2018LAMU01",
 "name": "Franck Lamure",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45604,7 +45604,7 @@ rankings =
 "id": "2019CERN02",
 "name": "Frank Cerne",
 "country": "US",
-"age": 50,
+"age": 60,
 "events": [
 "222"
 ]
@@ -45613,7 +45613,7 @@ rankings =
 "id": "2016KALL03",
 "name": "Frank Kallstrom",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -45624,7 +45624,7 @@ rankings =
 "country": "FR",
 "username": "TMOY",
 "usernum": 1684,
-"age": 40,
+"age": 50,
 "deceased": "y",
 "events": [
 "222",
@@ -45730,7 +45730,7 @@ rankings =
 "country": "NO",
 "username": "ugelstad",
 "usernum": 10373,
-"age": 40,
+"age": 60,
 "events": [
 "333"
 ]
@@ -45755,7 +45755,7 @@ rankings =
 "id": "2018PINE03",
 "name": "German Dario Lis Piñeros",
 "country": "CO",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -45807,7 +45807,7 @@ rankings =
 "country": "FR",
 "username": "gogozerg",
 "usernum": 101,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45819,7 +45819,7 @@ rankings =
 "id": "2007CHIM01",
 "name": "Giulio Chiminelli",
 "country": "IT",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45841,7 +45841,7 @@ rankings =
 "id": "2006OOMS01",
 "name": "Grada Ooms",
 "country": "NL",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
@@ -45859,7 +45859,7 @@ rankings =
 "id": "2017MART70",
 "name": "Gregory Martin",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45970,7 +45970,7 @@ rankings =
 "id": "2015PAVI02",
 "name": "Gérard Pavin",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -45983,7 +45983,7 @@ rankings =
 "id": "2009LARS02",
 "name": "Göran Larsendahl",
 "country": "SE",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333"
@@ -46002,7 +46002,7 @@ rankings =
 "id": "2011BLAC01",
 "name": "Hampton Black",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46063,7 +46063,7 @@ rankings =
 "id": "2018BENN01",
 "name": "Hans Bennis",
 "country": "NL",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -46076,7 +46076,7 @@ rankings =
 "id": "2004ZIJD01",
 "name": "Hans van der Zijden",
 "country": "NL",
-"age": 50,
+"age": 60,
 "events": [
 "333",
 "333bf",
@@ -46090,7 +46090,7 @@ rankings =
 "id": "2016OLST01",
 "name": "Harley Olsthoorn",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -46149,7 +46149,7 @@ rankings =
 "country": "DE",
 "username": "highKO",
 "usernum": 1705,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46203,7 +46203,7 @@ rankings =
 "id": "2005ISHI01",
 "name": "Hiroshi Ishino (石野弘司)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -46250,7 +46250,7 @@ rankings =
 "id": "2009ZHUH01",
 "name": "Huimin Zhu (朱惠民)",
 "country": "CN",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -46324,7 +46324,7 @@ rankings =
 "id": "2006HYAK01",
 "name": "Ikuo Hyakuta (百田郁夫)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333"
@@ -46334,7 +46334,7 @@ rankings =
 "id": "2009NOVI01",
 "name": "Irina Novichkova",
 "country": "RU",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46394,7 +46394,7 @@ rankings =
 "country": "NL",
 "username": "jaap",
 "usernum": 6440,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46427,7 +46427,7 @@ rankings =
 "id": "2010WOJT01",
 "name": "Jakub Wojturski",
 "country": "PL",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -46472,7 +46472,7 @@ rankings =
 "id": "2008HOPJ01",
 "name": "Jan Hop",
 "country": "NL",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
@@ -46481,7 +46481,7 @@ rankings =
 "id": "2004GEUS01",
 "name": "Jan de Geus",
 "country": "NL",
-"age": 50,
+"age": 70,
 "events": [
 "333"
 ]
@@ -46502,7 +46502,7 @@ rankings =
 "id": "2007PREU01",
 "name": "Jany Preudhomme",
 "country": "BE",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
@@ -46572,7 +46572,7 @@ rankings =
 "id": "2017BRAD02",
 "name": "Jason Bradshaw",
 "country": "AU",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -46682,7 +46682,7 @@ rankings =
 "country": "ES",
 "username": "superti",
 "usernum": 5804,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -46707,7 +46707,7 @@ rankings =
 "id": "2007SATT01",
 "name": "Jay Satterfield",
 "country": "US",
-"age": 40,
+"age": 60,
 "events": [
 "333"
 ]
@@ -46767,7 +46767,7 @@ rankings =
 "id": "2017THOR05",
 "name": "Jennifer Thorsen",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -46795,7 +46795,7 @@ rankings =
 "id": "2020NAMJ01",
 "name": "JeongSim Nam (남정심)",
 "country": "KR",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46867,7 +46867,7 @@ rankings =
 "id": "1982FRID01",
 "name": "Jessica Fridrich",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -46901,7 +46901,7 @@ rankings =
 "country": "ES",
 "username": "noiusli",
 "usernum": 7986,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -47020,7 +47020,7 @@ rankings =
 "country": "IN",
 "username": "johnlouismemory",
 "usernum": 2454,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -47114,7 +47114,7 @@ rankings =
 "id": "2011SALA06",
 "name": "José Adrian Jaquez Salazar",
 "country": "MX",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -47138,7 +47138,7 @@ rankings =
 "id": "2015LOPE29",
 "name": "José Luis Molina López",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47163,7 +47163,7 @@ rankings =
 "id": "2008GARC11",
 "name": "José Manuel García Mouzo",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47187,7 +47187,7 @@ rankings =
 "id": "2017NOVA05",
 "name": "João Luiz Melo Novaes",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47212,7 +47212,7 @@ rankings =
 "id": "2017PERI02",
 "name": "Juan Magraner Peris",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -47233,7 +47233,7 @@ rankings =
 "id": "2013JOKI02",
 "name": "Juhana Jokinen",
 "country": "FI",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47261,7 +47261,7 @@ rankings =
 "id": "2005TOMI01",
 "name": "Junya Tomita (富田純也)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47299,7 +47299,7 @@ rankings =
 "id": "2017SAIT01",
 "name": "Kanjin Saito (齋藤寛伸)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47308,7 +47308,7 @@ rankings =
 "id": "2015BROO01",
 "name": "Karen Brooks",
 "country": "JM",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -47319,7 +47319,7 @@ rankings =
 "id": "2018FUNO01",
 "name": "Kazuhisa Funo (布能数久)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -47328,7 +47328,7 @@ rankings =
 "id": "2009OKAM01",
 "name": "Kazuhito Okamoto (岡本一人)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47370,7 +47370,7 @@ rankings =
 "country": "US",
 "username": "atouchofgeek",
 "usernum": 27062,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47383,7 +47383,7 @@ rankings =
 "country": "SE",
 "username": "Kenneth",
 "usernum": 479,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47443,7 +47443,7 @@ rankings =
 "id": "2006MIZO01",
 "name": "Kiyoshi Mizoguchi (溝口清)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -47453,7 +47453,7 @@ rankings =
 "id": "2004STEE01",
 "name": "Klaas Steenhuis",
 "country": "NL",
-"age": 50,
+"age": 70,
 "events": [
 "333",
 "333fm"
@@ -47521,7 +47521,7 @@ rankings =
 "id": "2011NARA04",
 "name": "Lakshmi Narasimhan",
 "country": "IN",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47532,7 +47532,7 @@ rankings =
 "country": "SE",
 "username": "Lars Petrus",
 "usernum": 4334,
-"age": 50,
+"age": 60,
 "events": [
 "333",
 "333fm",
@@ -47564,7 +47564,7 @@ rankings =
 "id": "2005ORST01",
 "name": "Lars Örström",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47649,7 +47649,7 @@ rankings =
 "id": "2009TIMO01",
 "name": "Leonid Timonine",
 "country": "RU",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47658,7 +47658,7 @@ rankings =
 "id": "2013COLL02",
 "name": "Leslie Paul Collard",
 "country": "GB",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -47667,7 +47667,7 @@ rankings =
 "id": "2011MICH02",
 "name": "Lilian Micheelsen",
 "country": "DK",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -47804,7 +47804,7 @@ rankings =
 "id": "2009NAGY02",
 "name": "Magdolna Nagy",
 "country": "HU",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -47825,7 +47825,7 @@ rankings =
 "id": "2012WATE01",
 "name": "Marc Waterman",
 "country": "NL",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47836,7 +47836,7 @@ rankings =
 "country": "NL",
 "username": "MarcelP",
 "usernum": 16680,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47862,7 +47862,7 @@ rankings =
 "country": "IT",
 "username": "marant69",
 "usernum": 37973,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47881,13 +47881,6 @@ rankings =
 "events": [
 "333"
 ]
-},
-{
-"id": "2016MEND29",
-"name": "Marek Mendel",
-"country": "PL",
-"age": 50,
-"events": []
 },
 {
 "id": "2020ROND01",
@@ -47914,7 +47907,7 @@ rankings =
 "id": "2017FARN02",
 "name": "Maria Färnlöf",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -47943,7 +47936,7 @@ rankings =
 "id": "2015MILA01",
 "name": "Maria Regina de Aguiar Milani",
 "country": "BR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -47974,7 +47967,7 @@ rankings =
 "id": "2015HAGE04",
 "name": "Mariusz Hagemejer",
 "country": "PL",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -48075,7 +48068,7 @@ rankings =
 "country": "CH",
 "username": "Llalundo",
 "usernum": 47949,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48116,7 +48109,7 @@ rankings =
 "id": "2006BERG01",
 "name": "Martin Berger",
 "country": "GB",
-"age": 80,
+"age": 90,
 "events": [
 "333"
 ]
@@ -48144,7 +48137,7 @@ rankings =
 "id": "2003LICH01",
 "name": "Marty Licht",
 "country": "US",
-"age": 50,
+"age": 70,
 "events": [
 "333"
 ]
@@ -48164,7 +48157,7 @@ rankings =
 "country": "JP",
 "username": "MMMasa",
 "usernum": 50453,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48173,7 +48166,7 @@ rankings =
 "id": "2010NAKA01",
 "name": "Masanobu Nakashima (中島政信)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -48182,7 +48175,7 @@ rankings =
 "id": "2003AKIM01",
 "name": "Masayuki Akimoto (秋元正行)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48217,7 +48210,7 @@ rankings =
 "country": "SE",
 "username": "MatsBergsten",
 "usernum": 1760,
-"age": 60,
+"age": 70,
 "events": [
 "222",
 "333",
@@ -48239,7 +48232,7 @@ rankings =
 "id": "2007KOLL01",
 "name": "Mats Kollbrink",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48258,7 +48251,7 @@ rankings =
 "country": "SE",
 "username": "MatsLuthman",
 "usernum": 1801,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333bf",
@@ -48425,7 +48418,7 @@ rankings =
 "country": "GB",
 "username": "MichaelErskine",
 "usernum": 1742,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48496,7 +48489,7 @@ rankings =
 "id": "2017WARD09",
 "name": "Michael Ward",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48529,7 +48522,7 @@ rankings =
 "country": "NL",
 "username": "Michiel van der Blonk",
 "usernum": 73,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48540,7 +48533,7 @@ rankings =
 "country": "ES",
 "username": "mafergut",
 "usernum": 26252,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48639,7 +48632,7 @@ rankings =
 "id": "2003GOLJ01",
 "name": "Mirek Goljan",
 "country": "CZ",
-"age": 40,
+"age": 60,
 "events": [
 "333",
 "333fm"
@@ -48649,7 +48642,7 @@ rankings =
 "id": "2010DELI02",
 "name": "Miroslav Delinac",
 "country": "HR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48700,7 +48693,7 @@ rankings =
 "id": "2009AZHA01",
 "name": "Mohammad Azhari",
 "country": "ID",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
@@ -48758,7 +48751,7 @@ rankings =
 "id": "2013BINI01",
 "name": "Neusa da Silva Bini",
 "country": "BR",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -48770,7 +48763,7 @@ rankings =
 "id": "2010ZHAN41",
 "name": "Nianfeng Zhang (张念峰)",
 "country": "CN",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48779,7 +48772,7 @@ rankings =
 "id": "2014COXN01",
 "name": "Nicky Cox",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48837,7 +48830,7 @@ rankings =
 "country": "DE",
 "username": "Noppel",
 "usernum": 6943,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48855,7 +48848,7 @@ rankings =
 "id": "2019HERN07",
 "name": "Norvey Hoyos Hernández",
 "country": "CO",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -48874,7 +48867,7 @@ rankings =
 "id": "2007FEKE01",
 "name": "Nándor Fekete",
 "country": "RS",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48897,7 +48890,7 @@ rankings =
 "country": "DE",
 "username": "OlliF",
 "usernum": 14544,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -48921,7 +48914,7 @@ rankings =
 "id": "2011MAUD01",
 "name": "Olve Maudal",
 "country": "NO",
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "333bf"
@@ -48931,7 +48924,7 @@ rankings =
 "id": "2017DIAZ11",
 "name": "Oswaldo Legro Diaz",
 "country": "CO",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48951,7 +48944,7 @@ rankings =
 "id": "2006SANG02",
 "name": "Park Sang-Dong",
 "country": "KR",
-"age": 40,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -48979,7 +48972,7 @@ rankings =
 "id": "2017GRAD03",
 "name": "Patrick Grady",
 "country": "US",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -49011,7 +49004,7 @@ rankings =
 "id": "2008HILL02",
 "name": "Paul Hille",
 "country": "NL",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49045,7 +49038,7 @@ rankings =
 "id": "2004LUIS03",
 "name": "Pedro Luis Muñoz Yañez",
 "country": "ES",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -49066,7 +49059,7 @@ rankings =
 "id": "2004FRED02",
 "name": "Per Kristen Fredlund",
 "country": "NO",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49082,7 +49075,7 @@ rankings =
 "id": "2007BEIJ01",
 "name": "Per O. Beijar",
 "country": "SE",
-"age": 40,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -49112,7 +49105,7 @@ rankings =
 "id": "2007DOUT01",
 "name": "Peter Douthwright",
 "country": "CA",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -49197,7 +49190,7 @@ rankings =
 "country": "FI",
 "username": "Petri Krzywacki",
 "usernum": 44876,
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "444"
@@ -49281,7 +49274,7 @@ rankings =
 "id": "2015PRAT08",
 "name": "Phillip Pratt",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49346,7 +49339,7 @@ rankings =
 "id": "2012MUNO03",
 "name": "Rafael Muñoz Muñoz",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49360,7 +49353,7 @@ rankings =
 "id": "2015REYE08",
 "name": "Rafael Reyes",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49436,7 +49429,7 @@ rankings =
 "id": "2014ZELT01",
 "name": "Ramon Zeltner",
 "country": "CH",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49448,7 +49441,7 @@ rankings =
 "id": "2014THAB03",
 "name": "Raouf Thabet",
 "country": "TN",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49555,7 +49548,7 @@ rankings =
 "id": "2018WEBE07",
 "name": "Rick Weber",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -49604,7 +49597,7 @@ rankings =
 "country": "US",
 "username": "rjohnson_8ball",
 "usernum": 1318,
-"age": 50,
+"age": 60,
 "events": [
 "333",
 "333bf",
@@ -49640,7 +49633,7 @@ rankings =
 "id": "2009DELM02",
 "name": "Roberto Delmás Serrano",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49757,7 +49750,7 @@ rankings =
 "country": "SE",
 "username": "Rune",
 "usernum": 91,
-"age": 80,
+"age": 90,
 "events": [
 "333"
 ]
@@ -49803,7 +49796,7 @@ rankings =
 "id": "2010HAMA03",
 "name": "Ryuji Hamano (浜野竜二)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49823,7 +49816,7 @@ rankings =
 "id": "2006TOKU01",
 "name": "Sakae Tokuda (徳田栄)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -49832,7 +49825,7 @@ rankings =
 "id": "2011BEMB01",
 "name": "Salvatore Bembo",
 "country": "BE",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -49928,7 +49921,7 @@ rankings =
 "country": "GB",
 "username": "sean_connolly",
 "usernum": 4928,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -49994,7 +49987,7 @@ rankings =
 "id": "2017FONS06",
 "name": "Sergio Da Fonseca",
 "country": "AR",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -50050,7 +50043,7 @@ rankings =
 "id": "2005KURO02",
 "name": "Shuichi Kuroiwa (黒岩秀一)",
 "country": "JP",
-"age": 40,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -50093,7 +50086,7 @@ rankings =
 "country": "TH",
 "username": "MCMLXX",
 "usernum": 30699,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50138,7 +50131,7 @@ rankings =
 "country": "SE",
 "username": "Lid",
 "usernum": 1732,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50187,7 +50180,7 @@ rankings =
 "id": "2016CHAL04",
 "name": "Steve Chalom",
 "country": "ZA",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -50217,7 +50210,7 @@ rankings =
 "id": "2015JOIN02",
 "name": "Steve Joiner",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -50272,7 +50265,7 @@ rankings =
 "country": "FR",
 "username": "stefan.s.skesh",
 "usernum": 2793,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50305,7 +50298,7 @@ rankings =
 "country": "DK",
 "username": "Schmidt",
 "usernum": 11718,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50434,7 +50427,7 @@ rankings =
 "country": "US",
 "username": "teller",
 "usernum": 3053,
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "333bf",
@@ -50446,7 +50439,7 @@ rankings =
 "id": "2006MIYA01",
 "name": "Teruki Miyazaki (宮崎輝樹)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -50455,7 +50448,7 @@ rankings =
 "id": "2016SIVA04",
 "name": "Thanasekaran Sivasamy",
 "country": "IN",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
@@ -50554,7 +50547,7 @@ rankings =
 "id": "2017OSTB01",
 "name": "Thomas Östberg",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -50639,7 +50632,7 @@ rankings =
 "id": "2015DULE03",
 "name": "Tihomir Dulev",
 "country": "BG",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50765,7 +50758,7 @@ rankings =
 "country": "SE",
 "username": "Holm",
 "usernum": 11939,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50786,7 +50779,7 @@ rankings =
 "country": "NL",
 "username": "Ton",
 "usernum": 630,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -50917,7 +50910,7 @@ rankings =
 "id": "2009BLOH01",
 "name": "Uwe Blöhm",
 "country": "DE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -50959,7 +50952,7 @@ rankings =
 "id": "2009ELSO01",
 "name": "Valerie Elson",
 "country": "US",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -51058,7 +51051,7 @@ rankings =
 "id": "2010TARA01",
 "name": "Vladislav Tarasenko",
 "country": "RU",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -51096,7 +51089,7 @@ rankings =
 "id": "2009MONT01",
 "name": "Walter Antonio Monti",
 "country": "IT",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -51119,7 +51112,7 @@ rankings =
 "id": "2017ROBE21",
 "name": "William Robertson",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -51144,7 +51137,7 @@ rankings =
 "country": "PL",
 "username": "voytek",
 "usernum": 10785,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51155,7 +51148,7 @@ rankings =
 "id": "2008CHEN12",
 "name": "Xiansheng Chen",
 "country": "CN",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -51164,7 +51157,7 @@ rankings =
 "id": "2009LIXI05",
 "name": "Xinxian Li (李新贤)",
 "country": "CN",
-"age": 80,
+"age": 100,
 "events": [
 "333"
 ]
@@ -51185,7 +51178,7 @@ rankings =
 "id": "2016YEUN02",
 "name": "Yeung Hin Kei (楊顯基)",
 "country": "HK",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51216,7 +51209,7 @@ rankings =
 "id": "2010WANG33",
 "name": "Yongchao Wang (王永超)",
 "country": "CN",
-"age": 80,
+"age": 90,
 "events": [
 "333"
 ]
@@ -51283,7 +51276,7 @@ rankings =
 "id": "2007YULH01",
 "name": "Yul-Hok Sung (성열학)",
 "country": "KR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51335,7 +51328,7 @@ rankings =
 "id": "2018DEMP01",
 "name": "Zane David Dempsie",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -51344,7 +51337,7 @@ rankings =
 "id": "2003ZBOR02",
 "name": "Zbigniew Zborowski",
 "country": "PL",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51378,7 +51371,7 @@ rankings =
 "country": "HU",
 "username": "kzj",
 "usernum": 2019,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51392,7 +51385,7 @@ rankings =
 "id": "2007RUDA02",
 "name": "Zoltán Rudasi",
 "country": "HU",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -51401,7 +51394,7 @@ rankings =
 "id": "2015STOP01",
 "name": "Zorinko Stopic",
 "country": "BA",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
