@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-01-30 04:13:53",
+"refreshed": "2022-01-31 04:14:10",
 "events": [
 {
 "id": "333",
@@ -5472,114 +5472,120 @@ rankings =
 "competition": 7548
 },
 {
-"rank": 48,
+"rank": 46,
+"id": "2015CLAR13",
+"best": "1:18.41",
+"competition": 7567
+},
+{
+"rank": 49,
 "id": "2010ESTE02",
 "best": "1:23.96",
 "age": 80,
 "competition": 2493
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2009SING03",
 "best": "1:24.71",
 "competition": 1196
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2006OOMS01",
 "best": "1:24.84",
 "competition": 110
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2009ELSO01",
 "best": "1:29.81",
 "age": 70,
 "competition": 1431
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2009ZHUH01",
 "best": "1:30.63",
 "age": 70,
 "competition": 313
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2007PREU01",
 "best": "1:31.55",
 "competition": 130
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2019BRAD01",
 "best": "1:33.06",
 "age": 80,
 "competition": 5517
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2006BERG01",
 "best": "2:14.56",
 "age": 70,
 "competition": 216
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2008CHEN12",
 "best": "2:17.61",
 "age": 70,
 "competition": 193
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2011MICH02",
 "best": "2:29.52",
 "age": 70,
 "competition": 643
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2018DOYL02",
 "best": "2:30.49",
 "age": 80,
 "competition": 4888
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2009AZHA01",
 "best": "2:38.00",
 "competition": 348
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2011YANG13",
 "best": "3:11.06",
 "competition": 803
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2012SING03",
 "best": "4:19.52",
 "age": 70,
 "competition": 1186
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2009LIXI05",
 "best": "4:43.52",
 "age": 80,
 "competition": 313
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2010WANG33",
 "best": "4:59.18",
 "age": 80,
 "competition": 477
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2011MICH01",
 "best": "5:52.16",
 "age": 90,
@@ -11284,40 +11290,46 @@ rankings =
 },
 {
 "rank": 57,
+"id": "2015CLAR13",
+"best": "1:56.09",
+"competition": 7567
+},
+{
+"rank": 58,
 "id": "2009ELSO01",
 "best": "2:05.26",
 "age": 70,
 "competition": 1431
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2006BERG01",
 "best": "2:35.10",
 "age": 70,
 "competition": 216
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2009AZHA01",
 "best": "3:03.10",
 "competition": 348
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2018DOYL02",
 "best": "3:19.05",
 "age": 80,
 "competition": 4888
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2011YANG13",
 "best": "3:44.87",
 "age": 70,
 "competition": 6207
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2010WANG33",
 "best": "6:52.57",
 "age": 80,
@@ -12351,15 +12363,15 @@ rankings =
 },
 {
 "rank": 162,
+"id": "2018COOP06",
+"best": "5.83",
+"competition": 7562
+},
+{
+"rank": 162,
 "id": "2008YIMV01",
 "best": "5.83",
 "competition": 6054
-},
-{
-"rank": 164,
-"id": "2018COOP06",
-"best": "5.85",
-"competition": 7329
 },
 {
 "rank": 165,
@@ -18477,77 +18489,77 @@ rankings =
 },
 {
 "rank": 41,
+"id": "2018COOP06",
+"best": "1:01.50",
+"competition": 7562
+},
+{
+"rank": 42,
 "id": "2010DELI02",
 "best": "1:01.88",
 "competition": 1103
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2003DENN01",
 "best": "1:02.05",
 "age": 50,
 "competition": 4511
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2011LAWR01",
 "best": "1:02.70",
 "competition": 5643
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2012HINO01",
 "best": "1:02.94",
 "competition": 6258
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2016LECO01",
 "best": "1:03.02",
 "competition": 6845
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2013PAPA04",
 "best": "1:03.13",
 "competition": 5474
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2014JANE01",
 "best": "1:03.19",
 "competition": 3311
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2017HART06",
 "best": "1:03.35",
 "competition": 6597
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2017ASMU01",
 "best": "1:03.43",
 "competition": 7478
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2005YAZA01",
 "best": "1:03.63",
 "competition": 4641
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2016POPO02",
 "best": "1:03.75",
 "age": 50,
 "competition": 4569
-},
-{
-"rank": 53,
-"id": "2018COOP06",
-"best": "1:03.89",
-"competition": 7329
 },
 {
 "rank": 54,
@@ -20484,77 +20496,77 @@ rankings =
 },
 {
 "rank": 34,
+"id": "2018COOP06",
+"best": "1:07.21",
+"competition": 7562
+},
+{
+"rank": 34,
 "id": "2010STAS01",
 "best": "1:07.21",
 "competition": 5197
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2010HEIL02",
 "best": "1:07.91",
 "competition": 2824
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2007CINO01",
 "best": "1:08.30",
 "competition": 5101
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2018MERT01",
 "best": "1:08.61",
 "competition": 7454
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2016LECO01",
 "best": "1:08.72",
 "competition": 6193
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2008COUR01",
 "best": "1:08.79",
 "competition": 1839
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2012PETR01",
 "best": "1:09.34",
 "competition": 6368
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2014VIGN02",
 "best": "1:09.85",
 "age": 50,
 "competition": 5368
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2016POPO02",
 "best": "1:09.87",
 "age": 50,
 "competition": 4569
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2017KRUG04",
 "best": "1:10.46",
 "competition": 6658
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2017ASMU01",
 "best": "1:10.87",
 "competition": 7478
-},
-{
-"rank": 46,
-"id": "2018COOP06",
-"best": "1:10.94",
-"competition": 7329
 },
 {
 "rank": 47,
@@ -44736,7 +44748,7 @@ rankings =
 "country": "US",
 "username": "docpugh",
 "usernum": 30993,
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -47045,7 +47057,7 @@ rankings =
 "id": "2017MCGU04",
 "name": "Jonathan McGuinness",
 "country": "IE",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -48498,7 +48510,7 @@ rankings =
 "id": "2012MANS04",
 "name": "Michel Mansutier",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -50833,7 +50845,7 @@ rankings =
 "id": "2018HOSH02",
 "name": "Toshio Hoshino (星野利夫)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -63448,6 +63460,20 @@ rankings =
 "country": "RU",
 "startDate": "2022-01-23",
 "webId": "TyumenAlpaca2022"
+},
+{
+"id": 7562,
+"name": "Utah Ice Cubing 2022",
+"country": "US",
+"startDate": "2022-01-29",
+"webId": "UtahIceCubing2022"
+},
+{
+"id": 7567,
+"name": "Wakefield Open 2022",
+"country": "GB",
+"startDate": "2022-01-29",
+"webId": "WakefieldOpen2022"
 }
 ],
 "countries": [
