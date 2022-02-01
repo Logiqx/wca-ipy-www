@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-01-31 04:14:10",
+"refreshed": "2022-02-01 04:14:11",
 "events": [
 {
 "id": "333",
@@ -3362,36 +3362,36 @@ rankings =
 "competition": 4826
 },
 {
-"rank": 1433,
+"rank": 1431,
+"id": "2017HART11",
+"best": "1:09.94",
+"age": 60,
+"competition": 7560
+},
+{
+"rank": 1434,
 "id": "2018KEMP02",
 "best": "1:10.22",
 "competition": 4388
 },
 {
-"rank": 1435,
+"rank": 1436,
 "id": "2018LANG15",
 "best": "1:10.46",
 "competition": 5351
 },
 {
-"rank": 1441,
+"rank": 1442,
 "id": "2013CORM01",
 "best": "1:11.16",
 "age": 50,
 "competition": 3455
 },
 {
-"rank": 1444,
+"rank": 1445,
 "id": "2017EARL01",
 "best": "1:11.36",
 "competition": 3712
-},
-{
-"rank": 1448,
-"id": "2017HART11",
-"best": "1:11.67",
-"age": 50,
-"competition": 6942
 },
 {
 "rank": 1456,
@@ -4942,16 +4942,17 @@ rankings =
 "competition": 1431
 },
 {
-"rank": 338,
+"rank": 336,
+"id": "2017HART11",
+"best": "1:09.94",
+"age": 60,
+"competition": 7560
+},
+{
+"rank": 339,
 "id": "2013CORM01",
 "best": "1:11.16",
 "competition": 3455
-},
-{
-"rank": 340,
-"id": "2017HART11",
-"best": "1:11.67",
-"competition": 6942
 },
 {
 "rank": 342,
@@ -5453,23 +5454,23 @@ rankings =
 "competition": 3967
 },
 {
-"rank": 42,
+"rank": 41,
+"id": "2017HART11",
+"best": "1:09.94",
+"competition": 7560
+},
+{
+"rank": 43,
 "id": "2008JINZ01",
 "best": "1:12.11",
 "age": 80,
 "competition": 4690
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2011SEOK01",
 "best": "1:16.23",
 "competition": 6207
-},
-{
-"rank": 45,
-"id": "2017HART11",
-"best": "1:16.40",
-"competition": 7548
 },
 {
 "rank": 46,
@@ -63434,13 +63435,6 @@ rankings =
 "webId": "MelbourneSummer2022"
 },
 {
-"id": 7548,
-"name": "Baton Rouge Winter 2022",
-"country": "US",
-"startDate": "2022-01-22",
-"webId": "BatonRougeWinter2022"
-},
-{
 "id": 7553,
 "name": "Paladiamante Open 2022",
 "country": "IT",
@@ -63460,6 +63454,13 @@ rankings =
 "country": "RU",
 "startDate": "2022-01-23",
 "webId": "TyumenAlpaca2022"
+},
+{
+"id": 7560,
+"name": "GA Cubers Greetings 2022",
+"country": "US",
+"startDate": "2022-01-29",
+"webId": "GACubersGreetings2022"
 },
 {
 "id": 7562,
