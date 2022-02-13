@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-02-12 04:14:51",
+"refreshed": "2022-02-13 04:14:52",
 "events": [
 {
 "id": "333",
@@ -44637,6 +44637,23 @@ rankings =
 ]
 },
 {
+"id": "2018SMIT42",
+"name": "Dan Smith",
+"country": "US",
+"username": "OldManCuber",
+"usernum": 49036,
+"age": 50,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"clock",
+"pyram",
+"sq1"
+]
+},
+{
 "id": "2018TURN03",
 "name": "Dan Turner",
 "country": "US",
@@ -44727,23 +44744,6 @@ rankings =
 "333oh",
 "444",
 "555"
-]
-},
-{
-"id": "2018SMIT42",
-"name": "Daniel Smith",
-"country": "US",
-"username": "OldManCuber",
-"usernum": 49036,
-"age": 50,
-"events": [
-"222",
-"333",
-"444",
-"555",
-"clock",
-"pyram",
-"sq1"
 ]
 },
 {
