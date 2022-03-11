@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-03-10 23:20:30",
+"refreshed": "2022-03-11 04:14:21",
 "events": [
 {
 "id": "333",
@@ -31590,22 +31590,22 @@ rankings =
 },
 {
 "rank": 14,
+"id": "2019KUCA01",
+"best": "10.64",
+"age": 50,
+"competition": 7614
+},
+{
+"rank": 15,
 "id": "2006GALE01",
 "best": "10.65",
 "competition": 3148
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2009PARE02",
 "best": "10.78",
 "competition": 1302
-},
-{
-"rank": 18,
-"id": "2019KUCA01",
-"best": "10.82",
-"age": 50,
-"competition": 7432
 },
 {
 "rank": 19,
@@ -32276,8 +32276,8 @@ rankings =
 {
 "rank": 3,
 "id": "2019KUCA01",
-"best": "10.82",
-"competition": 7432
+"best": "10.64",
+"competition": 7614
 },
 {
 "rank": 4,
@@ -32630,17 +32630,17 @@ rankings =
 "competition": 7433
 },
 {
-"rank": 16,
-"id": "2017ASMU01",
-"best": "12.30",
-"competition": 7605
+"rank": 15,
+"id": "2019KUCA01",
+"best": "12.06",
+"age": 50,
+"competition": 7614
 },
 {
 "rank": 17,
-"id": "2019KUCA01",
-"best": "12.45",
-"age": 50,
-"competition": 7468
+"id": "2017ASMU01",
+"best": "12.30",
+"competition": 7605
 },
 {
 "rank": 18,
@@ -33181,8 +33181,8 @@ rankings =
 {
 "rank": 2,
 "id": "2019KUCA01",
-"best": "12.45",
-"competition": 7468
+"best": "12.06",
+"competition": 7614
 },
 {
 "rank": 3,
@@ -64141,6 +64141,13 @@ rankings =
 "country": "US",
 "startDate": "2022-03-05",
 "webId": "LetsTryAgainSpokane2022"
+},
+{
+"id": 7614,
+"name": "NA Stadium Series - Green Bay 2022",
+"country": "US",
+"startDate": "2022-03-05",
+"webId": "NAStadiumSeriesGreenBay2022"
 },
 {
 "id": 7615,
