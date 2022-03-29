@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-03-28 04:13:55",
+"refreshed": "2022-03-29 04:14:31",
 "events": [
 {
 "id": "333",
@@ -31723,9 +31723,9 @@ rankings =
 {
 "rank": 15,
 "id": "2019KUCA01",
-"best": "10.64",
+"best": "10.52",
 "age": 50,
-"competition": 7614
+"competition": 7659
 },
 {
 "rank": 16,
@@ -32278,79 +32278,79 @@ rankings =
 "competition": 6054
 },
 {
-"rank": 136,
+"rank": 137,
 "id": "2013BINI01",
 "best": "40.50",
 "age": 50,
 "competition": 6665
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "2021HUGO01",
 "best": "40.75",
 "age": 50,
 "competition": 7449
 },
 {
-"rank": 138,
+"rank": 139,
 "id": "2012PETR01",
 "best": "41.01",
 "competition": 6615
 },
 {
-"rank": 140,
+"rank": 141,
 "id": "2017CREA01",
 "best": "42.12",
 "age": 50,
 "competition": 3677
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2013MORA02",
 "best": "42.52",
 "competition": 1501
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2010HEIL02",
 "best": "48.69",
 "competition": 1022
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2018GRAG01",
 "best": "49.62",
 "competition": 5552
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2007DOUT01",
 "best": "50.00",
 "age": 50,
 "competition": 1413
 },
 {
-"rank": 149,
+"rank": 150,
 "id": "2016LASC01",
 "best": "55.03",
 "competition": 4591
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2016ODEG01",
 "best": "1:11.15",
 "age": 50,
 "competition": 2817
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2011SEOK01",
 "best": "1:12.02",
 "age": 60,
 "competition": 6118
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2011YANG13",
 "best": "2:04.91",
 "age": 70,
@@ -32358,11 +32358,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 39,
+"world": 40,
 "continents": {
 "AS": 7,
 "EU": 19,
-"NA": 9,
+"NA": 10,
 "OC": 1,
 "SA": 2
 },
@@ -32398,7 +32398,7 @@ rankings =
 "RU": 1,
 "SE": 1,
 "UA": 1,
-"US": 8
+"US": 9
 }
 }
 },
@@ -32421,8 +32421,8 @@ rankings =
 {
 "rank": 3,
 "id": "2019KUCA01",
-"best": "10.64",
-"competition": 7614
+"best": "10.52",
+"competition": 7659
 },
 {
 "rank": 4,
@@ -32770,22 +32770,22 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2019KUCA01",
+"best": "11.61",
+"age": 50,
+"competition": 7659
+},
+{
+"rank": 14,
 "id": "2009PARE02",
 "best": "11.88",
 "competition": 1302
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2019GRIE05",
 "best": "12.05",
 "competition": 7433
-},
-{
-"rank": 15,
-"id": "2019KUCA01",
-"best": "12.06",
-"age": 50,
-"competition": 7614
 },
 {
 "rank": 17,
@@ -33281,20 +33281,20 @@ rankings =
 "competition": 1413
 },
 {
-"rank": 113,
+"rank": 114,
 "id": "2011SEOK01",
 "best": "1:19.28",
 "age": 60,
 "competition": 6118
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2016COUL01",
 "best": "1:23.70",
 "competition": 6503
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2011YANG13",
 "best": "2:54.12",
 "age": 70,
@@ -33302,11 +33302,11 @@ rankings =
 }
 ],
 "missing": {
-"world": 19,
+"world": 20,
 "continents": {
 "AS": 4,
 "EU": 9,
-"NA": 3,
+"NA": 4,
 "SA": 2
 },
 "countries": {
@@ -33334,7 +33334,7 @@ rankings =
 "PT": 0,
 "RU": 1,
 "SE": 1,
-"US": 2
+"US": 3
 }
 }
 },
@@ -33351,8 +33351,8 @@ rankings =
 {
 "rank": 2,
 "id": "2019KUCA01",
-"best": "12.06",
-"competition": 7614
+"best": "11.61",
+"competition": 7659
 },
 {
 "rank": 3,
@@ -64406,13 +64406,6 @@ rankings =
 "webId": "LetsTryAgainSpokane2022"
 },
 {
-"id": 7614,
-"name": "NA Stadium Series - Green Bay 2022",
-"country": "US",
-"startDate": "2022-03-05",
-"webId": "NAStadiumSeriesGreenBay2022"
-},
-{
 "id": 7615,
 "name": "PBQtah Winter 2022",
 "country": "US",
@@ -64523,6 +64516,13 @@ rankings =
 "country": "AU",
 "startDate": "2022-03-25",
 "webId": "TasmanianOpen2022"
+},
+{
+"id": 7659,
+"name": "Mini Minnesota Spring 2022",
+"country": "US",
+"startDate": "2022-03-26",
+"webId": "MiniMinnesotaSpring2022"
 },
 {
 "id": 7664,
