@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-04-14 16:26:13",
+"refreshed": "2022-04-15 04:14:40",
 "events": [
 {
 "id": "333",
@@ -47581,7 +47581,7 @@ rankings =
 "id": "2006HYAK01",
 "name": "Ikuo Hyakuta (百田郁夫)",
 "country": "JP",
-"age": 60,
+"age": 70,
 "events": [
 "222",
 "333"
