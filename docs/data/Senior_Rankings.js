@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-04-22 04:14:42",
+"refreshed": "2022-04-22 23:14:27",
 "events": [
 {
 "id": "333",
@@ -11,6 +11,12 @@ rankings =
 "type": "single",
 "age": 40,
 "ranks": [
+{
+"rank": 1,
+"id": "2007LUJI01",
+"best": "8.47",
+"competition": 7535
+},
 {
 "rank": 2,
 "id": "2003BRUC01",
@@ -3949,10 +3955,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1446,
+"world": 1445,
 "continents": {
 "AF": 35,
-"AS": 350,
+"AS": 349,
 "EU": 489,
 "NA": 380,
 "OC": 56,
@@ -4026,7 +4032,7 @@ rankings =
 "TH": 4,
 "TN": 1,
 "TR": 4,
-"TW": 4,
+"TW": 3,
 "TZ": 1,
 "UA": 5,
 "US": 294,
@@ -6049,6 +6055,12 @@ rankings =
 "type": "average",
 "age": 40,
 "ranks": [
+{
+"rank": 1,
+"id": "2007LUJI01",
+"best": "11.41",
+"competition": 7535
+},
 {
 "rank": 2,
 "id": "2003BRUC01",
@@ -9898,10 +9910,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 1371,
+"world": 1370,
 "continents": {
 "AF": 35,
-"AS": 305,
+"AS": 304,
 "EU": 472,
 "NA": 372,
 "OC": 53,
@@ -9975,7 +9987,7 @@ rankings =
 "TH": 3,
 "TN": 1,
 "TR": 3,
-"TW": 4,
+"TW": 3,
 "TZ": 1,
 "UA": 5,
 "US": 288,
@@ -18742,6 +18754,12 @@ rankings =
 "competition": 6258
 },
 {
+"rank": 3,
+"id": "2007LUJI01",
+"best": "43.40",
+"competition": 7516
+},
+{
 "rank": 4,
 "id": "2005KOSE01",
 "best": "46.29",
@@ -20324,10 +20342,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 143,
+"world": 142,
 "continents": {
 "AF": 2,
-"AS": 23,
+"AS": 22,
 "EU": 70,
 "NA": 35,
 "OC": 1,
@@ -20837,6 +20855,12 @@ rankings =
 "type": "average",
 "age": 40,
 "ranks": [
+{
+"rank": 1,
+"id": "2007LUJI01",
+"best": "45.82",
+"competition": 7516
+},
 {
 "rank": 2,
 "id": "2003BRUC01",
@@ -21940,10 +21964,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 63,
+"world": 62,
 "continents": {
 "AF": 2,
-"AS": 12,
+"AS": 11,
 "EU": 29,
 "NA": 15,
 "OC": 0,
@@ -26631,6 +26655,12 @@ rankings =
 "age": 40,
 "ranks": [
 {
+"rank": 1,
+"id": "2007LUJI01",
+"best": "25.53",
+"competition": 7535
+},
+{
 "rank": 2,
 "id": "2005KOCZ01",
 "best": "43.22",
@@ -27345,10 +27375,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 39,
+"world": 38,
 "continents": {
 "AF": 1,
-"AS": 17,
+"AS": 16,
 "EU": 11,
 "NA": 8,
 "OC": 1,
@@ -27388,7 +27418,7 @@ rankings =
 "RU": 3,
 "SE": 0,
 "SI": 0,
-"TW": 1,
+"TW": 0,
 "US": 4,
 "ZA": 0
 }
@@ -43302,6 +43332,12 @@ rankings =
 "age": 40,
 "ranks": [
 {
+"rank": 1,
+"id": "2007LUJI01",
+"best": "3:39.95",
+"competition": 7535
+},
+{
 "rank": 2,
 "id": "2015RIVE05",
 "best": "4:47.53",
@@ -43515,10 +43551,10 @@ rankings =
 }
 ],
 "missing": {
-"world": 3,
+"world": 2,
 "continents": {
 "AF": 0,
-"AS": 3,
+"AS": 2,
 "EU": 0,
 "NA": 0
 },
@@ -43539,7 +43575,7 @@ rankings =
 "RO": 0,
 "RU": 0,
 "SE": 0,
-"TW": 1,
+"TW": 0,
 "US": 0,
 "ZA": 0
 }
@@ -43806,6 +43842,12 @@ rankings =
 "age": 40,
 "ranks": [
 {
+"rank": 1,
+"id": "2007LUJI01",
+"best": "8:19.25",
+"competition": 7535
+},
+{
 "rank": 2,
 "id": "2005KOCZ01",
 "best": "10:55.00",
@@ -43920,9 +43962,9 @@ rankings =
 }
 ],
 "missing": {
-"world": 1,
+"world": 0,
 "continents": {
-"AS": 1,
+"AS": 0,
 "EU": 0,
 "NA": 0
 },
@@ -48354,6 +48396,19 @@ rankings =
 "clock",
 "pyram",
 "skewb"
+]
+},
+{
+"id": "2007LUJI01",
+"name": "Jia-Hong Lu (陸嘉宏)",
+"country": "TW",
+"age": 40,
+"events": [
+"333",
+"333bf",
+"444",
+"444bf",
+"555bf"
 ]
 },
 {
@@ -64756,6 +64811,13 @@ rankings =
 "webId": "CubersEveLubartow2021"
 },
 {
+"id": 7516,
+"name": "Welcome Back Taipei 2021",
+"country": "TW",
+"startDate": "2021-12-19",
+"webId": "WelcomeBackTaipei2021"
+},
+{
 "id": 7517,
 "name": "Abierto de Navidad 2021",
 "country": "AR",
@@ -64789,6 +64851,13 @@ rankings =
 "country": "AU",
 "startDate": "2022-01-14",
 "webId": "Sorell2022"
+},
+{
+"id": 7535,
+"name": "Taiwan Open 2022",
+"country": "TW",
+"startDate": "2022-01-14",
+"webId": "TaiwanOpen2022"
 },
 {
 "id": 7540,
