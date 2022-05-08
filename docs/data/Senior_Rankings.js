@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-05-07 04:14:52",
+"refreshed": "2022-05-08 04:14:46",
 "events": [
 {
 "id": "333",
@@ -12279,35 +12279,35 @@ rankings =
 },
 {
 "rank": 48,
+"id": "2014PACE01",
+"best": "3.96",
+"competition": 7755
+},
+{
+"rank": 49,
 "id": "2014UGGL01",
 "best": "3.99",
 "competition": 7617
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2018WIRZ01",
 "best": "4.01",
 "age": 50,
 "competition": 7692
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2015RIVE05",
 "best": "4.02",
 "age": 50,
 "competition": 4565
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2019MEDI04",
 "best": "4.03",
 "competition": 6408
-},
-{
-"rank": 52,
-"id": "2014PACE01",
-"best": "4.04",
-"competition": 3098
 },
 {
 "rank": 54,
@@ -42920,65 +42920,65 @@ rankings =
 },
 {
 "rank": 51,
+"id": "2014PACE01",
+"best": "49.91",
+"competition": 7755
+},
+{
+"rank": 52,
 "id": "2013SUDO01",
 "best": "50.25",
 "competition": 6258
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2007DOUT01",
 "best": "51.05",
 "age": 50,
 "competition": 4481
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2018SACH03",
 "best": "51.83",
 "age": 50,
 "competition": 7463
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2007OEYM01",
 "best": "53.21",
 "competition": 730
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2017WEST02",
 "best": "54.67",
 "competition": 5749
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2010HAMA03",
 "best": "55.05",
 "competition": 2075
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2017PHIL09",
 "best": "55.17",
 "competition": 5124
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2016BORR02",
 "best": "55.28",
 "competition": 6602
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2006KASP02",
 "best": "55.84",
 "competition": 6815
-},
-{
-"rank": 61,
-"id": "2014PACE01",
-"best": "56.34",
-"competition": 3838
 },
 {
 "rank": 62,
@@ -57804,13 +57804,6 @@ rankings =
 "webId": "BredaOpen2016"
 },
 {
-"id": 3098,
-"name": "GLS Cup IV 2016",
-"country": "PL",
-"startDate": "2016-09-03",
-"webId": "GLSCupIV2016"
-},
-{
 "id": 3099,
 "name": "Open Rubik Vall d'Uixó 2016",
 "country": "ES",
@@ -58950,13 +58943,6 @@ rankings =
 "country": "US",
 "startDate": "2017-08-05",
 "webId": "SevernaParkSummer2017"
-},
-{
-"id": 3838,
-"name": "GLS Cup IV 2017",
-"country": "PL",
-"startDate": "2017-08-05",
-"webId": "GLSCupIV2017"
 },
 {
 "id": 3842,
@@ -66083,6 +66069,13 @@ rankings =
 "country": "DE",
 "startDate": "2022-05-01",
 "webId": "GermanMiniOpenB2022"
+},
+{
+"id": 7755,
+"name": "Olsztyn Spring Open 2022",
+"country": "PL",
+"startDate": "2022-05-07",
+"webId": "OlsztynSpringOpen2022"
 }
 ],
 "countries": [
