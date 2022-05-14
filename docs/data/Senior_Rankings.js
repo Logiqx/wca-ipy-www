@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-05-13 04:14:43",
+"refreshed": "2022-05-14 04:14:23",
 "events": [
 {
 "id": "333",
@@ -3544,102 +3544,102 @@ rankings =
 "competition": 3712
 },
 {
-"rank": 1480,
+"rank": 1473,
+"id": "2017GUER16",
+"best": "1:11.67",
+"competition": 7760
+},
+{
+"rank": 1481,
 "id": "2008JINZ01",
 "best": "1:12.11",
 "age": 80,
 "competition": 4690
 },
 {
-"rank": 1482,
+"rank": 1483,
 "id": "2016CHOW02",
 "best": "1:12.23",
 "age": 50,
 "competition": 3788
 },
 {
-"rank": 1490,
+"rank": 1491,
 "id": "2020MCLE02",
 "best": "1:12.54",
 "competition": 6776
 },
 {
-"rank": 1493,
+"rank": 1494,
 "id": "2013VAIT01",
 "best": "1:12.64",
 "competition": 3628
 },
 {
-"rank": 1501,
+"rank": 1502,
 "id": "2017GRAD03",
 "best": "1:13.07",
 "age": 50,
 "competition": 4260
 },
 {
-"rank": 1516,
+"rank": 1517,
 "id": "2016PINT04",
 "best": "1:14.18",
 "competition": 4882
 },
 {
-"rank": 1526,
+"rank": 1527,
 "id": "2017WALL07",
 "best": "1:14.86",
 "age": 50,
 "competition": 6043
 },
 {
-"rank": 1537,
+"rank": 1538,
 "id": "2018BONA03",
 "best": "1:15.63",
 "age": 50,
 "competition": 6028
 },
 {
-"rank": 1539,
+"rank": 1540,
 "id": "2014ESPA04",
 "best": "1:15.73",
 "age": 50,
 "competition": 6233
 },
 {
-"rank": 1544,
+"rank": 1545,
 "id": "2019PEAC01",
 "best": "1:16.14",
 "competition": 5729
 },
 {
-"rank": 1546,
+"rank": 1547,
 "id": "2011SEOK01",
 "best": "1:16.23",
 "age": 60,
 "competition": 6207
 },
 {
-"rank": 1555,
+"rank": 1556,
 "id": "2017SVAN01",
 "best": "1:16.93",
 "age": 50,
 "competition": 5779
 },
 {
-"rank": 1562,
+"rank": 1563,
 "id": "2019ALVA14",
 "best": "1:17.17",
 "competition": 6347
 },
 {
-"rank": 1572,
+"rank": 1573,
 "id": "2017SACC01",
 "best": "1:17.71",
 "competition": 4030
-},
-{
-"rank": 1573,
-"id": "2017GUER16",
-"best": "1:17.76",
-"competition": 4045
 },
 {
 "rank": 1575,
@@ -9622,126 +9622,126 @@ rankings =
 "competition": 5037
 },
 {
-"rank": 1425,
+"rank": 1423,
+"id": "2017GUER16",
+"best": "1:25.84",
+"competition": 7760
+},
+{
+"rank": 1426,
 "id": "2017FARN02",
 "best": "1:26.05",
 "competition": 5956
 },
 {
-"rank": 1426,
+"rank": 1427,
 "id": "2011BLAC01",
 "best": "1:26.10",
 "competition": 685
 },
 {
-"rank": 1429,
+"rank": 1430,
 "id": "2016OLST01",
 "best": "1:26.40",
 "competition": 4558
 },
 {
-"rank": 1444,
+"rank": 1445,
 "id": "2017GRAD03",
 "best": "1:28.13",
 "age": 50,
 "competition": 4260
 },
 {
-"rank": 1446,
+"rank": 1447,
 "id": "2015PUGH01",
 "best": "1:28.33",
 "competition": 2362
 },
 {
-"rank": 1452,
+"rank": 1453,
 "id": "2016PINT04",
 "best": "1:28.78",
 "competition": 5378
 },
 {
-"rank": 1455,
+"rank": 1456,
 "id": "2018PISC02",
 "best": "1:28.88",
 "age": 50,
 "competition": 4463
 },
 {
-"rank": 1457,
+"rank": 1458,
 "id": "2018DEMP01",
 "best": "1:29.05",
 "competition": 4826
 },
 {
-"rank": 1466,
+"rank": 1467,
 "id": "2016SIVA04",
 "best": "1:30.11",
 "age": 60,
 "competition": 5456
 },
 {
-"rank": 1469,
+"rank": 1470,
 "id": "2018LANG15",
 "best": "1:30.37",
 "competition": 6854
 },
 {
-"rank": 1471,
+"rank": 1472,
 "id": "2019TRAC02",
 "best": "1:30.46",
 "age": 50,
 "competition": 6032
 },
 {
-"rank": 1475,
+"rank": 1476,
 "id": "2009KING01",
 "best": "1:30.92",
 "age": 50,
 "competition": 1431
 },
 {
-"rank": 1478,
+"rank": 1479,
 "id": "2017MARI16",
 "best": "1:31.72",
 "competition": 4859
 },
 {
-"rank": 1488,
+"rank": 1489,
 "id": "2015FIEC01",
 "best": "1:32.92",
 "age": 50,
 "competition": 5846
 },
 {
-"rank": 1494,
+"rank": 1495,
 "id": "2011SEOK01",
 "best": "1:33.47",
 "age": 60,
 "competition": 6207
 },
 {
-"rank": 1503,
+"rank": 1504,
 "id": "2019ALVA14",
 "best": "1:34.21",
 "competition": 6347
 },
 {
-"rank": 1521,
+"rank": 1522,
 "id": "2017SACC01",
 "best": "1:35.78",
 "competition": 4030
 },
 {
-"rank": 1544,
+"rank": 1545,
 "id": "2013BINI01",
 "best": "1:37.45",
 "age": 50,
 "competition": 3406
-},
-{
-"rank": 1552,
-"id": "2017GUER16",
-"best": "1:38.49",
-"competition": 5983
 },
 {
 "rank": 1559,
@@ -20574,56 +20574,62 @@ rankings =
 },
 {
 "rank": 369,
+"id": "2017GUER16",
+"best": "3:50.54",
+"competition": 7760
+},
+{
+"rank": 370,
 "id": "2017HAGN01",
 "best": "3:51.88",
 "competition": 6065
 },
 {
-"rank": 372,
+"rank": 373,
 "id": "2015LIMA20",
 "best": "3:59.55",
 "age": 60,
 "competition": 6643
 },
 {
-"rank": 374,
+"rank": 375,
 "id": "2009HAMO02",
 "best": "4:02.31",
 "competition": 2127
 },
 {
-"rank": 377,
+"rank": 378,
 "id": "2008BRUN01",
 "best": "4:15.71",
 "competition": 197
 },
 {
-"rank": 379,
+"rank": 380,
 "id": "2014WICK01",
 "best": "4:27.05",
 "competition": 1607
 },
 {
-"rank": 380,
+"rank": 381,
 "id": "2015HEIK01",
 "best": "4:30.75",
 "competition": 2595
 },
 {
-"rank": 385,
+"rank": 386,
 "id": "2016ODEG01",
 "best": "4:58.97",
 "age": 50,
 "competition": 6283
 },
 {
-"rank": 387,
+"rank": 388,
 "id": "2017GALA01",
 "best": "5:12.94",
 "competition": 3907
 },
 {
-"rank": 396,
+"rank": 397,
 "id": "2017HOZS01",
 "best": "6:47.03",
 "age": 50,
@@ -36799,10 +36805,10 @@ rankings =
 "competition": 4055
 },
 {
-"rank": 252,
+"rank": 249,
 "id": "2017GUER16",
-"best": "13.73",
-"competition": 5381
+"best": "13.60",
+"competition": 7760
 },
 {
 "rank": 256,
@@ -39091,28 +39097,28 @@ rankings =
 "competition": 4637
 },
 {
-"rank": 288,
+"rank": 287,
+"id": "2017GUER16",
+"best": "22.49",
+"competition": 7760
+},
+{
+"rank": 289,
 "id": "2020DOER01",
 "best": "22.64",
 "competition": 6909
 },
 {
-"rank": 291,
+"rank": 292,
 "id": "2017ENGE03",
 "best": "22.93",
 "competition": 7617
 },
 {
-"rank": 292,
+"rank": 293,
 "id": "2016LASC01",
 "best": "22.97",
 "competition": 6164
-},
-{
-"rank": 293,
-"id": "2017GUER16",
-"best": "23.04",
-"competition": 5381
 },
 {
 "rank": 296,
@@ -45734,6 +45740,7 @@ rankings =
 "events": [
 "222",
 "333",
+"444",
 "pyram",
 "skewb"
 ]
@@ -59398,13 +59405,6 @@ rankings =
 "webId": "DutchOpen2017"
 },
 {
-"id": 4045,
-"name": "Guatemala Championship 2017",
-"country": "GT",
-"startDate": "2017-10-21",
-"webId": "GuatemalaChampionship2017"
-},
-{
 "id": 4055,
 "name": "Classic City Spooks 2017",
 "country": "US",
@@ -61776,13 +61776,6 @@ rankings =
 "country": "BR",
 "startDate": "2018-12-15",
 "webId": "SouthAmericanChampionship2018"
-},
-{
-"id": 5381,
-"name": "GuateMaya Open 2018",
-"country": "GT",
-"startDate": "2018-12-19",
-"webId": "GuateMayaOpen2018"
 },
 {
 "id": 5389,
@@ -66235,6 +66228,13 @@ rankings =
 "country": "US",
 "startDate": "2022-05-07",
 "webId": "RoseCity2022"
+},
+{
+"id": 7760,
+"name": "Arkadia 2022",
+"country": "GT",
+"startDate": "2022-05-07",
+"webId": "Arkadia2022"
 },
 {
 "id": 7762,
