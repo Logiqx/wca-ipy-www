@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-05-17 04:14:42",
+"refreshed": "2022-05-18 04:14:20",
 "events": [
 {
 "id": "333",
@@ -9073,100 +9073,100 @@ rankings =
 "competition": 3953
 },
 {
-"rank": 1017,
+"rank": 1018,
 "id": "2016KUHL01",
 "best": "57.73",
 "competition": 3471
 },
 {
-"rank": 1019,
+"rank": 1020,
 "id": "2018LUMS01",
 "best": "57.89",
 "competition": 5020
 },
 {
-"rank": 1020,
+"rank": 1021,
 "id": "2019BUEN07",
 "best": "57.91",
 "competition": 6408
 },
 {
-"rank": 1023,
+"rank": 1024,
 "id": "2007SANC01",
 "best": "58.21",
 "competition": 392
 },
 {
-"rank": 1024,
+"rank": 1025,
 "id": "2017CART07",
 "best": "58.23",
 "competition": 5813
 },
 {
-"rank": 1037,
+"rank": 1038,
 "id": "2018HENN04",
 "best": "59.02",
 "competition": 5592
 },
 {
-"rank": 1041,
+"rank": 1042,
 "id": "2017PEHJ01",
 "best": "59.22",
 "competition": 6206
 },
 {
-"rank": 1042,
+"rank": 1043,
 "id": "2015FRIB02",
 "best": "59.24",
 "age": 50,
 "competition": 2960
 },
 {
-"rank": 1046,
+"rank": 1047,
 "id": "2018HALL06",
 "best": "59.52",
 "competition": 5307
 },
 {
-"rank": 1048,
+"rank": 1049,
 "id": "2019HICK05",
 "best": "59.60",
 "age": 50,
 "competition": 6506
 },
 {
-"rank": 1051,
+"rank": 1052,
 "id": "2019ONOG01",
 "best": "59.84",
 "competition": 5445
 },
 {
-"rank": 1052,
+"rank": 1053,
 "id": "2015STOP01",
 "best": "59.85",
 "competition": 5940
 },
 {
-"rank": 1054,
+"rank": 1055,
 "id": "2019ALSH04",
 "best": "1:00.01",
 "competition": 7405
 },
 {
-"rank": 1057,
+"rank": 1058,
 "id": "2015MELN01",
 "best": "1:00.18",
 "competition": 3030
 },
 {
-"rank": 1058,
+"rank": 1059,
 "id": "2009HEND01",
 "best": "1:00.48",
 "age": 70,
 "competition": 7484
 },
 {
-"rank": 1070,
+"rank": 1071,
 "id": "2018HARR01",
 "best": "1:01.43",
 "age": 50,
@@ -41817,28 +41817,28 @@ rankings =
 },
 {
 "rank": 61,
+"id": "2019KUCA01",
+"best": "13.73",
+"age": 50,
+"competition": 7775
+},
+{
+"rank": 62,
 "id": "2021BROW05",
 "best": "13.74",
 "competition": 7597
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2018GRAG01",
 "best": "13.92",
 "competition": 6646
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2012DESO02",
 "best": "14.09",
 "competition": 3061
-},
-{
-"rank": 65,
-"id": "2019KUCA01",
-"best": "14.29",
-"age": 50,
-"competition": 7625
 },
 {
 "rank": 66,
@@ -42586,8 +42586,8 @@ rankings =
 {
 "rank": 8,
 "id": "2019KUCA01",
-"best": "14.29",
-"competition": 7625
+"best": "13.73",
+"competition": 7775
 },
 {
 "rank": 9,
@@ -66328,6 +66328,13 @@ rankings =
 "country": "US",
 "startDate": "2022-05-08",
 "webId": "RoseCityFirstTimersB2022"
+},
+{
+"id": 7775,
+"name": "Minnesota Cube Day 2022",
+"country": "US",
+"startDate": "2022-05-14",
+"webId": "MinnesotaCubeDay2022"
 },
 {
 "id": 7777,
