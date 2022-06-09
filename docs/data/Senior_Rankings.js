@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-06-08 04:14:45",
+"refreshed": "2022-06-09 04:14:06",
 "events": [
 {
 "id": "333",
@@ -43920,39 +43920,39 @@ rankings =
 },
 {
 "rank": 18,
+"id": "2018BART01",
+"best": "23.92",
+"competition": 7854
+},
+{
+"rank": 19,
 "id": "2012HINO01",
 "best": "25.08",
 "competition": 5389
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2007GOHO01",
 "best": "25.24",
 "competition": 7509
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2013ANTI01",
 "best": "25.99",
 "competition": 4443
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2005PARI01",
 "best": "26.27",
 "competition": 364
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2007CINO01",
 "best": "26.29",
 "competition": 2922
-},
-{
-"rank": 23,
-"id": "2018BART01",
-"best": "27.41",
-"competition": 6793
 },
 {
 "rank": 24,
@@ -67718,6 +67718,13 @@ rankings =
 "country": "AU",
 "startDate": "2022-06-04",
 "webId": "VictorianOpen2022"
+},
+{
+"id": 7854,
+"name": "School's Out PLU 2022",
+"country": "US",
+"startDate": "2022-06-05",
+"webId": "SchoolsOutPLU2022"
 }
 ],
 "countries": [
