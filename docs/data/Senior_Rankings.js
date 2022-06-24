@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-06-23 04:14:49",
+"refreshed": "2022-06-24 04:14:24",
 "events": [
 {
 "id": "333",
@@ -53369,7 +53369,7 @@ rankings =
 "id": "2005VANH02",
 "name": "Petri Vanhala",
 "country": "FI",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
