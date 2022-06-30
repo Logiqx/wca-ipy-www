@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-06-29 04:14:28",
+"refreshed": "2022-06-30 04:14:44",
 "events": [
 {
 "id": "333",
@@ -28880,63 +28880,56 @@ rankings =
 },
 {
 "rank": 150,
-"id": "2016ODEG01",
-"best": "8:25.75",
-"age": 50,
-"competition": 7920
-},
-{
-"rank": 151,
 "id": "2004MCGA01",
 "best": "8:43.22",
 "age": 50,
 "competition": 66
 },
 {
-"rank": 152,
+"rank": 151,
 "id": "2007KOLL01",
 "best": "8:52.97",
 "competition": 2424
 },
 {
-"rank": 153,
+"rank": 152,
 "id": "2011MAUD01",
 "best": "9:13.28",
 "competition": 1155
 },
 {
-"rank": 154,
+"rank": 153,
 "id": "2006SANT01",
 "best": "9:44.84",
 "age": 50,
 "competition": 4109
 },
 {
-"rank": 155,
+"rank": 154,
 "id": "2016LEWI07",
 "best": "9:45.52",
 "competition": 3935
 },
 {
-"rank": 156,
+"rank": 155,
 "id": "2006PIRZ01",
 "best": "10:20.00",
 "competition": 6314
 },
 {
-"rank": 157,
+"rank": 156,
 "id": "2016COUL01",
 "best": "10:47.00",
 "competition": 5946
 },
 {
-"rank": 158,
+"rank": 157,
 "id": "2005THOM01",
 "best": "13:16.00",
 "competition": 31
 },
 {
-"rank": 159,
+"rank": 158,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -29183,30 +29176,24 @@ rankings =
 },
 {
 "rank": 34,
-"id": "2016ODEG01",
-"best": "8:25.75",
-"competition": 7920
-},
-{
-"rank": 35,
 "id": "2004MCGA01",
 "best": "8:43.22",
 "competition": 66
 },
 {
-"rank": 36,
+"rank": 35,
 "id": "2006SANT01",
 "best": "9:44.84",
 "competition": 4109
 },
 {
-"rank": 37,
+"rank": 36,
 "id": "2006MATH01",
 "best": "10:46.00",
 "competition": 2517
 },
 {
-"rank": 38,
+"rank": 37,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -48486,7 +48473,7 @@ rankings =
 "id": "2015REGE02",
 "name": "Cesar Rodriguez Regente",
 "country": "PE",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -52021,7 +52008,6 @@ rankings =
 "events": [
 "222",
 "333",
-"333bf",
 "444",
 "clock",
 "pyram"
@@ -53628,7 +53614,7 @@ rankings =
 "id": "2014KIPR02",
 "name": "Peter Kiprillis",
 "country": "AU",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
