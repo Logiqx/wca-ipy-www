@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-06-30 04:14:44",
+"refreshed": "2022-07-01 04:15:07",
 "events": [
 {
 "id": "333",
@@ -32860,42 +32860,42 @@ rankings =
 "competition": 1015
 },
 {
-"rank": 47,
+"rank": 46,
+"id": "2017GRIS03",
+"best": "36.70",
+"age": 50,
+"competition": 7931
+},
+{
+"rank": 48,
 "id": "2016COUL01",
 "best": "37.10",
 "competition": 6823
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2016FRIS02",
 "best": "37.17",
 "age": 50,
 "competition": 6913
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2016GREE02",
 "best": "37.59",
 "competition": 3893
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2010STAS01",
 "best": "37.66",
 "competition": 4142
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2012MENG02",
 "best": "37.68",
 "competition": 1856
-},
-{
-"rank": 52,
-"id": "2017GRIS03",
-"best": "37.74",
-"age": 50,
-"competition": 7411
 },
 {
 "rank": 53,
@@ -33576,21 +33576,21 @@ rankings =
 },
 {
 "rank": 7,
+"id": "2017GRIS03",
+"best": "36.70",
+"competition": 7931
+},
+{
+"rank": 8,
 "id": "2016FRIS02",
 "best": "37.17",
 "competition": 6913
 },
 {
-"rank": 8,
+"rank": 9,
 "id": "2010COAT01",
 "best": "37.30",
 "competition": 7817
-},
-{
-"rank": 9,
-"id": "2017GRIS03",
-"best": "37.74",
-"competition": 7411
 },
 {
 "rank": 10,
@@ -67364,13 +67364,6 @@ rankings =
 "webId": "PolishChampionship2021"
 },
 {
-"id": 7411,
-"name": "Aves María El Renacimiento 2021",
-"country": "CO",
-"startDate": "2021-10-02",
-"webId": "AvesMariaElRenacimiento2021"
-},
-{
 "id": 7412,
 "name": "Norrkubing 2021",
 "country": "SE",
@@ -68839,6 +68832,13 @@ rankings =
 "country": "IT",
 "startDate": "2022-06-25",
 "webId": "RomeMentalBreakdown2022"
+},
+{
+"id": 7931,
+"name": "UNAC Medellín 2022",
+"country": "CO",
+"startDate": "2022-06-26",
+"webId": "UNACMedellin2022"
 }
 ],
 "countries": [
