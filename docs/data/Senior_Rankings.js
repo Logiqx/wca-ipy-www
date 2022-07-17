@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-07-16 04:14:25",
+"refreshed": "2022-07-17 04:15:03",
 "events": [
 {
 "id": "333",
@@ -53534,21 +53534,6 @@ rankings =
 ]
 },
 {
-"id": "2021DOYL02",
-"name": "Michael Doyle",
-"country": "US",
-"age": 40,
-"events": [
-"222",
-"333",
-"444",
-"555",
-"minx",
-"skewb",
-"sq1"
-]
-},
-{
 "id": "2008ERSK01",
 "name": "Michael Erskine",
 "country": "GB",
@@ -53673,6 +53658,21 @@ rankings =
 "age": 50,
 "events": [
 "333"
+]
+},
+{
+"id": "2021DOYL02",
+"name": "Mickey Doyle",
+"country": "US",
+"age": 40,
+"events": [
+"222",
+"333",
+"444",
+"555",
+"minx",
+"skewb",
+"sq1"
 ]
 },
 {
