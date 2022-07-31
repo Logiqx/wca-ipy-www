@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-07-30 04:14:47",
+"refreshed": "2022-07-31 04:15:24",
 "events": [
 {
 "id": "333",
@@ -24680,83 +24680,83 @@ rankings =
 },
 {
 "rank": 139,
+"id": "2012ANGD01",
+"best": "3:18.07",
+"age": 50,
+"competition": 8016
+},
+{
+"rank": 140,
 "id": "2018PRAT13",
 "best": "3:25.08",
 "competition": 5605
 },
 {
-"rank": 140,
+"rank": 141,
 "id": "2006STAD01",
 "best": "3:25.43",
 "competition": 6937
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2008ERSK01",
 "best": "3:26.56",
 "competition": 1186
 },
 {
-"rank": 142,
+"rank": 143,
 "id": "2015DISI01",
 "best": "3:26.83",
 "competition": 4910
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2007BERR01",
 "best": "3:27.18",
 "age": 50,
 "competition": 264
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2021MILD01",
 "best": "3:28.80",
 "competition": 7853
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2015ADAM03",
 "best": "3:29.22",
 "competition": 3205
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2021DOYL02",
 "best": "3:29.68",
 "competition": 7753
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2005GUST02",
 "best": "3:30.06",
 "competition": 548
 },
 {
-"rank": 149,
+"rank": 150,
 "id": "2012WING01",
 "best": "3:30.34",
 "competition": 2663
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2005GUST01",
 "best": "3:31.61",
 "competition": 261
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2021HOLE01",
 "best": "3:32.65",
 "competition": 7986
-},
-{
-"rank": 153,
-"id": "2012ANGD01",
-"best": "3:36.48",
-"age": 50,
-"competition": 7891
 },
 {
 "rank": 154,
@@ -25257,21 +25257,21 @@ rankings =
 },
 {
 "rank": 29,
+"id": "2012ANGD01",
+"best": "3:18.07",
+"competition": 8016
+},
+{
+"rank": 30,
 "id": "2007BERR01",
 "best": "3:27.18",
 "competition": 264
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2015GOSL01",
 "best": "3:34.85",
 "competition": 4855
-},
-{
-"rank": 31,
-"id": "2012ANGD01",
-"best": "3:36.48",
-"competition": 7891
 },
 {
 "rank": 32,
@@ -55614,7 +55614,7 @@ rankings =
 "id": "2011VOLK01",
 "name": "Sergey Volkov",
 "country": "RU",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -55862,7 +55862,7 @@ rankings =
 "id": "2018PISC02",
 "name": "Steve Pischke",
 "country": "DE",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -70212,6 +70212,13 @@ rankings =
 "country": "US",
 "startDate": "2022-07-24",
 "webId": "GACubersWarmUp2022"
+},
+{
+"id": 8016,
+"name": "NTU Big Cube Open 2022",
+"country": "SG",
+"startDate": "2022-07-30",
+"webId": "NTUBigCubeOpen2022"
 }
 ],
 "countries": [
