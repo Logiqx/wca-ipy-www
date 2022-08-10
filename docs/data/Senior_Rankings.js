@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-08-09 04:14:45",
+"refreshed": "2022-08-10 04:14:24",
 "events": [
 {
 "id": "333",
@@ -2110,112 +2110,112 @@ rankings =
 "competition": 7670
 },
 {
-"rank": 556,
+"rank": 555,
+"id": "2019AGUE01",
+"best": "26.71",
+"age": 50,
+"competition": 8051
+},
+{
+"rank": 557,
 "id": "2008GARC11",
 "best": "26.77",
 "competition": 514
 },
 {
-"rank": 563,
+"rank": 564,
 "id": "2008BRUN01",
 "best": "26.93",
 "competition": 283
 },
 {
-"rank": 564,
+"rank": 565,
 "id": "2011MAUD01",
 "best": "26.94",
 "competition": 1303
 },
 {
-"rank": 566,
+"rank": 567,
 "id": "2006LOUI01",
 "best": "27.06",
 "competition": 277
 },
 {
-"rank": 567,
+"rank": 568,
 "id": "2015PLOW01",
 "best": "27.19",
 "competition": 3143
 },
 {
-"rank": 570,
+"rank": 571,
 "id": "2007DOUT01",
 "best": "27.28",
 "age": 50,
 "competition": 4312
 },
 {
-"rank": 572,
+"rank": 573,
 "id": "2013LEIS01",
 "best": "27.34",
 "competition": 2562
 },
 {
-"rank": 575,
+"rank": 576,
 "id": "2022REYN05",
 "best": "27.54",
 "competition": 7835
 },
 {
-"rank": 576,
+"rank": 577,
 "id": "2018KWAR01",
 "best": "27.57",
 "age": 50,
 "competition": 6771
 },
 {
-"rank": 577,
+"rank": 578,
 "id": "2013DEAR01",
 "best": "27.59",
 "competition": 1332
 },
 {
-"rank": 577,
+"rank": 578,
 "id": "2014SANT22",
 "best": "27.59",
 "competition": 3790
 },
 {
-"rank": 580,
+"rank": 581,
 "id": "2017ROSS10",
 "best": "27.62",
 "age": 50,
 "competition": 7517
 },
 {
-"rank": 581,
+"rank": 582,
 "id": "2016CARD19",
 "best": "27.65",
 "age": 50,
 "competition": 5071
 },
 {
-"rank": 582,
+"rank": 583,
 "id": "2014CURR01",
 "best": "27.66",
 "competition": 2021
 },
 {
-"rank": 587,
+"rank": 588,
 "id": "2003SCHE01",
 "best": "27.80",
 "competition": 1044
 },
 {
-"rank": 588,
+"rank": 589,
 "id": "2013HUBH01",
 "best": "27.81",
 "age": 50,
 "competition": 5890
-},
-{
-"rank": 591,
-"id": "2019AGUE01",
-"best": "27.92",
-"age": 50,
-"competition": 7601
 },
 {
 "rank": 594,
@@ -4795,46 +4795,46 @@ rankings =
 "competition": 7670
 },
 {
-"rank": 118,
+"rank": 115,
+"id": "2019AGUE01",
+"best": "26.71",
+"competition": 8051
+},
+{
+"rank": 119,
 "id": "2006LOUI01",
 "best": "27.25",
 "competition": 671
 },
 {
-"rank": 119,
+"rank": 120,
 "id": "2007DOUT01",
 "best": "27.28",
 "competition": 4312
 },
 {
-"rank": 122,
+"rank": 123,
 "id": "2018KWAR01",
 "best": "27.57",
 "competition": 6771
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2017ROSS10",
 "best": "27.62",
 "competition": 7517
 },
 {
-"rank": 125,
+"rank": 126,
 "id": "2016CARD19",
 "best": "27.65",
 "competition": 5071
 },
 {
-"rank": 127,
+"rank": 128,
 "id": "2013HUBH01",
 "best": "27.81",
 "competition": 5890
-},
-{
-"rank": 128,
-"id": "2019AGUE01",
-"best": "27.92",
-"competition": 7601
 },
 {
 "rank": 129,
@@ -8597,17 +8597,17 @@ rankings =
 "competition": 7932
 },
 {
-"rank": 573,
-"id": "2019RAPE01",
-"best": "33.30",
-"competition": 6845
+"rank": 572,
+"id": "2019AGUE01",
+"best": "33.27",
+"age": 50,
+"competition": 8051
 },
 {
 "rank": 574,
-"id": "2019AGUE01",
-"best": "33.34",
-"age": 50,
-"competition": 7601
+"id": "2019RAPE01",
+"best": "33.30",
+"competition": 6845
 },
 {
 "rank": 578,
@@ -11143,8 +11143,8 @@ rankings =
 {
 "rank": 117,
 "id": "2019AGUE01",
-"best": "33.34",
-"competition": 7601
+"best": "33.27",
+"competition": 8051
 },
 {
 "rank": 118,
@@ -70816,6 +70816,13 @@ rankings =
 "country": "AU",
 "startDate": "2022-08-06",
 "webId": "PerthPuzzleMarathon2022"
+},
+{
+"id": 8051,
+"name": "Real Cube 2022",
+"country": "PE",
+"startDate": "2022-08-06",
+"webId": "RealCube2022"
 },
 {
 "id": 8054,
