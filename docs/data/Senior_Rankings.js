@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-09-29 04:14:38",
+"refreshed": "2022-09-30 04:15:00",
 "events": [
 {
 "id": "333",
@@ -16233,64 +16233,64 @@ rankings =
 "competition": 8061
 },
 {
-"rank": 105,
+"rank": 106,
 "id": "2015BROO01",
 "best": "9.70",
 "competition": 5218
 },
 {
-"rank": 107,
+"rank": 108,
 "id": "2017MEGA01",
 "best": "9.78",
 "competition": 8074
 },
 {
-"rank": 108,
+"rank": 109,
 "id": "2013HUBH01",
 "best": "9.83",
 "competition": 5890
 },
 {
-"rank": 109,
+"rank": 110,
 "id": "2017BROW09",
 "best": "9.89",
 "competition": 6558
 },
 {
-"rank": 111,
+"rank": 112,
 "id": "2022STON02",
 "best": "10.19",
 "age": 70,
 "competition": 7640
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2014MELZ01",
 "best": "10.26",
 "competition": 7835
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2017NOVA05",
 "best": "10.31",
 "competition": 7728
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2009AOKI01",
 "best": "10.68",
 "age": 70,
 "competition": 560
 },
 {
-"rank": 121,
+"rank": 122,
 "id": "2015LEVI01",
 "best": "10.84",
 "age": 60,
 "competition": 3214
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2019CALI06",
 "best": "10.92",
 "competition": 7682
@@ -31740,6 +31740,13 @@ rankings =
 },
 {
 "rank": 77,
+"id": "2018COOK04",
+"best": "47",
+"age": 60,
+"competition": 8231
+},
+{
+"rank": 77,
 "id": "2005VANH02",
 "best": "47",
 "age": 50,
@@ -31752,38 +31759,31 @@ rankings =
 "competition": 6623
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2017DAOU01",
 "best": "48",
 "competition": 6132
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2015KIMH04",
 "best": "48",
 "competition": 4884
 },
 {
-"rank": 81,
-"id": "2018COOK04",
-"best": "48",
-"age": 60,
-"competition": 7654
-},
-{
-"rank": 81,
+"rank": 82,
 "id": "2014JANE01",
 "best": "48",
 "competition": 2180
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2016UMET02",
 "best": "48",
 "competition": 6623
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2017UEDA02",
 "best": "48",
 "competition": 5389
@@ -32156,16 +32156,16 @@ rankings =
 },
 {
 "rank": 21,
+"id": "2018COOK04",
+"best": "47",
+"age": 60,
+"competition": 8231
+},
+{
+"rank": 21,
 "id": "2005VANH02",
 "best": "47",
 "competition": 1282
-},
-{
-"rank": 23,
-"id": "2018COOK04",
-"best": "48",
-"age": 60,
-"competition": 7654
 },
 {
 "rank": 24,
@@ -32250,8 +32250,8 @@ rankings =
 {
 "rank": 2,
 "id": "2018COOK04",
-"best": "48",
-"competition": 7654
+"best": "47",
+"competition": 8231
 },
 {
 "rank": 3,
@@ -51593,7 +51593,7 @@ rankings =
 "id": "2017CALA03",
 "name": "Carmen Moya Calatayud",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -53504,7 +53504,7 @@ rankings =
 "id": "2015PLOW01",
 "name": "Guy Plowman",
 "country": "GB",
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "333fm"
@@ -53737,7 +53737,7 @@ rankings =
 "id": "2005TOMO01",
 "name": "Hideaki Tomoyori (友寄英哲)",
 "country": "JP",
-"age": 80,
+"age": 90,
 "events": [
 "333",
 "333bf"
@@ -59287,7 +59287,7 @@ rankings =
 "id": "2012HAMA02",
 "name": "Yuichi Hamada (濵田祐一)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -72952,6 +72952,13 @@ rankings =
 "country": "GB",
 "startDate": "2022-09-24",
 "webId": "StevenageAutumnA2022"
+},
+{
+"id": 8231,
+"name": "Australian Nationals FMC 2022",
+"country": "AU",
+"startDate": "2022-09-25",
+"webId": "AustralianNationalsFMC2022"
 },
 {
 "id": 8234,
