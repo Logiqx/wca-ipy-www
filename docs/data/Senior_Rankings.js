@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-10-20 04:14:34",
+"refreshed": "2022-10-21 04:14:35",
 "events": [
 {
 "id": "333",
@@ -6057,16 +6057,16 @@ rankings =
 },
 {
 "rank": 24,
+"id": "2011SALA06",
+"best": "36.98",
+"competition": 8300
+},
+{
+"rank": 25,
 "id": "2004SALV01",
 "best": "37.41",
 "age": 70,
 "competition": 5584
-},
-{
-"rank": 25,
-"id": "2011SALA06",
-"best": "37.68",
-"competition": 7976
 },
 {
 "rank": 26,
@@ -16862,27 +16862,27 @@ rankings =
 },
 {
 "rank": 23,
+"id": "2011SALA06",
+"best": "13.94",
+"competition": 8300
+},
+{
+"rank": 24,
 "id": "2009NEEL01",
 "best": "14.24",
 "competition": 5476
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2015LIMA20",
 "best": "15.62",
 "competition": 8113
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2016BROS02",
 "best": "17.50",
 "competition": 6602
-},
-{
-"rank": 26,
-"id": "2011SALA06",
-"best": "17.77",
-"competition": 7976
 },
 {
 "rank": 27,
@@ -20710,34 +20710,34 @@ rankings =
 "competition": 6359
 },
 {
-"rank": 20,
+"rank": 19,
+"id": "2011SALA06",
+"best": "18.89",
+"competition": 8300
+},
+{
+"rank": 21,
 "id": "2019GOFF01",
 "best": "19.95",
 "competition": 6534
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2009NEEL01",
 "best": "21.41",
 "competition": 5476
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2015LIMA20",
 "best": "21.61",
 "competition": 8165
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2015LEVI01",
 "best": "23.40",
 "competition": 3291
-},
-{
-"rank": 24,
-"id": "2011SALA06",
-"best": "23.60",
-"competition": 7976
 },
 {
 "rank": 25,
@@ -73616,6 +73616,13 @@ rankings =
 "country": "PL",
 "startDate": "2022-10-15",
 "webId": "LakeCubingSzczecinek2022"
+},
+{
+"id": 8300,
+"name": "Speedcube Baja Open 2022",
+"country": "MX",
+"startDate": "2022-10-15",
+"webId": "SpeedcubeBajaOpen2022"
 },
 {
 "id": 8304,
