@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-10-27 04:14:43",
+"refreshed": "2022-10-28 04:14:36",
 "events": [
 {
 "id": "333",
@@ -30038,19 +30038,19 @@ rankings =
 "competition": 3311
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2017ASMU01",
 "best": "1:08.13",
 "competition": 7605
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2011RIGG03",
 "best": "1:11.39",
 "competition": 8087
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2008CIRN01",
 "best": "1:11.54",
 "competition": 3788
@@ -49713,100 +49713,100 @@ rankings =
 "competition": 7926
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2018SANG01",
 "best": "10:57.00",
 "age": 50,
 "competition": 8086
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2013ANDE01",
 "best": "13:20.00",
 "age": 50,
 "competition": 7449
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2012HAMA02",
 "best": "13:22.00",
 "competition": 8111
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2015JIJI02",
 "best": "13:41.00",
 "competition": 3995
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2007LUTH01",
 "best": "15:14.00",
 "age": 50,
 "competition": 1557
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2017KOST06",
 "best": "16:33.00",
 "competition": 6575
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2018TAHO01",
 "best": "17:57.00",
 "competition": 7906
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2005SUSE01",
 "best": "18:15.00",
 "competition": 5389
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2018SEMO01",
 "best": "18:19.00",
 "age": 50,
 "competition": 7914
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2017KITA01",
 "best": "18:47.00",
 "competition": 8111
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2016KRUE03",
 "best": "20:21.00",
 "competition": 5639
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2016WANG11",
 "best": "23:04.00",
 "competition": 3705
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2012ADRI01",
 "best": "25:17.00",
 "competition": 2344
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2010SOHT01",
 "best": "28:40.00",
 "competition": 6723
 }
 ],
 "missing": {
-"world": 3,
+"world": 4,
 "continents": {
 "AF": 0,
 "AS": 2,
-"EU": 0,
+"EU": 1,
 "NA": 1
 },
 "countries": {
