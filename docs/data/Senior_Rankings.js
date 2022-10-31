@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-10-30 04:15:20",
+"refreshed": "2022-10-31 04:14:39",
 "events": [
 {
 "id": "333",
@@ -36070,15 +36070,15 @@ rankings =
 },
 {
 "rank": 18,
-"id": "2006GALE01",
-"best": "10.65",
-"competition": 3148
+"id": "2017SOLE01",
+"best": "10.50",
+"competition": 8359
 },
 {
 "rank": 19,
-"id": "2017SOLE01",
-"best": "10.68",
-"competition": 7892
+"id": "2006GALE01",
+"best": "10.65",
+"competition": 3148
 },
 {
 "rank": 22,
@@ -37376,8 +37376,8 @@ rankings =
 {
 "rank": 20,
 "id": "2017SOLE01",
-"best": "12.30",
-"competition": 7827
+"best": "12.11",
+"competition": 8359
 },
 {
 "rank": 21,
@@ -50659,115 +50659,115 @@ rankings =
 },
 {
 "rank": 33,
+"id": "2017SOLE01",
+"best": "7/10 in 51:59",
+"competition": 8359
+},
+{
+"rank": 34,
 "id": "2014PACE01",
 "best": "3/3 in 14:04",
 "competition": 5985
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2015JIJI02",
 "best": "3/3 in 17:30",
 "competition": 3723
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2012ADRI01",
 "best": "3/3 in 19:25",
 "competition": 2344
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2018TAHO01",
 "best": "3/3 in 20:31",
 "competition": 7333
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2018SALM01",
 "best": "3/3 in 24:08",
 "competition": 6827
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2017JANS02",
 "best": "3/3 in 25:01",
 "competition": 6805
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2015REYN07",
 "best": "3/3 in 26:10",
 "competition": 5719
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2009HAMO02",
 "best": "3/3 in 29:17",
 "competition": 2393
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2013MORA02",
 "best": "4/5 in 37:10",
 "competition": 2691
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2011ZAKR01",
 "best": "5/7 in 48:41",
 "competition": 3783
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2015HARR03",
 "best": "5/7 in 51:22",
 "competition": 3276
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2015CLAR13",
 "best": "2/2 in 10:20",
 "age": 50,
 "competition": 5479
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2019BLAC02",
 "best": "2/2 in 14:56",
 "age": 50,
 "competition": 8054
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2017ROSS10",
 "best": "2/2 in 14:58",
 "age": 50,
 "competition": 7983
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2016CHOW03",
 "best": "2/2 in 15:16",
 "age": 50,
 "competition": 4444
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2003DENN01",
 "best": "2/2 in 19:47",
 "competition": 110
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2015SKAC02",
 "best": "3/4 in 31:50",
 "competition": 3554
-},
-{
-"rank": 52,
-"id": "2017SOLE01",
-"best": "4/6 in 32:20",
-"competition": 7776
 },
 {
 "rank": 53,
@@ -51231,7 +51231,7 @@ rankings =
 "country": "JP",
 "username": "kits_",
 "usernum": 50452,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -51319,7 +51319,7 @@ rankings =
 "id": "2018BATE02",
 "name": "Alex Bateman",
 "country": "GB",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -56569,7 +56569,7 @@ rankings =
 "id": "2017SIGG01",
 "name": "Mats Sigge",
 "country": "SE",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -58608,7 +58608,7 @@ rankings =
 "id": "2017UEDA02",
 "name": "Shoji Ueda (植田昌司)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -59367,7 +59367,7 @@ rankings =
 "id": "2015BURL01",
 "name": "Tomasz Burliga",
 "country": "PL",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -73730,6 +73730,13 @@ rankings =
 "country": "KR",
 "startDate": "2022-10-23",
 "webId": "PleaseBeQuietKorea2022"
+},
+{
+"id": 8359,
+"name": "FMC on a Madison Terrace 2022",
+"country": "US",
+"startDate": "2022-10-29",
+"webId": "FMConaMadisonTerrace2022"
 }
 ],
 "countries": [
