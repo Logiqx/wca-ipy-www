@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-11-08 04:15:12",
+"refreshed": "2022-11-09 04:14:20",
 "events": [
 {
 "id": "333",
@@ -30970,132 +30970,138 @@ rankings =
 },
 {
 "rank": 139,
+"id": "2016REIM01",
+"best": "6:06.87",
+"competition": 8382
+},
+{
+"rank": 140,
 "id": "2016GREE02",
 "best": "6:08.02",
 "competition": 4369
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2010SOHT01",
 "best": "6:21.57",
 "competition": 6723
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2009MONT01",
 "best": "6:24.77",
 "age": 50,
 "competition": 1297
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2004ZIJD01",
 "best": "6:33.37",
 "competition": 109
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2008CARA01",
 "best": "6:41.44",
 "competition": 6439
 },
 {
-"rank": 149,
+"rank": 150,
 "id": "2021HUGO01",
 "best": "6:58.87",
 "age": 60,
 "competition": 7961
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2006MATH01",
 "best": "7:21.59",
 "competition": 571
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2009JOHN07",
 "best": "7:39.80",
 "age": 50,
 "competition": 1162
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2009KOTT01",
 "best": "7:53.75",
 "competition": 976
 },
 {
-"rank": 157,
+"rank": 158,
 "id": "2006LOUI01",
 "best": "7:57.87",
 "age": 50,
 "competition": 1674
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2018SCHU17",
 "best": "8:11.22",
 "competition": 7423
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2014PAVI02",
 "best": "8:12.79",
 "competition": 6596
 },
 {
-"rank": 160,
+"rank": 161,
 "id": "2004MCGA01",
 "best": "8:43.22",
 "age": 50,
 "competition": 66
 },
 {
-"rank": 161,
+"rank": 162,
 "id": "2007KOLL01",
 "best": "8:52.97",
 "competition": 2424
 },
 {
-"rank": 162,
+"rank": 163,
 "id": "2011MAUD01",
 "best": "9:13.28",
 "competition": 1155
 },
 {
-"rank": 163,
+"rank": 164,
 "id": "2006SANT01",
 "best": "9:44.84",
 "age": 50,
 "competition": 4109
 },
 {
-"rank": 164,
+"rank": 165,
 "id": "2016LEWI07",
 "best": "9:45.52",
 "competition": 3935
 },
 {
-"rank": 165,
+"rank": 166,
 "id": "2006PIRZ01",
 "best": "10:20.00",
 "competition": 6314
 },
 {
-"rank": 166,
+"rank": 167,
 "id": "2016COUL01",
 "best": "10:47.00",
 "competition": 5946
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2005THOM01",
 "best": "13:16.00",
 "competition": 31
 },
 {
-"rank": 168,
+"rank": 169,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -53694,6 +53700,7 @@ rankings =
 "events": [
 "222",
 "333",
+"333bf",
 "333oh",
 "444",
 "clock",
@@ -74648,6 +74655,13 @@ rankings =
 "country": "US",
 "startDate": "2022-11-05",
 "webId": "LovelandFall2022"
+},
+{
+"id": 8382,
+"name": "Sylvan Solves 2022",
+"country": "CA",
+"startDate": "2022-11-05",
+"webId": "SylvanSolves2022"
 },
 {
 "id": 8385,
