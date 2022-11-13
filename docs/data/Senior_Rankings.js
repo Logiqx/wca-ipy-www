@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-11-12 04:14:40",
+"refreshed": "2022-11-13 04:14:58",
 "events": [
 {
 "id": "333",
@@ -36753,16 +36753,16 @@ rankings =
 },
 {
 "rank": 58,
-"id": "2011HUBB02",
-"best": "15.89",
-"competition": 1982
+"id": "2019SLES02",
+"best": "15.84",
+"age": 50,
+"competition": 8393
 },
 {
 "rank": 59,
-"id": "2019SLES02",
-"best": "15.92",
-"age": 50,
-"competition": 8244
+"id": "2011HUBB02",
+"best": "15.89",
+"competition": 1982
 },
 {
 "rank": 60,
@@ -37424,8 +37424,8 @@ rankings =
 {
 "rank": 12,
 "id": "2019SLES02",
-"best": "15.92",
-"competition": 8244
+"best": "15.84",
+"competition": 8393
 },
 {
 "rank": 13,
@@ -74715,6 +74715,13 @@ rankings =
 "country": "ES",
 "startDate": "2022-11-05",
 "webId": "JesuitinasTxantreaOpen2022"
+},
+{
+"id": 8393,
+"name": "Siedlce Open 2022",
+"country": "PL",
+"startDate": "2022-11-05",
+"webId": "SiedlceOpen2022"
 },
 {
 "id": 8394,
