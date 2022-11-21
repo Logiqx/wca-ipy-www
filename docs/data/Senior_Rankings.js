@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-11-20 04:14:48",
+"refreshed": "2022-11-21 04:14:22",
 "events": [
 {
 "id": "333",
@@ -26381,11 +26381,11 @@ rankings =
 "competition": 7325
 },
 {
-"rank": 206,
+"rank": 205,
 "id": "2021HUGO01",
-"best": "4:50.14",
+"best": "4:48.43",
 "age": 60,
-"competition": 8371
+"competition": 8448
 },
 {
 "rank": 207,
@@ -26838,9 +26838,9 @@ rankings =
 {
 "rank": 47,
 "id": "2021HUGO01",
-"best": "4:50.14",
+"best": "4:48.43",
 "age": 60,
-"competition": 8371
+"competition": 8448
 },
 {
 "rank": 48,
@@ -26958,8 +26958,8 @@ rankings =
 {
 "rank": 4,
 "id": "2021HUGO01",
-"best": "4:50.14",
-"competition": 8371
+"best": "4:48.43",
+"competition": 8448
 },
 {
 "rank": 5,
@@ -32555,6 +32555,13 @@ rankings =
 },
 {
 "rank": 90,
+"id": "2021HUGO01",
+"best": "50",
+"age": 60,
+"competition": 8448
+},
+{
+"rank": 90,
 "id": "2008ESCA01",
 "best": "50",
 "competition": 3658
@@ -32572,54 +32579,47 @@ rankings =
 "competition": 3530
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2020JOHA02",
 "best": "51",
 "age": 50,
 "competition": 7982
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2016LASC01",
 "best": "51",
 "competition": 6010
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2016DUEH02",
 "best": "52",
 "competition": 4964
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2017BONI01",
 "best": "52",
 "competition": 6494
 },
 {
-"rank": 99,
+"rank": 100,
 "id": "2010HAMA03",
 "best": "54",
 "competition": 3504
 },
 {
-"rank": 99,
+"rank": 100,
 "id": "2016BALA16",
 "best": "54",
 "competition": 4008
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2017PHIL09",
 "best": "55",
 "competition": 5039
-},
-{
-"rank": 102,
-"id": "2021HUGO01",
-"best": "55",
-"age": 60,
-"competition": 7949
 },
 {
 "rank": 105,
@@ -32934,16 +32934,16 @@ rankings =
 },
 {
 "rank": 25,
-"id": "2020JOHA02",
-"best": "51",
-"competition": 7982
+"id": "2021HUGO01",
+"best": "50",
+"age": 60,
+"competition": 8448
 },
 {
 "rank": 26,
-"id": "2021HUGO01",
-"best": "55",
-"age": 60,
-"competition": 7949
+"id": "2020JOHA02",
+"best": "51",
+"competition": 7982
 },
 {
 "rank": 27,
@@ -33015,8 +33015,8 @@ rankings =
 {
 "rank": 3,
 "id": "2021HUGO01",
-"best": "55",
-"competition": 7949
+"best": "50",
+"competition": 8448
 },
 {
 "rank": 4,
@@ -74831,6 +74831,13 @@ rankings =
 "country": "AU",
 "startDate": "2022-11-19",
 "webId": "SouthCoastSpring2022"
+},
+{
+"id": 8448,
+"name": "Frösö Cubing 2022",
+"country": "SE",
+"startDate": "2022-11-19",
+"webId": "FrosoCubing2022"
 }
 ],
 "countries": [
