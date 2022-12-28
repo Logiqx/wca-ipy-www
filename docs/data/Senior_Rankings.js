@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2022-12-27 04:15:00",
+"refreshed": "2022-12-28 04:14:24",
 "events": [
 {
 "id": "333",
@@ -58339,7 +58339,7 @@ rankings =
 "id": "2005ASPE01",
 "name": "Lennart Aspelin",
 "country": "SE",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
