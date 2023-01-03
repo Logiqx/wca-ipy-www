@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-01-02 04:14:58",
+"refreshed": "2023-01-03 04:15:02",
 "events": [
 {
 "id": "333",
@@ -37790,65 +37790,65 @@ rankings =
 },
 {
 "rank": 56,
+"id": "2022AMAR09",
+"best": "15.44",
+"age": 50,
+"competition": 8625
+},
+{
+"rank": 57,
 "id": "2019TAYA01",
 "best": "15.47",
 "competition": 8065
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2014PACE01",
 "best": "15.68",
 "competition": 8169
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2012HINO01",
 "best": "15.71",
 "competition": 4764
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2021MILD01",
 "best": "15.74",
 "competition": 7853
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2019SLES02",
 "best": "15.84",
 "age": 50,
 "competition": 8393
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2011HUBB02",
 "best": "15.89",
 "competition": 1982
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2016AMBE02",
 "best": "16.23",
 "competition": 4569
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2018SCHU17",
 "best": "16.48",
 "competition": 7463
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2003BRUC01",
 "best": "16.50",
 "competition": 702
-},
-{
-"rank": 66,
-"id": "2022AMAR09",
-"best": "16.61",
-"age": 50,
-"competition": 8459
 },
 {
 "rank": 67,
@@ -38510,21 +38510,21 @@ rankings =
 },
 {
 "rank": 12,
+"id": "2022AMAR09",
+"best": "15.44",
+"competition": 8625
+},
+{
+"rank": 13,
 "id": "2017KITA01",
 "best": "15.69",
 "competition": 8368
 },
 {
-"rank": 13,
+"rank": 14,
 "id": "2019SLES02",
 "best": "15.84",
 "competition": 8393
-},
-{
-"rank": 14,
-"id": "2022AMAR09",
-"best": "16.61",
-"competition": 8459
 },
 {
 "rank": 15,
@@ -40663,37 +40663,43 @@ rankings =
 },
 {
 "rank": 121,
+"id": "2021HOLE01",
+"best": "7:01.68",
+"competition": 8625
+},
+{
+"rank": 122,
 "id": "2022WIEN01",
 "best": "7:57.91",
 "competition": 8509
 },
 {
-"rank": 122,
+"rank": 123,
 "id": "2006NORS01",
 "best": "8:55.83",
 "age": 50,
 "competition": 271
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2022BAKK02",
 "best": "8:57.27",
 "competition": 7730
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2005VANH02",
 "best": "9:40.88",
 "competition": 741
 },
 {
-"rank": 126,
+"rank": 127,
 "id": "2003LARS01",
 "best": "13:21.00",
 "competition": 339
 },
 {
-"rank": 127,
+"rank": 128,
 "id": "2014FAGO01",
 "best": "14:18.00",
 "competition": 2222
@@ -56311,6 +56317,7 @@ rankings =
 "444",
 "555",
 "clock",
+"minx",
 "pyram",
 "skewb",
 "sq1"
@@ -77001,6 +77008,13 @@ rankings =
 "country": "FI",
 "startDate": "2023-01-01",
 "webId": "OnnellistaUuttaVuotta2023"
+},
+{
+"id": 8625,
+"name": "The Battle of Lex-side-ton 2023",
+"country": "US",
+"startDate": "2023-01-02",
+"webId": "LexingtonSideEvents2023"
 }
 ],
 "countries": [
