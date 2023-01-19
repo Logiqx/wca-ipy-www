@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-01-18 04:15:38",
+"refreshed": "2023-01-19 04:14:59",
 "events": [
 {
 "id": "333",
@@ -29139,59 +29139,59 @@ rankings =
 },
 {
 "rank": 64,
+"id": "2016LECO01",
+"best": "5:08.01",
+"competition": 8666
+},
+{
+"rank": 65,
 "id": "2007CINO01",
 "best": "5:11.56",
 "competition": 5459
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2016DUEH02",
 "best": "5:12.27",
 "competition": 5571
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2015BOSW01",
 "best": "5:19.83",
 "competition": 4677
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2022SILV07",
 "best": "5:24.60",
 "competition": 7728
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2015RIVE05",
 "best": "5:25.12",
 "competition": 3084
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2016FRIS02",
 "best": "5:34.27",
 "age": 50,
 "competition": 8086
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2007YULH01",
 "best": "5:35.45",
 "age": 50,
 "competition": 8318
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2015KIMH04",
 "best": "5:40.77",
 "competition": 8318
-},
-{
-"rank": 73,
-"id": "2016LECO01",
-"best": "5:42.02",
-"competition": 6493
 },
 {
 "rank": 74,
@@ -30586,116 +30586,122 @@ rankings =
 },
 {
 "rank": 74,
+"id": "2016LECO01",
+"best": "9:18.14",
+"competition": 8666
+},
+{
+"rank": 75,
 "id": "2017BROW09",
 "best": "9:25.17",
 "age": 50,
 "competition": 5265
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2015GEOR02",
 "best": "9:37.39",
 "competition": 3464
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2014PACE01",
 "best": "9:53.80",
 "competition": 4841
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2015RIVE05",
 "best": "9:57.19",
 "age": 50,
 "competition": 3970
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2008ERSK01",
 "best": "10:00.00",
 "competition": 1283
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2013COPP01",
 "best": "10:32.00",
 "competition": 4650
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2017DAOU01",
 "best": "10:53.00",
 "competition": 7472
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2003DENN01",
 "best": "11:20.00",
 "competition": 254
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2007HOLM02",
 "best": "12:24.00",
 "competition": 903
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2007BERR01",
 "best": "14:03.00",
 "age": 50,
 "competition": 264
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2005GUST02",
 "best": "15:26.00",
 "competition": 903
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2020JOHA02",
 "best": "15:48.00",
 "age": 50,
 "competition": 7908
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2006NORS01",
 "best": "17:24.00",
 "age": 50,
 "competition": 271
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2011CORM02",
 "best": "19:41.00",
 "age": 50,
 "competition": 2350
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2008BERG04",
 "best": "22:38.00",
 "age": 60,
 "competition": 903
 },
 {
-"rank": 92,
+"rank": 93,
 "id": "2021HUGO01",
 "best": "27:29.00",
 "age": 50,
 "competition": 7839
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2003LARS01",
 "best": "33:44.00",
 "competition": 324
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2014FAGO01",
 "best": "49:41.00",
 "competition": 2713
@@ -62648,6 +62654,7 @@ rankings =
 "444",
 "555",
 "666",
+"777",
 "clock",
 "minx",
 "pyram",
@@ -72821,13 +72828,6 @@ rankings =
 "webId": "MusicCitySpeedsolving2019"
 },
 {
-"id": 6493,
-"name": "Cube An Dro 2019",
-"country": "FR",
-"startDate": "2019-11-01",
-"webId": "CubeAnDro2019"
-},
-{
 "id": 6494,
 "name": "Italian Championship 2019",
 "country": "IT",
@@ -77229,6 +77229,13 @@ rankings =
 "country": "US",
 "startDate": "2023-01-14",
 "webId": "BuckeyeBigBrain2023"
+},
+{
+"id": 8666,
+"name": "Dontrien Open 2023",
+"country": "FR",
+"startDate": "2023-01-14",
+"webId": "DontrienOpen2023"
 },
 {
 "id": 8671,
