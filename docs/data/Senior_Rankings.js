@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-01-26 04:15:13",
+"refreshed": "2023-01-27 04:14:21",
 "events": [
 {
 "id": "333",
@@ -32664,8 +32664,8 @@ rankings =
 {
 "rank": 17,
 "id": "2011ZAKR01",
-"best": "2:46.33",
-"competition": 8555
+"best": "2:39.54",
+"competition": 8693
 },
 {
 "rank": 18,
@@ -61223,7 +61223,7 @@ rankings =
 "id": "2019KUND02",
 "name": "Petr Kundera",
 "country": "CZ",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -78234,6 +78234,13 @@ rankings =
 "country": "US",
 "startDate": "2023-01-21",
 "webId": "SpringfieldWinterOpen2023"
+},
+{
+"id": 8693,
+"name": "BrizZon Side Open 2023",
+"country": "PL",
+"startDate": "2023-01-21",
+"webId": "BrizZonSideOpen2023"
 },
 {
 "id": 8696,
