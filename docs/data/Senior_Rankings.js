@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-01-28 04:15:36",
+"refreshed": "2023-01-29 04:15:12",
 "events": [
 {
 "id": "333",
@@ -9104,17 +9104,18 @@ rankings =
 "competition": 5592
 },
 {
-"rank": 526,
+"rank": 519,
+"id": "2017CHAR16",
+"best": "30.44",
+"age": 50,
+"competition": 8712
+},
+{
+"rank": 527,
 "id": "2019RICC01",
 "best": "30.74",
 "age": 50,
 "competition": 6084
-},
-{
-"rank": 529,
-"id": "2017CHAR16",
-"best": "30.90",
-"competition": 7157
 },
 {
 "rank": 530,
@@ -12038,64 +12039,64 @@ rankings =
 },
 {
 "rank": 106,
+"id": "2017CHAR16",
+"best": "30.44",
+"competition": 8712
+},
+{
+"rank": 107,
 "id": "2019RICC01",
 "best": "30.74",
 "competition": 6084
 },
 {
-"rank": 107,
+"rank": 108,
 "id": "2022BORG04",
 "best": "31.10",
 "competition": 8697
 },
 {
-"rank": 110,
+"rank": 111,
 "id": "2018WIRZ01",
 "best": "31.27",
 "competition": 8668
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2014RUIZ14",
 "best": "31.60",
 "competition": 8250
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2019MARI22",
 "best": "31.98",
 "competition": 7353
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2004MCGA01",
 "best": "32.03",
 "competition": 8
 },
 {
-"rank": 117,
+"rank": 118,
 "id": "2015ADAM03",
 "best": "32.19",
 "competition": 8453
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2018SALM01",
 "best": "32.20",
 "competition": 8098
 },
 {
-"rank": 120,
+"rank": 121,
 "id": "2018PARI11",
 "best": "32.35",
 "age": 60,
 "competition": 7805
-},
-{
-"rank": 121,
-"id": "2017CHAR16",
-"best": "32.42",
-"competition": 7419
 },
 {
 "rank": 122,
@@ -33411,32 +33412,32 @@ rankings =
 "competition": 4878
 },
 {
-"rank": 2,
+"rank": 3,
 "id": "2007SANC01",
 "best": "22",
 "competition": 3070
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2014ROCH07",
 "best": "23",
 "age": 50,
 "competition": 8566
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2017LAWR04",
 "best": "23",
 "competition": 6522
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2014PAVI02",
 "best": "24",
 "competition": 6317
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2013HUBH01",
 "best": "24",
 "age": 50,
@@ -34421,45 +34422,45 @@ rankings =
 "age": 40,
 "ranks": [
 {
-"rank": 1,
+"rank": 2,
 "id": "2014ROCH07",
 "best": "25.33",
 "age": 50,
 "competition": 8566
 },
 {
-"rank": 2,
+"rank": 3,
 "id": "2007SANC01",
 "best": "27.00",
 "competition": 1924
 },
 {
-"rank": 3,
+"rank": 4,
 "id": "2017LAWR04",
 "best": "28.00",
 "competition": 6093
 },
 {
-"rank": 4,
+"rank": 5,
 "id": "2014PAVI02",
 "best": "28.67",
 "competition": 6894
 },
 {
-"rank": 4,
+"rank": 5,
 "id": "2013COPP01",
 "best": "28.67",
 "competition": 7634
 },
 {
-"rank": 4,
+"rank": 5,
 "id": "1982RAZO01",
 "best": "28.67",
 "age": 50,
 "competition": 3530
 },
 {
-"rank": 7,
+"rank": 8,
 "id": "2007HUGH01",
 "best": "29.00",
 "age": 50,
@@ -74694,13 +74695,6 @@ rankings =
 "webId": "BrizZonPoznanSideOpen2020"
 },
 {
-"id": 7157,
-"name": "Perth Late Night 2020",
-"country": "AU",
-"startDate": "2020-08-09",
-"webId": "PerthLateNight2020"
-},
-{
 "id": 7168,
 "name": "Operation NxN Myrbacka 2020",
 "country": "FI",
@@ -74930,13 +74924,6 @@ rankings =
 "country": "US",
 "startDate": "2021-10-09",
 "webId": "OklahomaFallAM2021"
-},
-{
-"id": 7419,
-"name": "Fremantle Fast Fingers 2021",
-"country": "AU",
-"startDate": "2021-10-10",
-"webId": "FremantleFastFingers2021"
 },
 {
 "id": 7422,
@@ -78290,6 +78277,13 @@ rankings =
 "country": "AU",
 "startDate": "2023-01-22",
 "webId": "CubingAtTheCubeSunday2023"
+},
+{
+"id": 8712,
+"name": "Albany Summer Solving 2023",
+"country": "AU",
+"startDate": "2023-01-28",
+"webId": "AlbanySummerSolving2023"
 }
 ],
 "countries": [
