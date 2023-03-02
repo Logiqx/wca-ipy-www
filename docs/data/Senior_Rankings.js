@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-03-01 04:14:49",
+"refreshed": "2023-03-02 04:15:27",
 "events": [
 {
 "id": "333",
@@ -33375,9 +33375,9 @@ rankings =
 {
 "rank": 35,
 "id": "2018SANG01",
-"best": "2:54.23",
+"best": "2:52.99",
 "age": 50,
-"competition": 8279
+"competition": 8858
 },
 {
 "rank": 36,
@@ -33564,8 +33564,8 @@ rankings =
 {
 "rank": 5,
 "id": "2018SANG01",
-"best": "2:54.23",
-"competition": 8279
+"best": "2:52.99",
+"competition": 8858
 },
 {
 "rank": 6,
@@ -78929,6 +78929,13 @@ rankings =
 "country": "BE",
 "startDate": "2023-02-25",
 "webId": "BrusselsBigCubesOpen2023"
+},
+{
+"id": 8858,
+"name": "Brussels Blind Open 2023",
+"country": "BE",
+"startDate": "2023-02-25",
+"webId": "BrusselsBlindOpen2023"
 },
 {
 "id": 8860,
