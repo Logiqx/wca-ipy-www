@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-03-17 04:15:22",
+"refreshed": "2023-03-18 04:16:25",
 "events": [
 {
 "id": "333",
@@ -37946,47 +37946,47 @@ rankings =
 },
 {
 "rank": 150,
+"id": "2021HUGO01",
+"best": "1:03.43",
+"age": 60,
+"competition": 8942
+},
+{
+"rank": 151,
 "id": "2005VALD02",
 "best": "1:03.62",
 "age": 50,
 "competition": 292
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2017LAWR04",
 "best": "1:04.26",
 "competition": 7959
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2009PARE02",
 "best": "1:04.74",
 "competition": 392
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2006KASP02",
 "best": "1:05.62",
 "competition": 5746
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2010WENS01",
 "best": "1:08.60",
 "competition": 6637
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2022SILV07",
 "best": "1:09.16",
 "competition": 8498
-},
-{
-"rank": 156,
-"id": "2021HUGO01",
-"best": "1:09.46",
-"age": 50,
-"competition": 7617
 },
 {
 "rank": 157,
@@ -38381,15 +38381,16 @@ rankings =
 },
 {
 "rank": 33,
-"id": "2005VALD02",
-"best": "1:03.62",
-"competition": 292
+"id": "2021HUGO01",
+"best": "1:03.43",
+"age": 60,
+"competition": 8942
 },
 {
 "rank": 34,
-"id": "2021HUGO01",
-"best": "1:09.46",
-"competition": 7617
+"id": "2005VALD02",
+"best": "1:03.62",
+"competition": 292
 },
 {
 "rank": 35,
@@ -38486,15 +38487,15 @@ rankings =
 },
 {
 "rank": 2,
-"id": "2011SALA06",
-"best": "1:10.24",
-"competition": 8553
+"id": "2021HUGO01",
+"best": "1:03.43",
+"competition": 8942
 },
 {
 "rank": 3,
-"id": "2021HUGO01",
-"best": "1:13.47",
-"competition": 8904
+"id": "2011SALA06",
+"best": "1:10.24",
+"competition": 8553
 },
 {
 "rank": 4,
@@ -53391,9 +53392,9 @@ rankings =
 {
 "rank": 90,
 "id": "2021HUGO01",
-"best": "2:32.47",
+"best": "2:26.19",
 "age": 60,
-"competition": 8798
+"competition": 8942
 },
 {
 "rank": 91,
@@ -53532,9 +53533,9 @@ rankings =
 {
 "rank": 18,
 "id": "2021HUGO01",
-"best": "2:32.47",
+"best": "2:26.19",
 "age": 60,
-"competition": 8798
+"competition": 8942
 },
 {
 "rank": 19,
@@ -53578,8 +53579,8 @@ rankings =
 {
 "rank": 2,
 "id": "2021HUGO01",
-"best": "2:32.47",
-"competition": 8798
+"best": "2:26.19",
+"competition": 8942
 },
 {
 "rank": 3,
@@ -79503,6 +79504,13 @@ rankings =
 "country": "IE",
 "startDate": "2023-03-12",
 "webId": "TurnininTermonfeckinSun2023"
+},
+{
+"id": 8942,
+"name": "Stockholmsligan 5: The Reds 2023",
+"country": "SE",
+"startDate": "2023-03-16",
+"webId": "Stockholmsligan5TheReds2023"
 }
 ],
 "countries": [
