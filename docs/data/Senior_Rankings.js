@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-03-21 04:15:44",
+"refreshed": "2023-03-22 04:15:13",
 "events": [
 {
 "id": "333",
@@ -9199,18 +9199,18 @@ rankings =
 "competition": 5592
 },
 {
-"rank": 521,
+"rank": 519,
+"id": "2022BORG04",
+"best": "30.37",
+"age": 50,
+"competition": 8985
+},
+{
+"rank": 522,
 "id": "2017CHAR16",
 "best": "30.44",
 "age": 50,
 "competition": 8712
-},
-{
-"rank": 522,
-"id": "2022BORG04",
-"best": "30.47",
-"age": 50,
-"competition": 8758
 },
 {
 "rank": 530,
@@ -12172,15 +12172,15 @@ rankings =
 },
 {
 "rank": 114,
-"id": "2017CHAR16",
-"best": "30.44",
-"competition": 8712
+"id": "2022BORG04",
+"best": "30.37",
+"competition": 8985
 },
 {
 "rank": 115,
-"id": "2022BORG04",
-"best": "30.47",
-"competition": 8758
+"id": "2017CHAR16",
+"best": "30.44",
+"competition": 8712
 },
 {
 "rank": 116,
@@ -79726,6 +79726,13 @@ rankings =
 "country": "CO",
 "startDate": "2023-03-19",
 "webId": "AvesMaria2023"
+},
+{
+"id": 8985,
+"name": "Hverdagscubing V - Hvidovre Marts 2023",
+"country": "DK",
+"startDate": "2023-03-21",
+"webId": "HDCVHvidovreMarts2023"
 }
 ],
 "countries": [
