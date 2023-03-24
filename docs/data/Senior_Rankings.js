@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-03-23 08:57:05",
+"refreshed": "2023-03-24 04:15:38",
 "events": [
 {
 "id": "333",
@@ -46400,10 +46400,10 @@ rankings =
 "age": 70,
 "ranks": [
 {
-"rank": 2,
+"rank": 1,
 "id": "2016KLEI01",
-"best": "16.28",
-"competition": 7950
+"best": "12.17",
+"competition": 8954
 },
 {
 "rank": 3,
@@ -49244,10 +49244,10 @@ rankings =
 "age": 70,
 "ranks": [
 {
-"rank": 2,
+"rank": 1,
 "id": "2016KLEI01",
-"best": "20.10",
-"competition": 7950
+"best": "16.26",
+"competition": 8954
 },
 {
 "rank": 3,
@@ -80685,6 +80685,13 @@ rankings =
 "country": "US",
 "startDate": "2023-03-18",
 "webId": "KendedaKubingA2023"
+},
+{
+"id": 8954,
+"name": "NJIT Spring 2023",
+"country": "US",
+"startDate": "2023-03-18",
+"webId": "NJITSpring2023"
 },
 {
 "id": 8957,
