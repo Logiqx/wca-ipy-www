@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-04-12 16:25:12",
+"refreshed": "2023-04-13 04:15:09",
 "events": [
 {
 "id": "333",
@@ -43858,7 +43858,7 @@ rankings =
 "competition": 8990
 },
 {
-"rank": 6,
+"rank": 7,
 "id": "2017HART06",
 "best": "1:41.93",
 "competition": 7923
@@ -60851,7 +60851,7 @@ rankings =
 "country": "CA",
 "username": "chencube",
 "usernum": 5071,
-"age": 50,
+"age": 60,
 "events": [
 "333",
 "333bf",
