@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-04-21 04:16:04",
+"refreshed": "2023-04-22 04:15:26",
 "events": [
 {
 "id": "333",
@@ -61499,23 +61499,6 @@ rankings =
 ]
 },
 {
-"id": "2019BLAC02",
-"name": "Jason Black",
-"country": "US",
-"age": 50,
-"events": [
-"222",
-"333",
-"333bf",
-"333fm",
-"333mbf",
-"333oh",
-"444",
-"555",
-"minx"
-]
-},
-{
 "id": "2019BOWE05",
 "name": "Jason Bowes",
 "country": "AU",
@@ -65936,6 +65919,23 @@ rankings =
 "222",
 "333",
 "pyram"
+]
+},
+{
+"id": "2019BLAC02",
+"name": "Sonja Black",
+"country": "US",
+"age": 50,
+"events": [
+"222",
+"333",
+"333bf",
+"333fm",
+"333mbf",
+"333oh",
+"444",
+"555",
+"minx"
 ]
 },
 {
