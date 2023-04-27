@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-04-26 04:15:29",
+"refreshed": "2023-04-27 04:15:30",
 "events": [
 {
 "id": "333",
@@ -24570,28 +24570,28 @@ rankings =
 },
 {
 "rank": 272,
+"id": "2021HUGO01",
+"best": "1:51.68",
+"age": 60,
+"competition": 9196
+},
+{
+"rank": 273,
 "id": "2004BOSS01",
 "best": "1:52.02",
 "competition": 224
 },
 {
-"rank": 274,
+"rank": 275,
 "id": "2018KORO08",
 "best": "1:52.84",
 "competition": 6490
 },
 {
-"rank": 275,
+"rank": 276,
 "id": "2007KOLL01",
 "best": "1:53.63",
 "competition": 3557
-},
-{
-"rank": 276,
-"id": "2021HUGO01",
-"best": "1:54.21",
-"age": 60,
-"competition": 9067
 },
 {
 "rank": 279,
@@ -25619,9 +25619,9 @@ rankings =
 {
 "rank": 61,
 "id": "2021HUGO01",
-"best": "1:54.21",
+"best": "1:51.68",
 "age": 60,
-"competition": 9067
+"competition": 9196
 },
 {
 "rank": 62,
@@ -25925,8 +25925,8 @@ rankings =
 {
 "rank": 6,
 "id": "2021HUGO01",
-"best": "1:54.21",
-"competition": 9067
+"best": "1:51.68",
+"competition": 9196
 },
 {
 "rank": 7,
@@ -27130,50 +27130,50 @@ rankings =
 },
 {
 "rank": 219,
+"id": "2021HUGO01",
+"best": "2:10.52",
+"age": 60,
+"competition": 9196
+},
+{
+"rank": 220,
 "id": "2004BOSS01",
 "best": "2:10.55",
 "competition": 224
 },
 {
-"rank": 220,
+"rank": 221,
 "id": "2017MEGA01",
 "best": "2:10.83",
 "age": 50,
 "competition": 9004
 },
 {
-"rank": 222,
+"rank": 223,
 "id": "2018COOK04",
 "best": "2:11.70",
 "age": 60,
 "competition": 8440
 },
 {
-"rank": 223,
+"rank": 224,
 "id": "2013ANDE01",
 "best": "2:12.51",
 "age": 50,
 "competition": 4284
 },
 {
-"rank": 224,
+"rank": 225,
 "id": "2005ASPE01",
 "best": "2:13.07",
 "age": 50,
 "competition": 2070
 },
 {
-"rank": 225,
+"rank": 226,
 "id": "2012ADRI01",
 "best": "2:13.13",
 "competition": 1302
-},
-{
-"rank": 227,
-"id": "2021HUGO01",
-"best": "2:14.48",
-"age": 60,
-"competition": 8697
 },
 {
 "rank": 229,
@@ -27645,35 +27645,35 @@ rankings =
 },
 {
 "rank": 47,
+"id": "2021HUGO01",
+"best": "2:10.52",
+"age": 60,
+"competition": 9196
+},
+{
+"rank": 48,
 "id": "2017MEGA01",
 "best": "2:10.83",
 "competition": 9004
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2018COOK04",
 "best": "2:11.70",
 "age": 60,
 "competition": 8440
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2013ANDE01",
 "best": "2:12.51",
 "competition": 4284
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2005ASPE01",
 "best": "2:13.07",
 "competition": 2070
-},
-{
-"rank": 52,
-"id": "2021HUGO01",
-"best": "2:14.48",
-"age": 60,
-"competition": 8697
 },
 {
 "rank": 53,
@@ -27812,16 +27812,16 @@ rankings =
 "competition": 1758
 },
 {
-"rank": 5,
-"id": "2018COOK04",
-"best": "2:11.70",
-"competition": 8440
+"rank": 4,
+"id": "2021HUGO01",
+"best": "2:10.52",
+"competition": 9196
 },
 {
 "rank": 6,
-"id": "2021HUGO01",
-"best": "2:14.48",
-"competition": 8697
+"id": "2018COOK04",
+"best": "2:11.70",
+"competition": 8440
 },
 {
 "rank": 8,
@@ -82845,6 +82845,13 @@ rankings =
 "country": "NL",
 "startDate": "2023-04-23",
 "webId": "ErmeloCubingB2023"
+},
+{
+"id": 9196,
+"name": "Stockholmsligan 7: The Magpies - 2023",
+"country": "SE",
+"startDate": "2023-04-25",
+"webId": "Stockholmsligan7TheMagpies2023"
 }
 ],
 "countries": [
