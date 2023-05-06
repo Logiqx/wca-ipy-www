@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-05-05 04:16:22",
+"refreshed": "2023-05-06 04:16:13",
 "events": [
 {
 "id": "333",
@@ -23582,21 +23582,21 @@ rankings =
 },
 {
 "rank": 56,
+"id": "2017LAWR04",
+"best": "1:00.87",
+"competition": 9238
+},
+{
+"rank": 57,
 "id": "2017ASMU01",
 "best": "1:00.89",
 "competition": 8563
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2015MAPP01",
 "best": "1:01.12",
 "competition": 7777
-},
-{
-"rank": 58,
-"id": "2017LAWR04",
-"best": "1:01.17",
-"competition": 8252
 },
 {
 "rank": 59,
@@ -26307,84 +26307,84 @@ rankings =
 },
 {
 "rank": 51,
+"id": "2017LAWR04",
+"best": "1:08.60",
+"competition": 9238
+},
+{
+"rank": 52,
 "id": "2018MERT01",
 "best": "1:08.61",
 "competition": 7454
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2008COUR01",
 "best": "1:08.79",
 "competition": 1839
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2017ASMU01",
 "best": "1:08.87",
 "competition": 7708
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2017HART06",
 "best": "1:09.27",
 "competition": 7923
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2020JOHN02",
 "best": "1:09.34",
 "competition": 8422
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2012PETR01",
 "best": "1:09.34",
 "competition": 6368
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2018BAUE04",
 "best": "1:09.49",
 "competition": 8752
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2015MAPP01",
 "best": "1:09.80",
 "competition": 9165
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2014VIGN02",
 "best": "1:09.85",
 "age": 50,
 "competition": 5368
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2016POPO02",
 "best": "1:09.87",
 "age": 50,
 "competition": 4569
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2016GREE02",
 "best": "1:10.01",
 "competition": 7932
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2019BLAC02",
 "best": "1:10.80",
 "age": 50,
 "competition": 8939
-},
-{
-"rank": 64,
-"id": "2017LAWR04",
-"best": "1:10.90",
-"competition": 7575
 },
 {
 "rank": 66,
@@ -39622,53 +39622,53 @@ rankings =
 },
 {
 "rank": 149,
+"id": "2017LAWR04",
+"best": "1:00.59",
+"competition": 9238
+},
+{
+"rank": 150,
 "id": "2016BORR02",
 "best": "1:00.87",
 "competition": 3951
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2015RIVE05",
 "best": "1:00.99",
 "competition": 3143
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2005GUST01",
 "best": "1:02.03",
 "competition": 195
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2015KIMH04",
 "best": "1:02.40",
 "competition": 6429
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2022FELI06",
 "best": "1:03.12",
 "competition": 8971
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2021HUGO01",
 "best": "1:03.43",
 "age": 60,
 "competition": 8942
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2005VALD02",
 "best": "1:03.62",
 "age": 50,
 "competition": 292
-},
-{
-"rank": 157,
-"id": "2017LAWR04",
-"best": "1:04.26",
-"competition": 7959
 },
 {
 "rank": 158,
@@ -83109,6 +83109,13 @@ rankings =
 "country": "US",
 "startDate": "2023-04-30",
 "webId": "GrizzlyAwakening2023"
+},
+{
+"id": 9238,
+"name": "Dolphin Coast Autumn 2023",
+"country": "ZA",
+"startDate": "2023-05-01",
+"webId": "DolphinCoastAutumn2023"
 },
 {
 "id": 9241,
