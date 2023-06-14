@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-06-13 04:15:26",
+"refreshed": "2023-06-14 04:15:32",
 "events": [
 {
 "id": "333",
@@ -23921,144 +23921,144 @@ rankings =
 "competition": 4511
 },
 {
-"rank": 27,
+"rank": 25,
+"id": "2019GRIE05",
+"best": "53.95",
+"competition": 9499
+},
+{
+"rank": 28,
 "id": "2017GAFF04",
 "best": "54.66",
 "competition": 7922
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2010HEIL02",
 "best": "54.80",
 "competition": 5223
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2012PLAC01",
 "best": "54.84",
 "age": 50,
 "competition": 9351
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2012PETR01",
 "best": "54.91",
 "competition": 6272
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2016DUEH02",
 "best": "55.12",
 "competition": 7777
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2018LEEP04",
 "best": "55.85",
 "competition": 8641
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2018BAUE04",
 "best": "55.91",
 "competition": 6681
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2008MERL01",
 "best": "56.33",
 "competition": 9275
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2007DIAZ01",
 "best": "56.90",
 "competition": 2146
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2016PETE06",
 "best": "56.90",
 "competition": 5515
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2019TAYA01",
 "best": "57.18",
 "competition": 8867
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2008LIDS01",
 "best": "57.36",
 "competition": 3953
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2010STAS01",
 "best": "57.41",
 "competition": 3882
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2014UGGL01",
 "best": "57.58",
 "competition": 7476
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2017TAKA06",
 "best": "57.78",
 "competition": 6348
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2008COUR01",
 "best": "57.88",
 "competition": 1344
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2006GALE01",
 "best": "58.04",
 "competition": 4878
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2014DECO01",
 "best": "58.04",
 "competition": 5181
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2013MORA02",
 "best": "58.21",
 "competition": 6408
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2017HART06",
 "best": "58.33",
 "competition": 7959
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2016LECO01",
 "best": "58.62",
 "competition": 8364
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2015BOSW01",
 "best": "59.37",
 "age": 50,
 "competition": 7621
-},
-{
-"rank": 49,
-"id": "2019GRIE05",
-"best": "59.66",
-"competition": 9002
 },
 {
 "rank": 50,
@@ -26699,102 +26699,102 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2019GRIE05",
+"best": "58.42",
+"competition": 9499
+},
+{
+"rank": 14,
 "id": "2016DUEH02",
 "best": "58.45",
 "competition": 7777
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2015GEOR02",
 "best": "58.67",
 "competition": 5986
 },
 {
-"rank": 15,
+"rank": 16,
 "id": "2016UMET02",
 "best": "58.92",
 "competition": 6258
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2010HEIL02",
 "best": "59.01",
 "age": 50,
 "competition": 7862
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2018LEEP04",
 "best": "59.26",
 "competition": 8641
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2014GOME07",
 "best": "1:00.10",
 "competition": 6508
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2009ZHAO13",
 "best": "1:00.46",
 "competition": 6248
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2013LKHA01",
 "best": "1:00.69",
 "competition": 5200
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2012MENG02",
 "best": "1:01.04",
 "competition": 2374
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2014PACE01",
 "best": "1:01.06",
 "competition": 8169
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2006GALE01",
 "best": "1:02.45",
 "competition": 5376
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2009TIRA01",
 "best": "1:03.14",
 "competition": 5288
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2015BOSW01",
 "best": "1:03.23",
 "age": 50,
 "competition": 7621
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2012PLAC01",
 "best": "1:03.43",
 "age": 50,
 "competition": 8936
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2017TAKA06",
 "best": "1:03.43",
 "competition": 6348
-},
-{
-"rank": 30,
-"id": "2019GRIE05",
-"best": "1:03.92",
-"competition": 9002
 },
 {
 "rank": 31,
@@ -67045,7 +67045,7 @@ rankings =
 "country": "ES",
 "username": "moralsh",
 "usernum": 16590,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -85229,6 +85229,13 @@ rankings =
 "country": "US",
 "startDate": "2023-06-11",
 "webId": "Cubehenge2023"
+},
+{
+"id": 9499,
+"name": "Vancouver Pride 2023",
+"country": "CA",
+"startDate": "2023-06-11",
+"webId": "VancouverPride2023"
 }
 ],
 "countries": [
