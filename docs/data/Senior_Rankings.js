@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-07-01 04:17:33",
+"refreshed": "2023-07-02 04:15:25",
 "events": [
 {
 "id": "333",
@@ -86580,6 +86580,11 @@ rankings =
 "continent": "AS"
 },
 {
+"id": "TW",
+"name": "Chinese Taipei",
+"continent": "AS"
+},
+{
 "id": "CO",
 "name": "Colombia",
 "continent": "SA"
@@ -86781,7 +86786,7 @@ rankings =
 },
 {
 "id": "HK",
-"name": "Hong Kong",
+"name": "Hong Kong, China",
 "continent": "AS"
 },
 {
@@ -86921,7 +86926,7 @@ rankings =
 },
 {
 "id": "MO",
-"name": "Macau",
+"name": "Macau, China",
 "continent": "AS"
 },
 {
@@ -87303,11 +87308,6 @@ rankings =
 "id": "ST",
 "name": "São Tomé and Príncipe",
 "continent": "AF"
-},
-{
-"id": "TW",
-"name": "Taiwan",
-"continent": "AS"
 },
 {
 "id": "TJ",
