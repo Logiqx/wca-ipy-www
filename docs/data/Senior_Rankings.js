@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-07-13 04:16:16",
+"refreshed": "2023-07-14 04:15:27",
 "events": [
 {
 "id": "333",
@@ -2375,188 +2375,188 @@ rankings =
 "competition": 9572
 },
 {
-"rank": 575,
+"rank": 576,
 "id": "2018GAMB01",
 "best": "25.42",
 "competition": 4377
 },
 {
-"rank": 576,
+"rank": 577,
 "id": "2016GALE02",
 "best": "25.43",
 "competition": 4000
 },
 {
-"rank": 581,
+"rank": 582,
 "id": "2018ANDE13",
 "best": "25.56",
 "competition": 7964
 },
 {
-"rank": 585,
+"rank": 586,
 "id": "2022ERNS02",
 "best": "25.64",
 "competition": 9166
 },
 {
-"rank": 586,
+"rank": 587,
 "id": "2016STIN01",
 "best": "25.71",
 "age": 50,
 "competition": 6707
 },
 {
-"rank": 587,
+"rank": 588,
 "id": "2022MELC01",
 "best": "25.73",
 "age": 60,
 "competition": 8931
 },
 {
-"rank": 588,
+"rank": 589,
 "id": "2018SALM01",
 "best": "25.75",
 "age": 50,
 "competition": 8098
 },
 {
-"rank": 589,
+"rank": 590,
 "id": "2016KELL07",
 "best": "25.76",
 "competition": 3788
 },
 {
-"rank": 590,
+"rank": 591,
 "id": "2004MASA01",
 "best": "25.77",
 "age": 50,
 "competition": 1966
 },
 {
-"rank": 592,
+"rank": 593,
 "id": "2022PETE03",
 "best": "25.85",
 "age": 60,
 "competition": 8943
 },
 {
-"rank": 592,
+"rank": 593,
 "id": "2012KREI01",
 "best": "25.85",
 "age": 60,
 "competition": 4905
 },
 {
-"rank": 594,
+"rank": 595,
 "id": "2017MART70",
 "best": "25.89",
 "competition": 5806
 },
 {
-"rank": 595,
+"rank": 596,
 "id": "2009COST02",
 "best": "25.91",
 "competition": 3057
 },
 {
-"rank": 597,
+"rank": 598,
 "id": "2017ROSS10",
 "best": "25.93",
 "age": 50,
 "competition": 8066
 },
 {
-"rank": 598,
+"rank": 599,
 "id": "2022SILV07",
 "best": "25.94",
 "competition": 9274
 },
 {
-"rank": 599,
+"rank": 600,
 "id": "2017BAIR03",
 "best": "25.95",
 "competition": 6769
 },
 {
-"rank": 600,
+"rank": 601,
 "id": "2022REEH01",
 "best": "26.00",
 "age": 50,
 "competition": 9071
 },
 {
-"rank": 602,
+"rank": 603,
 "id": "2020BURC01",
 "best": "26.06",
 "age": 50,
 "competition": 9561
 },
 {
-"rank": 608,
+"rank": 609,
 "id": "2021HUGO01",
 "best": "26.27",
 "age": 60,
 "competition": 9067
 },
 {
-"rank": 610,
+"rank": 611,
 "id": "2004FRED02",
 "best": "26.30",
 "competition": 136
 },
 {
-"rank": 611,
+"rank": 612,
 "id": "2017LACH01",
 "best": "26.31",
 "competition": 3666
 },
 {
-"rank": 614,
+"rank": 615,
 "id": "2003LARS01",
 "best": "26.35",
 "age": 50,
 "competition": 1557
 },
 {
-"rank": 617,
+"rank": 618,
 "id": "2023TEES01",
 "best": "26.45",
 "competition": 9361
 },
 {
-"rank": 621,
+"rank": 622,
 "id": "2022JOHA13",
 "best": "26.51",
 "competition": 8593
 },
 {
-"rank": 622,
+"rank": 623,
 "id": "2018TURR03",
 "best": "26.54",
 "competition": 6597
 },
 {
-"rank": 623,
+"rank": 624,
 "id": "2019RIED06",
 "best": "26.60",
 "competition": 7958
 },
 {
-"rank": 625,
+"rank": 626,
 "id": "2008BERG04",
 "best": "26.62",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 626,
+"rank": 627,
 "id": "2018WIRZ01",
 "best": "26.63",
 "age": 50,
 "competition": 8668
 },
 {
-"rank": 630,
+"rank": 631,
 "id": "2008GARC11",
 "best": "26.77",
 "competition": 514
@@ -9732,13 +9732,13 @@ rankings =
 "competition": 9228
 },
 {
-"rank": 509,
+"rank": 510,
 "id": "2009COST02",
 "best": "28.95",
 "competition": 2463
 },
 {
-"rank": 510,
+"rank": 511,
 "id": "2008CIRN01",
 "best": "28.98",
 "competition": 2986
@@ -36981,7 +36981,7 @@ rankings =
 "competition": 8508
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2004FRED02",
 "best": "35",
 "competition": 59
@@ -38033,44 +38033,44 @@ rankings =
 "competition": 5459
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2012ADRI01",
 "best": "38.00",
 "competition": 1302
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2006NORS01",
 "best": "38.00",
 "age": 50,
 "competition": 1863
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2015NICH04",
 "best": "39.00",
 "competition": 9606
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2010WENS01",
 "best": "39.00",
 "competition": 6574
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2015GOSL01",
 "best": "39.33",
 "competition": 3698
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2012BRUN02",
 "best": "39.33",
 "competition": 8508
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2003DENN01",
 "best": "40.00",
 "age": 50,
