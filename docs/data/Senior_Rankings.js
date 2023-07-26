@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-07-25 04:15:36",
+"refreshed": "2023-07-26 04:17:02",
 "events": [
 {
 "id": "333",
@@ -35568,160 +35568,160 @@ rankings =
 },
 {
 "rank": 59,
+"id": "2022CHAM03",
+"best": "2:20.54",
+"age": 50,
+"competition": 9759
+},
+{
+"rank": 60,
 "id": "2008NIEL01",
 "best": "2:20.84",
 "competition": 9137
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2015SKAC02",
 "best": "2:22.05",
 "competition": 4145
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2013ANDE01",
 "best": "2:25.20",
 "age": 50,
 "competition": 7449
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2018TAHO01",
 "best": "2:27.56",
 "competition": 8050
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2012OTAN01",
 "best": "2:28.07",
 "competition": 1995
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2011ZAKR01",
 "best": "2:31.25",
 "competition": 5319
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2016DUEH02",
 "best": "2:31.42",
 "competition": 5658
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2016CHOW03",
 "best": "2:34.02",
 "age": 50,
 "competition": 6595
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2017JANS02",
 "best": "2:37.73",
 "competition": 7964
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2019NGUY29",
 "best": "2:38.52",
 "competition": 8088
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2016KRUE03",
 "best": "2:39.27",
 "age": 50,
 "competition": 9549
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2012MORI01",
 "best": "2:47.75",
 "competition": 6030
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2005KOSE01",
 "best": "2:50.56",
 "competition": 2022
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2015REYN07",
 "best": "2:52.54",
 "competition": 5592
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2008MATS04",
 "best": "2:52.70",
 "age": 50,
 "competition": 5056
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2008KOVA01",
 "best": "2:54.65",
 "competition": 5014
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2014GOME07",
 "best": "2:55.38",
 "competition": 6508
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2007CINO01",
 "best": "2:56.35",
 "competition": 6153
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2016REIM01",
 "best": "3:01.55",
 "competition": 9394
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2012HINO01",
 "best": "3:02.86",
 "competition": 4473
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2018BAUE04",
 "best": "3:03.52",
 "competition": 9064
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2018SEMO01",
 "best": "3:06.18",
 "age": 50,
 "competition": 9406
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2013COPP01",
 "best": "3:12.17",
 "competition": 3205
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2018SACH03",
 "best": "3:13.10",
 "age": 50,
 "competition": 9447
-},
-{
-"rank": 87,
-"id": "2022CHAM03",
-"best": "3:19.03",
-"age": 50,
-"competition": 9269
 },
 {
 "rank": 89,
@@ -36260,63 +36260,63 @@ rankings =
 },
 {
 "rank": 18,
+"id": "2022CHAM03",
+"best": "2:20.54",
+"competition": 9759
+},
+{
+"rank": 19,
 "id": "2013ANDE01",
 "best": "2:25.20",
 "competition": 7449
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2009TIRA01",
 "best": "2:29.72",
 "competition": 8250
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2016CHOW03",
 "best": "2:34.02",
 "competition": 6595
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2016KRUE03",
 "best": "2:39.27",
 "competition": 9549
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2011ZAKR01",
 "best": "2:39.54",
 "competition": 8693
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2008MATS04",
 "best": "2:52.70",
 "competition": 5056
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2015REYN07",
 "best": "2:59.29",
 "competition": 6154
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2018SEMO01",
 "best": "3:06.18",
 "competition": 9406
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2018SACH03",
 "best": "3:13.10",
 "competition": 9447
-},
-{
-"rank": 27,
-"id": "2022CHAM03",
-"best": "3:19.03",
-"competition": 9269
 },
 {
 "rank": 28,
@@ -64443,7 +64443,7 @@ rankings =
 "id": "2006OOMS01",
 "name": "Grada Ooms",
 "country": "NL",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
@@ -87943,6 +87943,13 @@ rankings =
 "country": "AU",
 "startDate": "2023-07-23",
 "webId": "FourTheWinDandenong2023"
+},
+{
+"id": 9759,
+"name": "Newcastle Open 2023",
+"country": "AU",
+"startDate": "2023-07-23",
+"webId": "NewcastleOpen2023"
 },
 {
 "id": 9760,
