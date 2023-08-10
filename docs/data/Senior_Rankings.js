@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-08-09 04:16:00",
+"refreshed": "2023-08-10 04:15:46",
 "events": [
 {
 "id": "333",
@@ -43061,53 +43061,53 @@ rankings =
 },
 {
 "rank": 118,
+"id": "2021HUGO01",
+"best": "20.19",
+"age": 60,
+"competition": 9816
+},
+{
+"rank": 119,
 "id": "2006STAD01",
 "best": "20.20",
 "competition": 9356
 },
 {
-"rank": 119,
+"rank": 120,
 "id": "2016HOUG03",
 "best": "20.23",
 "competition": 9070
 },
 {
-"rank": 120,
+"rank": 121,
 "id": "2013ANDE01",
 "best": "20.26",
 "age": 50,
 "competition": 7449
 },
 {
-"rank": 121,
+"rank": 122,
 "id": "2017KRUG04",
 "best": "20.44",
 "competition": 9555
 },
 {
-"rank": 122,
+"rank": 123,
 "id": "2012PLAC01",
 "best": "20.48",
 "competition": 3157
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2013JOKI02",
 "best": "20.65",
 "competition": 4122
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2016CRUZ16",
 "best": "20.79",
 "competition": 9622
-},
-{
-"rank": 125,
-"id": "2021HUGO01",
-"best": "20.81",
-"age": 60,
-"competition": 9327
 },
 {
 "rank": 126,
@@ -43828,16 +43828,16 @@ rankings =
 },
 {
 "rank": 39,
-"id": "2013ANDE01",
-"best": "20.26",
-"competition": 7449
+"id": "2021HUGO01",
+"best": "20.19",
+"age": 60,
+"competition": 9816
 },
 {
 "rank": 40,
-"id": "2021HUGO01",
-"best": "20.81",
-"age": 60,
-"competition": 9327
+"id": "2013ANDE01",
+"best": "20.26",
+"competition": 7449
 },
 {
 "rank": 41,
@@ -44063,8 +44063,8 @@ rankings =
 {
 "rank": 7,
 "id": "2021HUGO01",
-"best": "20.81",
-"competition": 9327
+"best": "20.19",
+"competition": 9816
 },
 {
 "rank": 8,
@@ -88236,6 +88236,13 @@ rankings =
 "country": "ES",
 "startDate": "2023-08-05",
 "webId": "BaztanSideEvents2023"
+},
+{
+"id": 9816,
+"name": "Landvetter Open 2023",
+"country": "SE",
+"startDate": "2023-08-05",
+"webId": "LandvetterOpen2023"
 },
 {
 "id": 9818,
