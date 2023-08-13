@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-08-12 04:16:49",
+"refreshed": "2023-08-13 04:17:11",
 "events": [
 {
 "id": "333",
@@ -36575,15 +36575,15 @@ rankings =
 },
 {
 "rank": 2,
-"id": "2015CLAR13",
-"best": "1:30.62",
-"competition": 8266
+"id": "2007HUGH01",
+"best": "1:14.61",
+"competition": 9804
 },
 {
 "rank": 3,
-"id": "2007HUGH01",
-"best": "1:35.76",
-"competition": 7665
+"id": "2015CLAR13",
+"best": "1:30.62",
+"competition": 8266
 },
 {
 "rank": 4,
@@ -88237,6 +88237,13 @@ rankings =
 "country": "DK",
 "startDate": "2023-08-05",
 "webId": "ParityiKobenhavn2023"
+},
+{
+"id": 9804,
+"name": "Please Be Quiet Kentucky 2023",
+"country": "US",
+"startDate": "2023-08-05",
+"webId": "PBQKentucky2023"
 },
 {
 "id": 9806,
