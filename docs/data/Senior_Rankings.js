@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-08-19 04:16:32",
+"refreshed": "2023-08-20 04:16:19",
 "events": [
 {
 "id": "333",
@@ -64940,7 +64940,7 @@ rankings =
 "id": "2019URAN02",
 "name": "Hajime Urano (浦野創)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
