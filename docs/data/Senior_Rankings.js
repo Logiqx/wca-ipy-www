@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-10-14 04:16:11",
+"refreshed": "2023-10-15 04:17:34",
 "events": [
 {
 "id": "333",
@@ -44189,48 +44189,48 @@ rankings =
 },
 {
 "rank": 112,
+"id": "2021HUGO01",
+"best": "18.57",
+"age": 60,
+"competition": 10235
+},
+{
+"rank": 113,
 "id": "2004LUIS03",
 "best": "18.67",
 "age": 50,
 "competition": 4384
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2016CRUZ16",
 "best": "18.81",
 "competition": 9839
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2014RIEM01",
 "best": "19.04",
 "competition": 4882
 },
 {
-"rank": 116,
+"rank": 117,
 "id": "2022RORI01",
 "best": "19.06",
 "competition": 9447
 },
 {
-"rank": 117,
+"rank": 118,
 "id": "2018SMIT42",
 "best": "19.22",
 "age": 50,
 "competition": 7932
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2006PIRZ01",
 "best": "19.66",
 "competition": 5748
-},
-{
-"rank": 119,
-"id": "2021HUGO01",
-"best": "19.76",
-"age": 60,
-"competition": 9854
 },
 {
 "rank": 120,
@@ -45015,22 +45015,22 @@ rankings =
 },
 {
 "rank": 39,
+"id": "2021HUGO01",
+"best": "18.57",
+"age": 60,
+"competition": 10235
+},
+{
+"rank": 40,
 "id": "2004LUIS03",
 "best": "18.67",
 "competition": 4384
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2018SMIT42",
 "best": "19.22",
 "competition": 7932
-},
-{
-"rank": 41,
-"id": "2021HUGO01",
-"best": "19.76",
-"age": 60,
-"competition": 9854
 },
 {
 "rank": 42,
@@ -45280,8 +45280,8 @@ rankings =
 {
 "rank": 7,
 "id": "2021HUGO01",
-"best": "19.76",
-"competition": 9854
+"best": "18.57",
+"competition": 10235
 },
 {
 "rank": 8,
@@ -90833,6 +90833,13 @@ rankings =
 "country": "DE",
 "startDate": "2023-10-08",
 "webId": "VCubeSpielB2023"
+},
+{
+"id": 10235,
+"name": "Fyris NxNxN 'n Side 2023",
+"country": "SE",
+"startDate": "2023-10-14",
+"webId": "FyrisNxNxNnSide2023"
 }
 ],
 "countries": [
