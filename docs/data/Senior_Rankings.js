@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-10-17 04:16:12",
+"refreshed": "2023-10-18 04:17:13",
 "events": [
 {
 "id": "333",
@@ -36806,35 +36806,35 @@ rankings =
 },
 {
 "rank": 85,
+"id": "2018PARI11",
+"best": "3:07.35",
+"age": 60,
+"competition": 10248
+},
+{
+"rank": 86,
 "id": "2013COPP01",
 "best": "3:12.17",
 "competition": 3205
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2018SACH03",
 "best": "3:13.10",
 "age": 50,
 "competition": 9447
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2003POCH01",
 "best": "3:24.91",
 "competition": 3379
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2009PARE02",
 "best": "3:25.71",
 "competition": 675
-},
-{
-"rank": 91,
-"id": "2018PARI11",
-"best": "3:26.48",
-"age": 60,
-"competition": 7699
 },
 {
 "rank": 92,
@@ -37433,16 +37433,16 @@ rankings =
 },
 {
 "rank": 27,
-"id": "2018SACH03",
-"best": "3:13.10",
-"competition": 9447
+"id": "2018PARI11",
+"best": "3:07.35",
+"age": 60,
+"competition": 10248
 },
 {
 "rank": 28,
-"id": "2018PARI11",
-"best": "3:26.48",
-"age": 60,
-"competition": 7699
+"id": "2018SACH03",
+"best": "3:13.10",
+"competition": 9447
 },
 {
 "rank": 29,
@@ -37612,15 +37612,15 @@ rankings =
 },
 {
 "rank": 5,
-"id": "2013ANDE01",
-"best": "3:21.79",
-"competition": 10073
+"id": "2018PARI11",
+"best": "3:07.35",
+"competition": 10248
 },
 {
 "rank": 6,
-"id": "2018PARI11",
-"best": "3:26.48",
-"competition": 7699
+"id": "2013ANDE01",
+"best": "3:21.79",
+"competition": 10073
 },
 {
 "rank": 7,
@@ -43883,149 +43883,149 @@ rankings =
 },
 {
 "rank": 59,
+"id": "2019TAYA01",
+"best": "12.97",
+"competition": 10254
+},
+{
+"rank": 60,
 "id": "2013ANTI01",
 "best": "13.03",
 "competition": 4148
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2015BERN12",
 "best": "13.11",
 "competition": 8250
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2022DUBO01",
 "best": "13.14",
 "competition": 9454
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2016FRIS02",
 "best": "13.15",
 "age": 50,
 "competition": 7423
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2010STAS01",
 "best": "13.18",
 "competition": 4142
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2018SCHU17",
 "best": "13.30",
 "competition": 9397
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2019ALSH04",
 "best": "13.38",
 "competition": 8237
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2017KITA01",
 "best": "13.39",
 "age": 50,
 "competition": 10020
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2019MEDI04",
 "best": "13.88",
 "competition": 10025
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2015KIMH04",
 "best": "13.93",
 "competition": 9023
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2023DUBI01",
 "best": "14.05",
 "age": 50,
 "competition": 9656
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2021HOLE01",
 "best": "14.37",
 "competition": 8878
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2014PACE01",
 "best": "14.59",
 "competition": 9313
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2018COOP06",
 "best": "14.64",
 "competition": 9332
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2008COUR01",
 "best": "14.69",
 "competition": 1046
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2007YULH01",
 "best": "14.74",
 "age": 50,
 "competition": 10131
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2005GUST02",
 "best": "14.88",
 "competition": 714
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2017DAOU01",
 "best": "14.99",
 "age": 50,
 "competition": 9403
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2019WAIT02",
 "best": "15.15",
 "age": 50,
 "competition": 8625
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2013HUBH01",
 "best": "15.34",
 "age": 50,
 "competition": 7958
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2016GOSL01",
 "best": "15.40",
 "competition": 4493
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2017HART11",
 "best": "15.42",
 "age": 60,
 "competition": 9130
-},
-{
-"rank": 81,
-"id": "2019TAYA01",
-"best": "15.47",
-"competition": 8065
 },
 {
 "rank": 83,
@@ -45693,143 +45693,143 @@ rankings =
 },
 {
 "rank": 55,
+"id": "2019TAYA01",
+"best": "15.26",
+"competition": 10254
+},
+{
+"rank": 56,
 "id": "2017BONI01",
 "best": "15.29",
 "competition": 8029
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2019MORA23",
 "best": "15.33",
 "competition": 8931
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2023KLAP03",
 "best": "15.48",
 "competition": 10066
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2012DESM01",
 "best": "15.64",
 "competition": 10023
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2018WIRZ01",
 "best": "15.86",
 "age": 50,
 "competition": 9070
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2019MEDI04",
 "best": "15.87",
 "competition": 10025
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2016STIN01",
 "best": "15.99",
 "age": 50,
 "competition": 6656
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2023DUBI01",
 "best": "16.08",
 "age": 50,
 "competition": 10028
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2022DUBO01",
 "best": "16.22",
 "competition": 9982
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2014PACE01",
 "best": "16.39",
 "competition": 8169
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2013HUBH01",
 "best": "16.52",
 "age": 50,
 "competition": 7958
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2018SCHU17",
 "best": "16.65",
 "competition": 9702
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2018COOP06",
 "best": "16.67",
 "competition": 9332
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2007YULH01",
 "best": "16.88",
 "age": 50,
 "competition": 10131
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2021HOLE01",
 "best": "17.33",
 "competition": 8837
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2017DAOU01",
 "best": "17.34",
 "age": 50,
 "competition": 9028
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2012HINO01",
 "best": "17.73",
 "competition": 4764
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2018SACH03",
 "best": "17.74",
 "age": 50,
 "competition": 10031
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2010STAS01",
 "best": "17.82",
 "competition": 4383
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2019WAIT02",
 "best": "17.87",
 "age": 50,
 "competition": 8662
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2020EYOU01",
 "best": "17.93",
 "competition": 8723
-},
-{
-"rank": 77,
-"id": "2019TAYA01",
-"best": "17.96",
-"competition": 8065
 },
 {
 "rank": 78,
@@ -46991,15 +46991,15 @@ rankings =
 },
 {
 "rank": 7,
-"id": "2017HART06",
-"best": "1:29.70",
-"competition": 7923
+"id": "2019TAYA01",
+"best": "1:29.13",
+"competition": 10254
 },
 {
 "rank": 8,
-"id": "2019TAYA01",
-"best": "1:32.45",
-"competition": 9984
+"id": "2017HART06",
+"best": "1:29.70",
+"competition": 7923
 },
 {
 "rank": 9,
@@ -61553,15 +61553,15 @@ rankings =
 },
 {
 "rank": 12,
-"id": "2015HETI01",
-"best": "7:13.99",
-"competition": 6133
+"id": "2017SOLE01",
+"best": "6:55.78",
+"competition": 10257
 },
 {
 "rank": 13,
-"id": "2017SOLE01",
-"best": "7:19.30",
-"competition": 9574
+"id": "2015HETI01",
+"best": "7:13.99",
+"competition": 6133
 },
 {
 "rank": 14,
@@ -62221,8 +62221,8 @@ rankings =
 {
 "rank": 15,
 "id": "2017SOLE01",
-"best": "18:44.00",
-"competition": 9409
+"best": "18:38.00",
+"competition": 10257
 },
 {
 "rank": 16,
@@ -84946,13 +84946,6 @@ rankings =
 "webId": "SolvinginSale2022"
 },
 {
-"id": 7699,
-"name": "Baztan Open 2022",
-"country": "ES",
-"startDate": "2022-04-15",
-"webId": "BaztanOpen2022"
-},
-{
 "id": 7700,
 "name": "Santa Fe Open 2022",
 "country": "AR",
@@ -85735,13 +85728,6 @@ rankings =
 "country": "AU",
 "startDate": "2022-08-13",
 "webId": "MelbourneTrilogySaturday2022"
-},
-{
-"id": 8065,
-"name": "Silver Spring Summer 2022",
-"country": "US",
-"startDate": "2022-08-13",
-"webId": "SilverSpringSummer2022"
 },
 {
 "id": 8066,
@@ -88775,13 +88761,6 @@ rankings =
 "webId": "SiedlceOpen2023"
 },
 {
-"id": 9409,
-"name": "Washtenaw Qualifier 2023",
-"country": "US",
-"startDate": "2023-05-27",
-"webId": "WashtenawQualifier2023"
-},
-{
 "id": 9411,
 "name": "X-Madrid Open 2023",
 "country": "ES",
@@ -90910,6 +90889,13 @@ rankings =
 "webId": "AldeillasinFMCOpen2023"
 },
 {
+"id": 10248,
+"name": "Ansoáin Open 2023",
+"country": "ES",
+"startDate": "2023-10-14",
+"webId": "AnsoainOpen2023"
+},
+{
 "id": 10249,
 "name": "Autotalo Anime Adventure II 2023",
 "country": "FI",
@@ -90922,6 +90908,20 @@ rankings =
 "country": "IE",
 "startDate": "2023-10-14",
 "webId": "MeathAutumn2023"
+},
+{
+"id": 10254,
+"name": "OH-io State 2023",
+"country": "US",
+"startDate": "2023-10-14",
+"webId": "OHioState2023"
+},
+{
+"id": 10257,
+"name": "Square-1 on a Madison Square 2023",
+"country": "US",
+"startDate": "2023-10-14",
+"webId": "Square1onaMadisonSquare2023"
 }
 ],
 "countries": [
