@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-10-20 04:16:31",
+"refreshed": "2023-10-21 04:18:46",
 "events": [
 {
 "id": "333",
@@ -37959,30 +37959,36 @@ rankings =
 },
 {
 "rank": 4,
+"id": "2007LUTH01",
+"best": "1:39.56",
+"competition": 10271
+},
+{
+"rank": 5,
 "id": "2019GOFF01",
 "best": "2:10.13",
 "competition": 9549
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2018PARI11",
 "best": "3:07.35",
 "competition": 10248
 },
 {
-"rank": 6,
+"rank": 7,
 "id": "2013ANDE01",
 "best": "3:21.79",
 "competition": 10073
 },
 {
-"rank": 7,
+"rank": 8,
 "id": "2021HUGO01",
 "best": "3:59.30",
 "competition": 9863
 },
 {
-"rank": 8,
+"rank": 9,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -91739,6 +91745,13 @@ rankings =
 "country": "US",
 "startDate": "2023-10-14",
 "webId": "Square1onaMadisonSquare2023"
+},
+{
+"id": 10271,
+"name": "Stockholmsligan 3: Discgolf - 2023",
+"country": "SE",
+"startDate": "2023-10-19",
+"webId": "SL3Discgolf2023"
 }
 ],
 "countries": [
