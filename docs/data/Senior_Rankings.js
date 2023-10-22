@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-10-21 04:18:46",
+"refreshed": "2023-10-22 04:17:57",
 "events": [
 {
 "id": "333",
@@ -25584,181 +25584,181 @@ rankings =
 },
 {
 "rank": 36,
+"id": "2018TAHO01",
+"best": "55.23",
+"competition": 10280
+},
+{
+"rank": 37,
 "id": "2018BAUE04",
 "best": "55.91",
 "competition": 6681
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2008MERL01",
 "best": "56.33",
 "competition": 9275
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2007DIAZ01",
 "best": "56.90",
 "competition": 2146
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2016PETE06",
 "best": "56.90",
 "competition": 5515
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2019TAYA01",
 "best": "57.18",
 "competition": 8867
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2008LIDS01",
 "best": "57.36",
 "competition": 3953
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2010STAS01",
 "best": "57.41",
 "competition": 3882
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2014UGGL01",
 "best": "57.58",
 "competition": 7476
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2017TAKA06",
 "best": "57.78",
 "competition": 6348
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2008COUR01",
 "best": "57.88",
 "competition": 1344
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2006GALE01",
 "best": "58.04",
 "competition": 4878
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2014DECO01",
 "best": "58.04",
 "competition": 5181
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2013MORA02",
 "best": "58.21",
 "competition": 6408
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2017HART06",
 "best": "58.33",
 "competition": 7959
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2016LECO01",
 "best": "58.62",
 "competition": 8364
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2015BOSW01",
 "best": "59.37",
 "age": 50,
 "competition": 7621
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2017ASMU01",
 "best": "59.84",
 "age": 50,
 "competition": 9275
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2014VIGN02",
 "best": "59.93",
 "age": 50,
 "competition": 6454
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2018MERT01",
 "best": "59.95",
 "competition": 7454
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2020JOHN02",
 "best": "1:00.03",
 "competition": 9974
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2017BONI01",
 "best": "1:00.09",
 "competition": 8936
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2018GOCI01",
 "best": "1:00.25",
 "competition": 8026
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2016GREE02",
 "best": "1:00.32",
 "competition": 8691
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2015MAPP01",
 "best": "1:00.39",
 "competition": 9267
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2023LIVE03",
 "best": "1:00.77",
 "competition": 9885
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2017LAWR04",
 "best": "1:00.87",
 "competition": 9238
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2010DELI02",
 "best": "1:01.88",
 "competition": 1103
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2003DENN01",
 "best": "1:02.05",
 "age": 50,
 "competition": 4511
-},
-{
-"rank": 66,
-"id": "2018TAHO01",
-"best": "1:02.36",
-"competition": 9945
 },
 {
 "rank": 67,
@@ -90935,13 +90935,6 @@ rankings =
 "webId": "TwoDaysReturnBogota2023"
 },
 {
-"id": 9945,
-"name": "WA Open 2023",
-"country": "AU",
-"startDate": "2023-08-26",
-"webId": "WAOpen2023"
-},
-{
 "id": 9946,
 "name": "Autotalo Anime Adventure 2023",
 "country": "FI",
@@ -91752,6 +91745,13 @@ rankings =
 "country": "SE",
 "startDate": "2023-10-19",
 "webId": "SL3Discgolf2023"
+},
+{
+"id": 10280,
+"name": "Butler Blitz 2023",
+"country": "AU",
+"startDate": "2023-10-21",
+"webId": "ButlerBlitz2023"
 }
 ],
 "countries": [
