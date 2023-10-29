@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-10-28 04:16:44",
+"refreshed": "2023-10-29 04:17:33",
 "events": [
 {
 "id": "333",
@@ -26417,181 +26417,181 @@ rankings =
 },
 {
 "rank": 191,
+"id": "2022ORTI12",
+"best": "1:24.93",
+"competition": 10304
+},
+{
+"rank": 192,
 "id": "2016LASC01",
 "best": "1:25.16",
 "competition": 5717
 },
 {
-"rank": 192,
+"rank": 193,
 "id": "2009PARE02",
 "best": "1:25.21",
 "competition": 1302
 },
 {
-"rank": 193,
+"rank": 194,
 "id": "2022DIAS04",
 "best": "1:25.54",
 "competition": 10066
 },
 {
-"rank": 194,
+"rank": 195,
 "id": "2018SACH03",
 "best": "1:25.62",
 "age": 50,
 "competition": 7423
 },
 {
-"rank": 195,
+"rank": 196,
 "id": "2022HAUS03",
 "best": "1:26.01",
 "competition": 9638
 },
 {
-"rank": 196,
+"rank": 197,
 "id": "2017DAOU01",
 "best": "1:26.56",
 "competition": 5577
 },
 {
-"rank": 197,
+"rank": 198,
 "id": "2007CHIM01",
 "best": "1:26.78",
 "competition": 249
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2007OEYM01",
 "best": "1:26.83",
 "age": 50,
 "competition": 8919
 },
 {
-"rank": 200,
+"rank": 201,
 "id": "2017SAWA01",
 "best": "1:27.08",
 "competition": 5962
 },
 {
-"rank": 203,
+"rank": 204,
 "id": "2015LIJI02",
 "best": "1:28.18",
 "competition": 2812
 },
 {
-"rank": 204,
+"rank": 205,
 "id": "2005GUST01",
 "best": "1:28.25",
 "competition": 608
 },
 {
-"rank": 205,
+"rank": 206,
 "id": "2021HOLE01",
 "best": "1:28.62",
 "competition": 10136
 },
 {
-"rank": 206,
+"rank": 207,
 "id": "2017KITA01",
 "best": "1:28.67",
 "competition": 6258
 },
 {
-"rank": 207,
+"rank": 208,
 "id": "2005GUST02",
 "best": "1:28.72",
 "competition": 859
 },
 {
-"rank": 208,
+"rank": 209,
 "id": "2009KOTT01",
 "best": "1:28.83",
 "competition": 1185
 },
 {
-"rank": 210,
+"rank": 211,
 "id": "2014HARD01",
 "best": "1:29.87",
 "competition": 2475
 },
 {
-"rank": 211,
+"rank": 212,
 "id": "2018ANDE13",
 "best": "1:30.02",
 "competition": 9462
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2019SZYM02",
 "best": "1:30.25",
 "competition": 8011
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "2007HOLM02",
 "best": "1:30.34",
 "competition": 903
 },
 {
-"rank": 215,
+"rank": 216,
 "id": "2007YULH01",
 "best": "1:30.41",
 "age": 50,
 "competition": 8058
 },
 {
-"rank": 216,
+"rank": 217,
 "id": "2005KOCZ01",
 "best": "1:30.44",
 "competition": 2810
 },
 {
-"rank": 217,
+"rank": 218,
 "id": "2021DODS01",
 "best": "1:31.56",
 "age": 50,
 "competition": 10273
 },
 {
-"rank": 220,
+"rank": 221,
 "id": "2008KOVA01",
 "best": "1:32.16",
 "competition": 2839
 },
 {
-"rank": 221,
+"rank": 222,
 "id": "2017MANC05",
 "best": "1:32.84",
 "competition": 5291
 },
 {
-"rank": 223,
+"rank": 224,
 "id": "2008GOUB01",
 "best": "1:33.16",
 "competition": 1134
 },
 {
-"rank": 224,
+"rank": 225,
 "id": "2018HUTT01",
 "best": "1:33.72",
 "competition": 9356
 },
 {
-"rank": 225,
+"rank": 226,
 "id": "2009JARU02",
 "best": "1:34.00",
 "competition": 940
 },
 {
-"rank": 226,
+"rank": 227,
 "id": "2012POOT01",
 "best": "1:34.72",
 "competition": 2980
-},
-{
-"rank": 228,
-"id": "2022ORTI12",
-"best": "1:34.74",
-"competition": 9794
 },
 {
 "rank": 229,
@@ -53151,27 +53151,27 @@ rankings =
 },
 {
 "rank": 91,
+"id": "2019AGUE01",
+"best": "11.03",
+"age": 50,
+"competition": 10304
+},
+{
+"rank": 91,
 "id": "2017THOR06",
 "best": "11.03",
 "age": 50,
 "competition": 8593
 },
 {
-"rank": 92,
-"id": "2019AGUE01",
-"best": "11.05",
-"age": 50,
-"competition": 9521
-},
-{
-"rank": 92,
+"rank": 93,
 "id": "2023CLIN01",
 "best": "11.05",
 "age": 60,
 "competition": 9971
 },
 {
-"rank": 92,
+"rank": 93,
 "id": "2019MEDI04",
 "best": "11.05",
 "competition": 8548
@@ -55053,18 +55053,18 @@ rankings =
 },
 {
 "rank": 27,
+"id": "2019AGUE01",
+"best": "11.03",
+"competition": 10304
+},
+{
+"rank": 27,
 "id": "2017THOR06",
 "best": "11.03",
 "competition": 8593
 },
 {
-"rank": 28,
-"id": "2019AGUE01",
-"best": "11.05",
-"competition": 9521
-},
-{
-"rank": 28,
+"rank": 29,
 "id": "2023CLIN01",
 "best": "11.05",
 "age": 60,
@@ -91909,6 +91909,13 @@ rankings =
 "country": "DE",
 "startDate": "2023-10-21",
 "webId": "SouthGermany2023"
+},
+{
+"id": 10304,
+"name": "TCG Space Santa Anita 2023",
+"country": "PE",
+"startDate": "2023-10-21",
+"webId": "TCGSpaceSantaAnita2023"
 },
 {
 "id": 10305,
