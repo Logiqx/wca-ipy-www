@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-12 04:16:15",
+"refreshed": "2023-12-13 04:16:37",
 "events": [
 {
 "id": "333",
@@ -26550,46 +26550,46 @@ rankings =
 },
 {
 "rank": 88,
+"id": "2015HARR03",
+"best": "1:06.29",
+"age": 50,
+"competition": 10658
+},
+{
+"rank": 89,
 "id": "2010HAMA03",
 "best": "1:06.34",
 "competition": 6248
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2013COPP01",
 "best": "1:06.38",
 "competition": 4463
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2017REZH01",
 "best": "1:06.52",
 "competition": 5662
 },
 {
-"rank": 92,
+"rank": 93,
 "id": "2012BRUN02",
 "best": "1:06.55",
 "competition": 9028
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2017KOST06",
 "best": "1:06.86",
 "competition": 5875
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2019POLL04",
 "best": "1:07.10",
 "competition": 9451
-},
-{
-"rank": 96,
-"id": "2015HARR03",
-"best": "1:07.29",
-"age": 50,
-"competition": 10602
 },
 {
 "rank": 98,
@@ -28430,10 +28430,10 @@ rankings =
 "competition": 8247
 },
 {
-"rank": 19,
+"rank": 18,
 "id": "2015HARR03",
-"best": "1:07.29",
-"competition": 10602
+"best": "1:06.29",
+"competition": 10658
 },
 {
 "rank": 20,
@@ -44140,21 +44140,22 @@ rankings =
 },
 {
 "rank": 84,
+"id": "2015HARR03",
+"best": "42.02",
+"age": 50,
+"competition": 10658
+},
+{
+"rank": 85,
 "id": "2014RIEM01",
 "best": "42.53",
 "competition": 5378
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2012HINO01",
 "best": "42.62",
 "competition": 3956
-},
-{
-"rank": 86,
-"id": "2015HARR03",
-"best": "42.63",
-"competition": 5514
 },
 {
 "rank": 87,
@@ -44935,39 +44936,39 @@ rankings =
 },
 {
 "rank": 17,
+"id": "2015HARR03",
+"best": "42.02",
+"competition": 10658
+},
+{
+"rank": 18,
 "id": "2019KILL01",
 "best": "42.84",
 "competition": 9059
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2017ASMU01",
 "best": "44.15",
 "competition": 10276
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2018FENI01",
 "best": "44.88",
 "competition": 9522
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2021TELF01",
 "best": "45.54",
 "competition": 9695
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2018SACH03",
 "best": "46.08",
 "competition": 8449
-},
-{
-"rank": 24,
-"id": "2015HARR03",
-"best": "46.89",
-"competition": 10602
 },
 {
 "rank": 25,
@@ -94749,6 +94750,13 @@ rankings =
 "country": "DE",
 "startDate": "2023-12-09",
 "webId": "RheinNeckarMentalBreakdown2023"
+},
+{
+"id": 10658,
+"name": "Carolina Clock 'Stravaganza 2023",
+"country": "US",
+"startDate": "2023-12-10",
+"webId": "CarolinaClockStravaganza2023"
 },
 {
 "id": 10661,
