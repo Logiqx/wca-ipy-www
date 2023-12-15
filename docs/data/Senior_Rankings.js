@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-14 04:17:03",
+"refreshed": "2023-12-15 04:17:08",
 "events": [
 {
 "id": "333",
@@ -73672,7 +73672,7 @@ rankings =
 "id": "2018WIRZ01",
 "name": "Olivier Wirz",
 "country": "CH",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
