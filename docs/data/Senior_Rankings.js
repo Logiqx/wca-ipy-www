@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-15 09:22:53",
+"refreshed": "2023-12-16 04:17:02",
 "events": [
 {
 "id": "333",
@@ -3331,61 +3331,61 @@ rankings =
 "competition": 6210
 },
 {
-"rank": 895,
+"rank": 894,
+"id": "2022RUSH01",
+"best": "33.50",
+"competition": 10651
+},
+{
+"rank": 896,
 "id": "2022PEDE02",
 "best": "33.51",
 "age": 50,
 "competition": 8034
 },
 {
-"rank": 897,
+"rank": 898,
 "id": "2017SIGG01",
 "best": "33.56",
 "competition": 3827
 },
 {
-"rank": 903,
+"rank": 904,
 "id": "2016CHOW03",
 "best": "33.86",
 "age": 50,
 "competition": 6777
 },
 {
-"rank": 906,
+"rank": 907,
 "id": "2022CHUD03",
 "best": "33.96",
 "competition": 9943
 },
 {
-"rank": 908,
+"rank": 909,
 "id": "2019TURE01",
 "best": "34.00",
 "competition": 7299
 },
 {
-"rank": 909,
+"rank": 910,
 "id": "2014MELZ01",
 "best": "34.05",
 "competition": 3277
 },
 {
-"rank": 910,
+"rank": 911,
 "id": "2017ENGE03",
 "best": "34.06",
 "competition": 5501
 },
 {
-"rank": 915,
+"rank": 916,
 "id": "2012RONK01",
 "best": "34.22",
 "age": 50,
 "competition": 8624
-},
-{
-"rank": 921,
-"id": "2022RUSH01",
-"best": "34.71",
-"competition": 9505
 },
 {
 "rank": 924,
@@ -94945,6 +94945,13 @@ rankings =
 "country": "US",
 "startDate": "2023-12-09",
 "webId": "UIUCFall2023"
+},
+{
+"id": 10651,
+"name": "CubingZA Cape Cubes Challenge 2023",
+"country": "ZA",
+"startDate": "2023-12-09",
+"webId": "CubingZACapeCubesChallenge2023"
 },
 {
 "id": 10653,
