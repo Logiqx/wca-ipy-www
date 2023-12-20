@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-19 04:16:23",
+"refreshed": "2023-12-20 04:16:43",
 "events": [
 {
 "id": "333",
@@ -65238,6 +65238,13 @@ rankings =
 "best": "18:02.00",
 "age": 50,
 "competition": 8610
+},
+{
+"rank": 13,
+"id": "2016KRUE03",
+"best": "22:38.00",
+"age": 50,
+"competition": 10709
 }
 ],
 "missing": {
@@ -65299,6 +65306,12 @@ rankings =
 "id": "2018SANG01",
 "best": "18:02.00",
 "competition": 8610
+},
+{
+"rank": 7,
+"id": "2016KRUE03",
+"best": "22:38.00",
+"competition": 10709
 }
 ],
 "missing": {
@@ -65933,35 +65946,35 @@ rankings =
 },
 {
 "rank": 22,
+"id": "2016KRUE03",
+"best": "8/8 in 55:10",
+"age": 50,
+"competition": 10709
+},
+{
+"rank": 23,
 "id": "2017KOST06",
 "best": "7/7 in 44:29",
 "competition": 6575
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2015ADAM03",
 "best": "7/7 in 47:32",
 "competition": 5299
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2013ANDE01",
 "best": "8/9 in 52:25",
 "age": 50,
 "competition": 6805
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2014UGGL01",
 "best": "8/9 in 54:06",
 "competition": 7476
-},
-{
-"rank": 26,
-"id": "2016KRUE03",
-"best": "7/7 in 55:04",
-"age": 50,
-"competition": 5945
 },
 {
 "rank": 27,
@@ -66322,15 +66335,15 @@ rankings =
 },
 {
 "rank": 9,
-"id": "2013ANDE01",
-"best": "8/9 in 52:25",
-"competition": 6805
+"id": "2016KRUE03",
+"best": "8/8 in 55:10",
+"competition": 10709
 },
 {
 "rank": 10,
-"id": "2016KRUE03",
-"best": "7/7 in 55:04",
-"competition": 5945
+"id": "2013ANDE01",
+"best": "8/9 in 52:25",
+"competition": 6805
 },
 {
 "rank": 11,
@@ -95407,6 +95420,13 @@ rankings =
 "country": "US",
 "startDate": "2023-12-16",
 "webId": "UtahSnowballBash2023"
+},
+{
+"id": 10709,
+"name": "Pittsburgh Be Quiet 2023",
+"country": "US",
+"startDate": "2023-12-16",
+"webId": "PittsburghBeQuiet2023"
 },
 {
 "id": 10712,
