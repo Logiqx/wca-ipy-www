@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-22 04:18:12",
+"refreshed": "2023-12-23 04:17:34",
 "events": [
 {
 "id": "333",
@@ -66109,119 +66109,119 @@ rankings =
 },
 {
 "rank": 44,
+"id": "2019GOFF01",
+"best": "3/3 in 23:44",
+"age": 60,
+"competition": 10733
+},
+{
+"rank": 45,
 "id": "2018SALM01",
 "best": "3/3 in 24:08",
 "competition": 6827
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2017JANS02",
 "best": "3/3 in 25:01",
 "competition": 6805
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2015REYN07",
 "best": "3/3 in 26:10",
 "competition": 5719
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2009HAMO02",
 "best": "3/3 in 29:17",
 "competition": 2393
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2013MORA02",
 "best": "4/5 in 37:10",
 "competition": 2691
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2018BAUE04",
 "best": "4/5 in 37:41",
 "competition": 9858
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2015HARR03",
 "best": "5/7 in 51:22",
 "competition": 3276
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2003HARD01",
 "best": "6/9 in 54:57",
 "competition": 10718
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2017ROSS10",
 "best": "2/2 in 9:58",
 "age": 50,
 "competition": 8870
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2018SEMO01",
 "best": "2/2 in 13:17",
 "age": 50,
 "competition": 9941
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2019BLAC02",
 "best": "2/2 in 14:56",
 "age": 50,
 "competition": 8054
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2016CHOW03",
 "best": "2/2 in 15:16",
 "age": 50,
 "competition": 4444
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2003DENN01",
 "best": "2/2 in 19:47",
 "competition": 110
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2015SKAC02",
 "best": "3/4 in 31:50",
 "competition": 3554
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2021HUGO01",
 "best": "3/4 in 38:31",
 "age": 50,
 "competition": 7792
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2005CHEN02",
 "best": "4/6 in 52:29",
 "age": 50,
 "competition": 1392
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2007LUTH01",
 "best": "4/6 in 55:01",
 "age": 50,
 "competition": 2611
-},
-{
-"rank": 63,
-"id": "2019GOFF01",
-"best": "2/3 in 18:49",
-"age": 60,
-"competition": 9328
 },
 {
 "rank": 64,
@@ -66415,58 +66415,58 @@ rankings =
 },
 {
 "rank": 18,
+"id": "2019GOFF01",
+"best": "3/3 in 23:44",
+"age": 60,
+"competition": 10733
+},
+{
+"rank": 19,
 "id": "2017ROSS10",
 "best": "2/2 in 9:58",
 "competition": 8870
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2018SEMO01",
 "best": "2/2 in 13:17",
 "competition": 9941
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2019BLAC02",
 "best": "2/2 in 14:56",
 "competition": 8054
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2016CHOW03",
 "best": "2/2 in 15:16",
 "competition": 4444
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2021HUGO01",
 "best": "3/4 in 38:31",
 "competition": 7792
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2017KITA01",
 "best": "5/8 in 46:44",
 "competition": 8368
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2005CHEN02",
 "best": "4/6 in 52:29",
 "competition": 1392
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2007LUTH01",
 "best": "4/6 in 55:01",
 "competition": 2611
-},
-{
-"rank": 26,
-"id": "2019GOFF01",
-"best": "2/3 in 18:49",
-"age": 60,
-"competition": 9328
 },
 {
 "rank": 27,
@@ -66530,15 +66530,15 @@ rankings =
 },
 {
 "rank": 5,
-"id": "2021HUGO01",
-"best": "4/6 in 1:00:00",
-"competition": 9228
+"id": "2019GOFF01",
+"best": "3/3 in 23:44",
+"competition": 10733
 },
 {
 "rank": 6,
-"id": "2019GOFF01",
-"best": "2/3 in 18:49",
-"competition": 9328
+"id": "2021HUGO01",
+"best": "4/6 in 1:00:00",
+"competition": 9228
 }
 ],
 "missing": {
@@ -92103,13 +92103,6 @@ rankings =
 "webId": "Jonkopingsligan4Heaven2023"
 },
 {
-"id": 9328,
-"name": "Hilliard Hippocampus V 2023",
-"country": "US",
-"startDate": "2023-05-18",
-"webId": "HilliardHippocampusV2023"
-},
-{
 "id": 9332,
 "name": "Salt Lake Utah Summer 2023",
 "country": "US",
@@ -95517,6 +95510,13 @@ rankings =
 "country": "CN",
 "startDate": "2023-12-17",
 "webId": "ShenyangOpen2023"
+},
+{
+"id": 10733,
+"name": "Hilliard Hippocampus XII 2023",
+"country": "US",
+"startDate": "2023-12-21",
+"webId": "HilliardHippocampusXII2023"
 }
 ],
 "countries": [
