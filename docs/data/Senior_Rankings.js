@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2023-12-23 04:17:34",
+"refreshed": "2023-12-24 04:16:49",
 "events": [
 {
 "id": "333",
@@ -40555,50 +40555,50 @@ rankings =
 },
 {
 "rank": 90,
+"id": "2015KIMH04",
+"best": "46",
+"competition": 10739
+},
+{
+"rank": 90,
 "id": "2018SCHU17",
 "best": "46",
 "competition": 9397
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2005VANH02",
 "best": "47",
 "age": 50,
 "competition": 1282
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2007YULH01",
 "best": "47",
 "competition": 6623
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2018SACH03",
 "best": "48",
 "age": 50,
 "competition": 10654
 },
 {
-"rank": 98,
-"id": "2015KIMH04",
-"best": "48",
-"competition": 4884
-},
-{
-"rank": 98,
+"rank": 99,
 "id": "2014JANE01",
 "best": "48",
 "competition": 2180
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2016UMET02",
 "best": "48",
 "competition": 6623
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2017UEDA02",
 "best": "48",
 "competition": 5389
@@ -41575,94 +41575,100 @@ rankings =
 },
 {
 "rank": 54,
+"id": "2015KIMH04",
+"best": "49.67",
+"competition": 10739
+},
+{
+"rank": 54,
 "id": "2016UMET02",
 "best": "49.67",
 "competition": 6623
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2017ASMU01",
 "best": "50.67",
 "age": 50,
 "competition": 9137
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2007YULH01",
 "best": "50.67",
 "competition": 6623
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2018BAUE04",
 "best": "51.33",
 "competition": 9806
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2016ESCR01",
 "best": "52.67",
 "age": 50,
 "competition": 5266
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2021BROW05",
 "best": "54.00",
 "competition": 10190
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2018SMIT42",
 "best": "54.33",
 "age": 50,
 "competition": 8604
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2017UEDA02",
 "best": "54.33",
 "competition": 5725
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2020JOHA02",
 "best": "56.00",
 "age": 50,
 "competition": 9551
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2016DUEH02",
 "best": "56.33",
 "competition": 4964
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2009ZBIE01",
 "best": "58.00",
 "competition": 4863
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2010SOHT01",
 "best": "64.33",
 "competition": 6045
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2018SCHU17",
 "best": "64.67",
 "competition": 9702
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2010STAS01",
 "best": "72.33",
 "competition": 2182
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2019KUCA01",
 "best": "77.00",
 "age": 50,
@@ -95517,6 +95523,13 @@ rankings =
 "country": "US",
 "startDate": "2023-12-21",
 "webId": "HilliardHippocampusXII2023"
+},
+{
+"id": 10739,
+"name": "Korean FMC Championship 2023",
+"country": "KR",
+"startDate": "2023-12-23",
+"webId": "KoreanFMCChampionship2023"
 }
 ],
 "countries": [
