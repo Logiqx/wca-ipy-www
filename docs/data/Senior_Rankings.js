@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-01-13 04:17:55",
+"refreshed": "2024-01-14 04:16:55",
 "events": [
 {
 "id": "333",
@@ -27183,53 +27183,53 @@ rankings =
 },
 {
 "rank": 123,
+"id": "2019ZUSS01",
+"best": "1:11.48",
+"competition": 10803
+},
+{
+"rank": 124,
 "id": "2018CHOI09",
 "best": "1:11.68",
 "competition": 6724
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2015KIMH04",
 "best": "1:11.71",
 "competition": 9132
 },
 {
-"rank": 125,
+"rank": 126,
 "id": "2017GRIS03",
 "best": "1:11.84",
 "age": 50,
 "competition": 8525
 },
 {
-"rank": 126,
+"rank": 127,
 "id": "2003ZBOR02",
 "best": "1:12.21",
 "competition": 58
 },
 {
-"rank": 127,
+"rank": 128,
 "id": "2019ROCH03",
 "best": "1:12.34",
 "competition": 9532
 },
 {
-"rank": 128,
+"rank": 129,
 "id": "2011STUA01",
 "best": "1:12.65",
 "competition": 2174
 },
 {
-"rank": 129,
+"rank": 130,
 "id": "2018SANG01",
 "best": "1:12.70",
 "age": 50,
 "competition": 9551
-},
-{
-"rank": 130,
-"id": "2019ZUSS01",
-"best": "1:13.28",
-"competition": 9522
 },
 {
 "rank": 131,
@@ -96638,6 +96638,13 @@ rankings =
 "country": "CO",
 "startDate": "2024-01-08",
 "webId": "MegaCubeMastersBogota2024"
+},
+{
+"id": 10803,
+"name": "Israel Winter Open B 2024",
+"country": "IL",
+"startDate": "2024-01-12",
+"webId": "IsraelWinterOpenB2024"
 }
 ],
 "countries": [
