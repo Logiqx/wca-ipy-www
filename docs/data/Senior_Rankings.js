@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-03-01 04:17:01",
+"refreshed": "2024-03-02 04:16:22",
 "events": [
 {
 "id": "333",
@@ -39774,87 +39774,87 @@ rankings =
 },
 {
 "rank": 38,
+"id": "2019GOFF01",
+"best": "1:38.54",
+"age": 60,
+"competition": 11143
+},
+{
+"rank": 39,
 "id": "2013MORA02",
 "best": "1:39.12",
 "competition": 2691
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2017KITA01",
 "best": "1:39.28",
 "competition": 8017
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2011ZAKR01",
 "best": "1:41.18",
 "age": 50,
 "competition": 9943
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2003AKIM01",
 "best": "1:44.61",
 "competition": 578
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2009TIRA01",
 "best": "1:44.69",
 "competition": 1532
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2007GOHO01",
 "best": "1:45.48",
 "competition": 10982
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2006KASP02",
 "best": "1:48.77",
 "competition": 5565
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2022BERG01",
 "best": "1:49.80",
 "age": 50,
 "competition": 10943
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2005CHEN02",
 "best": "1:50.03",
 "competition": 954
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2018SANG01",
 "best": "1:55.19",
 "age": 50,
 "competition": 10172
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2022CHAM03",
 "best": "1:56.32",
 "age": 50,
 "competition": 10851
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2012PLAC01",
 "best": "1:56.90",
 "age": 50,
 "competition": 10121
-},
-{
-"rank": 52,
-"id": "2019GOFF01",
-"best": "1:59.76",
-"age": 60,
-"competition": 10798
 },
 {
 "rank": 53,
@@ -40640,52 +40640,52 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2019GOFF01",
+"best": "1:38.54",
+"age": 60,
+"competition": 11143
+},
+{
+"rank": 14,
 "id": "2011ZAKR01",
 "best": "1:41.18",
 "competition": 9943
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2012HAMA02",
 "best": "1:47.36",
 "competition": 9855
 },
 {
-"rank": 15,
+"rank": 16,
 "id": "2022BERG01",
 "best": "1:49.80",
 "competition": 10943
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2018SANG01",
 "best": "1:55.19",
 "competition": 10172
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2017KITA01",
 "best": "1:55.75",
 "competition": 10863
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2022CHAM03",
 "best": "1:56.32",
 "competition": 10851
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2012PLAC01",
 "best": "1:56.90",
 "competition": 10121
-},
-{
-"rank": 20,
-"id": "2019GOFF01",
-"best": "1:59.76",
-"age": 60,
-"competition": 10798
 },
 {
 "rank": 21,
@@ -40952,15 +40952,15 @@ rankings =
 },
 {
 "rank": 4,
-"id": "2007LUTH01",
-"best": "1:39.56",
-"competition": 10271
+"id": "2019GOFF01",
+"best": "1:38.54",
+"competition": 11143
 },
 {
 "rank": 5,
-"id": "2019GOFF01",
-"best": "1:59.76",
-"competition": 10798
+"id": "2007LUTH01",
+"best": "1:39.56",
+"competition": 10271
 },
 {
 "rank": 6,
@@ -75679,7 +75679,7 @@ rankings =
 "country": "US",
 "username": "leeo",
 "usernum": 27228,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -99507,6 +99507,13 @@ rankings =
 "country": "SE",
 "startDate": "2024-02-28",
 "webId": "SL380DetHangerpaHaret2024"
+},
+{
+"id": 11143,
+"name": "Hilliard Hippocampus XIII - Leap Day 2024",
+"country": "US",
+"startDate": "2024-02-29",
+"webId": "HilliardHippocampusXIII2024"
 }
 ],
 "countries": [
