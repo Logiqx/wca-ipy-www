@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-03-16 04:18:02",
+"refreshed": "2024-03-17 04:16:33",
 "events": [
 {
 "id": "333",
@@ -32125,22 +32125,22 @@ rankings =
 },
 {
 "rank": 203,
+"id": "2007OEYM01",
+"best": "1:47.40",
+"age": 50,
+"competition": 11236
+},
+{
+"rank": 204,
 "id": "2022FELI06",
 "best": "1:48.29",
 "competition": 9782
 },
 {
-"rank": 204,
+"rank": 205,
 "id": "2005TOMI01",
 "best": "1:48.83",
 "competition": 1187
-},
-{
-"rank": 205,
-"id": "2007OEYM01",
-"best": "1:48.91",
-"age": 50,
-"competition": 10842
 },
 {
 "rank": 206,
@@ -32969,8 +32969,8 @@ rankings =
 {
 "rank": 46,
 "id": "2007OEYM01",
-"best": "1:48.91",
-"competition": 10842
+"best": "1:47.40",
+"competition": 11236
 },
 {
 "rank": 47,
@@ -100577,6 +100577,13 @@ rankings =
 "country": "GB",
 "startDate": "2024-03-09",
 "webId": "StevenageNewcomersSat2024"
+},
+{
+"id": 11236,
+"name": "Athens Cubing Starter Pack 2024",
+"country": "GR",
+"startDate": "2024-03-09",
+"webId": "AthensCubingStarterPack2024"
 },
 {
 "id": 11238,
