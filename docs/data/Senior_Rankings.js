@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-04-11 02:07:04",
+"refreshed": "2024-04-12 02:08:12",
 "events": [
 {
 "id": "333",
@@ -36112,37 +36112,43 @@ rankings =
 },
 {
 "rank": 297,
+"id": "2022RUSH01",
+"best": "7:00.29",
+"competition": 11453
+},
+{
+"rank": 298,
 "id": "2013JOKI02",
 "best": "7:15.38",
 "competition": 2838
 },
 {
-"rank": 298,
+"rank": 299,
 "id": "2022STON02",
 "best": "7:26.66",
 "age": 70,
 "competition": 7713
 },
 {
-"rank": 302,
+"rank": 303,
 "id": "2014FAGO01",
 "best": "8:01.35",
 "competition": 2222
 },
 {
-"rank": 304,
+"rank": 305,
 "id": "2007BEIJ01",
 "best": "8:29.97",
 "competition": 195
 },
 {
-"rank": 306,
+"rank": 307,
 "id": "2017GALA01",
 "best": "8:46.90",
 "competition": 8307
 },
 {
-"rank": 310,
+"rank": 311,
 "id": "2015HEIK01",
 "best": "9:54.68",
 "competition": 2595
@@ -37008,22 +37014,22 @@ rankings =
 },
 {
 "rank": 35,
+"id": "2017LAWR04",
+"best": "2:09.36",
+"competition": 11453
+},
+{
+"rank": 36,
 "id": "2016AMBE02",
 "best": "2:09.37",
 "age": 50,
 "competition": 9977
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2013LKHA01",
 "best": "2:09.89",
 "competition": 4511
-},
-{
-"rank": 37,
-"id": "2017LAWR04",
-"best": "2:10.64",
-"competition": 9505
 },
 {
 "rank": 38,
@@ -38228,35 +38234,35 @@ rankings =
 },
 {
 "rank": 26,
+"id": "2017LAWR04",
+"best": "3:44.58",
+"competition": 11453
+},
+{
+"rank": 27,
 "id": "2016UMET02",
 "best": "3:45.85",
 "competition": 6258
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2016AMBE02",
 "best": "3:51.36",
 "age": 50,
 "competition": 10467
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2010HEIL02",
 "best": "3:51.40",
 "age": 50,
 "competition": 10992
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2018SCHU17",
 "best": "3:52.04",
 "competition": 10168
-},
-{
-"rank": 31,
-"id": "2017LAWR04",
-"best": "3:52.66",
-"competition": 7838
 },
 {
 "rank": 32,
@@ -39408,21 +39414,21 @@ rankings =
 },
 {
 "rank": 25,
+"id": "2017LAWR04",
+"best": "3:53.78",
+"competition": 11453
+},
+{
+"rank": 26,
 "id": "2008COUR01",
 "best": "3:59.35",
 "competition": 1517
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2014GOME07",
 "best": "4:02.09",
 "competition": 10128
-},
-{
-"rank": 27,
-"id": "2017LAWR04",
-"best": "4:03.55",
-"competition": 8252
 },
 {
 "rank": 28,
@@ -41232,8 +41238,8 @@ rankings =
 {
 "rank": 37,
 "id": "2017LAWR04",
-"best": "6:50.58",
-"competition": 8252
+"best": "6:50.55",
+"competition": 11453
 },
 {
 "rank": 38,
@@ -66420,8 +66426,8 @@ rankings =
 {
 "rank": 14,
 "id": "2017LAWR04",
-"best": "7.91",
-"competition": 10161
+"best": "7.89",
+"competition": 11453
 },
 {
 "rank": 15,
@@ -73688,7 +73694,8 @@ rankings =
 "events": [
 "222",
 "333",
-"444"
+"444",
+"555"
 ]
 },
 {
@@ -104228,6 +104235,13 @@ rankings =
 "country": "SE",
 "startDate": "2024-04-06",
 "webId": "CubossOpen2024"
+},
+{
+"id": 11453,
+"name": "Deep South Solving Cape Town 2024",
+"country": "ZA",
+"startDate": "2024-04-06",
+"webId": "DeepSouthCapeTown2024"
 },
 {
 "id": 11454,
