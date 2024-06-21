@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-06-20 02:08:11",
+"refreshed": "2024-06-21 02:08:30",
 "events": [
 {
 "id": "333",
@@ -10894,29 +10894,29 @@ rankings =
 },
 {
 "rank": 314,
+"id": "2022ALBE02",
+"best": "22.20",
+"competition": 12047
+},
+{
+"rank": 315,
 "id": "2022FREI07",
 "best": "22.21",
 "competition": 10453
 },
 {
-"rank": 317,
+"rank": 318,
 "id": "2022TELF02",
 "best": "22.26",
 "age": 50,
 "competition": 11740
 },
 {
-"rank": 318,
+"rank": 319,
 "id": "2021TELF01",
 "best": "22.29",
 "age": 50,
 "competition": 8647
-},
-{
-"rank": 319,
-"id": "2022ALBE02",
-"best": "22.30",
-"competition": 11966
 },
 {
 "rank": 321,
@@ -55077,89 +55077,89 @@ rankings =
 },
 {
 "rank": 25,
+"id": "2022ALBE02",
+"best": "10.62",
+"competition": 12047
+},
+{
+"rank": 26,
 "id": "2017ASMU01",
 "best": "10.70",
 "age": 50,
 "competition": 11710
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2018BAUE04",
 "best": "10.71",
 "competition": 11634
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2010WENS01",
 "best": "10.80",
 "competition": 6410
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2019TIMM01",
 "best": "10.87",
 "competition": 11806
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2016GROS06",
 "best": "10.91",
 "competition": 10451
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2019TAYA01",
 "best": "10.92",
 "competition": 11682
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2023CURR07",
 "best": "10.93",
 "competition": 11362
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2019MEDI04",
 "best": "11.00",
 "competition": 11457
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2019POLL04",
 "best": "11.05",
 "competition": 11322
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2023CLIN01",
 "best": "11.37",
 "age": 60,
 "competition": 11955
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2015LIJI02",
 "best": "11.38",
 "competition": 6252
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2014GOME07",
 "best": "11.55",
 "competition": 9411
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2019MORA23",
 "best": "11.56",
 "competition": 11408
-},
-{
-"rank": 38,
-"id": "2022ALBE02",
-"best": "11.67",
-"competition": 10894
 },
 {
 "rank": 39,
@@ -110333,6 +110333,13 @@ rankings =
 "country": "CO",
 "startDate": "2024-06-16",
 "webId": "AvenidaChileXII2024"
+},
+{
+"id": 12047,
+"name": "Gem City Donut DNF 2024",
+"country": "US",
+"startDate": "2024-06-16",
+"webId": "GemCityDonutDNF2024"
 },
 {
 "id": 12050,
