@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-08-01 02:07:09",
+"refreshed": "2024-08-02 02:09:42",
 "events": [
 {
 "id": "333",
@@ -88408,7 +88408,7 @@ rankings =
 },
 {
 "id": "2021NIEP01",
-"name": "Peicheng Nie",
+"name": "Peicheng Nie (聂沛程)",
 "country": "CN",
 "age": 40,
 "events": [
