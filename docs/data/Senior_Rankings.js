@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-09-12 02:08:54",
+"refreshed": "2024-09-13 02:08:22",
 "events": [
 {
 "id": "333",
@@ -74016,123 +74016,123 @@ rankings =
 "competition": 9779
 },
 {
-"rank": 22,
+"rank": 21,
+"id": "2021DODS01",
+"best": "8.09",
+"age": 50,
+"competition": 12598
+},
+{
+"rank": 23,
 "id": "2019POLL04",
 "best": "8.17",
 "competition": 11322
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2016LECO01",
 "best": "8.31",
 "competition": 11070
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2013ANTI01",
 "best": "8.33",
 "competition": 3040
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2017ASMU01",
 "best": "8.57",
 "age": 50,
 "competition": 10891
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2021HOLE01",
 "best": "8.66",
 "competition": 10897
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2017BONI01",
 "best": "8.72",
 "competition": 10029
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2021JOKE01",
 "best": "8.73",
 "competition": 12561
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2022MELC01",
 "best": "8.80",
 "age": 60,
 "competition": 12584
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2019TAYA01",
 "best": "8.84",
 "competition": 9984
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2016BORR02",
 "best": "8.99",
 "competition": 7900
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2014PACE01",
 "best": "9.01",
 "competition": 3154
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2023MONE01",
 "best": "9.04",
 "age": 50,
 "competition": 12113
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2018FANG06",
 "best": "9.04",
 "competition": 12503
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2022ALBE02",
 "best": "9.06",
 "competition": 11611
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2005PARI01",
 "best": "9.15",
 "competition": 3822
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2007CINO01",
 "best": "9.16",
 "competition": 6153
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2018GUTI13",
 "best": "9.26",
 "age": 50,
 "competition": 8025
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2016LASC01",
 "best": "9.26",
 "competition": 6509
-},
-{
-"rank": 42,
-"id": "2021DODS01",
-"best": "9.27",
-"age": 50,
-"competition": 11857
 },
 {
 "rank": 44,
@@ -75957,34 +75957,34 @@ rankings =
 },
 {
 "rank": 8,
+"id": "2021DODS01",
+"best": "8.09",
+"competition": 12598
+},
+{
+"rank": 9,
 "id": "2017ASMU01",
 "best": "8.57",
 "competition": 10891
 },
 {
-"rank": 9,
+"rank": 10,
 "id": "2022MELC01",
 "best": "8.80",
 "age": 60,
 "competition": 12584
 },
 {
-"rank": 10,
+"rank": 11,
 "id": "2023MONE01",
 "best": "9.04",
 "competition": 12113
 },
 {
-"rank": 11,
+"rank": 12,
 "id": "2018GUTI13",
 "best": "9.26",
 "competition": 8025
-},
-{
-"rank": 12,
-"id": "2021DODS01",
-"best": "9.27",
-"competition": 11857
 },
 {
 "rank": 13,
@@ -115702,6 +115702,13 @@ rankings =
 "country": "KH",
 "startDate": "2024-09-08",
 "webId": "CambodiaChampionship2024"
+},
+{
+"id": 12598,
+"name": "Oldham County Cubing 2024",
+"country": "US",
+"startDate": "2024-09-08",
+"webId": "OldhamCountyCubing2024"
 },
 {
 "id": 12600,
