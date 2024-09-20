@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-09-19 07:51:07",
+"refreshed": "2024-09-20 02:08:40",
 "events": [
 {
 "id": "333",
@@ -60704,16 +60704,16 @@ rankings =
 "competition": 12628
 },
 {
-"rank": 29,
-"id": "2017KRUG04",
-"best": "1:52.32",
-"competition": 9555
+"rank": 28,
+"id": "2016CRUZ16",
+"best": "1:51.92",
+"competition": 12608
 },
 {
 "rank": 30,
-"id": "2016CRUZ16",
-"best": "1:53.46",
-"competition": 9622
+"id": "2017KRUG04",
+"best": "1:52.32",
+"competition": 9555
 },
 {
 "rank": 31,
@@ -62250,8 +62250,8 @@ rankings =
 {
 "rank": 27,
 "id": "2016CRUZ16",
-"best": "2:01.90",
-"competition": 9622
+"best": "2:01.89",
+"competition": 12608
 },
 {
 "rank": 28,
@@ -117121,6 +117121,13 @@ rankings =
 "country": "US",
 "startDate": "2024-09-14",
 "webId": "BattleatFortHaysKS2024"
+},
+{
+"id": 12608,
+"name": "Centro Comercial Panamá Bogotá II 2024",
+"country": "CO",
+"startDate": "2024-09-14",
+"webId": "CentroComercialBogotaII2024"
 },
 {
 "id": 12609,
