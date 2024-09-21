@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-09-20 02:08:40",
+"refreshed": "2024-09-21 02:07:51",
 "events": [
 {
 "id": "333",
@@ -56520,21 +56520,21 @@ rankings =
 },
 {
 "rank": 151,
+"id": "2023KRAS01",
+"best": "16.38",
+"competition": 12637
+},
+{
+"rank": 152,
 "id": "2014PRES01",
 "best": "16.42",
 "competition": 11325
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2014RIEM01",
 "best": "16.70",
 "competition": 12567
-},
-{
-"rank": 153,
-"id": "2023KRAS01",
-"best": "16.79",
-"competition": 9815
 },
 {
 "rank": 154,
@@ -59059,205 +59059,205 @@ rankings =
 },
 {
 "rank": 130,
+"id": "2023KRAS01",
+"best": "17.94",
+"competition": 12637
+},
+{
+"rank": 131,
 "id": "2008COUR01",
 "best": "18.01",
 "competition": 964
 },
 {
-"rank": 131,
+"rank": 132,
 "id": "2015BERN12",
 "best": "18.05",
 "competition": 8250
 },
 {
-"rank": 132,
+"rank": 133,
 "id": "2019ALSH04",
 "best": "18.12",
 "competition": 8237
 },
 {
-"rank": 133,
+"rank": 134,
 "id": "2020CHEN34",
 "best": "18.19",
 "competition": 12277
 },
 {
-"rank": 134,
+"rank": 135,
 "id": "2017CHEL02",
 "best": "18.21",
 "competition": 12519
 },
 {
-"rank": 135,
+"rank": 136,
 "id": "2023FORC02",
 "best": "18.24",
 "competition": 12578
 },
 {
-"rank": 136,
+"rank": 137,
 "id": "2022CAMP23",
 "best": "18.27",
 "age": 50,
 "competition": 11880
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "2021MILD01",
 "best": "18.39",
 "competition": 7853
 },
 {
-"rank": 138,
+"rank": 139,
 "id": "2005GUST02",
 "best": "18.51",
 "competition": 765
 },
 {
-"rank": 139,
+"rank": 140,
 "id": "2023NICK02",
 "best": "18.58",
 "competition": 12602
 },
 {
-"rank": 140,
+"rank": 141,
 "id": "2022MEZL01",
 "best": "18.60",
 "age": 50,
 "competition": 10685
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2015KIMH04",
 "best": "18.71",
 "competition": 11203
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2023KLAP01",
 "best": "18.88",
 "competition": 12440
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2023LEEY01",
 "best": "19.27",
 "age": 50,
 "competition": 10676
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2017HART11",
 "best": "19.28",
 "age": 60,
 "competition": 8981
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2015RIVE05",
 "best": "19.46",
 "age": 50,
 "competition": 3894
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2011HUBB02",
 "best": "19.49",
 "competition": 1982
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2014RIEM01",
 "best": "19.79",
 "competition": 12567
 },
 {
-"rank": 149,
+"rank": 150,
 "id": "2018SMIT42",
 "best": "19.84",
 "age": 50,
 "competition": 12412
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2024BUTL01",
 "best": "19.92",
 "competition": 12552
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2023PUGH01",
 "best": "19.96",
 "age": 50,
 "competition": 12222
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2014PRES01",
 "best": "20.01",
 "competition": 11325
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2022BERG01",
 "best": "20.20",
 "age": 50,
 "competition": 11727
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2016CRUZ16",
 "best": "20.22",
 "competition": 9839
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2017THOR06",
 "best": "20.33",
 "age": 50,
 "competition": 10143
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2011LUCI01",
 "best": "20.35",
 "competition": 5753
 },
 {
-"rank": 157,
+"rank": 158,
 "id": "2018COOK04",
 "best": "20.41",
 "age": 60,
 "competition": 12556
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2010FEUE02",
 "best": "20.49",
 "competition": 1088
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2024BYGD02",
 "best": "20.53",
 "competition": 12349
 },
 {
-"rank": 160,
+"rank": 161,
 "id": "2023DEEG01",
 "best": "20.67",
 "competition": 12419
 },
 {
-"rank": 161,
+"rank": 162,
 "id": "2016LECO01",
 "best": "20.70",
 "competition": 11973
-},
-{
-"rank": 162,
-"id": "2023KRAS01",
-"best": "20.85",
-"competition": 9815
 },
 {
 "rank": 164,
@@ -117240,6 +117240,13 @@ rankings =
 "country": "ES",
 "startDate": "2024-09-14",
 "webId": "LleidaOpen2024"
+},
+{
+"id": 12637,
+"name": "New York Championship 2024",
+"country": "US",
+"startDate": "2024-09-14",
+"webId": "NewYorkChampionship2024"
 },
 {
 "id": 12638,
