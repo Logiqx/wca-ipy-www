@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-09-25 02:09:18",
+"refreshed": "2024-09-26 02:07:53",
 "events": [
 {
 "id": "333",
@@ -56690,83 +56690,83 @@ rankings =
 },
 {
 "rank": 148,
+"id": "2016LECO01",
+"best": "15.80",
+"competition": 12707
+},
+{
+"rank": 149,
 "id": "2011HUBB02",
 "best": "15.89",
 "competition": 1982
 },
 {
-"rank": 149,
+"rank": 150,
 "id": "2017CHEL02",
 "best": "15.91",
 "competition": 12519
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2024BYGD02",
 "best": "16.13",
 "competition": 12447
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2016AMBE02",
 "best": "16.23",
 "competition": 4569
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2023KRAS01",
 "best": "16.38",
 "competition": 12637
 },
 {
-"rank": 153,
+"rank": 154,
 "id": "2014PRES01",
 "best": "16.42",
 "competition": 11325
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2014RIEM01",
 "best": "16.70",
 "competition": 12567
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2009ZBIE01",
 "best": "16.84",
 "competition": 11174
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2011LAWR01",
 "best": "16.89",
 "competition": 5643
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2003LARS01",
 "best": "17.03",
 "age": 50,
 "competition": 1850
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2022JRGL01",
 "best": "17.12",
 "competition": 12522
 },
 {
-"rank": 160,
+"rank": 161,
 "id": "2015RIVE05",
 "best": "17.15",
 "age": 50,
 "competition": 3894
-},
-{
-"rank": 161,
-"id": "2016LECO01",
-"best": "17.22",
-"competition": 11973
 },
 {
 "rank": 162,
@@ -117671,6 +117671,13 @@ rankings =
 "country": "IE",
 "startDate": "2024-09-21",
 "webId": "MayoCubing2024"
+},
+{
+"id": 12707,
+"name": "Palais'Open 2024",
+"country": "FR",
+"startDate": "2024-09-21",
+"webId": "PalaisOpen2024"
 },
 {
 "id": 12709,
