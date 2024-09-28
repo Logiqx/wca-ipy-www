@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-09-27 02:08:50",
+"refreshed": "2024-09-28 02:08:06",
 "events": [
 {
 "id": "333",
@@ -96331,7 +96331,7 @@ rankings =
 "id": "2007RUDA02",
 "name": "Zoltán Rudasi",
 "country": "HU",
-"age": 60,
+"age": 70,
 "events": [
 "333"
 ]
