@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-10-12 02:08:15",
+"refreshed": "2024-10-13 02:11:12",
 "events": [
 {
 "id": "333",
@@ -26879,17 +26879,17 @@ rankings =
 {
 "rank": 115,
 "id": "2023NEVE02",
-"best": "6.92",
-"competition": 12433
+"best": "6.91",
+"competition": 12835
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2007CHIM01",
 "best": "6.92",
 "competition": 172
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2022DAYJ01",
 "best": "6.92",
 "competition": 12264
@@ -37954,111 +37954,111 @@ rankings =
 },
 {
 "rank": 252,
+"id": "2023NEVE02",
+"best": "1:51.84",
+"competition": 12835
+},
+{
+"rank": 253,
 "id": "2022NICH09",
 "best": "1:52.29",
 "competition": 11177
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2005ISHI01",
 "best": "1:52.30",
 "age": 50,
 "competition": 611
 },
 {
-"rank": 254,
+"rank": 255,
 "id": "2010WENS01",
 "best": "1:52.90",
 "competition": 6637
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2018ANDE13",
 "best": "1:53.19",
 "competition": 9228
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2021HUGO01",
 "best": "1:53.41",
 "age": 60,
 "competition": 11881
 },
 {
-"rank": 257,
+"rank": 258,
 "id": "2013MESA01",
 "best": "1:53.68",
 "age": 50,
 "competition": 10459
 },
 {
-"rank": 258,
+"rank": 259,
 "id": "2005GUST02",
 "best": "1:54.38",
 "competition": 657
 },
 {
-"rank": 260,
+"rank": 261,
 "id": "2005PELL01",
 "best": "1:54.64",
 "competition": 969
 },
 {
-"rank": 261,
+"rank": 262,
 "id": "2018MORA03",
 "best": "1:55.38",
 "competition": 12625
 },
 {
-"rank": 262,
+"rank": 263,
 "id": "2018KRZY01",
 "best": "1:55.66",
 "competition": 4475
 },
 {
-"rank": 263,
+"rank": 264,
 "id": "2013MORA10",
 "best": "1:55.89",
 "competition": 4092
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2022REEH01",
 "best": "1:56.56",
 "age": 50,
 "competition": 10712
 },
 {
-"rank": 265,
+"rank": 266,
 "id": "2022NAGA01",
 "best": "1:56.78",
 "competition": 11186
 },
 {
-"rank": 266,
+"rank": 267,
 "id": "2019SLES02",
 "best": "1:57.02",
 "age": 50,
 "competition": 11983
 },
 {
-"rank": 267,
+"rank": 268,
 "id": "2017CREA01",
 "best": "1:57.58",
 "age": 50,
 "competition": 5177
 },
 {
-"rank": 268,
+"rank": 269,
 "id": "2018PRAT13",
 "best": "1:58.59",
 "competition": 5605
-},
-{
-"rank": 270,
-"id": "2023NEVE02",
-"best": "1:58.90",
-"competition": 11962
 },
 {
 "rank": 271,
@@ -51461,8 +51461,8 @@ rankings =
 {
 "rank": 68,
 "id": "2023BEDO03",
-"best": "49.33",
-"competition": 11920
+"best": "49.00",
+"competition": 12842
 },
 {
 "rank": 69,
@@ -91728,7 +91728,7 @@ rankings =
 "country": "CA",
 "username": "Parity Case",
 "usernum": 19867,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -118951,6 +118951,20 @@ rankings =
 "country": "GB",
 "startDate": "2024-10-09",
 "webId": "Glasgow3x3Evening2024"
+},
+{
+"id": 12835,
+"name": "Bora Bora Barra Spring 2024",
+"country": "BR",
+"startDate": "2024-10-12",
+"webId": "BoraBoraBarraSpring2024"
+},
+{
+"id": 12842,
+"name": "Rubik's FMC Italy 2024",
+"country": "IT",
+"startDate": "2024-10-12",
+"webId": "RubiksFMCItaly2024"
 }
 ],
 "countries": [
