@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-10-19 02:08:52",
+"refreshed": "2024-10-20 02:12:43",
 "events": [
 {
 "id": "333",
@@ -27627,23 +27627,23 @@ rankings =
 },
 {
 "rank": 263,
+"id": "2022LIMK02",
+"best": "8.58",
+"age": 50,
+"competition": 12853
+},
+{
+"rank": 264,
 "id": "2023MILN05",
 "best": "8.60",
 "competition": 11027
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2023DUBI01",
 "best": "8.63",
 "age": 50,
 "competition": 12791
-},
-{
-"rank": 266,
-"id": "2022LIMK02",
-"best": "8.64",
-"age": 50,
-"competition": 12524
 },
 {
 "rank": 267,
@@ -31024,15 +31024,15 @@ rankings =
 },
 {
 "rank": 63,
+"id": "2022LIMK02",
+"best": "8.58",
+"competition": 12853
+},
+{
+"rank": 64,
 "id": "2023DUBI01",
 "best": "8.63",
 "competition": 12791
-},
-{
-"rank": 65,
-"id": "2022LIMK02",
-"best": "8.64",
-"competition": 12524
 },
 {
 "rank": 66,
@@ -73474,9 +73474,9 @@ rankings =
 {
 "rank": 35,
 "id": "2022LIMK02",
-"best": "5.26",
+"best": "5.25",
 "age": 50,
-"competition": 11861
+"competition": 12853
 },
 {
 "rank": 37,
@@ -75533,8 +75533,8 @@ rankings =
 {
 "rank": 9,
 "id": "2022LIMK02",
-"best": "5.26",
-"competition": 11861
+"best": "5.25",
+"competition": 12853
 },
 {
 "rank": 10,
@@ -119186,6 +119186,13 @@ rankings =
 "country": "AD",
 "startDate": "2024-10-12",
 "webId": "AndorranChampionship2024"
+},
+{
+"id": 12853,
+"name": "Colorado Championship 2024",
+"country": "US",
+"startDate": "2024-10-12",
+"webId": "ColoradoChampionship2024"
 },
 {
 "id": 12857,
