@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-11-15 02:08:57",
+"refreshed": "2024-11-16 02:09:37",
 "events": [
 {
 "id": "333",
@@ -81168,21 +81168,21 @@ rankings =
 },
 {
 "rank": 11,
+"id": "2021BROW05",
+"best": "17.86",
+"competition": 13067
+},
+{
+"rank": 12,
 "id": "2014GOME07",
 "best": "17.97",
 "competition": 6508
 },
 {
-"rank": 12,
+"rank": 13,
 "id": "2008LIDS01",
 "best": "18.15",
 "competition": 3670
-},
-{
-"rank": 13,
-"id": "2021BROW05",
-"best": "19.13",
-"competition": 12638
 },
 {
 "rank": 14,
@@ -82586,8 +82586,8 @@ rankings =
 {
 "rank": 11,
 "id": "2021BROW05",
-"best": "24.21",
-"competition": 12638
+"best": "23.67",
+"competition": 13067
 },
 {
 "rank": 12,
@@ -121619,6 +121619,13 @@ rankings =
 "country": "CA",
 "startDate": "2024-11-09",
 "webId": "CubingWithColdHands2024"
+},
+{
+"id": 13067,
+"name": "Kubing in Kapiti 2024",
+"country": "NZ",
+"startDate": "2024-11-09",
+"webId": "KubinginKapiti2024"
 },
 {
 "id": 13071,
