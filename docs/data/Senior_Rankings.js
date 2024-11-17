@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-11-16 02:09:37",
+"refreshed": "2024-11-17 02:08:33",
 "events": [
 {
 "id": "333",
@@ -26564,21 +26564,21 @@ rankings =
 },
 {
 "rank": 6,
+"id": "2005ASPE01",
+"best": "3.80",
+"competition": 13114
+},
+{
+"rank": 7,
 "id": "2018DECO03",
 "best": "3.98",
 "competition": 9276
 },
 {
-"rank": 7,
+"rank": 8,
 "id": "2021HUGO01",
 "best": "4.19",
 "competition": 10476
-},
-{
-"rank": 8,
-"id": "2005ASPE01",
-"best": "4.35",
-"competition": 11178
 },
 {
 "rank": 9,
@@ -27199,104 +27199,104 @@ rankings =
 "competition": 11640
 },
 {
-"rank": 45,
+"rank": 44,
+"id": "2005ASPE01",
+"best": "5.97",
+"age": 60,
+"competition": 13114
+},
+{
+"rank": 46,
 "id": "2021JOKE01",
 "best": "6.00",
 "competition": 11951
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2006GALE01",
 "best": "6.01",
 "competition": 5083
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2021MILD01",
 "best": "6.03",
 "competition": 8974
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2016BORR02",
 "best": "6.03",
 "competition": 7900
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2021HOLE01",
 "best": "6.04",
 "competition": 12059
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2014PACE01",
 "best": "6.04",
 "competition": 8350
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2005WOIT01",
 "best": "6.05",
 "competition": 11812
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2007HUGH01",
 "best": "6.05",
 "age": 60,
 "competition": 10646
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2017TABA02",
 "best": "6.06",
 "age": 50,
 "competition": 9263
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2022GRAY04",
 "best": "6.07",
 "age": 50,
 "competition": 13014
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2011YOSH01",
 "best": "6.07",
 "competition": 6883
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2016DUEH02",
 "best": "6.09",
 "competition": 5021
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2017BONI01",
 "best": "6.09",
 "competition": 10355
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2021CHEN43",
 "best": "6.10",
 "competition": 12421
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2021BROW05",
 "best": "6.12",
 "competition": 11402
-},
-{
-"rank": 60,
-"id": "2005ASPE01",
-"best": "6.14",
-"age": 60,
-"competition": 11178
 },
 {
 "rank": 61,
@@ -31512,35 +31512,35 @@ rankings =
 },
 {
 "rank": 8,
+"id": "2005ASPE01",
+"best": "5.97",
+"age": 60,
+"competition": 13114
+},
+{
+"rank": 9,
 "id": "2007HUGH01",
 "best": "6.05",
 "age": 60,
 "competition": 10646
 },
 {
-"rank": 9,
+"rank": 10,
 "id": "2015HARR03",
 "best": "6.06",
 "competition": 10602
 },
 {
-"rank": 9,
+"rank": 10,
 "id": "2017TABA02",
 "best": "6.06",
 "competition": 9263
 },
 {
-"rank": 11,
+"rank": 12,
 "id": "2022GRAY04",
 "best": "6.07",
 "competition": 13014
-},
-{
-"rank": 12,
-"id": "2005ASPE01",
-"best": "6.14",
-"age": 60,
-"competition": 11178
 },
 {
 "rank": 13,
@@ -33145,15 +33145,15 @@ rankings =
 },
 {
 "rank": 2,
-"id": "2007HUGH01",
-"best": "6.05",
-"competition": 10646
+"id": "2005ASPE01",
+"best": "5.97",
+"competition": 13114
 },
 {
 "rank": 3,
-"id": "2005ASPE01",
-"best": "6.14",
-"competition": 11178
+"id": "2007HUGH01",
+"best": "6.05",
+"competition": 10646
 },
 {
 "rank": 4,
@@ -37448,8 +37448,8 @@ rankings =
 {
 "rank": 13,
 "id": "2005ASPE01",
-"best": "2:13.99",
-"competition": 11178
+"best": "2:09.80",
+"competition": 13114
 },
 {
 "rank": 14,
@@ -121724,6 +121724,13 @@ rankings =
 "country": "US",
 "startDate": "2024-11-10",
 "webId": "OhioStateFall2024"
+},
+{
+"id": 13114,
+"name": "Höst i Mälarpärlan 2024",
+"country": "SE",
+"startDate": "2024-11-16",
+"webId": "HostiMalarparlan2024"
 }
 ],
 "countries": [
