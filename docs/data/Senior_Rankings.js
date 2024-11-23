@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-11-22 02:08:55",
+"refreshed": "2024-11-23 02:08:29",
 "events": [
 {
 "id": "333",
@@ -31655,75 +31655,75 @@ rankings =
 },
 {
 "rank": 20,
+"id": "2014PACE01",
+"best": "6.43",
+"competition": 13120
+},
+{
+"rank": 21,
 "id": "2019KUCA01",
 "best": "6.49",
 "competition": 8041
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2004MASA01",
 "best": "6.63",
 "competition": 1336
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2017THOR06",
 "best": "6.64",
 "competition": 6093
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2011BOIS01",
 "best": "6.65",
 "competition": 9064
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2014VIGN02",
 "best": "6.68",
 "competition": 5041
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2021DODS01",
 "best": "6.74",
 "competition": 11119
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2018SMIT42",
 "best": "6.76",
 "competition": 11672
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2005THOM01",
 "best": "6.80",
 "competition": 2449
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2018GUTI13",
 "best": "6.82",
 "competition": 8025
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2023LEEY01",
 "best": "6.85",
 "competition": 13077
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2018SACH03",
 "best": "6.88",
 "competition": 10031
-},
-{
-"rank": 31,
-"id": "2014PACE01",
-"best": "7.00",
-"competition": 12032
 },
 {
 "rank": 32,
@@ -121954,6 +121954,13 @@ rankings =
 "country": "US",
 "startDate": "2024-11-16",
 "webId": "MiamiSkewbed2024"
+},
+{
+"id": 13120,
+"name": "Olsztyn Squared 2024",
+"country": "PL",
+"startDate": "2024-11-16",
+"webId": "OlsztynSquared2024"
 },
 {
 "id": 13122,
