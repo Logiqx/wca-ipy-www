@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-12-05 02:08:48",
+"refreshed": "2024-12-06 02:08:57",
 "events": [
 {
 "id": "333",
@@ -3179,18 +3179,18 @@ rankings =
 "competition": 4000
 },
 {
-"rank": 713,
+"rank": 712,
+"id": "2024LILL03",
+"best": "25.52",
+"age": 60,
+"competition": 13280
+},
+{
+"rank": 714,
 "id": "2020BURC01",
 "best": "25.58",
 "age": 50,
 "competition": 12742
-},
-{
-"rank": 714,
-"id": "2024LILL03",
-"best": "25.62",
-"age": 60,
-"competition": 13057
 },
 {
 "rank": 715,
@@ -7680,17 +7680,17 @@ rankings =
 "competition": 10168
 },
 {
-"rank": 181,
+"rank": 180,
+"id": "2024LILL03",
+"best": "25.52",
+"age": 60,
+"competition": 13280
+},
+{
+"rank": 182,
 "id": "2020BURC01",
 "best": "25.58",
 "competition": 12742
-},
-{
-"rank": 183,
-"id": "2024LILL03",
-"best": "25.62",
-"age": 60,
-"competition": 13057
 },
 {
 "rank": 184,
@@ -9523,10 +9523,10 @@ rankings =
 "competition": 12645
 },
 {
-"rank": 22,
+"rank": 21,
 "id": "2024LILL03",
-"best": "25.62",
-"competition": 13057
+"best": "25.52",
+"competition": 13280
 },
 {
 "rank": 23,
@@ -13082,92 +13082,92 @@ rankings =
 },
 {
 "rank": 596,
+"id": "2024LILL03",
+"best": "28.19",
+"age": 60,
+"competition": 13280
+},
+{
+"rank": 597,
 "id": "2017ARQU01",
 "best": "28.23",
 "competition": 6208
 },
 {
-"rank": 599,
+"rank": 600,
 "id": "2022WEBE08",
 "best": "28.33",
 "competition": 10451
 },
 {
-"rank": 599,
+"rank": 600,
 "id": "2024ROSE02",
 "best": "28.33",
 "competition": 10881
 },
 {
-"rank": 601,
+"rank": 602,
 "id": "2018KRZY01",
 "best": "28.37",
 "competition": 4475
 },
 {
-"rank": 602,
+"rank": 603,
 "id": "2022PETE03",
 "best": "28.41",
 "age": 60,
 "competition": 12569
 },
 {
-"rank": 603,
+"rank": 604,
 "id": "2018PRAT13",
 "best": "28.42",
 "competition": 5868
 },
 {
-"rank": 604,
+"rank": 605,
 "id": "2004CONN01",
 "best": "28.44",
 "competition": 797
 },
 {
-"rank": 611,
+"rank": 612,
 "id": "2018SCHU17",
 "best": "28.57",
 "age": 50,
 "competition": 12578
 },
 {
-"rank": 612,
+"rank": 613,
 "id": "2015ADAM03",
 "best": "28.59",
 "competition": 5576
 },
 {
-"rank": 613,
+"rank": 614,
 "id": "2016BERK01",
 "best": "28.60",
 "age": 50,
 "competition": 13201
 },
 {
-"rank": 614,
+"rank": 615,
 "id": "2023KAYD01",
 "best": "28.61",
 "competition": 13138
 },
 {
-"rank": 616,
+"rank": 617,
 "id": "2018SOEL02",
 "best": "28.69",
 "competition": 6359
 },
 {
-"rank": 618,
+"rank": 619,
 "id": "2013HUBH01",
 "best": "28.79",
 "age": 50,
 "competition": 5890
-},
-{
-"rank": 619,
-"id": "2024LILL03",
-"best": "28.80",
-"age": 60,
-"competition": 12592
 },
 {
 "rank": 621,
@@ -17722,41 +17722,41 @@ rankings =
 },
 {
 "rank": 144,
+"id": "2024LILL03",
+"best": "28.19",
+"age": 60,
+"competition": 13280
+},
+{
+"rank": 145,
 "id": "2022PETE03",
 "best": "28.41",
 "age": 60,
 "competition": 12569
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2006MATH01",
 "best": "28.42",
 "competition": 1419
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2018SCHU17",
 "best": "28.57",
 "competition": 12578
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2016BERK01",
 "best": "28.60",
 "competition": 13201
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2013HUBH01",
 "best": "28.79",
 "competition": 5890
-},
-{
-"rank": 149,
-"id": "2024LILL03",
-"best": "28.80",
-"age": 60,
-"competition": 12592
 },
 {
 "rank": 150,
@@ -19666,15 +19666,15 @@ rankings =
 },
 {
 "rank": 12,
-"id": "2022PETE03",
-"best": "28.41",
-"competition": 12569
+"id": "2024LILL03",
+"best": "28.19",
+"competition": 13280
 },
 {
 "rank": 13,
-"id": "2024LILL03",
-"best": "28.80",
-"competition": 12592
+"id": "2022PETE03",
+"best": "28.41",
+"competition": 12569
 },
 {
 "rank": 14,
@@ -121196,13 +121196,6 @@ rankings =
 "webId": "ArenaBerno7CityFM2024"
 },
 {
-"id": 12592,
-"name": "Bay Area Speedcubin' 64 LIVE - SSF 2024",
-"country": "US",
-"startDate": "2024-09-08",
-"webId": "BASC64LIVESSF2024"
-},
-{
 "id": 12593,
 "name": "Cambodia Championship 2024",
 "country": "KH",
@@ -122519,13 +122512,6 @@ rankings =
 "webId": "ArkansolveFall2024"
 },
 {
-"id": 13057,
-"name": "Bay Area Speedcubin' 66 - Belmont 2024",
-"country": "US",
-"startDate": "2024-11-09",
-"webId": "BASC66Belmont2024"
-},
-{
 "id": 13058,
 "name": "Buckeye Big Cubes Ohio State 2024",
 "country": "US",
@@ -123084,6 +123070,13 @@ rankings =
 "country": "US",
 "startDate": "2024-12-02",
 "webId": "MichiganMini252024"
+},
+{
+"id": 13280,
+"name": "Berkeley December Weekday Tricubealon 2024",
+"country": "US",
+"startDate": "2024-12-04",
+"webId": "BerkeleyDecTricubealon2024"
 }
 ],
 "countries": [
