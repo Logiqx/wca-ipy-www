@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-12-24 02:08:53",
+"refreshed": "2024-12-25 02:08:37",
 "events": [
 {
 "id": "333",
@@ -54059,56 +54059,62 @@ rankings =
 },
 {
 "rank": 94,
+"id": "2016REIM01",
+"best": "57.67",
+"competition": 13448
+},
+{
+"rank": 94,
 "id": "2022FELI06",
 "best": "57.67",
 "competition": 13178
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2009ZBIE01",
 "best": "58.00",
 "competition": 4863
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2021DOYL02",
 "best": "61.33",
 "age": 50,
 "competition": 12412
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2022RORI01",
 "best": "61.67",
 "competition": 13178
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2021JACK01",
 "best": "62.00",
 "competition": 10851
 },
 {
-"rank": 100,
+"rank": 101,
 "id": "2022KROK02",
 "best": "63.67",
 "competition": 11928
 },
 {
-"rank": 101,
+"rank": 102,
 "id": "2010SOHT01",
 "best": "64.33",
 "competition": 6045
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2019KUCA01",
 "best": "71.67",
 "age": 60,
 "competition": 13027
 },
 {
-"rank": 103,
+"rank": 104,
 "id": "2010STAS01",
 "best": "72.33",
 "competition": 2182
@@ -87417,199 +87423,199 @@ rankings =
 },
 {
 "rank": 49,
+"id": "2022KOTO01",
+"best": "5/6 in 42:53",
+"competition": 13448
+},
+{
+"rank": 50,
 "id": "2014LORE02",
 "best": "7/10 in 44:13",
 "competition": 10248
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2022BERG01",
 "best": "5/6 in 51:50",
 "age": 50,
 "competition": 9787
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2009WUMI01",
 "best": "7/10 in 58:35",
 "competition": 12418
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2022NAGA01",
 "best": "5/6 in 58:49",
 "competition": 11512
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2014PACE01",
 "best": "3/3 in 14:04",
 "competition": 5985
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2015JIJI02",
 "best": "3/3 in 17:30",
 "competition": 3723
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2019BLAC02",
 "best": "3/3 in 19:22",
 "age": 50,
 "competition": 12965
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2012ADRI01",
 "best": "3/3 in 19:25",
 "competition": 2344
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2018TAHO01",
 "best": "3/3 in 20:31",
 "competition": 7333
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2018SCHU17",
 "best": "3/3 in 22:43",
 "age": 50,
 "competition": 12441
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2019GOFF01",
 "best": "3/3 in 23:44",
 "age": 60,
 "competition": 10733
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2018SALM01",
 "best": "3/3 in 24:08",
 "competition": 6827
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2017JANS02",
 "best": "3/3 in 25:01",
 "competition": 6805
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2015REYN07",
 "best": "3/3 in 26:10",
 "competition": 5719
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2023NARW02",
 "best": "3/3 in 26:41",
 "competition": 12110
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2021HUGO01",
 "best": "3/3 in 26:55",
 "age": 60,
 "competition": 13421
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2009HAMO02",
 "best": "3/3 in 29:17",
 "competition": 2393
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2013MORA02",
 "best": "4/5 in 37:10",
 "competition": 2691
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2018BAUE04",
 "best": "4/5 in 37:41",
 "competition": 9858
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2017ROSS10",
 "best": "2/2 in 9:58",
 "age": 50,
 "competition": 8870
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2022FURS03",
 "best": "2/2 in 14:34",
 "age": 50,
 "competition": 11923
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2016CHOW03",
 "best": "2/2 in 15:16",
 "age": 50,
 "competition": 4444
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2021DODS01",
 "best": "2/2 in 16:41",
 "age": 50,
 "competition": 11924
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2003DENN01",
 "best": "2/2 in 19:47",
 "competition": 110
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2014GOME07",
 "best": "3/4 in 30:34",
 "competition": 13171
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2015SKAC02",
 "best": "3/4 in 31:50",
 "competition": 3554
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2016HOUG03",
 "best": "3/4 in 38:05",
 "competition": 12643
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2024ORGE01",
 "best": "4/6 in 48:58",
 "competition": 13171
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2016GROS06",
 "best": "5/8 in 50:34",
 "competition": 12643
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2005CHEN02",
 "best": "4/6 in 52:29",
 "age": 50,
 "competition": 1392
-},
-{
-"rank": 82,
-"id": "2022KOTO01",
-"best": "4/6 in 54:55",
-"competition": 13189
 },
 {
 "rank": 83,
@@ -124780,6 +124786,13 @@ rankings =
 "country": "PT",
 "startDate": "2024-12-21",
 "webId": "CubesnTidesinCaparica2024"
+},
+{
+"id": 13448,
+"name": "I Hope It's Solved Edmonton 2024",
+"country": "CA",
+"startDate": "2024-12-21",
+"webId": "IHopeItsSolvedEdmonton2024"
 },
 {
 "id": 13451,
