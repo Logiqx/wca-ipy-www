@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-12-28 02:08:25",
+"refreshed": "2024-12-29 02:07:06",
 "events": [
 {
 "id": "333",
@@ -12388,296 +12388,296 @@ rankings =
 },
 {
 "rank": 407,
+"id": "2023NEVE02",
+"best": "23.74",
+"competition": 13469
+},
+{
+"rank": 408,
 "id": "2021DODS01",
 "best": "23.76",
 "age": 50,
 "competition": 13437
 },
 {
-"rank": 408,
+"rank": 409,
 "id": "2010NIEL01",
 "best": "23.80",
 "competition": 12089
 },
 {
-"rank": 408,
+"rank": 409,
 "id": "2015PAVI02",
 "best": "23.80",
 "competition": 3552
 },
 {
-"rank": 411,
+"rank": 412,
 "id": "2014KUDO02",
 "best": "23.83",
 "competition": 2611
 },
 {
-"rank": 412,
+"rank": 413,
 "id": "2010POLJ01",
 "best": "23.84",
 "competition": 1150
 },
 {
-"rank": 413,
+"rank": 414,
 "id": "2004BOSS01",
 "best": "23.86",
 "competition": 366
 },
 {
-"rank": 415,
+"rank": 416,
 "id": "2016EVAN04",
 "best": "23.93",
 "competition": 5180
 },
 {
-"rank": 416,
+"rank": 417,
 "id": "2007KOLL01",
 "best": "24.01",
 "competition": 5208
 },
 {
-"rank": 417,
+"rank": 418,
 "id": "2022DAYJ01",
 "best": "24.02",
 "competition": 13041
 },
 {
-"rank": 417,
+"rank": 418,
 "id": "2019SZYM02",
 "best": "24.02",
 "competition": 8011
 },
 {
-"rank": 420,
+"rank": 421,
 "id": "2016FRIS02",
 "best": "24.09",
 "age": 50,
 "competition": 9356
 },
 {
-"rank": 422,
+"rank": 423,
 "id": "2024CERN02",
 "best": "24.12",
 "age": 50,
 "competition": 13386
 },
 {
-"rank": 423,
+"rank": 424,
 "id": "2016GILJ03",
 "best": "24.18",
 "competition": 6560
 },
 {
-"rank": 424,
+"rank": 425,
 "id": "2019KILL01",
 "best": "24.20",
 "age": 50,
 "competition": 11650
 },
 {
-"rank": 425,
+"rank": 426,
 "id": "2021CHEN63",
 "best": "24.21",
 "competition": 8571
 },
 {
-"rank": 427,
+"rank": 428,
 "id": "2018FAUS02",
 "best": "24.27",
 "age": 60,
 "competition": 7770
 },
 {
-"rank": 428,
+"rank": 429,
 "id": "2006PIRZ01",
 "best": "24.31",
 "competition": 6681
 },
 {
-"rank": 430,
+"rank": 431,
 "id": "2024BOYE02",
 "best": "24.35",
 "competition": 13209
 },
 {
-"rank": 430,
+"rank": 431,
 "id": "2022MIHO01",
 "best": "24.35",
 "age": 50,
 "competition": 11515
 },
 {
-"rank": 432,
+"rank": 433,
 "id": "2023KEST01",
 "best": "24.36",
 "competition": 12969
 },
 {
-"rank": 433,
+"rank": 434,
 "id": "2022SOZA02",
 "best": "24.37",
 "competition": 12712
 },
 {
-"rank": 435,
+"rank": 436,
 "id": "2021ASAN01",
 "best": "24.45",
 "age": 50,
 "competition": 13317
 },
 {
-"rank": 436,
+"rank": 437,
 "id": "2018BUSC01",
 "best": "24.49",
 "competition": 11926
 },
 {
-"rank": 437,
+"rank": 438,
 "id": "2008CARA01",
 "best": "24.52",
 "competition": 6439
 },
 {
-"rank": 438,
+"rank": 439,
 "id": "2024CHIO01",
 "best": "24.53",
 "age": 50,
 "competition": 12745
 },
 {
-"rank": 441,
+"rank": 442,
 "id": "2019TIMM01",
 "best": "24.64",
 "competition": 12331
 },
 {
-"rank": 441,
+"rank": 442,
 "id": "2013SUDO01",
 "best": "24.64",
 "competition": 5389
 },
 {
-"rank": 444,
+"rank": 445,
 "id": "2022REYN05",
 "best": "24.72",
 "competition": 13076
 },
 {
-"rank": 446,
+"rank": 447,
 "id": "2024BUTL01",
 "best": "24.73",
 "competition": 12889
 },
 {
-"rank": 447,
+"rank": 448,
 "id": "2022AMIE01",
 "best": "24.75",
 "competition": 8027
 },
 {
-"rank": 449,
+"rank": 450,
 "id": "2023DEEG01",
 "best": "24.83",
 "competition": 13001
 },
 {
-"rank": 450,
+"rank": 451,
 "id": "2017SUDA03",
 "best": "24.84",
 "competition": 6726
 },
 {
-"rank": 451,
+"rank": 452,
 "id": "2019BOWE05",
 "best": "24.87",
 "age": 50,
 "competition": 8756
 },
 {
-"rank": 452,
+"rank": 453,
 "id": "2016BARI03",
 "best": "24.88",
 "age": 50,
 "competition": 6829
 },
 {
-"rank": 454,
+"rank": 455,
 "id": "2016KALL03",
 "best": "24.91",
 "competition": 4309
 },
 {
-"rank": 455,
+"rank": 456,
 "id": "2022GUEV05",
 "best": "24.92",
 "competition": 11767
 },
 {
-"rank": 456,
+"rank": 457,
 "id": "2017SAWA01",
 "best": "24.93",
 "competition": 6853
 },
 {
-"rank": 457,
+"rank": 458,
 "id": "2012WATE01",
 "best": "24.94",
 "competition": 982
 },
 {
-"rank": 458,
+"rank": 459,
 "id": "2018SCHE08",
 "best": "25.00",
 "competition": 4802
 },
 {
-"rank": 459,
+"rank": 460,
 "id": "2015HEIK01",
 "best": "25.03",
 "competition": 3445
 },
 {
-"rank": 461,
+"rank": 462,
 "id": "2022FELI06",
 "best": "25.06",
 "competition": 12037
 },
 {
-"rank": 463,
+"rank": 464,
 "id": "2016VAZQ12",
 "best": "25.15",
 "competition": 4593
 },
 {
-"rank": 464,
+"rank": 465,
 "id": "2018CHOI09",
 "best": "25.16",
 "competition": 6724
 },
 {
-"rank": 464,
+"rank": 465,
 "id": "2011VOLK01",
 "best": "25.16",
 "competition": 1320
 },
 {
-"rank": 467,
+"rank": 468,
 "id": "2013MESA01",
 "best": "25.27",
 "age": 50,
 "competition": 9465
 },
 {
-"rank": 468,
+"rank": 469,
 "id": "2017ROBE21",
 "best": "25.30",
 "competition": 5639
-},
-{
-"rank": 472,
-"id": "2023NEVE02",
-"best": "25.46",
-"competition": 12433
 },
 {
 "rank": 473,
@@ -25706,1340 +25706,1346 @@ rankings =
 },
 {
 "rank": 64,
+"id": "2018BAUE04",
+"best": "5.09",
+"competition": 13464
+},
+{
+"rank": 65,
 "id": "2017UEDA02",
 "best": "5.11",
 "competition": 9855
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2023DUBI01",
 "best": "5.15",
 "competition": 12302
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2007YULH01",
 "best": "5.21",
 "competition": 9132
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2017ROSS10",
 "best": "5.28",
 "competition": 8870
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2017THOR06",
 "best": "5.31",
 "competition": 9131
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2022KUCA01",
 "best": "5.45",
 "age": 60,
 "competition": 12403
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2019KUND02",
 "best": "5.49",
 "competition": 11018
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2022MELC01",
 "best": "5.53",
 "age": 60,
 "competition": 11355
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2022MIHO01",
 "best": "5.56",
 "competition": 12578
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2023KUIJ01",
 "best": "5.58",
 "age": 60,
 "competition": 13215
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2010HAMA03",
 "best": "5.64",
 "competition": 9855
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2021SPIE02",
 "best": "5.65",
 "competition": 11829
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2017ENGE03",
 "best": "5.69",
 "competition": 13360
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2022LIMK02",
 "best": "5.69",
 "competition": 13362
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2017NOVA05",
 "best": "5.77",
 "competition": 12714
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2018BENN01",
 "best": "5.79",
 "competition": 6646
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2013ANDE01",
 "best": "5.81",
 "competition": 3388
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2022WITT01",
 "best": "5.81",
 "competition": 9452
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2005THOM01",
 "best": "5.83",
 "competition": 2449
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2022SCHO07",
 "best": "5.88",
 "competition": 10469
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2021ASAN01",
 "best": "5.88",
 "competition": 13317
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2023ALBR03",
 "best": "5.91",
 "age": 60,
 "competition": 11428
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2006NORS01",
 "best": "5.93",
 "competition": 158
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2006HYAK01",
 "best": "5.93",
 "competition": 56
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2019KILL01",
 "best": "5.96",
 "competition": 11650
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2017GRIS03",
 "best": "5.96",
 "competition": 10407
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2023AZEV07",
 "best": "5.96",
 "competition": 11779
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2023CLOY01",
 "best": "5.98",
 "competition": 12417
 },
 {
-"rank": 99,
+"rank": 100,
 "id": "2023BAYJ01",
 "best": "6.03",
 "competition": 12641
 },
 {
-"rank": 99,
+"rank": 100,
 "id": "2007DOUT01",
 "best": "6.03",
 "competition": 2954
 },
 {
-"rank": 101,
+"rank": 102,
 "id": "2020JOHA02",
 "best": "6.04",
 "competition": 9718
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2014ROCH07",
 "best": "6.12",
 "competition": 6678
 },
 {
-"rank": 104,
+"rank": 105,
 "id": "2015REYE08",
 "best": "6.20",
 "competition": 8036
 },
 {
-"rank": 105,
+"rank": 106,
 "id": "2024KIMS07",
 "best": "6.24",
 "competition": 13380
 },
 {
-"rank": 105,
+"rank": 106,
 "id": "2023SHAW10",
 "best": "6.24",
 "competition": 12429
 },
 {
-"rank": 107,
+"rank": 108,
 "id": "2018SCHU17",
 "best": "6.25",
 "competition": 12578
 },
 {
-"rank": 108,
+"rank": 109,
 "id": "2023JIME09",
 "best": "6.36",
 "competition": 12931
 },
 {
-"rank": 109,
+"rank": 110,
 "id": "2018FOST04",
 "best": "6.41",
 "competition": 10872
 },
 {
-"rank": 110,
+"rank": 111,
 "id": "2017GEES01",
 "best": "6.47",
 "competition": 8905
 },
 {
-"rank": 111,
+"rank": 112,
 "id": "2017KITA01",
 "best": "6.51",
 "competition": 13317
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2022RICH09",
 "best": "6.53",
 "competition": 11169
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2003LARS01",
 "best": "6.58",
 "competition": 2367
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2023LEES22",
 "best": "6.61",
 "competition": 12407
 },
 {
-"rank": 117,
+"rank": 118,
 "id": "2015REGE02",
 "best": "6.65",
 "competition": 13033
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2015GOSL01",
 "best": "6.66",
 "competition": 4855
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2005VANH02",
 "best": "6.66",
 "competition": 1506
 },
 {
-"rank": 120,
+"rank": 121,
 "id": "2017TAKA02",
 "best": "6.70",
 "competition": 6514
 },
 {
-"rank": 122,
+"rank": 123,
 "id": "2005GUST02",
 "best": "6.77",
 "competition": 2611
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2008RIJK01",
 "best": "6.80",
 "competition": 3817
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2022STAN01",
 "best": "6.85",
 "competition": 11860
 },
 {
-"rank": 125,
+"rank": 126,
 "id": "2014JUNH01",
 "best": "6.94",
 "competition": 11043
 },
 {
-"rank": 126,
+"rank": 127,
 "id": "2022STOV01",
 "best": "6.96",
 "competition": 12264
 },
 {
-"rank": 127,
+"rank": 128,
 "id": "2023PUGH01",
 "best": "6.97",
 "competition": 12222
 },
 {
-"rank": 128,
+"rank": 129,
 "id": "2008MATS04",
 "best": "7.04",
 "competition": 5056
 },
 {
-"rank": 130,
+"rank": 131,
 "id": "2017MEGA01",
 "best": "7.12",
 "competition": 10124
 },
 {
-"rank": 131,
+"rank": 132,
 "id": "2017MAHI02",
 "best": "7.14",
 "competition": 5986
 },
 {
-"rank": 132,
+"rank": 133,
 "id": "2019MARI22",
 "best": "7.16",
 "competition": 6454
 },
 {
-"rank": 132,
+"rank": 133,
 "id": "2013DEAR01",
 "best": "7.16",
 "competition": 8940
 },
 {
-"rank": 132,
+"rank": 133,
 "id": "2007LUTH01",
 "best": "7.16",
 "competition": 557
 },
 {
-"rank": 135,
+"rank": 136,
 "id": "2023SALA33",
 "best": "7.33",
 "competition": 12300
 },
 {
-"rank": 136,
+"rank": 137,
 "id": "2021CAPI01",
 "best": "7.34",
 "competition": 7804
 },
 {
-"rank": 139,
+"rank": 140,
 "id": "2023JOHN07",
 "best": "7.39",
 "competition": 12563
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2022REEH01",
 "best": "7.76",
 "competition": 11217
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2023DARM01",
 "best": "7.84",
 "competition": 10348
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2021TELF01",
 "best": "7.84",
 "competition": 8408
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2019RAND02",
 "best": "7.84",
 "competition": 11682
 },
 {
-"rank": 146,
+"rank": 147,
 "id": "2004SALV01",
 "best": "7.88",
 "age": 70,
 "competition": 6359
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2005KOCZ01",
 "best": "7.90",
 "competition": 13012
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2019WAIT02",
 "best": "8.05",
 "competition": 7887
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2008BERG04",
 "best": "8.06",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2019GOFF01",
 "best": "8.16",
 "age": 60,
 "competition": 5849
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2007BERR01",
 "best": "8.18",
 "competition": 264
 },
 {
-"rank": 158,
+"rank": 159,
 "id": "2017SZAN01",
 "best": "8.38",
 "competition": 13012
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2022CAMP23",
 "best": "8.42",
 "competition": 13156
 },
 {
-"rank": 160,
+"rank": 161,
 "id": "2012HAMA02",
 "best": "8.52",
 "competition": 9855
 },
 {
-"rank": 161,
+"rank": 162,
 "id": "2015HAGE04",
 "best": "8.54",
 "competition": 3086
 },
 {
-"rank": 163,
+"rank": 164,
 "id": "2018HOSH02",
 "best": "8.56",
 "competition": 9389
 },
 {
-"rank": 164,
+"rank": 165,
 "id": "2023SKJO02",
 "best": "8.59",
 "competition": 13390
 },
 {
-"rank": 165,
+"rank": 166,
 "id": "2023CLIN01",
 "best": "8.65",
 "age": 60,
 "competition": 9334
 },
 {
-"rank": 166,
+"rank": 167,
 "id": "2015GREI02",
 "best": "8.71",
 "competition": 5021
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2016KLEI01",
 "best": "8.89",
 "age": 60,
 "competition": 3534
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2022PIET02",
 "best": "8.89",
 "competition": 8226
 },
 {
-"rank": 169,
+"rank": 170,
 "id": "2016DEXT02",
 "best": "8.98",
 "competition": 8566
 },
 {
-"rank": 171,
+"rank": 172,
 "id": "2018GILL07",
 "best": "8.99",
 "competition": 6348
 },
 {
-"rank": 172,
+"rank": 173,
 "id": "2021CHEN63",
 "best": "9.07",
 "competition": 13212
 },
 {
-"rank": 173,
+"rank": 174,
 "id": "2024CAVA03",
 "best": "9.08",
 "competition": 13090
 },
 {
-"rank": 174,
+"rank": 175,
 "id": "2023FROH03",
 "best": "9.13",
 "competition": 13014
 },
 {
-"rank": 175,
+"rank": 176,
 "id": "2024CERR01",
 "best": "9.17",
 "competition": 12398
 },
 {
-"rank": 176,
+"rank": 177,
 "id": "2024KONI03",
 "best": "9.24",
 "competition": 13404
 },
 {
-"rank": 177,
+"rank": 178,
 "id": "2017CREA01",
 "best": "9.28",
 "competition": 5365
 },
 {
-"rank": 179,
+"rank": 180,
 "id": "2023NABA01",
 "best": "9.35",
 "competition": 12373
 },
 {
-"rank": 179,
+"rank": 180,
 "id": "2019CALI06",
 "best": "9.35",
 "competition": 9700
 },
 {
-"rank": 182,
+"rank": 183,
 "id": "2018PERE37",
 "best": "9.46",
 "competition": 12300
 },
 {
-"rank": 184,
+"rank": 185,
 "id": "2022MEZL01",
 "best": "9.69",
 "competition": 11515
 },
 {
-"rank": 185,
+"rank": 186,
 "id": "2015BROO01",
 "best": "9.70",
 "competition": 5218
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2013HUBH01",
 "best": "9.83",
 "competition": 5890
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2024POTT03",
 "best": "9.83",
 "competition": 11860
 },
 {
-"rank": 189,
+"rank": 190,
 "id": "2023OEHR01",
 "best": "9.85",
 "competition": 13403
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "2019BOWE05",
 "best": "9.86",
 "competition": 12493
 },
 {
-"rank": 191,
+"rank": 192,
 "id": "2024FALA01",
 "best": "9.88",
 "competition": 12611
 },
 {
-"rank": 192,
+"rank": 193,
 "id": "2017BROW09",
 "best": "9.89",
 "competition": 6558
 },
 {
-"rank": 193,
+"rank": 194,
 "id": "2022TERR02",
 "best": "9.96",
 "competition": 13013
 },
 {
-"rank": 194,
+"rank": 195,
 "id": "2019TURE01",
 "best": "10.03",
 "competition": 9855
 },
 {
-"rank": 196,
+"rank": 197,
 "id": "2022STON02",
 "best": "10.19",
 "age": 70,
 "competition": 7640
 },
 {
-"rank": 197,
+"rank": 198,
 "id": "2014MELZ01",
 "best": "10.24",
 "competition": 9177
 },
 {
-"rank": 199,
+"rank": 200,
 "id": "2024SAAR01",
 "best": "10.30",
 "competition": 12622
 },
 {
-"rank": 200,
+"rank": 201,
 "id": "2018SALM01",
 "best": "10.33",
 "competition": 8340
 },
 {
-"rank": 201,
+"rank": 202,
 "id": "2022POTT04",
 "best": "10.34",
 "competition": 9534
 },
 {
-"rank": 204,
+"rank": 205,
 "id": "2022AMAR09",
 "best": "10.50",
 "age": 60,
 "competition": 13226
 },
 {
-"rank": 205,
+"rank": 206,
 "id": "2020BURC01",
 "best": "10.51",
 "competition": 10518
 },
 {
-"rank": 207,
+"rank": 208,
 "id": "2009AOKI01",
 "best": "10.68",
 "age": 70,
 "competition": 560
 },
 {
-"rank": 207,
+"rank": 208,
 "id": "2023PRUV01",
 "best": "10.68",
 "competition": 12434
 },
 {
-"rank": 209,
+"rank": 210,
 "id": "2019KANA02",
 "best": "10.72",
 "competition": 8026
 },
 {
-"rank": 210,
+"rank": 211,
 "id": "2019NATH07",
 "best": "10.76",
 "competition": 7465
 },
 {
-"rank": 211,
+"rank": 212,
 "id": "2024SIME02",
 "best": "10.78",
 "competition": 13390
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2018CHOD01",
 "best": "10.82",
 "competition": 8244
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "2015LEVI01",
 "best": "10.84",
 "age": 60,
 "competition": 3214
 },
 {
-"rank": 215,
+"rank": 216,
 "id": "2024VASC01",
 "best": "10.86",
 "competition": 11977
 },
 {
-"rank": 222,
+"rank": 223,
 "id": "2022PEDE02",
 "best": "11.33",
 "competition": 8385
 },
 {
-"rank": 225,
+"rank": 226,
 "id": "2024PETR03",
 "best": "11.41",
 "competition": 12333
 },
 {
-"rank": 227,
+"rank": 228,
 "id": "2023RITT04",
 "best": "11.45",
 "competition": 13266
 },
 {
-"rank": 228,
+"rank": 229,
 "id": "2022HILL10",
 "best": "11.46",
 "age": 60,
 "competition": 10277
 },
 {
-"rank": 231,
+"rank": 232,
 "id": "2024LUIG02",
 "best": "11.88",
 "competition": 13210
 },
 {
-"rank": 233,
+"rank": 234,
 "id": "2022MAYF04",
 "best": "11.97",
 "age": 60,
 "competition": 11162
 },
 {
-"rank": 234,
+"rank": 235,
 "id": "2019HERN07",
 "best": "12.02",
 "competition": 8328
 },
 {
-"rank": 234,
+"rank": 235,
 "id": "2012RONK01",
 "best": "12.02",
 "competition": 6065
 },
 {
-"rank": 236,
+"rank": 237,
 "id": "2009OKED01",
 "best": "12.05",
 "competition": 451
 },
 {
-"rank": 237,
+"rank": 238,
 "id": "2017SHEI04",
 "best": "12.11",
 "competition": 6241
 },
 {
-"rank": 240,
+"rank": 241,
 "id": "2018LAMU01",
 "best": "12.50",
 "competition": 12434
 },
 {
-"rank": 241,
+"rank": 242,
 "id": "2024MITC04",
 "best": "12.52",
 "competition": 12524
 },
 {
-"rank": 242,
+"rank": 243,
 "id": "2006LOUI01",
 "best": "12.53",
 "competition": 867
 },
 {
-"rank": 243,
+"rank": 244,
 "id": "2015LIMA20",
 "best": "12.60",
 "age": 60,
 "competition": 11811
 },
 {
-"rank": 244,
+"rank": 245,
 "id": "2023MCCO18",
 "best": "12.64",
 "competition": 13116
 },
 {
-"rank": 248,
+"rank": 249,
 "id": "2023RANN01",
 "best": "12.85",
 "competition": 12704
 },
 {
-"rank": 249,
+"rank": 250,
 "id": "2023TRUE05",
 "best": "12.99",
 "competition": 10696
 },
 {
-"rank": 251,
+"rank": 252,
 "id": "2016ODEG01",
 "best": "13.10",
 "competition": 7920
 },
 {
-"rank": 252,
+"rank": 253,
 "id": "2023EGAL01",
 "best": "13.51",
 "competition": 11571
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2015BEUK01",
 "best": "13.62",
 "competition": 12538
 },
 {
-"rank": 254,
+"rank": 255,
 "id": "2015HASU01",
 "best": "13.77",
 "competition": 11727
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2023THOR04",
 "best": "13.78",
 "competition": 12209
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2022AASE01",
 "best": "13.85",
 "competition": 10277
 },
 {
-"rank": 257,
+"rank": 258,
 "id": "2009LARS02",
 "best": "14.04",
 "competition": 3953
 },
 {
-"rank": 258,
+"rank": 259,
 "id": "2005ISHI01",
 "best": "14.11",
 "competition": 524
 },
 {
-"rank": 260,
+"rank": 261,
 "id": "2009NEEL01",
 "best": "14.24",
 "age": 60,
 "competition": 5476
 },
 {
-"rank": 261,
+"rank": 262,
 "id": "2018JOHN29",
 "best": "14.30",
 "competition": 5034
 },
 {
-"rank": 262,
+"rank": 263,
 "id": "2022SONG01",
 "best": "14.39",
 "competition": 13060
 },
 {
-"rank": 263,
+"rank": 264,
 "id": "2017PALI03",
 "best": "14.48",
 "competition": 3464
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2016BALA16",
 "best": "14.70",
 "competition": 11974
 },
 {
-"rank": 265,
+"rank": 266,
 "id": "2015STOP01",
 "best": "14.73",
 "competition": 7823
 },
 {
-"rank": 266,
+"rank": 267,
 "id": "2017MENE02",
 "best": "14.88",
 "competition": 9960
 },
 {
-"rank": 267,
+"rank": 268,
 "id": "2018VILJ02",
 "best": "14.90",
 "competition": 5415
 },
 {
-"rank": 268,
+"rank": 269,
 "id": "2023CERN02",
 "best": "15.15",
 "competition": 11352
 },
 {
-"rank": 271,
+"rank": 272,
 "id": "2019ALVA14",
 "best": "16.15",
 "competition": 10128
 },
 {
-"rank": 272,
+"rank": 273,
 "id": "2024WELS02",
 "best": "16.19",
 "competition": 12987
 },
 {
-"rank": 274,
+"rank": 275,
 "id": "2024CARE03",
 "best": "16.26",
 "competition": 12516
 },
 {
-"rank": 275,
+"rank": 276,
 "id": "2016CHOW03",
 "best": "16.40",
 "competition": 5533
 },
 {
-"rank": 277,
+"rank": 278,
 "id": "2015DULE03",
 "best": "16.58",
 "competition": 8893
 },
 {
-"rank": 279,
+"rank": 280,
 "id": "2024TOPO05",
 "best": "16.83",
 "age": 70,
 "competition": 12705
 },
 {
-"rank": 281,
+"rank": 282,
 "id": "2018NICH04",
 "best": "17.03",
 "competition": 9345
 },
 {
-"rank": 283,
+"rank": 284,
 "id": "2018KWAR01",
 "best": "17.24",
 "competition": 6652
 },
 {
-"rank": 284,
+"rank": 285,
 "id": "2024COCH04",
 "best": "17.37",
 "competition": 13358
 },
 {
-"rank": 285,
+"rank": 286,
 "id": "2023REIN12",
 "best": "17.40",
 "age": 60,
 "competition": 12791
 },
 {
-"rank": 287,
+"rank": 288,
 "id": "2016BROS02",
 "best": "17.50",
 "age": 60,
 "competition": 6602
 },
 {
-"rank": 288,
+"rank": 289,
 "id": "2024MART52",
 "best": "17.66",
 "age": 60,
 "competition": 13362
 },
 {
-"rank": 290,
+"rank": 291,
 "id": "2019CERN02",
 "best": "17.84",
 "competition": 6905
 },
 {
-"rank": 291,
+"rank": 292,
 "id": "2019HICK05",
 "best": "17.88",
 "competition": 6506
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2009ESPU01",
 "best": "18.05",
 "age": 60,
 "competition": 3819
 },
 {
-"rank": 296,
+"rank": 297,
 "id": "2023SATK02",
 "best": "18.11",
 "competition": 12324
 },
 {
-"rank": 299,
+"rank": 300,
 "id": "2024PERA02",
 "best": "18.55",
 "competition": 13447
 },
 {
-"rank": 301,
+"rank": 302,
 "id": "2019ALSH04",
 "best": "18.72",
 "competition": 10184
 },
 {
-"rank": 302,
+"rank": 303,
 "id": "2016WEIS05",
 "best": "18.73",
 "competition": 8261
 },
 {
-"rank": 303,
+"rank": 304,
 "id": "2009MONT01",
 "best": "18.81",
 "competition": 885
 },
 {
-"rank": 305,
+"rank": 306,
 "id": "2023SCHA20",
 "best": "18.87",
 "competition": 10243
 },
 {
-"rank": 306,
+"rank": 307,
 "id": "2011CORM02",
 "best": "18.91",
 "competition": 1266
 },
 {
-"rank": 307,
+"rank": 308,
 "id": "2011SEOK01",
 "best": "19.07",
 "age": 60,
 "competition": 6118
 },
 {
-"rank": 310,
+"rank": 311,
 "id": "2017WALL07",
 "best": "19.76",
 "competition": 5501
 },
 {
-"rank": 313,
+"rank": 314,
 "id": "2018BUCK02",
 "best": "20.19",
 "competition": 4706
 },
 {
-"rank": 316,
+"rank": 317,
 "id": "2023NEED01",
 "best": "20.54",
 "competition": 11383
 },
 {
-"rank": 317,
+"rank": 318,
 "id": "2024SACE02",
 "best": "20.56",
 "competition": 12655
 },
 {
-"rank": 318,
+"rank": 319,
 "id": "2017VRIE02",
 "best": "20.61",
 "competition": 3962
 },
 {
-"rank": 319,
+"rank": 320,
 "id": "2023KIRS02",
 "best": "20.62",
 "competition": 12578
 },
 {
-"rank": 321,
+"rank": 322,
 "id": "2023MILL57",
 "best": "21.34",
 "age": 70,
 "competition": 12058
 },
 {
-"rank": 322,
+"rank": 323,
 "id": "2024DILL03",
 "best": "21.39",
 "age": 60,
 "competition": 12146
 },
 {
-"rank": 323,
+"rank": 324,
 "id": "2017HART11",
 "best": "21.40",
 "competition": 4055
 },
 {
-"rank": 325,
+"rank": 326,
 "id": "2013BRAN01",
 "best": "21.96",
 "competition": 1431
 },
 {
-"rank": 327,
+"rank": 328,
 "id": "2008HERN02",
 "best": "22.36",
 "age": 60,
 "competition": 9072
 },
 {
-"rank": 328,
+"rank": 329,
 "id": "2012BOWE01",
 "best": "22.55",
 "age": 70,
 "competition": 1552
 },
 {
-"rank": 329,
+"rank": 330,
 "id": "2015CLAR13",
 "best": "22.67",
 "age": 60,
 "competition": 7712
 },
 {
-"rank": 331,
+"rank": 332,
 "id": "2024MAGO02",
 "best": "22.79",
 "competition": 13403
 },
 {
-"rank": 332,
+"rank": 333,
 "id": "2023HANN05",
 "best": "23.00",
 "competition": 11727
 },
 {
-"rank": 336,
+"rank": 337,
 "id": "2022DECO03",
 "best": "23.66",
 "age": 60,
 "competition": 11350
 },
 {
-"rank": 337,
+"rank": 338,
 "id": "2023LYAN01",
 "best": "23.84",
 "age": 60,
 "competition": 11815
 },
 {
-"rank": 338,
+"rank": 339,
 "id": "2024FUCH03",
 "best": "24.12",
 "competition": 11215
 },
 {
-"rank": 340,
+"rank": 341,
 "id": "2023ALDR02",
 "best": "24.51",
 "competition": 11836
 },
 {
-"rank": 343,
+"rank": 344,
 "id": "2024LUND03",
 "best": "25.27",
 "competition": 13074
 },
 {
-"rank": 344,
+"rank": 345,
 "id": "2022JEHA01",
 "best": "26.06",
 "competition": 11581
 },
 {
-"rank": 346,
+"rank": 347,
 "id": "2024DOMA03",
 "best": "26.84",
 "competition": 12055
 },
 {
-"rank": 347,
+"rank": 348,
 "id": "2024POPE03",
 "best": "28.15",
 "competition": 13323
 },
 {
-"rank": 349,
+"rank": 350,
 "id": "2023BURN01",
 "best": "28.56",
 "competition": 9849
 },
 {
-"rank": 353,
+"rank": 354,
 "id": "2024THOM22",
 "best": "29.10",
 "competition": 12045
 },
 {
-"rank": 355,
+"rank": 356,
 "id": "2019FRAT01",
 "best": "29.68",
 "competition": 6810
 },
 {
-"rank": 357,
+"rank": 358,
 "id": "2017HOZS01",
 "best": "30.59",
 "competition": 3939
 },
 {
-"rank": 360,
+"rank": 361,
 "id": "2019CARD04",
 "best": "31.90",
 "competition": 6344
 },
 {
-"rank": 364,
+"rank": 365,
 "id": "2022MULL07",
 "best": "33.05",
 "competition": 9338
 },
 {
-"rank": 367,
+"rank": 368,
 "id": "2019MCDO05",
 "best": "34.12",
 "competition": 9855
 },
 {
-"rank": 369,
+"rank": 370,
 "id": "2016ZEMD01",
 "best": "36.70",
 "competition": 4308
 },
 {
-"rank": 371,
+"rank": 372,
 "id": "2019GANU01",
 "best": "39.43",
 "competition": 5797
 },
 {
-"rank": 375,
+"rank": 376,
 "id": "2017SVAN01",
 "best": "41.11",
 "competition": 4589
 },
 {
-"rank": 376,
+"rank": 377,
 "id": "2022OSKA03",
 "best": "42.30",
 "competition": 12099
 },
 {
-"rank": 377,
+"rank": 378,
 "id": "2019OGOR03",
 "best": "42.34",
 "competition": 6270
 },
 {
-"rank": 380,
+"rank": 381,
 "id": "2015FIEC01",
 "best": "44.88",
 "competition": 5846
 },
 {
-"rank": 381,
+"rank": 382,
 "id": "2013BINI01",
 "best": "46.63",
 "competition": 2800
 },
 {
-"rank": 382,
+"rank": 383,
 "id": "2024AZEV05",
 "best": "46.82",
 "competition": 11665
 },
 {
-"rank": 384,
+"rank": 385,
 "id": "2016LUJA01",
 "best": "54.35",
 "competition": 3099
 },
 {
-"rank": 386,
+"rank": 387,
 "id": "2011YANG13",
 "best": "57.27",
 "age": 70,
 "competition": 6207
 },
 {
-"rank": 388,
+"rank": 389,
 "id": "2015VIRJ02",
 "best": "1:03.00",
 "competition": 2439
 },
 {
-"rank": 393,
+"rank": 394,
 "id": "2022MARA09",
 "best": "1:28.52",
 "age": 60,
 "competition": 8039
 },
 {
-"rank": 394,
+"rank": 395,
 "id": "2009SING03",
 "best": "1:47.28",
 "age": 60,
@@ -32280,1553 +32286,1559 @@ rankings =
 },
 {
 "rank": 24,
+"id": "2018BAUE04",
+"best": "6.52",
+"competition": 13464
+},
+{
+"rank": 25,
 "id": "2004MASA01",
 "best": "6.63",
 "competition": 1336
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2017THOR06",
 "best": "6.64",
 "competition": 6093
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2011BOIS01",
 "best": "6.65",
 "competition": 9064
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2014VIGN02",
 "best": "6.68",
 "competition": 5041
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2021DODS01",
 "best": "6.74",
 "competition": 11119
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2018SMIT42",
 "best": "6.76",
 "competition": 11672
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2005THOM01",
 "best": "6.80",
 "competition": 2449
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2018GUTI13",
 "best": "6.82",
 "competition": 8025
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2023LEEY01",
 "best": "6.85",
 "competition": 13077
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2018SACH03",
 "best": "6.88",
 "competition": 10031
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2021RIED01",
 "best": "7.02",
 "competition": 11367
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2003DENN01",
 "best": "7.07",
 "competition": 2980
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2016FRIS02",
 "best": "7.17",
 "competition": 6342
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2018PARI11",
 "best": "7.22",
 "age": 60,
 "competition": 10366
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2015BOSW01",
 "best": "7.27",
 "competition": 6958
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2021ASAN01",
 "best": "7.33",
 "competition": 13317
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2018COOK04",
 "best": "7.34",
 "age": 60,
 "competition": 8440
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2007OEYM01",
 "best": "7.36",
 "competition": 10439
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2021DOYL02",
 "best": "7.37",
 "competition": 11332
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2019SLES02",
 "best": "7.40",
 "competition": 11585
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2019BLAC02",
 "best": "7.41",
 "competition": 8059
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2016ESCR01",
 "best": "7.45",
 "competition": 5736
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2022MIHO01",
 "best": "7.60",
 "competition": 12146
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2022CHAP01",
 "best": "7.71",
 "competition": 11653
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2015RIVE05",
 "best": "7.78",
 "competition": 3894
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2022HUIC01",
 "best": "7.80",
 "competition": 13075
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2019AGUE01",
 "best": "7.85",
 "competition": 10450
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2022FURS03",
 "best": "7.87",
 "competition": 11576
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2022MELC01",
 "best": "7.93",
 "age": 60,
 "competition": 11355
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2019GOKE01",
 "best": "7.96",
 "competition": 9898
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2017KITA01",
 "best": "7.99",
 "competition": 13317
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2022STAN01",
 "best": "8.06",
 "competition": 11860
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2018SCHU17",
 "best": "8.08",
 "competition": 11358
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2021CAPI01",
 "best": "8.23",
 "competition": 7804
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2014ROCH07",
 "best": "8.24",
 "competition": 6678
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2017GRIS03",
 "best": "8.27",
 "competition": 10407
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2022KUCA01",
 "best": "8.33",
 "age": 60,
 "competition": 12789
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2007LUTH01",
 "best": "8.33",
 "competition": 557
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2018MART35",
 "best": "8.35",
 "competition": 13447
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2017HESS02",
 "best": "8.40",
 "competition": 9129
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2023AZEV07",
 "best": "8.41",
 "competition": 12516
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2022GERA05",
 "best": "8.50",
 "competition": 12019
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2020JOHA02",
 "best": "8.55",
 "competition": 11359
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2022LIMK02",
 "best": "8.58",
 "competition": 12853
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2023MONE01",
 "best": "8.60",
 "competition": 13363
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2023DUBI01",
 "best": "8.63",
 "competition": 12791
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2010HAMA03",
 "best": "8.68",
 "competition": 9855
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2017GEES01",
 "best": "8.76",
 "competition": 7762
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2015TAYL04",
 "best": "8.82",
 "competition": 13014
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2017ROSS10",
 "best": "8.83",
 "competition": 7700
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2007YULH01",
 "best": "8.88",
 "competition": 12407
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2018DECO03",
 "best": "8.89",
 "age": 60,
 "competition": 8258
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2012ANGD01",
 "best": "9.06",
 "competition": 8143
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2013DEAR01",
 "best": "9.06",
 "competition": 8940
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2003LARS01",
 "best": "9.07",
 "competition": 2367
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2017TAKA02",
 "best": "9.13",
 "competition": 6726
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2022BORG04",
 "best": "9.28",
 "competition": 12560
 },
 {
-"rank": 88,
+"rank": 89,
 "id": "2023ALBR03",
 "best": "9.33",
 "age": 60,
 "competition": 11428
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2008MATS04",
 "best": "9.34",
 "competition": 5389
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2017MEGA01",
 "best": "9.37",
 "competition": 10124
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2021SPIE02",
 "best": "9.37",
 "competition": 11829
 },
 {
-"rank": 92,
+"rank": 93,
 "id": "2023JIME09",
 "best": "9.40",
 "competition": 12931
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2006HYAK01",
 "best": "9.41",
 "competition": 56
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2021HUGO01",
 "best": "9.41",
 "age": 60,
 "competition": 13205
 },
 {
-"rank": 96,
+"rank": 97,
 "id": "2017UEDA02",
 "best": "9.49",
 "competition": 9855
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2017NOVA05",
 "best": "9.58",
 "competition": 12714
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2014JUNH01",
 "best": "9.61",
 "competition": 12020
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2018HOSH02",
 "best": "9.61",
 "competition": 9389
 },
 {
-"rank": 100,
+"rank": 101,
 "id": "2023LEES22",
 "best": "9.69",
 "competition": 12407
 },
 {
-"rank": 101,
+"rank": 102,
 "id": "2013ANDE01",
 "best": "9.80",
 "competition": 2164
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2017DAOU01",
 "best": "9.82",
 "competition": 11469
 },
 {
-"rank": 104,
+"rank": 105,
 "id": "2015GOSL01",
 "best": "9.91",
 "competition": 4855
 },
 {
-"rank": 106,
+"rank": 107,
 "id": "2015REGE02",
 "best": "10.02",
 "competition": 13033
 },
 {
-"rank": 108,
+"rank": 109,
 "id": "2018BENN01",
 "best": "10.03",
 "competition": 6747
 },
 {
-"rank": 109,
+"rank": 110,
 "id": "2022RICH09",
 "best": "10.18",
 "competition": 10042
 },
 {
-"rank": 110,
+"rank": 111,
 "id": "2006NORS01",
 "best": "10.20",
 "competition": 260
 },
 {
-"rank": 111,
+"rank": 112,
 "id": "2024KIMS07",
 "best": "10.25",
 "competition": 13380
 },
 {
-"rank": 112,
+"rank": 113,
 "id": "2021CHEN63",
 "best": "10.34",
 "competition": 13212
 },
 {
-"rank": 114,
+"rank": 115,
 "id": "2023BAYJ01",
 "best": "10.35",
 "competition": 12442
 },
 {
-"rank": 115,
+"rank": 116,
 "id": "2023SHAW10",
 "best": "10.37",
 "competition": 12429
 },
 {
-"rank": 116,
+"rank": 117,
 "id": "2018FOST04",
 "best": "10.39",
 "competition": 10872
 },
 {
-"rank": 117,
+"rank": 118,
 "id": "2024CAVA03",
 "best": "10.42",
 "competition": 13090
 },
 {
-"rank": 118,
+"rank": 119,
 "id": "2013MESA01",
 "best": "10.43",
 "competition": 11109
 },
 {
-"rank": 121,
+"rank": 122,
 "id": "2012HAMA02",
 "best": "10.50",
 "competition": 9855
 },
 {
-"rank": 122,
+"rank": 123,
 "id": "2007DOUT01",
 "best": "10.51",
 "competition": 6025
 },
 {
-"rank": 123,
+"rank": 124,
 "id": "2004LUIS03",
 "best": "10.63",
 "competition": 4344
 },
 {
-"rank": 124,
+"rank": 125,
 "id": "2023PUGH01",
 "best": "10.68",
 "competition": 13007
 },
 {
-"rank": 126,
+"rank": 127,
 "id": "2017CHAR16",
 "best": "10.79",
 "competition": 10851
 },
 {
-"rank": 127,
+"rank": 128,
 "id": "2021THOM04",
 "best": "10.89",
 "competition": 9002
 },
 {
-"rank": 128,
+"rank": 129,
 "id": "2005VANH02",
 "best": "10.94",
 "competition": 2417
 },
 {
-"rank": 129,
+"rank": 130,
 "id": "2023SKJO02",
 "best": "10.96",
 "competition": 13390
 },
 {
-"rank": 130,
+"rank": 131,
 "id": "2015REYE08",
 "best": "10.99",
 "competition": 8036
 },
 {
-"rank": 131,
+"rank": 132,
 "id": "2018GILL07",
 "best": "11.02",
 "competition": 6348
 },
 {
-"rank": 132,
+"rank": 133,
 "id": "2021TELF01",
 "best": "11.18",
 "competition": 10017
 },
 {
-"rank": 134,
+"rank": 135,
 "id": "2005KOCZ01",
 "best": "11.34",
 "competition": 13012
 },
 {
-"rank": 135,
+"rank": 136,
 "id": "2022REEH01",
 "best": "11.45",
 "competition": 11728
 },
 {
-"rank": 137,
+"rank": 138,
 "id": "2022WITT01",
 "best": "11.54",
 "competition": 9452
 },
 {
-"rank": 139,
+"rank": 140,
 "id": "2022PIET02",
 "best": "11.71",
 "competition": 8226
 },
 {
-"rank": 141,
+"rank": 142,
 "id": "2007BERR01",
 "best": "11.81",
 "competition": 264
 },
 {
-"rank": 142,
+"rank": 143,
 "id": "2023FROH03",
 "best": "11.84",
 "competition": 13014
 },
 {
-"rank": 143,
+"rank": 144,
 "id": "2016DEXT02",
 "best": "11.87",
 "competition": 8061
 },
 {
-"rank": 144,
+"rank": 145,
 "id": "2024KONI03",
 "best": "11.91",
 "competition": 13232
 },
 {
-"rank": 145,
+"rank": 146,
 "id": "2019WAIT02",
 "best": "11.93",
 "competition": 12722
 },
 {
-"rank": 147,
+"rank": 148,
 "id": "2014MELZ01",
 "best": "12.08",
 "competition": 9177
 },
 {
-"rank": 148,
+"rank": 149,
 "id": "2011SALA06",
 "best": "12.21",
 "competition": 3013
 },
 {
-"rank": 150,
+"rank": 151,
 "id": "2013HUBH01",
 "best": "12.33",
 "competition": 5890
 },
 {
-"rank": 151,
+"rank": 152,
 "id": "2017CREA01",
 "best": "12.36",
 "competition": 4318
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2019KILL01",
 "best": "12.39",
 "competition": 11650
 },
 {
-"rank": 152,
+"rank": 153,
 "id": "2023DARM01",
 "best": "12.39",
 "competition": 12434
 },
 {
-"rank": 154,
+"rank": 155,
 "id": "2024CERR01",
 "best": "12.44",
 "competition": 12398
 },
 {
-"rank": 155,
+"rank": 156,
 "id": "2008RIJK01",
 "best": "12.49",
 "competition": 3096
 },
 {
-"rank": 156,
+"rank": 157,
 "id": "2022SCHO07",
 "best": "12.50",
 "competition": 11023
 },
 {
-"rank": 157,
+"rank": 158,
 "id": "2023NABA01",
 "best": "12.59",
 "competition": 12373
 },
 {
-"rank": 159,
+"rank": 160,
 "id": "2023OEHR01",
 "best": "12.75",
 "competition": 13403
 },
 {
-"rank": 162,
+"rank": 163,
 "id": "2022STON02",
 "best": "12.96",
 "age": 70,
 "competition": 7640
 },
 {
-"rank": 164,
+"rank": 165,
 "id": "2015HAGE04",
 "best": "13.00",
 "competition": 3001
 },
 {
-"rank": 166,
+"rank": 167,
 "id": "2023RITT04",
 "best": "13.09",
 "competition": 13266
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2022TERR02",
 "best": "13.13",
 "competition": 13013
 },
 {
-"rank": 168,
+"rank": 169,
 "id": "2019KANA02",
 "best": "13.22",
 "competition": 8026
 },
 {
-"rank": 169,
+"rank": 170,
 "id": "2019CALI06",
 "best": "13.31",
 "competition": 9700
 },
 {
-"rank": 170,
+"rank": 171,
 "id": "2016KLEI01",
 "best": "13.41",
 "age": 60,
 "competition": 3291
 },
 {
-"rank": 174,
+"rank": 175,
 "id": "2023SALA33",
 "best": "13.58",
 "competition": 13163
 },
 {
-"rank": 175,
+"rank": 176,
 "id": "2020BURC01",
 "best": "13.61",
 "competition": 10518
 },
 {
-"rank": 176,
+"rank": 177,
 "id": "2023CLIN01",
 "best": "13.67",
 "age": 60,
 "competition": 11232
 },
 {
-"rank": 177,
+"rank": 178,
 "id": "2017BROW09",
 "best": "13.71",
 "competition": 5438
 },
 {
-"rank": 178,
+"rank": 179,
 "id": "2019MARI22",
 "best": "13.72",
 "competition": 7353
 },
 {
-"rank": 179,
+"rank": 180,
 "id": "2018SALM01",
 "best": "13.77",
 "competition": 8340
 },
 {
-"rank": 181,
+"rank": 182,
 "id": "2023JOHN07",
 "best": "14.01",
 "competition": 12563
 },
 {
-"rank": 181,
+"rank": 182,
 "id": "2019RAND02",
 "best": "14.01",
 "competition": 11682
 },
 {
-"rank": 185,
+"rank": 186,
 "id": "2008BERG04",
 "best": "14.14",
 "age": 60,
 "competition": 2092
 },
 {
-"rank": 186,
+"rank": 187,
 "id": "2009AOKI01",
 "best": "14.19",
 "age": 70,
 "competition": 560
 },
 {
-"rank": 187,
+"rank": 188,
 "id": "2019TURE01",
 "best": "14.26",
 "competition": 9855
 },
 {
-"rank": 188,
+"rank": 189,
 "id": "2023MCCO18",
 "best": "14.27",
 "competition": 13116
 },
 {
-"rank": 189,
+"rank": 190,
 "id": "2024LUIG02",
 "best": "14.29",
 "competition": 13210
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "2017SZAN01",
 "best": "14.43",
 "competition": 13012
 },
 {
-"rank": 190,
+"rank": 191,
 "id": "2024POTT03",
 "best": "14.43",
 "competition": 12541
 },
 {
-"rank": 192,
+"rank": 193,
 "id": "2009OKED01",
 "best": "14.56",
 "competition": 799
 },
 {
-"rank": 194,
+"rank": 195,
 "id": "2015GREI02",
 "best": "14.75",
 "competition": 12612
 },
 {
-"rank": 195,
+"rank": 196,
 "id": "2022MAYF04",
 "best": "14.82",
 "age": 60,
 "competition": 12613
 },
 {
-"rank": 196,
+"rank": 197,
 "id": "2023KUIJ01",
 "best": "14.95",
 "age": 60,
 "competition": 13215
 },
 {
-"rank": 197,
+"rank": 198,
 "id": "2015BEUK01",
 "best": "14.98",
 "competition": 9505
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2004SALV01",
 "best": "15.02",
 "age": 70,
 "competition": 6359
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2017SHEI04",
 "best": "15.02",
 "competition": 6241
 },
 {
-"rank": 200,
+"rank": 201,
 "id": "2024FALA01",
 "best": "15.03",
 "competition": 12611
 },
 {
-"rank": 201,
+"rank": 202,
 "id": "2018CHOD01",
 "best": "15.05",
 "competition": 8244
 },
 {
-"rank": 203,
+"rank": 204,
 "id": "2022HILL10",
 "best": "15.10",
 "age": 60,
 "competition": 10277
 },
 {
-"rank": 203,
+"rank": 204,
 "id": "2023PRUV01",
 "best": "15.10",
 "competition": 11698
 },
 {
-"rank": 205,
+"rank": 206,
 "id": "2017ENGE03",
 "best": "15.19",
 "competition": 12645
 },
 {
-"rank": 206,
+"rank": 207,
 "id": "2024SAAR01",
 "best": "15.25",
 "competition": 12622
 },
 {
-"rank": 207,
+"rank": 208,
 "id": "2022MEZL01",
 "best": "15.46",
 "competition": 9793
 },
 {
-"rank": 208,
+"rank": 209,
 "id": "2019NATH07",
 "best": "15.52",
 "competition": 12465
 },
 {
-"rank": 210,
+"rank": 211,
 "id": "2019BOWE05",
 "best": "15.97",
 "competition": 8495
 },
 {
-"rank": 212,
+"rank": 213,
 "id": "2017MAHI02",
 "best": "16.69",
 "competition": 9181
 },
 {
-"rank": 213,
+"rank": 214,
 "id": "2022CAMP23",
 "best": "16.70",
 "competition": 12300
 },
 {
-"rank": 214,
+"rank": 215,
 "id": "2024SIME02",
 "best": "16.73",
 "competition": 13132
 },
 {
-"rank": 215,
+"rank": 216,
 "id": "2022STOV01",
 "best": "17.13",
 "competition": 11164
 },
 {
-"rank": 218,
+"rank": 219,
 "id": "2023CLOY01",
 "best": "17.43",
 "competition": 10273
 },
 {
-"rank": 219,
+"rank": 220,
 "id": "2017PALI03",
 "best": "17.58",
 "competition": 3464
 },
 {
-"rank": 220,
+"rank": 221,
 "id": "2015HASU01",
 "best": "17.66",
 "competition": 11727
 },
 {
-"rank": 221,
+"rank": 222,
 "id": "2023RANN01",
 "best": "17.84",
 "competition": 12245
 },
 {
-"rank": 223,
+"rank": 224,
 "id": "2018PERE37",
 "best": "17.95",
 "competition": 11832
 },
 {
-"rank": 225,
+"rank": 226,
 "id": "2023CERN02",
 "best": "18.22",
 "competition": 11352
 },
 {
-"rank": 226,
+"rank": 227,
 "id": "2022POTT04",
 "best": "18.29",
 "competition": 12333
 },
 {
-"rank": 227,
+"rank": 228,
 "id": "2019GOFF01",
 "best": "18.30",
 "age": 60,
 "competition": 12789
 },
 {
-"rank": 229,
+"rank": 230,
 "id": "2023THOR04",
 "best": "18.47",
 "competition": 12209
 },
 {
-"rank": 230,
+"rank": 231,
 "id": "2018JOHN29",
 "best": "18.53",
 "competition": 4815
 },
 {
-"rank": 232,
+"rank": 233,
 "id": "2015DULE03",
 "best": "18.76",
 "competition": 8893
 },
 {
-"rank": 235,
+"rank": 236,
 "id": "2024VASC01",
 "best": "19.30",
 "competition": 11977
 },
 {
-"rank": 236,
+"rank": 237,
 "id": "2022PEDE02",
 "best": "19.34",
 "competition": 8385
 },
 {
-"rank": 240,
+"rank": 241,
 "id": "2016ODEG01",
 "best": "19.80",
 "competition": 7920
 },
 {
-"rank": 243,
+"rank": 244,
 "id": "2024PETR03",
 "best": "20.50",
 "competition": 12333
 },
 {
-"rank": 244,
+"rank": 245,
 "id": "2005ISHI01",
 "best": "20.64",
 "competition": 524
 },
 {
-"rank": 245,
+"rank": 246,
 "id": "2009LARS02",
 "best": "20.71",
 "competition": 2883
 },
 {
-"rank": 246,
+"rank": 247,
 "id": "2016CHOW03",
 "best": "20.72",
 "competition": 5533
 },
 {
-"rank": 248,
+"rank": 249,
 "id": "2019HICK05",
 "best": "20.98",
 "competition": 6506
 },
 {
-"rank": 250,
+"rank": 251,
 "id": "2009NEEL01",
 "best": "21.41",
 "age": 60,
 "competition": 5476
 },
 {
-"rank": 251,
+"rank": 252,
 "id": "2024CARE03",
 "best": "21.43",
 "competition": 12516
 },
 {
-"rank": 252,
+"rank": 253,
 "id": "2012RONK01",
 "best": "21.58",
 "competition": 6065
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2015LIMA20",
 "best": "21.61",
 "age": 60,
 "competition": 8165
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2016BALA16",
 "best": "21.84",
 "competition": 11974
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2018VILJ02",
 "best": "21.91",
 "competition": 5415
 },
 {
-"rank": 258,
+"rank": 259,
 "id": "2023SATK02",
 "best": "22.48",
 "competition": 12324
 },
 {
-"rank": 259,
+"rank": 260,
 "id": "2024PERA02",
 "best": "22.57",
 "competition": 13447
 },
 {
-"rank": 260,
+"rank": 261,
 "id": "2024WELS02",
 "best": "22.72",
 "competition": 12987
 },
 {
-"rank": 261,
+"rank": 262,
 "id": "2022AASE01",
 "best": "22.74",
 "competition": 13014
 },
 {
-"rank": 262,
+"rank": 263,
 "id": "2006LOUI01",
 "best": "23.01",
 "competition": 867
 },
 {
-"rank": 263,
+"rank": 264,
 "id": "2023REIN12",
 "best": "23.31",
 "age": 60,
 "competition": 12791
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2015LEVI01",
 "best": "23.40",
 "age": 60,
 "competition": 3291
 },
 {
-"rank": 265,
+"rank": 266,
 "id": "2018KWAR01",
 "best": "23.52",
 "competition": 6652
 },
 {
-"rank": 267,
+"rank": 268,
 "id": "2024TOPO05",
 "best": "23.92",
 "age": 70,
 "competition": 12705
 },
 {
-"rank": 268,
+"rank": 269,
 "id": "2015BROO01",
 "best": "23.95",
 "competition": 5218
 },
 {
-"rank": 269,
+"rank": 270,
 "id": "2017MENE02",
 "best": "24.18",
 "competition": 9960
 },
 {
-"rank": 271,
+"rank": 272,
 "id": "2015CLAR13",
 "best": "24.61",
 "age": 60,
 "competition": 7712
 },
 {
-"rank": 275,
+"rank": 276,
 "id": "2013BRAN01",
 "best": "25.36",
 "competition": 1431
 },
 {
-"rank": 276,
+"rank": 277,
 "id": "2005GUST02",
 "best": "25.46",
 "competition": 2611
 },
 {
-"rank": 277,
+"rank": 278,
 "id": "2022SONG01",
 "best": "25.50",
 "competition": 13060
 },
 {
-"rank": 280,
+"rank": 281,
 "id": "2023SCHA20",
 "best": "26.11",
 "competition": 10243
 },
 {
-"rank": 281,
+"rank": 282,
 "id": "2022AMAR09",
 "best": "26.30",
 "age": 60,
 "competition": 13226
 },
 {
-"rank": 283,
+"rank": 284,
 "id": "2011SEOK01",
 "best": "26.37",
 "age": 60,
 "competition": 6207
 },
 {
-"rank": 284,
+"rank": 285,
 "id": "2024COCH04",
 "best": "26.39",
 "competition": 13358
 },
 {
-"rank": 285,
+"rank": 286,
 "id": "2016WEIS05",
 "best": "26.41",
 "competition": 8261
 },
 {
-"rank": 286,
+"rank": 287,
 "id": "2008HERN02",
 "best": "26.51",
 "age": 60,
 "competition": 9831
 },
 {
-"rank": 288,
+"rank": 289,
 "id": "2019CERN02",
 "best": "26.74",
 "competition": 6905
 },
 {
-"rank": 291,
+"rank": 292,
 "id": "2012BOWE01",
 "best": "27.26",
 "age": 70,
 "competition": 1752
 },
 {
-"rank": 294,
+"rank": 295,
 "id": "2023MILL57",
 "best": "28.04",
 "age": 70,
 "competition": 12544
 },
 {
-"rank": 296,
+"rank": 297,
 "id": "2024MAGO02",
 "best": "28.23",
 "competition": 13403
 },
 {
-"rank": 297,
+"rank": 298,
 "id": "2023NEED01",
 "best": "28.69",
 "competition": 11860
 },
 {
-"rank": 298,
+"rank": 299,
 "id": "2017HART11",
 "best": "28.70",
 "competition": 4055
 },
 {
-"rank": 299,
+"rank": 300,
 "id": "2018NICH04",
 "best": "28.93",
 "competition": 9345
 },
 {
-"rank": 300,
+"rank": 301,
 "id": "2017VRIE02",
 "best": "28.94",
 "competition": 3962
 },
 {
-"rank": 301,
+"rank": 302,
 "id": "2018LAMU01",
 "best": "29.28",
 "competition": 11183
 },
 {
-"rank": 302,
+"rank": 303,
 "id": "2016BROS02",
 "best": "29.58",
 "age": 60,
 "competition": 6564
 },
 {
-"rank": 305,
+"rank": 306,
 "id": "2015STOP01",
 "best": "30.20",
 "competition": 8205
 },
 {
-"rank": 306,
+"rank": 307,
 "id": "2024MITC04",
 "best": "30.24",
 "competition": 12524
 },
 {
-"rank": 308,
+"rank": 309,
 "id": "2023EGAL01",
 "best": "30.50",
 "competition": 10191
 },
 {
-"rank": 310,
+"rank": 311,
 "id": "2018BUCK02",
 "best": "32.82",
 "competition": 4706
 },
 {
-"rank": 312,
+"rank": 313,
 "id": "2022DECO03",
 "best": "33.74",
 "age": 60,
 "competition": 11812
 },
 {
-"rank": 314,
+"rank": 315,
 "id": "2023HANN05",
 "best": "33.95",
 "competition": 11727
 },
 {
-"rank": 317,
+"rank": 318,
 "id": "2009MONT01",
 "best": "34.92",
 "competition": 885
 },
 {
-"rank": 318,
+"rank": 319,
 "id": "2011CORM02",
 "best": "34.97",
 "competition": 5577
 },
 {
-"rank": 320,
+"rank": 321,
 "id": "2019FRAT01",
 "best": "35.06",
 "competition": 6810
 },
 {
-"rank": 321,
+"rank": 322,
 "id": "2019ALSH04",
 "best": "35.82",
 "competition": 10184
 },
 {
-"rank": 322,
+"rank": 323,
 "id": "2024POPE03",
 "best": "36.64",
 "competition": 13323
 },
 {
-"rank": 324,
+"rank": 325,
 "id": "2017WALL07",
 "best": "37.13",
 "competition": 6043
 },
 {
-"rank": 325,
+"rank": 326,
 "id": "2024LUND03",
 "best": "37.62",
 "competition": 13074
 },
 {
-"rank": 327,
+"rank": 328,
 "id": "2024SACE02",
 "best": "37.91",
 "competition": 12655
 },
 {
-"rank": 329,
+"rank": 330,
 "id": "2009ESPU01",
 "best": "38.85",
 "age": 60,
 "competition": 3819
 },
 {
-"rank": 330,
+"rank": 331,
 "id": "2023KIRS02",
 "best": "38.97",
 "competition": 11215
 },
 {
-"rank": 332,
+"rank": 333,
 "id": "2023BURN01",
 "best": "39.28",
 "competition": 9699
 },
 {
-"rank": 333,
+"rank": 334,
 "id": "2022JEHA01",
 "best": "40.76",
 "competition": 11581
 },
 {
-"rank": 334,
+"rank": 335,
 "id": "2022MULL07",
 "best": "41.41",
 "competition": 9338
 },
 {
-"rank": 335,
+"rank": 336,
 "id": "2024DOMA03",
 "best": "41.88",
 "competition": 13041
 },
 {
-"rank": 337,
+"rank": 338,
 "id": "2019MCDO05",
 "best": "42.81",
 "competition": 9855
 },
 {
-"rank": 339,
+"rank": 340,
 "id": "2024MART52",
 "best": "44.60",
 "age": 60,
 "competition": 13362
 },
 {
-"rank": 341,
+"rank": 342,
 "id": "2017HOZS01",
 "best": "45.84",
 "competition": 5061
 },
 {
-"rank": 342,
+"rank": 343,
 "id": "2019ALVA14",
 "best": "45.87",
 "competition": 10128
 },
 {
-"rank": 343,
+"rank": 344,
 "id": "2016ZEMD01",
 "best": "46.18",
 "competition": 4308
 },
 {
-"rank": 344,
+"rank": 345,
 "id": "2024THOM22",
 "best": "47.07",
 "competition": 12045
 },
 {
-"rank": 345,
+"rank": 346,
 "id": "2017SVAN01",
 "best": "48.39",
 "competition": 4589
 },
 {
-"rank": 346,
+"rank": 347,
 "id": "2023TRUE05",
 "best": "48.63",
 "competition": 11748
 },
 {
-"rank": 347,
+"rank": 348,
 "id": "2024FUCH03",
 "best": "48.80",
 "competition": 11215
 },
 {
-"rank": 348,
+"rank": 349,
 "id": "2019CARD04",
 "best": "48.83",
 "competition": 5988
 },
 {
-"rank": 350,
+"rank": 351,
 "id": "2023LYAN01",
 "best": "49.16",
 "age": 60,
 "competition": 11815
 },
 {
-"rank": 355,
+"rank": 356,
 "id": "2013BINI01",
 "best": "54.67",
 "competition": 2800
 },
 {
-"rank": 358,
+"rank": 359,
 "id": "2023ALDR02",
 "best": "57.20",
 "competition": 11836
 },
 {
-"rank": 361,
+"rank": 362,
 "id": "2024DILL03",
 "best": "58.56",
 "age": 60,
 "competition": 12146
 },
 {
-"rank": 363,
+"rank": 364,
 "id": "2024AZEV05",
 "best": "1:01.28",
 "competition": 12272
 },
 {
-"rank": 365,
+"rank": 366,
 "id": "2019OGOR03",
 "best": "1:04.42",
 "competition": 6270
 },
 {
-"rank": 368,
+"rank": 369,
 "id": "2011YANG13",
 "best": "1:08.84",
 "age": 70,
 "competition": 6207
 },
 {
-"rank": 371,
+"rank": 372,
 "id": "2015FIEC01",
 "best": "1:19.97",
 "competition": 5846
 },
 {
-"rank": 373,
+"rank": 374,
 "id": "2022OSKA03",
 "best": "1:22.37",
 "competition": 12099
 },
 {
-"rank": 375,
+"rank": 376,
 "id": "2016LUJA01",
 "best": "1:35.33",
 "competition": 3099
 },
 {
-"rank": 380,
+"rank": 381,
 "id": "2022MARA09",
 "best": "3:10.05",
 "age": 60,
@@ -35655,190 +35667,190 @@ rankings =
 },
 {
 "rank": 246,
+"id": "2023NEVE02",
+"best": "1:25.82",
+"competition": 13469
+},
+{
+"rank": 247,
 "id": "2013ANDE01",
 "best": "1:25.92",
 "age": 60,
 "competition": 12645
 },
 {
-"rank": 247,
+"rank": 248,
 "id": "2023PUGH01",
 "best": "1:26.18",
 "age": 50,
 "competition": 12222
 },
 {
-"rank": 248,
+"rank": 249,
 "id": "2023DEEG01",
 "best": "1:26.28",
 "competition": 13001
 },
 {
-"rank": 249,
+"rank": 250,
 "id": "2017ROSA09",
 "best": "1:26.36",
 "age": 50,
 "competition": 10627
 },
 {
-"rank": 250,
+"rank": 251,
 "id": "2007CHIM01",
 "best": "1:26.78",
 "competition": 249
 },
 {
-"rank": 250,
+"rank": 251,
 "id": "2021NIEP01",
 "best": "1:26.78",
 "competition": 10988
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2017SAWA01",
 "best": "1:27.08",
 "competition": 5962
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2009WUMI01",
 "best": "1:27.48",
 "competition": 12269
 },
 {
-"rank": 257,
+"rank": 258,
 "id": "2016REIM01",
 "best": "1:28.13",
 "competition": 13040
 },
 {
-"rank": 258,
+"rank": 259,
 "id": "2015LIJI02",
 "best": "1:28.18",
 "competition": 2812
 },
 {
-"rank": 259,
+"rank": 260,
 "id": "2005GUST01",
 "best": "1:28.25",
 "competition": 608
 },
 {
-"rank": 260,
+"rank": 261,
 "id": "2023KAYD01",
 "best": "1:28.40",
 "competition": 12865
 },
 {
-"rank": 261,
+"rank": 262,
 "id": "2005GUST02",
 "best": "1:28.72",
 "competition": 859
 },
 {
-"rank": 262,
+"rank": 263,
 "id": "2022DOUB01",
 "best": "1:28.78",
 "competition": 7803
 },
 {
-"rank": 263,
+"rank": 264,
 "id": "2009KOTT01",
 "best": "1:28.83",
 "competition": 1185
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2022STAN01",
 "best": "1:29.16",
 "age": 50,
 "competition": 11860
 },
 {
-"rank": 265,
+"rank": 266,
 "id": "2023LEWI07",
 "best": "1:29.35",
 "competition": 12918
 },
 {
-"rank": 267,
+"rank": 268,
 "id": "2022MIHO01",
 "best": "1:29.67",
 "age": 50,
 "competition": 11515
 },
 {
-"rank": 268,
+"rank": 269,
 "id": "2013MESA01",
 "best": "1:29.68",
 "age": 50,
 "competition": 12351
 },
 {
-"rank": 269,
+"rank": 270,
 "id": "2014HARD01",
 "best": "1:29.87",
 "competition": 2475
 },
 {
-"rank": 270,
+"rank": 271,
 "id": "2018ANDE13",
 "best": "1:30.02",
 "competition": 9462
 },
 {
-"rank": 272,
+"rank": 273,
 "id": "2019SZYM02",
 "best": "1:30.25",
 "competition": 8011
 },
 {
-"rank": 273,
+"rank": 274,
 "id": "2007HOLM02",
 "best": "1:30.34",
 "competition": 903
 },
 {
-"rank": 274,
+"rank": 275,
 "id": "2023GOGL01",
 "best": "1:30.35",
 "competition": 13083
 },
 {
-"rank": 275,
+"rank": 276,
 "id": "2005KOCZ01",
 "best": "1:30.44",
 "competition": 2810
 },
 {
-"rank": 276,
+"rank": 277,
 "id": "2022ROYM01",
 "best": "1:30.78",
 "competition": 12434
 },
 {
-"rank": 277,
+"rank": 278,
 "id": "2023PAPG01",
 "best": "1:30.92",
 "competition": 12325
 },
 {
-"rank": 278,
+"rank": 279,
 "id": "2019KUCA01",
 "best": "1:30.94",
 "age": 60,
 "competition": 12717
 },
 {
-"rank": 279,
+"rank": 280,
 "id": "2022DAYJ01",
 "best": "1:31.37",
 "competition": 13041
-},
-{
-"rank": 282,
-"id": "2023NEVE02",
-"best": "1:32.08",
-"competition": 12315
 },
 {
 "rank": 283,
@@ -37392,94 +37404,94 @@ rankings =
 },
 {
 "rank": 16,
+"id": "2018BAUE04",
+"best": "1:01.76",
+"competition": 13464
+},
+{
+"rank": 17,
 "id": "2018HOSH02",
 "best": "1:01.93",
 "competition": 11835
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2003DENN01",
 "best": "1:02.05",
 "competition": 4511
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2010COAT01",
 "best": "1:03.01",
 "competition": 9165
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2022CHAP01",
 "best": "1:03.06",
 "competition": 11653
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2018SACH03",
 "best": "1:03.54",
 "competition": 12734
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2016POPO02",
 "best": "1:03.75",
 "competition": 4569
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2017KITA01",
 "best": "1:04.42",
 "competition": 11835
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2015REYE08",
 "best": "1:04.63",
 "competition": 13107
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2019BLAC02",
 "best": "1:05.20",
 "competition": 8939
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2018SMIT42",
 "best": "1:05.62",
 "competition": 8247
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2007HUGH01",
 "best": "1:05.95",
 "age": 60,
 "competition": 11102
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2015HARR03",
 "best": "1:06.29",
 "competition": 10658
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2017HESS02",
 "best": "1:08.13",
 "competition": 9129
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2011BOIS01",
 "best": "1:08.51",
 "competition": 9064
-},
-{
-"rank": 32,
-"id": "2018BAUE04",
-"best": "1:08.56",
-"competition": 13432
 },
 {
 "rank": 33,
@@ -39645,211 +39657,211 @@ rankings =
 },
 {
 "rank": 226,
+"id": "2023NEVE02",
+"best": "1:40.86",
+"competition": 13469
+},
+{
+"rank": 227,
 "id": "2023KAYD01",
 "best": "1:41.59",
 "competition": 12865
 },
 {
-"rank": 227,
+"rank": 228,
 "id": "2016LASC01",
 "best": "1:41.77",
 "competition": 6869
 },
 {
-"rank": 229,
+"rank": 230,
 "id": "2022SILV07",
 "best": "1:42.95",
 "competition": 11863
 },
 {
-"rank": 230,
+"rank": 231,
 "id": "2007HOLM02",
 "best": "1:43.11",
 "competition": 970
 },
 {
-"rank": 231,
+"rank": 232,
 "id": "2013HUBH01",
 "best": "1:43.28",
 "age": 50,
 "competition": 5890
 },
 {
-"rank": 232,
+"rank": 233,
 "id": "2022HATI02",
 "best": "1:43.48",
 "competition": 13083
 },
 {
-"rank": 233,
+"rank": 234,
 "id": "2009PARE02",
 "best": "1:43.68",
 "competition": 1277
 },
 {
-"rank": 234,
+"rank": 235,
 "id": "2023GOGL01",
 "best": "1:43.71",
 "competition": 13083
 },
 {
-"rank": 235,
+"rank": 236,
 "id": "2022STAN01",
 "best": "1:44.13",
 "age": 50,
 "competition": 11860
 },
 {
-"rank": 236,
+"rank": 237,
 "id": "2005GUST01",
 "best": "1:44.24",
 "competition": 608
 },
 {
-"rank": 239,
+"rank": 240,
 "id": "2012POOT01",
 "best": "1:45.34",
 "competition": 2980
 },
 {
-"rank": 240,
+"rank": 241,
 "id": "2012SCHM07",
 "best": "1:45.80",
 "competition": 1623
 },
 {
-"rank": 241,
+"rank": 242,
 "id": "2009JARU02",
 "best": "1:46.38",
 "competition": 940
 },
 {
-"rank": 242,
+"rank": 243,
 "id": "2023LEMO04",
 "best": "1:46.60",
 "competition": 13083
 },
 {
-"rank": 244,
+"rank": 245,
 "id": "2023PUGH01",
 "best": "1:47.44",
 "age": 50,
 "competition": 12222
 },
 {
-"rank": 245,
+"rank": 246,
 "id": "2003LEEJ01",
 "best": "1:47.73",
 "competition": 12686
 },
 {
-"rank": 246,
+"rank": 247,
 "id": "2023LEEM05",
 "best": "1:47.91",
 "competition": 11395
 },
 {
-"rank": 247,
+"rank": 248,
 "id": "2020JOHA02",
 "best": "1:48.47",
 "age": 50,
 "competition": 11568
 },
 {
-"rank": 248,
+"rank": 249,
 "id": "2005TOMI01",
 "best": "1:48.83",
 "competition": 1187
 },
 {
-"rank": 249,
+"rank": 250,
 "id": "2021NIEP01",
 "best": "1:48.94",
 "competition": 10988
 },
 {
-"rank": 250,
+"rank": 251,
 "id": "2006SANG02",
 "best": "1:49.04",
 "competition": 185
 },
 {
-"rank": 251,
+"rank": 252,
 "id": "2012WING01",
 "best": "1:49.05",
 "competition": 2663
 },
 {
-"rank": 252,
+"rank": 253,
 "id": "2004FRED02",
 "best": "1:49.11",
 "competition": 59
 },
 {
-"rank": 253,
+"rank": 254,
 "id": "2022MIHO01",
 "best": "1:49.29",
 "age": 50,
 "competition": 12578
 },
 {
-"rank": 254,
+"rank": 255,
 "id": "2023MONE01",
 "best": "1:49.43",
 "age": 50,
 "competition": 11750
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2023NICK02",
 "best": "1:49.87",
 "competition": 13074
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2019AGUE01",
 "best": "1:50.09",
 "age": 50,
 "competition": 8539
 },
 {
-"rank": 257,
+"rank": 258,
 "id": "2005KOCZ01",
 "best": "1:50.12",
 "competition": 2810
 },
 {
-"rank": 258,
+"rank": 259,
 "id": "2017ROSS10",
 "best": "1:50.55",
 "age": 50,
 "competition": 8445
 },
 {
-"rank": 260,
+"rank": 261,
 "id": "2017MEGA01",
 "best": "1:51.12",
 "age": 60,
 "competition": 13083
 },
 {
-"rank": 263,
+"rank": 264,
 "id": "2015TAYL04",
 "best": "1:51.37",
 "age": 50,
 "competition": 11233
 },
 {
-"rank": 264,
+"rank": 265,
 "id": "2017MART70",
 "best": "1:51.74",
 "competition": 4730
-},
-{
-"rank": 265,
-"id": "2023NEVE02",
-"best": "1:51.84",
-"competition": 12835
 },
 {
 "rank": 266,
@@ -40447,112 +40459,112 @@ rankings =
 },
 {
 "rank": 11,
+"id": "2018BAUE04",
+"best": "1:07.06",
+"competition": 13464
+},
+{
+"rank": 12,
 "id": "2010COAT01",
 "best": "1:08.22",
 "competition": 9165
 },
 {
-"rank": 12,
+"rank": 13,
 "id": "2017ASMU01",
 "best": "1:08.73",
 "competition": 12540
 },
 {
-"rank": 13,
+"rank": 14,
 "id": "2014VIGN02",
 "best": "1:09.85",
 "competition": 5368
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2016POPO02",
 "best": "1:09.87",
 "competition": 4569
 },
 {
-"rank": 15,
+"rank": 16,
 "id": "2019BLAC02",
 "best": "1:10.80",
 "competition": 8939
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2021DOYL02",
 "best": "1:11.25",
 "competition": 12840
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2003DENN01",
 "best": "1:11.69",
 "competition": 1145
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2017KITA01",
 "best": "1:12.01",
 "competition": 11835
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2017TABA02",
 "best": "1:12.05",
 "competition": 12264
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2015HARR03",
 "best": "1:14.00",
 "competition": 10602
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2022CHAP01",
 "best": "1:14.16",
 "competition": 11653
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2007HUGH01",
 "best": "1:14.86",
 "age": 60,
 "competition": 11102
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2018SMIT42",
 "best": "1:15.56",
 "competition": 9430
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2019MEDI04",
 "best": "1:15.60",
 "competition": 13208
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2010HAMA03",
 "best": "1:16.10",
 "competition": 12205
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2017HESS02",
 "best": "1:17.32",
 "competition": 9129
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2022STEE06",
 "best": "1:17.56",
 "competition": 13390
-},
-{
-"rank": 29,
-"id": "2018BAUE04",
-"best": "1:17.70",
-"competition": 13432
 },
 {
 "rank": 30,
@@ -43136,21 +43148,21 @@ rankings =
 },
 {
 "rank": 5,
+"id": "2018BAUE04",
+"best": "1:49.36",
+"competition": 13464
+},
+{
+"rank": 6,
 "id": "2017ASMU01",
 "best": "1:51.72",
 "competition": 12560
 },
 {
-"rank": 6,
+"rank": 7,
 "id": "2015RIVE05",
 "best": "1:53.60",
 "competition": 5576
-},
-{
-"rank": 7,
-"id": "2018BAUE04",
-"best": "1:54.99",
-"competition": 13432
 },
 {
 "rank": 8,
@@ -45023,15 +45035,15 @@ rankings =
 },
 {
 "rank": 4,
-"id": "2010HEIL02",
-"best": "1:58.07",
-"competition": 11239
+"id": "2018BAUE04",
+"best": "1:56.21",
+"competition": 13464
 },
 {
 "rank": 5,
-"id": "2018BAUE04",
-"best": "2:06.11",
-"competition": 13432
+"id": "2010HEIL02",
+"best": "1:58.07",
+"competition": 11239
 },
 {
 "rank": 6,
@@ -46500,8 +46512,8 @@ rankings =
 {
 "rank": 5,
 "id": "2018BAUE04",
-"best": "3:37.73",
-"competition": 13432
+"best": "3:30.56",
+"competition": 13464
 },
 {
 "rank": 6,
@@ -47525,20 +47537,20 @@ rankings =
 },
 {
 "rank": 4,
+"id": "2018BAUE04",
+"best": "3:42.51",
+"competition": 13464
+},
+{
+"rank": 5,
 "id": "2017ASMU01",
 "best": "3:47.09",
 "competition": 10001
 },
 {
-"rank": 5,
+"rank": 6,
 "id": "2010HEIL02",
 "best": "3:50.33",
-"competition": 13432
-},
-{
-"rank": 6,
-"id": "2018BAUE04",
-"best": "3:57.57",
 "competition": 13432
 },
 {
@@ -49893,198 +49905,199 @@ rankings =
 },
 {
 "rank": 61,
+"id": "2018BAUE04",
+"best": "2:01.12",
+"age": 50,
+"competition": 13464
+},
+{
+"rank": 62,
 "id": "2014SUNG01",
 "best": "2:01.42",
 "competition": 6380
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2003WINO01",
 "best": "2:04.92",
 "competition": 3291
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2022KOTO01",
 "best": "2:05.37",
 "competition": 13189
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2012ADRI01",
 "best": "2:07.30",
 "competition": 2567
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2013LKHA01",
 "best": "2:14.18",
 "competition": 3658
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2013HUBH01",
 "best": "2:14.77",
 "age": 50,
 "competition": 7958
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2018STOC03",
 "best": "2:14.88",
 "competition": 12441
 },
 {
-"rank": 71,
+"rank": 72,
 "id": "2016LECO01",
 "best": "2:16.50",
 "competition": 7804
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2014GOME07",
 "best": "2:16.52",
 "competition": 12516
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2017SUGO01",
 "best": "2:17.70",
 "competition": 4596
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2023LEEY01",
 "best": "2:17.94",
 "age": 50,
 "competition": 12407
 },
 {
-"rank": 75,
+"rank": 76,
 "id": "2024SEHO01",
 "best": "2:19.06",
 "age": 50,
 "competition": 11399
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2017ROSS10",
 "best": "2:19.65",
 "age": 50,
 "competition": 9531
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2015SKAC02",
 "best": "2:22.05",
 "competition": 4145
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2013ANDE01",
 "best": "2:25.20",
 "age": 50,
 "competition": 7449
 },
 {
-"rank": 79,
+"rank": 80,
 "id": "2018TAHO01",
 "best": "2:27.56",
 "competition": 8050
 },
 {
-"rank": 80,
+"rank": 81,
 "id": "2018SACH03",
 "best": "2:28.06",
 "age": 50,
 "competition": 12441
 },
 {
-"rank": 81,
+"rank": 82,
 "id": "2012OTAN01",
 "best": "2:28.07",
 "competition": 1995
 },
 {
-"rank": 82,
+"rank": 83,
 "id": "2023FLIN02",
 "best": "2:28.27",
 "age": 50,
 "competition": 12705
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2022NAGA01",
 "best": "2:29.78",
 "competition": 12116
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2012MORI01",
 "best": "2:29.88",
 "competition": 10863
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2016DUEH02",
 "best": "2:31.42",
 "competition": 5658
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2023LEEM05",
 "best": "2:31.51",
 "competition": 13271
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2016CHOW03",
 "best": "2:34.02",
 "age": 50,
 "competition": 6595
 },
 {
-"rank": 88,
+"rank": 89,
 "id": "2016KRUE03",
 "best": "2:34.13",
 "age": 50,
 "competition": 10798
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2021JACK01",
 "best": "2:37.30",
 "competition": 13265
 },
 {
-"rank": 90,
+"rank": 91,
 "id": "2017JANS02",
 "best": "2:37.73",
 "competition": 7964
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2019NGUY29",
 "best": "2:38.52",
 "competition": 8088
 },
 {
-"rank": 92,
+"rank": 93,
 "id": "2014PRES01",
 "best": "2:39.88",
 "competition": 12636
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2022CORD03",
 "best": "2:40.39",
 "competition": 12965
-},
-{
-"rank": 94,
-"id": "2018BAUE04",
-"best": "2:43.33",
-"competition": 12578
 },
 {
 "rank": 96,
@@ -50862,279 +50875,285 @@ rankings =
 },
 {
 "rank": 22,
+"id": "2018BAUE04",
+"best": "2:01.12",
+"competition": 13464
+},
+{
+"rank": 23,
 "id": "2013HUBH01",
 "best": "2:14.77",
 "competition": 7958
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2023LEEY01",
 "best": "2:17.94",
 "competition": 12407
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2024SEHO01",
 "best": "2:19.06",
 "competition": 11399
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2017ROSS10",
 "best": "2:19.65",
 "competition": 9531
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2013ANDE01",
 "best": "2:25.20",
 "competition": 7449
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2018SACH03",
 "best": "2:28.06",
 "competition": 12441
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2023FLIN02",
 "best": "2:28.27",
 "competition": 12705
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2009TIRA01",
 "best": "2:29.72",
 "competition": 8250
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2016CHOW03",
 "best": "2:34.02",
 "competition": 6595
 },
 {
-"rank": 31,
+"rank": 32,
 "id": "2016KRUE03",
 "best": "2:34.13",
 "competition": 10798
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2008MATS04",
 "best": "2:52.70",
 "competition": 5056
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2022FURS03",
 "best": "2:52.74",
 "competition": 13106
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2015REYN07",
 "best": "2:59.29",
 "competition": 6154
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2018SEMO01",
 "best": "3:04.47",
 "competition": 10322
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2021MAHU01",
 "best": "3:05.43",
 "competition": 12418
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2018PARI11",
 "best": "3:07.35",
 "age": 60,
 "competition": 10248
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2019BLAC02",
 "best": "3:10.17",
 "competition": 12410
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2015BOSW01",
 "best": "3:32.15",
 "competition": 8727
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2018SALM01",
 "best": "3:33.64",
 "competition": 9021
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2018SMIT42",
 "best": "3:38.73",
 "competition": 11950
 },
 {
-"rank": 42,
+"rank": 43,
 "id": "2018SCHU17",
 "best": "3:40.94",
 "competition": 13403
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2021HUGO01",
 "best": "3:59.30",
 "age": 60,
 "competition": 9863
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2021DODS01",
 "best": "4:02.42",
 "competition": 11924
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2020JOHA02",
 "best": "4:07.78",
 "competition": 10073
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2021CAPI01",
 "best": "4:11.44",
 "competition": 7709
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2022HUIC01",
 "best": "4:19.87",
 "competition": 11653
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2005VALD02",
 "best": "4:20.43",
 "competition": 1108
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2015GOSL01",
 "best": "5:06.88",
 "competition": 4855
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2024HELL02",
 "best": "5:20.69",
 "competition": 13090
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2014RIBA01",
 "best": "5:37.98",
 "competition": 10071
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2013MESA01",
 "best": "5:56.68",
 "competition": 11444
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2006NORS01",
 "best": "6:01.84",
 "competition": 337
 },
 {
-"rank": 57,
+"rank": 58,
 "id": "2021TELF01",
 "best": "6:09.02",
 "competition": 13334
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2005AKUZ01",
 "best": "6:17.47",
 "competition": 3164
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2009MONT01",
 "best": "6:24.77",
 "competition": 1297
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2022GRAY04",
 "best": "6:52.18",
 "competition": 10876
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2009JOHN07",
 "best": "7:39.80",
 "competition": 1162
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2006LOUI01",
 "best": "7:57.87",
 "competition": 1674
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2004MCGA01",
 "best": "8:43.22",
 "competition": 66
 },
 {
-"rank": 64,
+"rank": 65,
 "id": "2017ENGE03",
 "best": "9:16.00",
 "competition": 12698
 },
 {
-"rank": 65,
+"rank": 66,
 "id": "2006SANT01",
 "best": "9:44.84",
 "competition": 4109
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2017HESS02",
 "best": "10:22.00",
 "competition": 12982
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2006MATH01",
 "best": "10:46.00",
 "competition": 2517
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2024KONI03",
 "best": "10:53.00",
 "competition": 13232
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
 "competition": 2141
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2017DAOU01",
 "best": "18:04.00",
 "competition": 13188
@@ -58645,27 +58664,27 @@ rankings =
 },
 {
 "rank": 26,
+"id": "2018BAUE04",
+"best": "42.46",
+"competition": 13464
+},
+{
+"rank": 27,
 "id": "2019KILL01",
 "best": "42.84",
 "competition": 9059
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2018SACH03",
 "best": "43.07",
 "competition": 12982
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2018HOSH02",
 "best": "43.90",
 "competition": 13318
-},
-{
-"rank": 29,
-"id": "2018BAUE04",
-"best": "44.52",
-"competition": 13432
 },
 {
 "rank": 32,
@@ -77767,67 +77786,67 @@ rankings =
 },
 {
 "rank": 193,
+"id": "2023NEVE02",
+"best": "11.23",
+"competition": 13469
+},
+{
+"rank": 193,
 "id": "2024GOGL02",
 "best": "11.23",
 "competition": 12238
 },
 {
-"rank": 195,
+"rank": 196,
 "id": "2017GEES01",
 "best": "11.29",
 "age": 50,
 "competition": 7877
 },
 {
-"rank": 196,
+"rank": 197,
 "id": "2015BOSW01",
 "best": "11.37",
 "age": 50,
 "competition": 10161
 },
 {
-"rank": 197,
+"rank": 198,
 "id": "2012HINO01",
 "best": "11.39",
 "competition": 5962
 },
 {
-"rank": 198,
+"rank": 199,
 "id": "2022STAN01",
 "best": "11.45",
 "age": 50,
 "competition": 11860
 },
 {
-"rank": 199,
+"rank": 200,
 "id": "2015HEIK01",
 "best": "11.46",
 "competition": 3349
 },
 {
-"rank": 201,
+"rank": 202,
 "id": "2016GALE02",
 "best": "11.51",
 "competition": 4443
 },
 {
-"rank": 202,
+"rank": 203,
 "id": "2022SOZA02",
 "best": "11.58",
 "competition": 12712
 },
 {
-"rank": 202,
+"rank": 203,
 "id": "2023LEES22",
 "best": "11.58",
 "age": 50,
 "competition": 13077
-},
-{
-"rank": 205,
-"id": "2023NEVE02",
-"best": "11.68",
-"competition": 13401
 },
 {
 "rank": 206,
@@ -82350,29 +82369,29 @@ rankings =
 },
 {
 "rank": 22,
+"id": "2018BAUE04",
+"best": "11.74",
+"competition": 13464
+},
+{
+"rank": 23,
 "id": "2018COOK04",
 "best": "11.96",
 "age": 60,
 "competition": 13182
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2023CLIN01",
 "best": "12.16",
 "age": 60,
 "competition": 12264
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2022MIHO01",
 "best": "12.17",
 "competition": 10303
-},
-{
-"rank": 25,
-"id": "2018BAUE04",
-"best": "12.28",
-"competition": 13239
 },
 {
 "rank": 26,
@@ -85965,174 +85984,181 @@ rankings =
 },
 {
 "rank": 30,
+"id": "2023LEEY01",
+"best": "10:36.00",
+"age": 50,
+"competition": 13468
+},
+{
+"rank": 31,
 "id": "2022BERG01",
 "best": "10:38.00",
 "age": 50,
 "competition": 11686
 },
 {
-"rank": 30,
+"rank": 31,
 "id": "2012HAMA02",
 "best": "10:38.00",
 "age": 50,
 "competition": 9647
 },
 {
-"rank": 32,
+"rank": 33,
 "id": "2017KITA01",
 "best": "11:06.00",
 "age": 50,
 "competition": 9647
 },
 {
-"rank": 33,
+"rank": 34,
 "id": "2013ANDE01",
 "best": "11:20.00",
 "age": 60,
 "competition": 10073
 },
 {
-"rank": 34,
+"rank": 35,
 "id": "2014GOME07",
 "best": "11:25.00",
 "competition": 12140
 },
 {
-"rank": 35,
+"rank": 36,
 "id": "2017ROSS10",
 "best": "11:50.00",
 "age": 50,
 "competition": 13191
 },
 {
-"rank": 36,
+"rank": 37,
 "id": "2018SACH03",
 "best": "12:14.00",
 "age": 50,
 "competition": 12441
 },
 {
-"rank": 37,
+"rank": 38,
 "id": "2018SEMO01",
 "best": "12:40.00",
 "age": 50,
 "competition": 13392
 },
 {
-"rank": 38,
+"rank": 39,
 "id": "2007GOHO01",
 "best": "12:56.00",
 "competition": 12256
 },
 {
-"rank": 39,
+"rank": 40,
 "id": "2015JIJI02",
 "best": "13:41.00",
 "competition": 3995
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2021CHEN43",
 "best": "13:47.00",
 "competition": 13288
 },
 {
-"rank": 41,
+"rank": 42,
 "id": "2018TAHO01",
 "best": "14:26.00",
 "competition": 8532
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2007LUTH01",
 "best": "15:14.00",
 "age": 50,
 "competition": 1557
 },
 {
-"rank": 44,
+"rank": 45,
 "id": "2017KOST06",
 "best": "16:33.00",
 "competition": 6575
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2008NIEL01",
 "best": "16:58.00",
 "competition": 10001
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2022FURS03",
 "best": "17:54.00",
 "age": 50,
 "competition": 13106
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2005SUSE01",
 "best": "18:15.00",
 "competition": 5389
 },
 {
-"rank": 49,
+"rank": 50,
 "id": "2016KRUE03",
 "best": "19:11.00",
 "age": 50,
 "competition": 10093
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2021JACK01",
 "best": "20:22.00",
 "competition": 11019
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2022KOTO01",
 "best": "21:43.00",
 "competition": 13189
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2023BEDO03",
 "best": "21:52.00",
 "competition": 12858
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2016WANG11",
 "best": "23:04.00",
 "competition": 3705
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2015CLAR13",
 "best": "24:56.00",
 "age": 60,
 "competition": 12513
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2012ADRI01",
 "best": "25:17.00",
 "competition": 2344
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2021HUGO01",
 "best": "28:24.00",
 "age": 60,
 "competition": 8697
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2010SOHT01",
 "best": "28:40.00",
 "competition": 6723
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2016CHOW03",
 "best": "30:11.00",
 "age": 50,
@@ -86237,81 +86263,87 @@ rankings =
 },
 {
 "rank": 11,
+"id": "2023LEEY01",
+"best": "10:36.00",
+"competition": 13468
+},
+{
+"rank": 12,
 "id": "2022BERG01",
 "best": "10:38.00",
 "competition": 11686
 },
 {
-"rank": 11,
+"rank": 12,
 "id": "2012HAMA02",
 "best": "10:38.00",
 "competition": 9647
 },
 {
-"rank": 13,
+"rank": 14,
 "id": "2017KITA01",
 "best": "11:06.00",
 "competition": 9647
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2013ANDE01",
 "best": "11:20.00",
 "age": 60,
 "competition": 10073
 },
 {
-"rank": 15,
+"rank": 16,
 "id": "2017ROSS10",
 "best": "11:50.00",
 "competition": 13191
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2018SACH03",
 "best": "12:14.00",
 "competition": 12441
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2018SEMO01",
 "best": "12:40.00",
 "competition": 13392
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2007LUTH01",
 "best": "15:14.00",
 "competition": 1557
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2022FURS03",
 "best": "17:54.00",
 "competition": 13106
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2016KRUE03",
 "best": "19:11.00",
 "competition": 10093
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2015CLAR13",
 "best": "24:56.00",
 "age": 60,
 "competition": 12513
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2021HUGO01",
 "best": "28:24.00",
 "age": 60,
 "competition": 8697
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2016CHOW03",
 "best": "30:11.00",
 "competition": 10706
@@ -101944,6 +101976,7 @@ rankings =
 "333mbf",
 "333oh",
 "444",
+"444bf",
 "555",
 "clock",
 "minx",
@@ -124800,6 +124833,27 @@ rankings =
 "country": "NL",
 "startDate": "2024-12-22",
 "webId": "ChristmasCubingBreda2024"
+},
+{
+"id": 13464,
+"name": "Hvidovre Julecubing 2024",
+"country": "DK",
+"startDate": "2024-12-28",
+"webId": "HvidovreJulecubing2024"
+},
+{
+"id": 13468,
+"name": "Silent Korea Winter 2024",
+"country": "KR",
+"startDate": "2024-12-28",
+"webId": "SilentKoreaWinter2024"
+},
+{
+"id": 13469,
+"name": "Viradão do Cubo em Araruama 2024",
+"country": "BR",
+"startDate": "2024-12-28",
+"webId": "ViradaodoCuboemAraruama2024"
 }
 ],
 "countries": [
