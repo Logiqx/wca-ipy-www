@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2024-12-31 02:08:32",
+"refreshed": "2025-01-01 02:08:58",
 "events": [
 {
 "id": "333",
@@ -91006,7 +91006,7 @@ rankings =
 {
 "id": "2016ZEMD01",
 "name": "David Zemdegs",
-"country": "AU",
+"country": "LV",
 "username": "David Zemdegs",
 "usernum": 10014,
 "age": 60,
@@ -97609,7 +97609,7 @@ rankings =
 "id": "2008TOMO01",
 "name": "Mitsuko Tomoyori (友寄光子)",
 "country": "JP",
-"age": 70,
+"age": 80,
 "events": [
 "333"
 ]
