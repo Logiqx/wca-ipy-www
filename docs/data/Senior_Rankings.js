@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-01-10 02:08:44",
+"refreshed": "2025-01-11 02:08:18",
 "events": [
 {
 "id": "333",
@@ -60339,113 +60339,113 @@ rankings =
 },
 {
 "rank": 161,
+"id": "2017TABA02",
+"best": "16.44",
+"age": 50,
+"competition": 13513
+},
+{
+"rank": 162,
 "id": "2011LAWR01",
 "best": "16.89",
 "competition": 5643
 },
 {
-"rank": 163,
+"rank": 164,
 "id": "2024FORA01",
 "best": "17.00",
 "competition": 13255
 },
 {
-"rank": 164,
+"rank": 165,
 "id": "2017MEGA01",
 "best": "17.01",
 "age": 60,
 "competition": 13083
 },
 {
-"rank": 165,
+"rank": 166,
 "id": "2003LARS01",
 "best": "17.03",
 "age": 50,
 "competition": 1850
 },
 {
-"rank": 166,
+"rank": 167,
 "id": "2024BORG07",
 "best": "17.06",
 "competition": 13210
 },
 {
-"rank": 167,
+"rank": 168,
 "id": "2022JRGL01",
 "best": "17.12",
 "competition": 12522
 },
 {
-"rank": 168,
+"rank": 169,
 "id": "2015RIVE05",
 "best": "17.15",
 "age": 50,
 "competition": 3894
 },
 {
-"rank": 169,
+"rank": 170,
 "id": "2023HETZ02",
 "best": "17.26",
 "competition": 13090
 },
 {
-"rank": 170,
+"rank": 171,
 "id": "2022CHUD03",
 "best": "17.44",
 "competition": 12200
 },
 {
-"rank": 171,
+"rank": 172,
 "id": "2018COOK04",
 "best": "17.50",
 "age": 60,
 "competition": 12556
 },
 {
-"rank": 172,
+"rank": 173,
 "id": "2008ERSK01",
 "best": "17.59",
 "competition": 1186
 },
 {
-"rank": 173,
+"rank": 174,
 "id": "2018HOSH02",
 "best": "17.61",
 "age": 50,
 "competition": 10020
 },
 {
-"rank": 174,
+"rank": 175,
 "id": "2019AGUE01",
 "best": "17.69",
 "age": 50,
 "competition": 10450
 },
 {
-"rank": 175,
+"rank": 176,
 "id": "2017JANS02",
 "best": "17.71",
 "competition": 7449
 },
 {
-"rank": 176,
+"rank": 177,
 "id": "2023DARM01",
 "best": "17.73",
 "age": 50,
 "competition": 12811
 },
 {
-"rank": 176,
+"rank": 177,
 "id": "2022SILV07",
 "best": "17.73",
 "competition": 10189
-},
-{
-"rank": 178,
-"id": "2017TABA02",
-"best": "17.81",
-"age": 50,
-"competition": 9263
 },
 {
 "rank": 179,
@@ -61655,53 +61655,53 @@ rankings =
 },
 {
 "rank": 50,
+"id": "2017TABA02",
+"best": "16.44",
+"competition": 13513
+},
+{
+"rank": 51,
 "id": "2017MEGA01",
 "best": "17.01",
 "age": 60,
 "competition": 13083
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2003LARS01",
 "best": "17.03",
 "competition": 1850
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2015RIVE05",
 "best": "17.15",
 "competition": 3894
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2018COOK04",
 "best": "17.50",
 "age": 60,
 "competition": 12556
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2018HOSH02",
 "best": "17.61",
 "competition": 10020
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2019AGUE01",
 "best": "17.69",
 "competition": 10450
 },
 {
-"rank": 56,
+"rank": 57,
 "id": "2023DARM01",
 "best": "17.73",
 "competition": 12811
-},
-{
-"rank": 57,
-"id": "2017TABA02",
-"best": "17.81",
-"competition": 9263
 },
 {
 "rank": 58,
@@ -93066,7 +93066,7 @@ rankings =
 },
 {
 "id": "2022JRGL01",
-"name": "Glenn Koster Jr.",
+"name": "Glenn Koster",
 "country": "US",
 "username": "gkosterjr",
 "usernum": 50874,
@@ -125678,6 +125678,13 @@ rankings =
 "country": "US",
 "startDate": "2025-01-04",
 "webId": "SolvinginSavannah2025"
+},
+{
+"id": 13513,
+"name": "Spokane Winter 2025",
+"country": "US",
+"startDate": "2025-01-04",
+"webId": "SpokaneWinter2025"
 },
 {
 "id": 13518,
