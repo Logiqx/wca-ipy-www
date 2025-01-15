@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-01-14 02:08:48",
+"refreshed": "2025-01-15 02:08:43",
 "events": [
 {
 "id": "333",
@@ -1643,9 +1643,9 @@ rankings =
 {
 "rank": 327,
 "id": "2019KILL01",
-"best": "18.20",
+"best": "18.19",
 "age": 50,
-"competition": 11650
+"competition": 13571
 },
 {
 "rank": 328,
@@ -7220,8 +7220,8 @@ rankings =
 {
 "rank": 71,
 "id": "2019KILL01",
-"best": "18.20",
-"competition": 11650
+"best": "18.19",
+"competition": 13571
 },
 {
 "rank": 72,
@@ -125935,6 +125935,13 @@ rankings =
 "country": "US",
 "startDate": "2025-01-12",
 "webId": "AirplaneModeXVOH2025"
+},
+{
+"id": 13571,
+"name": "Summer Kube Vitória 2025",
+"country": "BR",
+"startDate": "2025-01-12",
+"webId": "SummerKubeVitoria2025"
 }
 ],
 "countries": [
