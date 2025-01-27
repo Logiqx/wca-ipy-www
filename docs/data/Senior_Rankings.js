@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-01-26 02:08:45",
+"refreshed": "2025-01-27 02:09:10",
 "events": [
 {
 "id": "333",
@@ -102800,7 +102800,7 @@ rankings =
 "id": "2024SUGI01",
 "name": "Toru Sugihara (杉原徹)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
