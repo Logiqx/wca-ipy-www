@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-02-04 02:08:52",
+"refreshed": "2025-02-05 02:10:04",
 "events": [
 {
 "id": "333",
@@ -60086,27 +60086,27 @@ rankings =
 },
 {
 "rank": 11,
+"id": "2008PERE01",
+"best": "7.25",
+"competition": 13703
+},
+{
+"rank": 12,
 "id": "2004FERN01",
 "best": "7.27",
 "competition": 1924
 },
 {
-"rank": 12,
+"rank": 13,
 "id": "2023NEVE02",
 "best": "7.36",
 "competition": 12433
 },
 {
-"rank": 13,
+"rank": 14,
 "id": "2022SYVE02",
 "best": "7.37",
 "competition": 13553
-},
-{
-"rank": 14,
-"id": "2008PERE01",
-"best": "7.44",
-"competition": 8391
 },
 {
 "rank": 15,
@@ -87760,61 +87760,61 @@ rankings =
 "competition": 8532
 },
 {
-"rank": 44,
+"rank": 43,
+"id": "2023BEDO03",
+"best": "14:36.00",
+"competition": 13714
+},
+{
+"rank": 45,
 "id": "2007LUTH01",
 "best": "15:14.00",
 "age": 50,
 "competition": 1557
 },
 {
-"rank": 45,
+"rank": 46,
 "id": "2017KOST06",
 "best": "16:33.00",
 "competition": 6575
 },
 {
-"rank": 46,
+"rank": 47,
 "id": "2008NIEL01",
 "best": "16:58.00",
 "competition": 10001
 },
 {
-"rank": 47,
+"rank": 48,
 "id": "2022FURS03",
 "best": "17:54.00",
 "age": 50,
 "competition": 13106
 },
 {
-"rank": 48,
+"rank": 49,
 "id": "2005SUSE01",
 "best": "18:15.00",
 "competition": 5389
 },
 {
-"rank": 50,
+"rank": 51,
 "id": "2016KRUE03",
 "best": "19:11.00",
 "age": 50,
 "competition": 10093
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2021JACK01",
 "best": "20:22.00",
 "competition": 11019
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2022KOTO01",
 "best": "21:43.00",
 "competition": 13189
-},
-{
-"rank": 53,
-"id": "2023BEDO03",
-"best": "21:52.00",
-"competition": 12858
 },
 {
 "rank": 54,
@@ -116224,13 +116224,6 @@ rankings =
 "webId": "AarhusOpen2022"
 },
 {
-"id": 8391,
-"name": "Jesuitinas Txantrea Open 2022",
-"country": "ES",
-"startDate": "2022-11-05",
-"webId": "JesuitinasTxantreaOpen2022"
-},
-{
 "id": 8394,
 "name": "South Australian Open 2022",
 "country": "AU",
@@ -127214,6 +127207,13 @@ rankings =
 "webId": "DSFGeneralforsamlingen2025"
 },
 {
+"id": 13703,
+"name": "Huashang: Las Tablas Open 2025",
+"country": "ES",
+"startDate": "2025-02-01",
+"webId": "HuashangLasTablasOpen2025"
+},
+{
 "id": 13704,
 "name": "Ljubljana Blind Open 2025",
 "country": "SI",
@@ -127247,6 +127247,13 @@ rankings =
 "country": "CH",
 "startDate": "2025-02-02",
 "webId": "MeiringenMasterminds2025"
+},
+{
+"id": 13714,
+"name": "Mini Mental Milano II 2025",
+"country": "IT",
+"startDate": "2025-02-02",
+"webId": "MiniMentalMilanoII2025"
 },
 {
 "id": 13717,
