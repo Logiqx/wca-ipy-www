@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-03-08 02:08:06",
+"refreshed": "2025-03-09 02:09:39",
 "events": [
 {
 "id": "333",
@@ -73805,83 +73805,83 @@ rankings =
 "competition": 9855
 },
 {
-"rank": 94,
+"rank": 93,
+"id": "2018LAMU01",
+"best": "10.29",
+"competition": 13910
+},
+{
+"rank": 95,
 "id": "2024MITC04",
 "best": "10.34",
 "competition": 12330
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2024POTT03",
 "best": "10.37",
 "competition": 12541
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2017SAWA01",
 "best": "10.42",
 "competition": 8111
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2020JOHA02",
 "best": "10.42",
 "competition": 9718
 },
 {
-"rank": 99,
+"rank": 100,
 "id": "2018GUTI13",
 "best": "10.54",
 "competition": 8250
 },
 {
-"rank": 100,
+"rank": 101,
 "id": "2023MCCO18",
 "best": "10.55",
 "competition": 13797
 },
 {
-"rank": 101,
+"rank": 102,
 "id": "2022HUIC01",
 "best": "10.57",
 "competition": 13292
 },
 {
-"rank": 102,
+"rank": 103,
 "id": "2017SHEI04",
 "best": "10.63",
 "competition": 6241
 },
 {
-"rank": 103,
+"rank": 104,
 "id": "2009OKED01",
 "best": "10.66",
 "competition": 690
 },
 {
-"rank": 104,
+"rank": 105,
 "id": "2019GOKE01",
 "best": "10.67",
 "competition": 11170
 },
 {
-"rank": 105,
+"rank": 106,
 "id": "2022HILL10",
 "best": "10.74",
 "age": 60,
 "competition": 13014
 },
 {
-"rank": 106,
+"rank": 107,
 "id": "2007YULH01",
 "best": "10.78",
 "competition": 12978
-},
-{
-"rank": 108,
-"id": "2018LAMU01",
-"best": "10.90",
-"competition": 9276
 },
 {
 "rank": 109,
@@ -129853,6 +129853,13 @@ rankings =
 "country": "FR",
 "startDate": "2025-03-01",
 "webId": "BayonneAtoutcubesOpen2025"
+},
+{
+"id": 13910,
+"name": "Eaubonne Open 2025",
+"country": "FR",
+"startDate": "2025-03-01",
+"webId": "EaubonneOpen2025"
 },
 {
 "id": 13911,
