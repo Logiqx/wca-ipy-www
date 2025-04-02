@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-04-01 02:08:34",
+"refreshed": "2025-04-02 02:09:02",
 "events": [
 {
 "id": "333",
@@ -68806,8 +68806,8 @@ rankings =
 {
 "rank": 26,
 "id": "2010GRAC02",
-"best": "1:41.56",
-"competition": 13402
+"best": "1:41.29",
+"competition": 14114
 },
 {
 "rank": 27,
@@ -132820,6 +132820,13 @@ rankings =
 "country": "US",
 "startDate": "2025-03-29",
 "webId": "NorthIdahoNewcomers2025"
+},
+{
+"id": 14114,
+"name": "Sides Cubata 2025",
+"country": "BR",
+"startDate": "2025-03-29",
+"webId": "SidesCubata2025"
 },
 {
 "id": 14117,
