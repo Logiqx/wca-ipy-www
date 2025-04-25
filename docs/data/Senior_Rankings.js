@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-04-24 02:07:49",
+"refreshed": "2025-04-25 02:07:11",
 "events": [
 {
 "id": "333",
@@ -103814,7 +103814,7 @@ rankings =
 "id": "2024DILL03",
 "name": "Klaus Diller",
 "country": "DE",
-"age": 60,
+"age": 70,
 "events": [
 "222",
 "333",
