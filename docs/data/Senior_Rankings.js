@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-08-02 02:07:57",
+"refreshed": "2025-08-03 02:07:15",
 "events": [
 {
 "id": "333",
@@ -64756,52 +64756,52 @@ rankings =
 },
 {
 "rank": 57,
+"id": "2012ANGD01",
+"best": "43.33",
+"competition": 15043
+},
+{
+"rank": 58,
 "id": "2005VANH02",
 "best": "43.83",
 "competition": 1179
 },
 {
-"rank": 58,
+"rank": 59,
 "id": "2013DEAR01",
 "best": "44.33",
 "competition": 10881
 },
 {
-"rank": 59,
+"rank": 60,
 "id": "2020BURC01",
 "best": "44.37",
 "competition": 12742
 },
 {
-"rank": 60,
+"rank": 61,
 "id": "2024FALA01",
 "best": "44.44",
 "competition": 13857
 },
 {
-"rank": 61,
+"rank": 62,
 "id": "2005PARI01",
 "best": "44.48",
 "competition": 4540
 },
 {
-"rank": 62,
+"rank": 63,
 "id": "2017BONI01",
 "best": "44.50",
 "competition": 14754
 },
 {
-"rank": 63,
+"rank": 64,
 "id": "2021HUGO01",
 "best": "44.85",
 "age": 60,
 "competition": 14500
-},
-{
-"rank": 64,
-"id": "2012ANGD01",
-"best": "45.10",
-"competition": 10486
 },
 {
 "rank": 65,
@@ -107451,7 +107451,7 @@ rankings =
 {
 "id": "2023HAMM14",
 "name": "Jan Hammer",
-"country": "DE",
+"country": "NO",
 "age": 40,
 "events": [
 "222",
@@ -132898,13 +132898,6 @@ rankings =
 "webId": "LytteltonSpring2023"
 },
 {
-"id": 10486,
-"name": "Singapore Marine Parade Speedcubing 2023",
-"country": "SG",
-"startDate": "2023-11-18",
-"webId": "SGMarineParade2023"
-},
-{
 "id": 10488,
 "name": "SPAMtown II 2023",
 "country": "US",
@@ -143613,6 +143606,13 @@ rankings =
 "country": "JP",
 "startDate": "2025-07-27",
 "webId": "TokaiSummer2025"
+},
+{
+"id": 15043,
+"name": "Clock Battle August Singapore 2025",
+"country": "SG",
+"startDate": "2025-08-02",
+"webId": "ClockBattleAugustSG2025"
 }
 ],
 "countries": [
