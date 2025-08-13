@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-08-12 02:08:18",
+"refreshed": "2025-08-13 02:07:31",
 "events": [
 {
 "id": "333",
@@ -45355,33 +45355,33 @@ rankings =
 },
 {
 "rank": 188,
-"id": "2022FELI06",
-"best": "1:26.49",
-"competition": 15109
-},
-{
-"rank": 189,
 "id": "2005KURO02",
 "best": "1:26.69",
 "competition": 67
 },
 {
-"rank": 190,
+"rank": 189,
 "id": "2022CORD03",
 "best": "1:26.91",
 "competition": 13020
 },
 {
-"rank": 191,
+"rank": 190,
 "id": "2008YIMV01",
 "best": "1:26.96",
 "competition": 5329
 },
 {
-"rank": 192,
+"rank": 191,
 "id": "2009ZBIE01",
 "best": "1:27.55",
 "competition": 13592
+},
+{
+"rank": 192,
+"id": "2022FELI06",
+"best": "1:27.82",
+"competition": 15109
 },
 {
 "rank": 193,
