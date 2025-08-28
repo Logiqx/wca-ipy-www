@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-08-27 02:07:29",
+"refreshed": "2025-08-28 02:07:45",
 "events": [
 {
 "id": "333",
@@ -69149,85 +69149,86 @@ rankings =
 },
 {
 "rank": 65,
+"id": "2022CHES04",
+"best": "9.88",
+"age": 50,
+"competition": 15220
+},
+{
+"rank": 66,
 "id": "2024SLIW01",
 "best": "9.89",
 "competition": 14475
 },
 {
-"rank": 66,
+"rank": 67,
 "id": "2022CHAP01",
 "best": "9.90",
 "age": 50,
 "competition": 13778
 },
 {
-"rank": 67,
+"rank": 68,
 "id": "2023BEDO03",
 "best": "9.91",
 "competition": 14890
 },
 {
-"rank": 68,
+"rank": 69,
 "id": "2015LIJI02",
 "best": "9.93",
 "competition": 6252
 },
 {
-"rank": 69,
+"rank": 70,
 "id": "2023DUBI01",
 "best": "9.96",
 "age": 50,
 "competition": 12857
 },
 {
-"rank": 70,
+"rank": 71,
 "id": "2013CISN01",
 "best": "9.99",
 "competition": 12300
 },
 {
-"rank": 72,
+"rank": 73,
 "id": "2017LAWR04",
 "best": "10.02",
 "competition": 13677
 },
 {
-"rank": 73,
+"rank": 74,
 "id": "2012RONK01",
 "best": "10.04",
 "age": 50,
 "competition": 11348
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2017FERN19",
 "best": "10.14",
 "competition": 12272
 },
 {
-"rank": 74,
+"rank": 75,
 "id": "2022AMAR09",
 "best": "10.14",
 "age": 60,
 "competition": 9668
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2019MORA23",
 "best": "10.17",
 "competition": 11408
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2021CHEN43",
 "best": "10.18",
 "competition": 12277
-},
-{
-"rank": 78,
-"id": "2022CHES04",
-"best": "10.20",
-"competition": 11887
 },
 {
 "rank": 79,
@@ -71317,41 +71318,41 @@ rankings =
 },
 {
 "rank": 17,
+"id": "2022CHES04",
+"best": "9.88",
+"competition": 15220
+},
+{
+"rank": 18,
 "id": "2022CHAP01",
 "best": "9.90",
 "competition": 13778
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2023DUBI01",
 "best": "9.96",
 "competition": 12857
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2012RONK01",
 "best": "10.04",
 "competition": 11348
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2022AMAR09",
 "best": "10.14",
 "age": 60,
 "competition": 9668
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2007HUGH01",
 "best": "10.29",
 "age": 60,
 "competition": 10894
-},
-{
-"rank": 22,
-"id": "2022CHES04",
-"best": "10.36",
-"competition": 14722
 },
 {
 "rank": 23,
@@ -137177,13 +137178,6 @@ rankings =
 "webId": "AMorninginCambridge2024"
 },
 {
-"id": 11887,
-"name": "An Afternoon in Cambridge 2024",
-"country": "US",
-"startDate": "2024-06-01",
-"webId": "AnAfternooninCambridge2024"
-},
-{
 "id": 11904,
 "name": "Please Be Quiet Xi'an 2024",
 "country": "CN",
@@ -145666,6 +145660,13 @@ rankings =
 "country": "KR",
 "startDate": "2025-08-23",
 "webId": "SilentKoreaOpen2025"
+},
+{
+"id": 15220,
+"name": "UnOrono-thodox Blocks 2025",
+"country": "US",
+"startDate": "2025-08-23",
+"webId": "UnOronothodoxBlocks2025"
 },
 {
 "id": 15221,
