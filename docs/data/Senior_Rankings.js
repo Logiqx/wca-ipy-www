@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-09-16 02:08:01",
+"refreshed": "2025-09-17 02:08:04",
 "events": [
 {
 "id": "333",
@@ -118142,7 +118142,7 @@ rankings =
 },
 {
 "id": "2023BAMB02",
-"name": "Ross Richard Bambrey",
+"name": "Ross Bambrey",
 "country": "GB",
 "age": 40,
 "events": [
