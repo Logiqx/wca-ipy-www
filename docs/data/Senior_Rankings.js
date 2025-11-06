@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-11-05 21:27:37",
+"refreshed": "2025-11-06 02:08:17",
 "events": [
 {
 "id": "333",
@@ -51260,28 +51260,28 @@ rankings =
 },
 {
 "rank": 15,
+"id": "2007CHUE01",
+"best": "1:28.44",
+"competition": 15776
+},
+{
+"rank": 16,
 "id": "2003MORR01",
 "best": "1:28.51",
 "competition": 13949
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2023FLIN02",
 "best": "1:28.83",
 "age": 50,
 "competition": 13138
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2021CHEN43",
 "best": "1:29.53",
 "competition": 15063
-},
-{
-"rank": 18,
-"id": "2007CHUE01",
-"best": "1:30.05",
-"competition": 15144
 },
 {
 "rank": 19,
@@ -114470,7 +114470,7 @@ rankings =
 "country": "US",
 "username": "DaveyCow",
 "usernum": 13210,
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -123969,7 +123969,7 @@ rankings =
 "id": "2010PLAZ01",
 "name": "Pedro Plaza Saavedra",
 "country": "ES",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
@@ -156727,6 +156727,13 @@ rankings =
 "country": "US",
 "startDate": "2025-11-01",
 "webId": "IdahoChampionship2025"
+},
+{
+"id": 15776,
+"name": "Malaysia Cube Championship 2025",
+"country": "MY",
+"startDate": "2025-11-01",
+"webId": "MalaysiaCubeChampionship2025"
 },
 {
 "id": 15779,
