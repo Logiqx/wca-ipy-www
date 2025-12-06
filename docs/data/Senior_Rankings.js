@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-12-05 02:08:12",
+"refreshed": "2025-12-06 02:07:53",
 "events": [
 {
 "id": "333",
@@ -17127,42 +17127,42 @@ rankings =
 "competition": 11452
 },
 {
-"rank": 896,
+"rank": 894,
+"id": "2024AHMA13",
+"best": "33.32",
+"competition": 16014
+},
+{
+"rank": 897,
 "id": "2014CURR01",
 "best": "33.46",
 "competition": 2021
 },
 {
-"rank": 897,
+"rank": 898,
 "id": "2023CERN02",
 "best": "33.47",
 "age": 50,
 "competition": 11352
 },
 {
-"rank": 903,
+"rank": 904,
 "id": "2008MOYE01",
 "best": "33.63",
 "competition": 539
 },
 {
-"rank": 904,
+"rank": 905,
 "id": "2014SANT22",
 "best": "33.65",
 "competition": 3732
 },
 {
-"rank": 905,
+"rank": 906,
 "id": "2024PINT18",
 "best": "33.69",
 "age": 50,
 "competition": 15722
-},
-{
-"rank": 906,
-"id": "2024AHMA13",
-"best": "33.70",
-"competition": 15179
 },
 {
 "rank": 907,
@@ -158925,6 +158925,13 @@ rankings =
 "country": "US",
 "startDate": "2025-11-30",
 "webId": "QuietSeattleNovember2025"
+},
+{
+"id": 16014,
+"name": "Uppsalaligan 5: X2 - 2025",
+"country": "SE",
+"startDate": "2025-12-04",
+"webId": "Uppsalaligan5X22025"
 }
 ],
 "countries": [
