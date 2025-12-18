@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-12-17 20:42:30",
+"refreshed": "2025-12-18 02:07:51",
 "events": [
 {
 "id": "333",
@@ -124998,7 +124998,7 @@ rankings =
 "id": "2003AKIM01",
 "name": "Masayuki Akimoto (秋元正行)",
 "country": "JP",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
