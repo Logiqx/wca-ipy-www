@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2025-12-20 02:08:23",
+"refreshed": "2025-12-21 02:08:03",
 "events": [
 {
 "id": "333",
@@ -46859,15 +46859,15 @@ rankings =
 },
 {
 "rank": 585,
+"id": "2023POLL07",
+"best": "2:28.71",
+"competition": 16142
+},
+{
+"rank": 586,
 "id": "2022FIAM02",
 "best": "2:28.73",
 "competition": 9058
-},
-{
-"rank": 587,
-"id": "2023POLL07",
-"best": "2:30.20",
-"competition": 13773
 },
 {
 "rank": 589,
@@ -153789,13 +153789,6 @@ rankings =
 "webId": "GdanskCubingDay2025"
 },
 {
-"id": 13773,
-"name": "Kublördag Jönköping VII - 2025",
-"country": "SE",
-"startDate": "2025-02-15",
-"webId": "KublordagJonkopingVII2025"
-},
-{
 "id": 13774,
 "name": "Lex Mini V 2025",
 "country": "US",
@@ -160927,6 +160920,13 @@ rankings =
 "country": "SE",
 "startDate": "2025-12-18",
 "webId": "StockholmsliganNyoka2025"
+},
+{
+"id": 16142,
+"name": "Kublördag Jönköping IX - 2025",
+"country": "SE",
+"startDate": "2025-12-20",
+"webId": "KublordagJonkopingIX2025"
 }
 ],
 "countries": [
