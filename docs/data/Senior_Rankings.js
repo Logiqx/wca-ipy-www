@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-01-07 21:49:10",
+"refreshed": "2026-01-08 02:07:55",
 "events": [
 {
 "id": "333",
@@ -50852,28 +50852,29 @@ rankings =
 "competition": 15304
 },
 {
-"rank": 277,
+"rank": 274,
+"id": "2017DAOU01",
+"best": "1:38.77",
+"age": 50,
+"competition": 16219
+},
+{
+"rank": 278,
 "id": "2008GOUB01",
 "best": "1:39.46",
 "competition": 1134
 },
 {
-"rank": 279,
+"rank": 280,
 "id": "2009KOTT01",
 "best": "1:40.21",
 "competition": 976
 },
 {
-"rank": 280,
+"rank": 281,
 "id": "2025HAMM05",
 "best": "1:40.28",
 "competition": 14676
-},
-{
-"rank": 280,
-"id": "2017DAOU01",
-"best": "1:40.28",
-"competition": 7485
 },
 {
 "rank": 282,
@@ -52283,34 +52284,34 @@ rankings =
 "competition": 14676
 },
 {
-"rank": 75,
+"rank": 73,
+"id": "2017DAOU01",
+"best": "1:38.77",
+"competition": 16219
+},
+{
+"rank": 76,
 "id": "2017UEDA02",
 "best": "1:40.43",
 "competition": 16067
 },
 {
-"rank": 76,
+"rank": 77,
 "id": "2022RICH09",
 "best": "1:40.49",
 "competition": 15594
 },
 {
-"rank": 77,
+"rank": 78,
 "id": "2024ORGE01",
 "best": "1:42.41",
 "competition": 16080
 },
 {
-"rank": 78,
+"rank": 79,
 "id": "2013HUBH01",
 "best": "1:43.28",
 "competition": 5890
-},
-{
-"rank": 79,
-"id": "2017DAOU01",
-"best": "1:43.64",
-"competition": 11127
 },
 {
 "rank": 80,
@@ -143603,13 +143604,6 @@ rankings =
 "webId": "CubetchaB2021"
 },
 {
-"id": 7485,
-"name": "Welcome Back Lévis 2021",
-"country": "CA",
-"startDate": "2021-12-05",
-"webId": "WelcomeBackLevis2021"
-},
-{
 "id": 7497,
 "name": "Tokai Winter AM 2021",
 "country": "JP",
@@ -162011,6 +162005,13 @@ rankings =
 "country": "PL",
 "startDate": "2026-01-02",
 "webId": "CFGoesCrazyIIBrzeziny2026"
+},
+{
+"id": 16219,
+"name": "Cubes Tranchés à Québec PM 2026",
+"country": "CA",
+"startDate": "2026-01-03",
+"webId": "CubesTranchesaQuebecPM2026"
 },
 {
 "id": 16221,
