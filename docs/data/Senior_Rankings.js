@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-01-08 02:07:55",
+"refreshed": "2026-01-09 02:07:02",
 "events": [
 {
 "id": "333",
@@ -60525,28 +60525,28 @@ rankings =
 },
 {
 "rank": 27,
+"id": "2010ROSE03",
+"best": "3:27.67",
+"competition": 16239
+},
+{
+"rank": 28,
 "id": "2006GALE01",
 "best": "3:31.60",
 "competition": 4878
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2003BRUC01",
 "best": "3:32.45",
 "age": 50,
 "competition": 4878
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2023FORC02",
 "best": "3:34.94",
 "competition": 15929
-},
-{
-"rank": 30,
-"id": "2010ROSE03",
-"best": "3:36.10",
-"competition": 16205
 },
 {
 "rank": 31,
@@ -162054,6 +162054,13 @@ rankings =
 "country": "SE",
 "startDate": "2026-01-06",
 "webId": "Stockholmsligan1Skids2026"
+},
+{
+"id": 16239,
+"name": "Pocos Cupos Bogotá XVIII 2026",
+"country": "CO",
+"startDate": "2026-01-07",
+"webId": "PocosCuposBogotaXVIII2026"
 }
 ],
 "countries": [
