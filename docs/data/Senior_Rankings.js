@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-01-14 02:07:19",
+"refreshed": "2026-01-15 02:07:17",
 "events": [
 {
 "id": "333",
@@ -121464,7 +121464,7 @@ rankings =
 "id": "2009AOKI01",
 "name": "Haruo Aoki (青木治雄)",
 "country": "JP",
-"age": 80,
+"age": 90,
 "events": [
 "222",
 "333"
