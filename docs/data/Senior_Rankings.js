@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-01-24 02:07:40",
+"refreshed": "2026-01-25 02:07:08",
 "events": [
 {
 "id": "333",
@@ -117030,7 +117030,7 @@ rankings =
 "id": "2025ROMA08",
 "name": "André Romain",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "skewb"
 ]
