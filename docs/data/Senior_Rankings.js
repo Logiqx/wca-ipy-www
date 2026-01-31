@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-01-30 02:07:44",
+"refreshed": "2026-01-31 02:08:00",
 "events": [
 {
 "id": "333",
@@ -120749,7 +120749,7 @@ rankings =
 "id": "2018MALA01",
 "name": "Eric Malapanes",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -133657,7 +133657,7 @@ rankings =
 "id": "2019KOLC04",
 "name": "Wally Kolcz",
 "country": "US",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333"
