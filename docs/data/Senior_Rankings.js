@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-02-18 02:07:49",
+"refreshed": "2026-02-19 02:07:46",
 "events": [
 {
 "id": "333",
@@ -126489,7 +126489,7 @@ rankings =
 "id": "2025MARU02",
 "name": "Kaoru Maruyama (丸山薫)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
