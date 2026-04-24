@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-04-23 02:07:27",
+"refreshed": "2026-04-24 02:07:05",
 "events": [
 {
 "id": "333",
@@ -129975,27 +129975,6 @@ rankings =
 ]
 },
 {
-"id": "2010HEIL02",
-"name": "Helmut Heilig",
-"country": "DE",
-"username": "realcube",
-"usernum": 10981,
-"age": 50,
-"events": [
-"222",
-"333",
-"333fm",
-"333oh",
-"444",
-"555",
-"666",
-"777",
-"clock",
-"pyram",
-"skewb"
-]
-},
-{
 "id": "2026SCHU07",
 "name": "Hennig Schultheis",
 "country": "DE",
@@ -134928,6 +134907,27 @@ rankings =
 "444",
 "clock",
 "minx",
+"pyram",
+"skewb"
+]
+},
+{
+"id": "2010HEIL02",
+"name": "Martin Heilig",
+"country": "DE",
+"username": "realcube",
+"usernum": 10981,
+"age": 50,
+"events": [
+"222",
+"333",
+"333fm",
+"333oh",
+"444",
+"555",
+"666",
+"777",
+"clock",
 "pyram",
 "skewb"
 ]
