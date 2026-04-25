@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-04-24 02:07:05",
+"refreshed": "2026-04-25 02:07:03",
 "events": [
 {
 "id": "333",
@@ -98654,12 +98654,6 @@ rankings =
 },
 {
 "rank": 62,
-"id": "2010HEIL02",
-"best": "7.69",
-"competition": 11758
-},
-{
-"rank": 62,
 "id": "2021KAWA01",
 "best": "7.69",
 "competition": 10020
@@ -98669,6 +98663,12 @@ rankings =
 "id": "2007OEYM01",
 "best": "7.69",
 "competition": 5888
+},
+{
+"rank": 62,
+"id": "2010HEIL02",
+"best": "7.69",
+"competition": 11758
 },
 {
 "rank": 65,
@@ -105468,15 +105468,15 @@ rankings =
 },
 {
 "rank": 64,
-"id": "2010HEIL02",
-"best": "11.85",
-"competition": 10367
-},
-{
-"rank": 64,
 "id": "2017NOVA05",
 "best": "11.85",
 "competition": 15851
+},
+{
+"rank": 64,
+"id": "2010HEIL02",
+"best": "11.85",
+"competition": 10367
 },
 {
 "rank": 67,
