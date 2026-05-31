@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-05-30 02:08:00",
+"refreshed": "2026-05-31 02:07:24",
 "events": [
 {
 "id": "333",
@@ -130858,7 +130858,7 @@ rankings =
 "id": "2015FIEC01",
 "name": "Elmar Fiechter-Alber",
 "country": "AT",
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333"
@@ -141725,7 +141725,7 @@ rankings =
 "id": "2015FRIB02",
 "name": "Robert Friberg",
 "country": "SE",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
