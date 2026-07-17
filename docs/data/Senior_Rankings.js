@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-07-16 02:08:31",
+"refreshed": "2026-07-17 02:07:43",
 "events": [
 {
 "id": "333",
@@ -52755,33 +52755,33 @@ rankings =
 },
 {
 "rank": 51,
+"id": "2006KASP02",
+"best": "1:08.03",
+"competition": 17653
+},
+{
+"rank": 52,
 "id": "2017HESS02",
 "best": "1:08.13",
 "competition": 9129
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2012HAMA02",
 "best": "1:09.26",
 "competition": 16067
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2018GUTI13",
 "best": "1:09.40",
 "competition": 8025
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2019POLL04",
 "best": "1:09.40",
 "competition": 16657
-},
-{
-"rank": 55,
-"id": "2006KASP02",
-"best": "1:09.42",
-"competition": 13451
 },
 {
 "rank": 56,
@@ -71588,48 +71588,48 @@ rankings =
 },
 {
 "rank": 50,
+"id": "2006KASP02",
+"best": "1:24.94",
+"age": 50,
+"competition": 17653
+},
+{
+"rank": 51,
 "id": "2022CHAM03",
 "best": "1:25.45",
 "age": 50,
 "competition": 16259
 },
 {
-"rank": 51,
+"rank": 52,
 "id": "2014UGGL01",
 "best": "1:26.22",
 "competition": 11488
 },
 {
-"rank": 52,
+"rank": 53,
 "id": "2017KOST06",
 "best": "1:27.62",
 "competition": 6575
 },
 {
-"rank": 53,
+"rank": 54,
 "id": "2022BERG01",
 "best": "1:27.88",
 "age": 50,
 "competition": 16522
 },
 {
-"rank": 54,
+"rank": 55,
 "id": "2019TAYA01",
 "best": "1:29.64",
 "competition": 16499
 },
 {
-"rank": 55,
+"rank": 56,
 "id": "2015HARR03",
 "best": "1:31.22",
 "competition": 8006
-},
-{
-"rank": 56,
-"id": "2006KASP02",
-"best": "1:32.17",
-"age": 50,
-"competition": 15660
 },
 {
 "rank": 57,
@@ -72888,21 +72888,21 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2006KASP02",
+"best": "1:24.94",
+"competition": 17653
+},
+{
+"rank": 14,
 "id": "2022CHAM03",
 "best": "1:25.45",
 "competition": 16259
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2022BERG01",
 "best": "1:27.88",
 "competition": 16522
-},
-{
-"rank": 15,
-"id": "2006KASP02",
-"best": "1:32.17",
-"competition": 15660
 },
 {
 "rank": 16,
@@ -84608,38 +84608,38 @@ rankings =
 },
 {
 "rank": 39,
+"id": "2018BAUE04",
+"best": "8.09",
+"age": 50,
+"competition": 17653
+},
+{
+"rank": 40,
 "id": "2023KLAP03",
 "best": "8.15",
 "competition": 15522
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2017SOLE01",
 "best": "8.19",
 "competition": 15037
 },
 {
-"rank": 40,
+"rank": 41,
 "id": "2023CASE06",
 "best": "8.19",
 "competition": 14544
 },
 {
-"rank": 43,
+"rank": 44,
 "id": "2018WIRZ01",
 "best": "8.21",
 "age": 60,
 "competition": 16532
 },
 {
-"rank": 44,
-"id": "2018BAUE04",
-"best": "8.22",
-"age": 50,
-"competition": 17330
-},
-{
-"rank": 44,
+"rank": 45,
 "id": "2023PING04",
 "best": "8.22",
 "competition": 14310
@@ -87691,16 +87691,16 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2018BAUE04",
+"best": "8.09",
+"competition": 17653
+},
+{
+"rank": 14,
 "id": "2018WIRZ01",
 "best": "8.21",
 "age": 60,
 "competition": 16532
-},
-{
-"rank": 14,
-"id": "2018BAUE04",
-"best": "8.22",
-"competition": 17330
 },
 {
 "rank": 15,
@@ -179943,6 +179943,13 @@ rankings =
 "country": "AU",
 "startDate": "2026-07-09",
 "webId": "AustralianNationals2026"
+},
+{
+"id": 17653,
+"name": "Warm Up Lent 2026",
+"country": "NL",
+"startDate": "2026-07-10",
+"webId": "WarmUpLent2026"
 },
 {
 "id": 17654,
