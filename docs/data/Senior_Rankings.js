@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-07-30 07:28:19",
+"refreshed": "2026-07-31 02:07:17",
 "events": [
 {
 "id": "333",
@@ -145748,7 +145748,7 @@ rankings =
 "id": "2011YOSH01",
 "name": "Ryohei Yoshioka (吉岡亮平)",
 "country": "JP",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
