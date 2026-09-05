@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-09-04 02:07:28",
+"refreshed": "2026-09-05 02:07:43",
 "events": [
 {
 "id": "333",
@@ -15307,85 +15307,86 @@ rankings =
 },
 {
 "rank": 89,
+"id": "2020JOHN02",
+"best": "15.74",
+"age": 50,
+"competition": 17987
+},
+{
+"rank": 90,
 "id": "2023MURA02",
 "best": "15.80",
 "competition": 17974
 },
 {
-"rank": 89,
+"rank": 90,
 "id": "2023BROW47",
 "best": "15.80",
 "competition": 11076
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2003MORR01",
 "best": "15.81",
 "competition": 13614
 },
 {
-"rank": 91,
+"rank": 92,
 "id": "2012BRUN02",
 "best": "15.81",
 "competition": 9908
 },
 {
-"rank": 93,
+"rank": 94,
 "id": "2010DELI02",
 "best": "15.84",
 "competition": 2355
 },
 {
-"rank": 94,
+"rank": 95,
 "id": "2013LKHA01",
 "best": "15.86",
 "competition": 6016
 },
 {
-"rank": 95,
+"rank": 96,
 "id": "2015BERN12",
 "best": "15.88",
 "competition": 8250
 },
 {
-"rank": 97,
+"rank": 98,
 "id": "2019TAYA01",
 "best": "15.93",
 "competition": 10196
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2010HEIL02",
 "best": "15.94",
 "age": 50,
 "competition": 15427
 },
 {
-"rank": 98,
+"rank": 99,
 "id": "2006STAD01",
 "best": "15.94",
 "competition": 14418
 },
 {
-"rank": 100,
+"rank": 101,
 "id": "2008LIDS01",
 "best": "16.02",
 "competition": 3670
 },
 {
-"rank": 101,
+"rank": 102,
 "id": "2015GEOR02",
 "best": "16.03",
 "competition": 6061
 },
 {
-"rank": 102,
-"id": "2020JOHN02",
-"best": "16.04",
-"competition": 12705
-},
-{
-"rank": 102,
+"rank": 103,
 "id": "2019MEDI04",
 "best": "16.04",
 "competition": 11976
@@ -24244,111 +24245,111 @@ rankings =
 },
 {
 "rank": 13,
+"id": "2020JOHN02",
+"best": "15.74",
+"competition": 17987
+},
+{
+"rank": 14,
 "id": "2005KOSE01",
 "best": "15.77",
 "competition": 13318
 },
 {
-"rank": 14,
+"rank": 15,
 "id": "2010HEIL02",
 "best": "15.94",
 "competition": 15427
 },
 {
-"rank": 15,
+"rank": 16,
 "id": "2016KWIA01",
 "best": "16.19",
 "competition": 17019
 },
 {
-"rank": 16,
+"rank": 17,
 "id": "2022CHAM03",
 "best": "16.21",
 "competition": 17199
 },
 {
-"rank": 17,
+"rank": 18,
 "id": "2023FLIN02",
 "best": "16.32",
 "competition": 13697
 },
 {
-"rank": 18,
+"rank": 19,
 "id": "2010HAMA03",
 "best": "16.41",
 "competition": 10020
 },
 {
-"rank": 19,
+"rank": 20,
 "id": "2023SHAW10",
 "best": "16.46",
 "competition": 16232
 },
 {
-"rank": 20,
+"rank": 21,
 "id": "2003DENN01",
 "best": "16.61",
 "competition": 1442
 },
 {
-"rank": 21,
+"rank": 22,
 "id": "2018BAUE04",
 "best": "16.63",
 "competition": 17458
 },
 {
-"rank": 22,
+"rank": 23,
 "id": "2011BOIS01",
 "best": "16.73",
 "competition": 14347
 },
 {
-"rank": 23,
+"rank": 24,
 "id": "2017GRIS03",
 "best": "16.78",
 "competition": 10036
 },
 {
-"rank": 24,
+"rank": 25,
 "id": "2019MEDI04",
 "best": "16.85",
 "competition": 12710
 },
 {
-"rank": 25,
+"rank": 26,
 "id": "2009OKAM01",
 "best": "16.94",
 "competition": 15784
 },
 {
-"rank": 26,
+"rank": 27,
 "id": "2014SHIW01",
 "best": "17.05",
 "competition": 10726
 },
 {
-"rank": 27,
+"rank": 28,
 "id": "2022LUTZ02",
 "best": "17.23",
 "competition": 16582
 },
 {
-"rank": 28,
+"rank": 29,
 "id": "2012PLAC01",
 "best": "17.29",
 "competition": 13847
 },
 {
-"rank": 29,
+"rank": 30,
 "id": "2012HINO01",
 "best": "17.32",
 "competition": 14311
-},
-{
-"rank": 31,
-"id": "2020JOHN02",
-"best": "17.36",
-"competition": 16937
 },
 {
 "rank": 32,
@@ -33533,55 +33534,55 @@ rankings =
 "competition": 14476
 },
 {
-"rank": 824,
+"rank": 822,
+"id": "2022TELF02",
+"best": "9.12",
+"age": 50,
+"competition": 17987
+},
+{
+"rank": 825,
 "id": "2005ORST01",
 "best": "9.15",
 "competition": 104
 },
 {
-"rank": 825,
+"rank": 826,
 "id": "2024CARE03",
 "best": "9.17",
 "age": 50,
 "competition": 15288
 },
 {
-"rank": 825,
+"rank": 826,
 "id": "2016POPO02",
 "best": "9.17",
 "competition": 3231
 },
 {
-"rank": 827,
+"rank": 828,
 "id": "2009COST02",
 "best": "9.19",
 "competition": 2463
 },
 {
-"rank": 830,
+"rank": 831,
 "id": "2012DESM01",
 "best": "9.26",
 "competition": 11728
 },
 {
-"rank": 830,
+"rank": 831,
 "id": "2013HUBH01",
 "best": "9.26",
 "competition": 2356
 },
 {
-"rank": 832,
+"rank": 833,
 "id": "2017CREA01",
 "best": "9.28",
 "age": 50,
 "competition": 5365
-},
-{
-"rank": 833,
-"id": "2022TELF02",
-"best": "9.29",
-"age": 50,
-"competition": 17650
 },
 {
 "rank": 834,
@@ -37333,28 +37334,28 @@ rankings =
 "competition": 14476
 },
 {
-"rank": 254,
+"rank": 253,
+"id": "2022TELF02",
+"best": "9.12",
+"competition": 17987
+},
+{
+"rank": 255,
 "id": "2024CARE03",
 "best": "9.17",
 "competition": 15288
 },
 {
-"rank": 255,
+"rank": 256,
 "id": "2015BEUK01",
 "best": "9.19",
 "competition": 17281
 },
 {
-"rank": 256,
+"rank": 257,
 "id": "2017CREA01",
 "best": "9.28",
 "competition": 5365
-},
-{
-"rank": 257,
-"id": "2022TELF02",
-"best": "9.29",
-"competition": 17650
 },
 {
 "rank": 259,
@@ -109992,31 +109993,31 @@ rankings =
 },
 {
 "rank": 548,
+"id": "2024DELI03",
+"best": "17.95",
+"age": 50,
+"competition": 17987
+},
+{
+"rank": 549,
 "id": "2023PUGH01",
 "best": "17.96",
 "age": 50,
 "competition": 16384
 },
 {
-"rank": 549,
+"rank": 550,
 "id": "2018PERE37",
 "best": "17.98",
 "age": 50,
 "competition": 15712
 },
 {
-"rank": 551,
+"rank": 552,
 "id": "2022MAYF04",
 "best": "18.02",
 "age": 60,
 "competition": 11162
-},
-{
-"rank": 552,
-"id": "2024DELI03",
-"best": "18.03",
-"age": 50,
-"competition": 16963
 },
 {
 "rank": 553,
@@ -112889,28 +112890,28 @@ rankings =
 },
 {
 "rank": 191,
+"id": "2024DELI03",
+"best": "17.95",
+"competition": 17987
+},
+{
+"rank": 192,
 "id": "2023PUGH01",
 "best": "17.96",
 "competition": 16384
 },
 {
-"rank": 192,
+"rank": 193,
 "id": "2018PERE37",
 "best": "17.98",
 "competition": 15712
 },
 {
-"rank": 193,
+"rank": 194,
 "id": "2022MAYF04",
 "best": "18.02",
 "age": 60,
 "competition": 11162
-},
-{
-"rank": 194,
-"id": "2024DELI03",
-"best": "18.03",
-"competition": 16963
 },
 {
 "rank": 195,
@@ -183673,6 +183674,13 @@ rankings =
 "country": "US",
 "startDate": "2026-08-29",
 "webId": "BayAreaSpeedcubin692026"
+},
+{
+"id": 17987,
+"name": "Geelong Winter 2026",
+"country": "AU",
+"startDate": "2026-08-29",
+"webId": "GeelongWinter2026"
 },
 {
 "id": 17989,
