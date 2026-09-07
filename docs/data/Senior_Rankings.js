@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-09-06 02:07:27",
+"refreshed": "2026-09-07 02:07:23",
 "events": [
 {
 "id": "333",
@@ -27098,26 +27098,26 @@ rankings =
 "competition": 13624
 },
 {
-"rank": 596,
+"rank": 597,
 "id": "2017PALI03",
 "best": "1:09.30",
 "competition": 3464
 },
 {
-"rank": 597,
+"rank": 598,
 "id": "2025LYNC03",
 "best": "1:09.36",
 "age": 60,
 "competition": 13949
 },
 {
-"rank": 598,
+"rank": 599,
 "id": "2023RHOA02",
 "best": "1:09.39",
 "competition": 14289
 },
 {
-"rank": 602,
+"rank": 603,
 "id": "2025ERLE02",
 "best": "1:09.86",
 "competition": 14467
@@ -74060,65 +74060,72 @@ rankings =
 },
 {
 "rank": 270,
+"id": "2019KUCA01",
+"best": "9:46.47",
+"age": 60,
+"competition": 18025
+},
+{
+"rank": 271,
 "id": "2006PIRZ01",
 "best": "10:20.00",
 "competition": 6314
 },
 {
-"rank": 271,
+"rank": 272,
 "id": "2025BOSC04",
 "best": "10:22.00",
 "competition": 17937
 },
 {
-"rank": 271,
+"rank": 272,
 "id": "2017HESS02",
 "best": "10:22.00",
 "age": 50,
 "competition": 12982
 },
 {
-"rank": 273,
+"rank": 274,
 "id": "2016COUL01",
 "best": "10:47.00",
 "competition": 5946
 },
 {
-"rank": 274,
+"rank": 275,
 "id": "2024LUIG02",
 "best": "11:31.00",
 "age": 50,
 "competition": 15870
 },
 {
-"rank": 275,
+"rank": 276,
 "id": "2017DAOU01",
 "best": "11:33.00",
 "age": 50,
 "competition": 17508
 },
 {
-"rank": 276,
+"rank": 277,
 "id": "2023LIUJ12",
 "best": "12:29.00",
 "age": 50,
 "competition": 17297
 },
 {
-"rank": 277,
+"rank": 278,
 "id": "2005THOM01",
 "best": "13:16.00",
 "competition": 31
 },
 {
-"rank": 278,
+"rank": 279,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
 "competition": 2141
 },
 {
-"rank": 279,
+"rank": 280,
 "id": "2023PAPG01",
 "best": "17:02.00",
 "competition": 16253
@@ -74656,36 +74663,43 @@ rankings =
 },
 {
 "rank": 82,
+"id": "2019KUCA01",
+"best": "9:46.47",
+"age": 60,
+"competition": 18025
+},
+{
+"rank": 83,
 "id": "2017HESS02",
 "best": "10:22.00",
 "competition": 12982
 },
 {
-"rank": 83,
+"rank": 84,
 "id": "2006MATH01",
 "best": "10:46.00",
 "competition": 2517
 },
 {
-"rank": 84,
+"rank": 85,
 "id": "2024LUIG02",
 "best": "11:31.00",
 "competition": 15870
 },
 {
-"rank": 85,
+"rank": 86,
 "id": "2017DAOU01",
 "best": "11:33.00",
 "competition": 17508
 },
 {
-"rank": 86,
+"rank": 87,
 "id": "2023LIUJ12",
 "best": "12:29.00",
 "competition": 17297
 },
 {
-"rank": 87,
+"rank": 88,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -74791,6 +74805,12 @@ rankings =
 },
 {
 "rank": 12,
+"id": "2019KUCA01",
+"best": "9:46.47",
+"competition": 18025
+},
+{
+"rank": 13,
 "id": "2005TOMO01",
 "best": "13:55.00",
 "age": 80,
@@ -81568,9 +81588,9 @@ rankings =
 {
 "rank": 404,
 "id": "2022KUCA01",
-"best": "1:13.51",
+"best": "1:13.50",
 "age": 60,
-"competition": 17409
+"competition": 18025
 },
 {
 "rank": 405,
@@ -82653,9 +82673,9 @@ rankings =
 {
 "rank": 114,
 "id": "2022KUCA01",
-"best": "1:13.51",
+"best": "1:13.50",
 "age": 60,
-"competition": 17409
+"competition": 18025
 },
 {
 "rank": 115,
@@ -82979,8 +82999,8 @@ rankings =
 {
 "rank": 20,
 "id": "2022KUCA01",
-"best": "1:13.51",
-"competition": 17409
+"best": "1:13.50",
+"competition": 18025
 },
 {
 "rank": 21,
@@ -142415,6 +142435,7 @@ rankings =
 "events": [
 "222",
 "333",
+"333bf",
 "333fm",
 "333oh",
 "444",
@@ -147146,7 +147167,7 @@ rankings =
 "country": "GB",
 "username": "r c a d",
 "usernum": 32674,
-"age": 50,
+"age": 60,
 "events": [
 "222",
 "333",
@@ -183771,6 +183792,13 @@ rankings =
 "country": "SG",
 "startDate": "2026-09-05",
 "webId": "MofunlandSpeedcubingSG2026"
+},
+{
+"id": 18025,
+"name": "State Hunting Calls for Sioux Falls 2026",
+"country": "US",
+"startDate": "2026-09-05",
+"webId": "StateHuntingSiouxFalls2026"
 }
 ],
 "countries": [
