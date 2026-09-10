@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-09-09 02:07:30",
+"refreshed": "2026-09-10 02:07:58",
 "events": [
 {
 "id": "333",
@@ -149554,7 +149554,7 @@ rankings =
 "id": "2022EDLI01",
 "name": "Stefan Edlich",
 "country": "DE",
-"age": 50,
+"age": 60,
 "events": [
 "333"
 ]
@@ -150315,7 +150315,7 @@ rankings =
 "id": "2018KOHL03",
 "name": "Tehzeeb Kohli",
 "country": "IN",
-"age": 40,
+"age": 50,
 "events": [
 "333",
 "pyram"
