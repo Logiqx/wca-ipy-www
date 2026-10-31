@@ -1,6 +1,6 @@
 rankings =
 {
-"refreshed": "2026-10-30 02:07:42",
+"refreshed": "2026-10-31 02:07:55",
 "events": [
 {
 "id": "333",
@@ -147282,7 +147282,7 @@ rankings =
 "id": "2022ERNS02",
 "name": "Marco Ernst",
 "country": "CH",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
@@ -149917,7 +149917,7 @@ rankings =
 "id": "2017MELN01",
 "name": "Oleksandr Melnyk (Олександр Мельник)",
 "country": "UA",
-"age": 40,
+"age": 50,
 "events": [
 "333"
 ]
@@ -155574,7 +155574,7 @@ rankings =
 "id": "2023LEMO04",
 "name": "Yannick Lemoine",
 "country": "FR",
-"age": 40,
+"age": 50,
 "events": [
 "222",
 "333",
